@@ -1,0 +1,24 @@
+{
+"template" : "naheulbeuk.tmpl",
+"lang" : "french",
+"bookoptions" : [
+    "diagram",
+    "lilypond",
+    "pictures"
+  ],
+"booktype" : "chorded",
+"footer" : "Musique du Naheulband: \\url{http://www.penofchaos.com/warham/donjon-groupe.htm}",
+"picture" : "nb_cover",
+"picturecopyright" : "Personnages par \\emph{Pen Of Chaos} / Illustrations par \\emph{Marion Poinsot}",
+"subtitle" : "Recueil de chansons non-officiel",
+"title" : "Le Donjon de Naheulbeuk",
+"version" : "0.5",
+"songs" : [
+    "belyscendre/*.sg",
+    "le_donjon_de_naheulbeuk/*.sg"
+  ],
+"authwords" : {
+  "sep" : ["and", "et"]
+  },
+ "datadir" : ".."
+}

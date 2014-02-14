@@ -1,0 +1,14 @@
+{
+"template" : "patacrep.tmpl",
+"lang" : "english",
+"bookoptions" : [
+    "diagram",
+    "lilypond",
+    "pictures"
+  ],
+"songs" : "all",
+"authwords" : {
+  "sep" : ["and", "et"]
+  },
+ "datadir" : ".."
+}
