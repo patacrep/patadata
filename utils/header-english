@@ -1,0 +1,13 @@
+{
+"template" : "patacrep.tmpl",
+"lang" : "english",
+"bookoptions" : [
+    "diagram",
+    "lilypond",
+    "pictures"
+  ],
+"booktype" : "chorded",
+"subtitle" : "English songs",
+"picture" : "Music_by_Katie8594",
+"title" : "Guitar Songbook",
+"songs" : [
