@@ -3,8 +3,6 @@
   paper-height = 2.6\cm
 }
 
-\new \songbookstaff
-{
   \relative c''
   {
     \key a \minor
@@ -32,4 +30,3 @@
     
     
   }
-}

@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 2.6\cm}
 
-\new \songbookstaff
-{
   \key e \minor
   \time 2/4
   \relative c''
@@ -15,5 +13,4 @@
       b( g b g b g b c)
     }
   }
-}
 

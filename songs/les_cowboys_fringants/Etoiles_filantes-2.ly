@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 2.3\cm}
 
-\new \songbookstaff
-{
   \relative c''
   {
     \repeat volta 2 
@@ -16,5 +14,4 @@
       {a4. a8 g' f4 e8} {a,1} 
     }
   }
-}
 

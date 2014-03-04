@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 3.7\cm}
 
-\new \songbookstaff
-{
   \key d \minor
   \time 6/8
   \relative c'''{
@@ -13,5 +11,4 @@
      e d c b c d
      e d c b4 a8 b4. c d e2.
   }
-}
 

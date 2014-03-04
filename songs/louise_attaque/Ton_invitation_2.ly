@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 3.8\cm}
 
-\new \songbookstaff
-{
   \relative c''
   {
     \time 4/4
@@ -25,5 +23,4 @@
       {fis8\trill a4 ais8 b2 g8 b4 g8 fis4 d'8 d8} {fis,1}
     }
   }
-}
 

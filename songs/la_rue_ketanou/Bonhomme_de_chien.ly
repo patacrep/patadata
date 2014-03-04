@@ -5,8 +5,6 @@
   line-width   = 12.0\cm
 }
 
-\new \songbookstaff
-{
   \time 4/4
   \relative c''
   {
@@ -15,4 +13,3 @@
     {a'4. g16 f16 g4. f16 e16 f8 g16 f e8 d e16 d c d e8 d16 e} 
     {f4. g16 f g4. f16 e f4. e16 d e d c d e4}
   }
-}

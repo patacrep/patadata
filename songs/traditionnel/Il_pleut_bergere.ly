@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 4.8\cm}
 
-\new \songbookstaff
-{
   \relative c''
   {
     \time 6/8
@@ -15,4 +13,3 @@
     c8. b16 a8 b4 g8 b4. (a4) b8
     d4 b8 d4 b8 c4. e4. d8. e16 d8 a4 b8 g2.
   }
-}

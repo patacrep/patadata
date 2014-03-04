@@ -1,8 +1,6 @@
 \include "../_lilypond/header"
 \paper{paper-height = 2.4\cm}
 
-\new \songbookstaff
-{
   \relative c''
   {
     \key f \major
@@ -18,4 +16,3 @@
       { f,2 }
     }
   }
-}

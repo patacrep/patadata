@@ -5,8 +5,6 @@
   paper-width  = 15\cm
 }
 
-\new \songbookstaff
-{
   \relative c''
   {
     \key a \minor
@@ -20,4 +18,3 @@
       a2
     }
   }
-}
