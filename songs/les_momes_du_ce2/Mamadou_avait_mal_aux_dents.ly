@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 5.0\cm}
 
+{
   \key c \major
   \time 2/4
   \relative c''
@@ -14,4 +15,4 @@
     d8 d d8 d16 d~ d8 e16 f e4
     r8 e8 e4 d4 e4
   }
-
+}

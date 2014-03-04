@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 3.8\cm}
 
+{
   \key a \major
   \time 3/8
   \relative c''
@@ -11,4 +12,4 @@
     a (gis) gis gis gis gis  gis (fis) fis fis fis fis 
     fis (e) e e e e  dis8 dis dis  d4.
   }
-
+}

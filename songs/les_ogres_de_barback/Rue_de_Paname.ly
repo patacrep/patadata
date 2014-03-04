@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 3.6\cm}
 
+{
   \key bes \major
   \time 6/8
   \relative c''
@@ -10,3 +11,4 @@
     \repeat volta 2 {bes4 g8 g a bes a2.}
     bes4 g8 g a bes a4. a4 bes8 c4. d4 bes8 c2.
   }
+}

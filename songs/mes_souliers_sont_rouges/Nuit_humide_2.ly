@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 4.0\cm}
 
+{
   \key e \minor
   \time 4/4
   \tempo 2 = 60
@@ -11,5 +12,4 @@
     e4 b8 e e4 \times 2/3{g8 fis e} d4 e4 <<{e2}\\{b2}>>
     g8 a b a g fis g a b b \times 2/3{a' g fis} e2
   }
-
-
+}

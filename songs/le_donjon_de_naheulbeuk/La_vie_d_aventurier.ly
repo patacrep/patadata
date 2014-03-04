@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 2.4\cm}
 
+{
   \key a \minor
   \partial 8 e'8	
   \relative c''
@@ -10,4 +11,4 @@
     e4. d16 e d8 c4 b8 c8 b4 g8 a4. e8  %\break
     a4. b16 a g8 e4 g8 a1	
   }
-
+}

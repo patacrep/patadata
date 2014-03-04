@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 5.6\cm}
 
+{
   \key ees \major
   \time 2/4
   \relative c''
@@ -11,3 +12,4 @@
     \repeat volta 4 { bes8. g16 ees8. g16 bes8. g16 ees8. g16 }
     \alternative { {bes8. g16 \times 2/3 { bes,8 c d } \times 2/3 { ees f g } ees8. g16} { bes4 << {g4~ g2}\\{bes4~ bes2} >> } }
   }
+}

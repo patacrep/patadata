@@ -1,6 +1,7 @@
 \include "../_lilypond/header"
 \paper{paper-height = 13.7\cm}
 
+{
   \key a \minor
   \relative c''
   {
@@ -84,4 +85,4 @@
     a2 c2 d2 f4 e c2
     c2 d2 f4 g4 e2 
   }
-
+}

@@ -6,6 +6,7 @@
   paper-height = 1.4\cm
 }
 
+{
   \key c \minor
   \time 2/4
   \partial 8 g'8
@@ -22,3 +23,4 @@
     c4. c8 bes4 ees8 d c4 c8 bes16 a16 g8 a bes\trill g 
     c4. d8 bes bes ees8 d c c\trill bes4 c2
   }
+}
