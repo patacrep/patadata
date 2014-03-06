@@ -1,7 +1,6 @@
 {
-"template" : "patacrep.tmpl",
+"template" : "default.tex",
 "lang" : "french",
-"songs" : "all",
 "authwords" : {
   "sep" : ["and", "et"]
   },

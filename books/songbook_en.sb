@@ -1,12 +1,11 @@
 {
-"template" : "patacrep.tmpl",
+"template" : "default.tex",
 "lang" : "english",
 "bookoptions" : [
     "diagram",
     "lilypond",
     "pictures"
   ],
-"songs" : "all",
 "authwords" : {
   "sep" : ["and", "et"]
   },
