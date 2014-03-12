@@ -1,3 +1,4 @@
+% Copyright (C) 2014 The Songbook Team
 % Copyright (C) 2009-2010 Romain Goffe, Alexandre Dupas
 % Copyright (C) 2008 Kevin W. Hamlen
 %
@@ -28,7 +29,7 @@
 %%:  {"name":"title", "description":"Title", "default":"Recueil de chansons pour guitare", "mandatory":true},
 %%:  {"name":"author", "description":"Author", "default":"Crep (R. Goffe) \\and Lohrun (A. Dupas)", "mandatory":true},
 %%:  {"name":"booktype", "description":"Type", "type":"enum", "values":["chorded","lyric"], "default":"chorded", "mandatory":true},
-%%:  {"name":"lang", "description":"Language", "default":"english"},
+%%:  {"name":"lang", "description":"Language", "default":"french"},
 %%:  {"name":"instruments", "description":"Instruments", "type":"flag", "values":["guitar","ukulele"], "join":",", "mandatory":true, "default":["guitar"]},
 %%:  {"name":"bookoptions", "description":"Options", "type":"flag", "values":["diagram","importantdiagramonly","lilypond","pictures","tabs","repeatchords","onesongperpage"], "join":",", "mandatory":true, "default":["diagram","pictures"]},
 %%:  {"name":"version", "description":"Version", "default":"3.7.2"},
@@ -40,82 +41,27 @@
 %%:  {"name":"footer", "description":"Footer", "default":"\\begin{flushleft}\\includegraphics[width=3cm]{on-fire}\\end{flushleft}"},
 %%:  {"name":"mainfontsize", "description":"Font Size", "type":"font", "default":"10"},
 %%:  {"name":"songnumberbgcolor", "description":"Number Shade", "type":"color", "default":"#D1E4AE"},
-%%:  {"name":"notebgcolor", "description":"Note Shade", "type":"color", "default":"#FFFDB3"},
+%%:  {"name":"notebgcolor", "description":"Note Shade", "type":"color", "default":"#D1E4AE"},
 %%:  {"name":"indexbgcolor", "description":"Index Shade", "type":"color", "default":"#D1E4AE"},
+%%:  {"name":"titleprefixwords", "description":"Ignore some words in the beginning of song titles"},
+%%:  {"name":"authwords", "descriptipn":"Set of options to process author string (LaTeX commands authsepword, authignoreword, authbyword)"},
 %%:  {"name":"languages", "description":"List of languages used by songs", "default":""}
 %%:]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % begin document
-\makeatletter\def\input@path{{tex/}}
-\documentclass[\getbooktype,\getinstruments,\getbookoptions,\getmainfontsize]{crepbook}
-\usepackage[utf8]{inputenc}
-\PassOptionsToPackage{\getlanguages}{babel}
-\PassOptionsToPackage{\getlang}{babel}
-\usepackage{babel}
-\usepackage[T1]{fontenc}
-\usepackage{venturisold}
 
-\title{\gettitle}
-\author{\getauthor}
-\subtitle{\getsubtitle}
-\version{\getversion}
-\mail{\getmail}
-\web{\getweb}
-\picture{\getpicture}
-\picturecopyright{\getpicturecopyright}
-\footer{\getfooter}
-\lang{\getlang}
+(* extends "default.tex" *)
 
-\newindex{titleidx}{\getname_title}
-\newauthorindex{authidx}{\getname_auth}
-
-\graphicspath{\getDataImgDirectory}
-
-\definecolor{SongNumberBgColor}{HTML}{\getsongnumberbgcolor}
-\definecolor{NoteBgColor}{HTML}{\getnotebgcolor}
-\definecolor{IndexBgColor}{HTML}{\getindexbgcolor}
-
-\renewcommand{\snumbgcolor}{SongNumberBgColor}
-\renewcommand{\notebgcolor}{NoteBgColor}
-\renewcommand{\idxbgcolor}{IndexBgColor}
-
-\renewcommand{\printchord}[1]{\mdseries\ttfamily\upshape#1}
-
-\pagestyle{empty}
-
-% Customization of the page appearance
-\usepackage[
-  a4paper % paper size
-  ,includeheadfoot % include header and footer into text size
-  ,hmarginratio=1:1 % ratio between inner and outer margin (default)
-  ,outer=1.8cm % outer margin (right)
-  ,vmarginratio=1:1 % ratio between top and bottom margin
-  ,bmargin=1.3cm % bottom margin
-% ,bindingoffset=1.7cm % space reserved to bound pages together
-  ]{geometry}
-
+(* block preambule *)
 \usepackage{licence}
+(* endblock *)
 
-\begin{document}
-
-\maketitle
-
-% licence
+(* block preface *)
+% Licence
 \newpage
 \input{license}
 \newpage
+(* endblock *)
 
-\showindex{Index des chansons}{titleidx}
-
-\notenamesin{A}{B}{C}{D}{E}{F}{G}
-\notenamesout{La}{Si}{Do}{Ré}{Mi}{Fa}{Sol}
-
-\phantomsection
-\addcontentsline{toc}{section}{Liste des chansons}
-\begin{songs}{titleidx,authidx}
-  \getsongslist
-\end{songs}
-
-\end{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % end document

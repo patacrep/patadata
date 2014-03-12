@@ -1,5 +1,5 @@
 {
-"template" : "default.tex",
+"template" : "patacrep.tex",
 "lang" : "french",
 "bookoptions" : [
     "importantdiagramonly",

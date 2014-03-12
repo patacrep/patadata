@@ -1,5 +1,5 @@
 {
-"template" : "default.tex",
+"template" : "templates/naheulbeuk.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
