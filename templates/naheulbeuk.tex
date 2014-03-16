@@ -1,3 +1,4 @@
+(% comment %)
 % Copyright (C) 2014 The Songbook Team
 % Copyright (C) 2009-2010 Romain Goffe, Alexandre Dupas
 % Copyright (C) 2008 Kevin W. Hamlen
@@ -46,15 +47,16 @@
 %%:  {"name":"languages", "description":"List of languages used by songs", "default":""}
 %%:]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(% endcomment %)
 % begin document
 
-(* extends "patacrep.tex" *)
+(* extends "data.tex" *)
 
 (* block preambule *)
+(( super() ))
+
 \usepackage{venturisold}
 \renewcommand{\printchord}[1]{\mdseries\ttfamily\upshape#1}
-
-\usepackage{licence}
 (* endblock *)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
