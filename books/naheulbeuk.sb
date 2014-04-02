@@ -20,5 +20,6 @@
 "authwords" : {
   "sep" : ["and", "et"]
   },
- "datadir" : ".."
+ "datadir" : "..",
+ "notebgcolor" : "FFFDB3"
 }

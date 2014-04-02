@@ -17,29 +17,6 @@
 % Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 % MA  02110-1301, USA.
 
-(% variables %)
-[
-{"name":"title", "description":"Title", "default":"Recueil de chansons pour guitare", "mandatory":true},
-{"name":"author", "description":"Author", "default":"Crep (R. Goffe) \\and Lohrun (A. Dupas)", "mandatory":true},
-{"name":"booktype", "description":"Type", "type":"enum", "values":["chorded","lyric"], "default":"chorded", "mandatory":true},
-{"name":"lang", "description":"Language", "default":"english"},
-{"name":"instruments", "description":"Instruments", "type":"flag", "values":["guitar","ukulele"], "join":",", "mandatory":true, "default":["guitar"]},
-{"name":"bookoptions", "description":"Options", "type":"flag", "values":["diagram","importantdiagramonly","lilypond","pictures","tabs","repeatchords","onesongperpage"], "join":",", "mandatory":true, "default":["diagram","pictures"]},
-{"name":"version", "description":"Version", "default":"3.7.2"},
-{"name":"subtitle", "description":"Subtitle"},
-{"name":"web", "description":"Web", "default":"http://www.patacrep.com"},
-{"name":"mail", "description":"Email", "default":"crep@team-on-fire.com"},
-{"name":"picture", "description":"Picture", "type":"file", "default":"feel-the-music"},
-{"name":"picturecopyright", "description":"Copyright", "default":"foxygamergirl@deviantart.com"},
-{"name":"footer", "description":"Footer", "default":"\\begin{flushleft}\\includegraphics[width=3cm]{on-fire}\\end{flushleft}"},
-{"name":"mainfontsize", "description":"Font Size", "type":"font", "default":"10"},
-{"name":"songnumberbgcolor", "description":"Number Shade", "type":"color", "default":"D1E4AE"},
-{"name":"notebgcolor", "description":"Note Shade", "type":"color", "default":"FFFDB3"},
-{"name":"indexbgcolor", "description":"Index Shade", "type":"color", "default":"D1E4AE"},
-{"name":"languages", "description":"List of languages used by songs", "default":""}
-]
-(% endvariables %)
-
 (* extends "data.tex" *)
 
 (* block preambule *)
