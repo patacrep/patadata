@@ -13,7 +13,7 @@
 "subtitle" : "Recueil de chansons non-officiel",
 "title" : "Le Donjon de Naheulbeuk",
 "version" : "0.5",
-"songs" : [
+"content" : [
     "belyscendre/*.sg",
     "le_donjon_de_naheulbeuk/*.sg"
   ],
