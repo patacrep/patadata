@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
@@ -10,7 +10,7 @@
 "picture" : "The_Music_Machine_by_hit_squad",
 "picturecopyright" : "hit-squad @ deviantart.com",
 "subtitle" : "Tome 5",
-"songs" : [
+"content" : [
     "3_doors_down/here_without_you.sg",
     "adele/rolling_in_the_deep.sg",
     "alain_souchon/la_ballade_de_jim.sg",

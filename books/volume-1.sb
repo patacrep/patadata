@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
@@ -10,7 +10,7 @@
 "picture" : "feel-the-music",
 "picturecopyright" : "foxygamergirl @ deviantart.com",
 "subtitle" : "Tome 1",
-"songs" : [
+"content" : [
     "alain_bashung/gaby_oh_gaby.sg",
     "amy_macdonald/mr._rock_n_roll.sg",
     "amy_macdonald/this_is_the_life.sg",

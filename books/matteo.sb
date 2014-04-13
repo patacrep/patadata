@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "importantdiagramonly",
@@ -9,7 +9,7 @@
   ],
 "booktype" : "chorded",
 "subtitle" : "Matteo's songs",
-"songs" : [
+"content" : [
     "hubert-felix_thiefaine/sentiments_numeriques_revisites.sg",
     "jean_leloup/promeneur.sg",
     "maxime_le_forestier/parachutiste.sg",

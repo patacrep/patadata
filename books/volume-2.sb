@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
@@ -10,7 +10,7 @@
 "picture" : "sound",
 "picturecopyright" : "ellesh @ deviantart.com",
 "subtitle" : "Tome 2",
-"songs" : [
+"content" : [
     "aaron/u_turn_lili.sg",
     "alain_souchon/foule_sentimentale.sg",
     "alex_beaupain/je_n_aime_que_toi.sg",

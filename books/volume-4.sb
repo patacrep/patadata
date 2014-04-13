@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
@@ -10,7 +10,7 @@
 "picture" : "music_by_lauratheartist",
 "picturecopyright" : "LauraTheArtist @ deviantart.com",
 "subtitle" : "Tome 4",
-"songs" : [
+"content" : [
     "alain_souchon/bidon.sg",
     "ben_e_king/stand_by_me.sg",
     "bill_withers/just_two_of_us.sg",

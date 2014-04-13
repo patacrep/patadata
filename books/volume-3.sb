@@ -1,5 +1,5 @@
 {
-"template" : "patacrep.tex",
+"template" : "data.tex",
 "lang" : "french",
 "bookoptions" : [
     "diagram",
@@ -10,7 +10,7 @@
 "picture" : "Mousey_Band_by_Duffzilla",
 "picturecopyright" : "duffzilla @ deviantart.com",
 "subtitle" : "Tome 3",
-"songs" : [
+"content" : [
     "alain_souchon/l_amour_a_la_machine.sg",
     "alanis_morissette/ironic.sg",
     "alex_beaupain/as_tu_deja_aime.sg",
