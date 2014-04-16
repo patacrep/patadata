@@ -12,7 +12,7 @@
 \[Am]Que votre soleil éclaircisse \[F]l'ombre
 \[G]Qu'il brille d'amour au \[Am]quotidien.
 \end{chorus}
-\beginverse
+\begin{verse}
 \[G]Puisque l'avenir vous \[Am]appartient
 \[B&]Puisqu'on n'contrôle pas votre destin
 \[Dm]Que votre envol est pour demain
@@ -22,7 +22,7 @@ Ne saurait \[B&]toujours vous suffire
 \[B&]Puisqu'on sera pas toujours \[Dm]là
 \[B&]Comme on le fut aux premiers\[Dm]pas.
 \end{verse}
-\beginverse
+\begin{verse}
 Toute une vie s'offre devant vous
 Tant de rêves à vivre jusqu'au bout
 Sûrement plein de joie au rendez-vous
@@ -32,7 +32,7 @@ Et où celle-ci vous emmènera
 J'espère juste que vous prendrez le temps
 De profiter de chaque instant.
 \end{verse}
-\beginverse
+\begin{verse}
 J'sais pas quel monde on vous laissera
 On fait d'notre mieux, seulement parfois,
 J'ose espérer que c'la suffira

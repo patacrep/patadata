@@ -2,7 +2,7 @@
 \songcolumns{1}
 \beginsong{J'veux du soleil}[
   by={Au petit bonheur}]
-\beginverse
+\begin{verse}
 Je suis \[Bm]resté qu'un enfant
 Qu'au\[F#]rait grandi trop vite
 Dans \[Em]un monde en super plastique
@@ -18,7 +18,7 @@ J'veux du \[F#]soleil
 J'veux du \[Em]soleil
 J'veux du \[F#]soleil
 \end{chorus}
-\beginverse
+\begin{verse}
 J'veux traverser des océans
 Et devenir Monte-Cristo
 Au clair de lune
@@ -28,7 +28,7 @@ Me sortir de ma cage
 Un Père Noël pour Cendrillon
 Sans escarpin...
 \end{verse}
-\beginverse
+\begin{verse}
 J'veux faire danser Maman
 Au son clair des grillons
 J'veux retrouver mon sourire d'enfant

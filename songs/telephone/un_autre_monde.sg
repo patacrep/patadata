@@ -2,7 +2,7 @@
 \songcolumns{1}
 \beginsong{Un autre monde}[
   by={Téléphone}]
-\beginverse
+\begin{verse}
 \[D] Je rê\[Bm]vais d'un autre \[F#]monde
 \[D] Où la \[Bm]terre serait \[F#]ronde
 \[D] Où la \[Bm]lune serait \[F#]blonde
@@ -14,7 +14,7 @@
 \[A]Je rêvais \[G]réalité
 \[A]Ma réalité
 \end{chorus}
-\beginverse
+\begin{verse}
 Je rêvais d'une autre terre
 Qui resterait un mystère
 Une terre moins terre-à-terre
@@ -26,7 +26,7 @@ Je ne voyais plus mes pieds
 Je rêvais réalité
 Ma réalité m'a alité
 \end{chorus}
-\beginverse
+\begin{verse}
 Oui je rêvais de notre monde
 Et la terre est bien ronde
 Et la lune est si blonde
