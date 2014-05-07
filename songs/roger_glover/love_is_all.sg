@@ -54,7 +54,7 @@
       It's ea\[G]sy, yes it's so \[C]easy
       At the \[Am]Butterfly Ball where \[D]love is all
       And \[G]it's so \[C]easy
-      \ifnorepeatchords\else\nolyrics{ | \[B] | \[E] | \[A] | \[D] | \rep{4} }\fi
+      \ifrepeatchords\nolyrics{ | \[B] | \[E] | \[A] | \[D] | \rep{4} }\fi
     \end{chorus}
 
     \begin{verse}
