@@ -25,12 +25,7 @@
     \[G]Nos envies, nos amours, nos héros\[Am] \[Dsus2] \[C] \[D9]
   \end{verse}
 
-  \begin{chorus}
-    \[Am]
-    \[E]Je t'ai manqué ?
-    \[C]Pourquoi \[G]tu me visais\[Am] \[Dsus2] \[C] \[D9]
-  \end{chorus}
-
+\begin{repeatedchords}
   \begin{verse}
     \[Am]Tout est extrêmes limites et cônes glacés
     \[C]Tout est idem, les vitrin\[G]es, les pôles opposés\[Am] \[Dsus2] \[C] \[D9]
@@ -38,14 +33,9 @@
     \[C]Tout à l'horizontal
     \[G]Nos envies, nos amours, nos héros\[Am] \[Dsus2] \[C] \[D9]
   \end{verse}
+\end{repeatedchords}
 
-  \begin{chorus}
-    \[Am]
-    \[E]Je t'ai manqué ?
-    \[C]Pourquoi \[G]tu me visais\[Am] \[Dsus2] \[C] \[D9]
-  \end{chorus}
-
-  \begin{verse}
+  \begin{bridge}
     \[Am]Et si l'on disait le \[G]contraire
     Ou si l'on ne \[Am]disait rien
     Si l'on construisait les \[G]phrases à l'envers
@@ -54,13 +44,7 @@
     Entre nous qui se\[Am]rait le plus malin ?
     Et si l'on disait le c\[G]ontraire
     Ou si l'on ne di\[Am]sait plus rien ? \[Dsus2] \[C] \[D9]
-  \end{verse}
-
-  \begin{chorus}
-    \[Am]
-    \[E]Je t'ai manqué ?
-    \[C]Pourquoi \[G]tu me visais\[Am] \[Dsus2] \[C] \[D9]
-  \end{chorus}
+  \end{bridge}
 
   \begin{verse}
     \[Am]Tout est brutal botté en touche
@@ -68,7 +52,8 @@
     \[G]Nos envies, nos amours, nos héros\[Am] \[Dsus2] \[C] \[D9]
   \end{verse}
 
-  \begin{verse}
+\begin{repeatedchords}
+  \begin{bridge}
     \[Am]Si l'on suivait les voies\[G] ferroviaires
     Qui aurait le \[Am]pied marin ?
     Si l'on sifflait le fond d\[G]es théières
@@ -77,18 +62,7 @@
     Entre nous qui se\[Am]rait le plus malin ?
     Et si l'on disait le con\[G]traire
     Ou si l'on ne di\[Am]sait plus rien ? \[Dsus2] \[C] \[D9]
-  \end{verse}
-
-  \begin{chorus}
-    \[Am]
-    \[E]Je t'ai manqué ?
-    \[C]Pourquoi \[G]tu me visais\[Am] \[Dsus2] \[C] \[D9]
-  \end{chorus}
-
-  \begin{chorus}
-    \[Am]
-    \[E]Je t'ai manqué ?
-    \[C]Pourquoi \[G]tu me visais\[Am] \[Dsus2] \[C] \[D9]
-  \end{chorus}
+  \end{bridge}
+\end{repeatedchords}
 
 \endsong
