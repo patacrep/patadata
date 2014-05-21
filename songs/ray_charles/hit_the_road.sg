@@ -8,7 +8,9 @@
   \gtab{F}{1:022100}
   \gtab{E}{022100}
 
-  \musicnote{\Intro : \nolyrics{\[Am G F E]} \rep{2}}
+  \begin{verse*}
+    \musicnote{\Intro : \nolyrics{\[Am G F E]} \rep{2}}
+  \end{verse*}
 
   \begin{chorus}
     Hit the road Jack and don't you come back
