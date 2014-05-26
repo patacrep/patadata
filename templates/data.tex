@@ -37,6 +37,22 @@
 "chorusfont":{ "description": {"english": "Chorus font",
                           "french": "Police des refrains"},
             "default": {"default": "i"}
+         },
+"papersize":{ "description": {"english": "Paper size.",
+                          "french": "Taille du papier."},
+            "type": "enum",
+            "values": {"a4": {"default": "A4"},
+                       "a5": {"default": "A5"}
+                     },
+            "default": {"default":"a4"}
+         },
+"orientation":{ "description": {"english": "Paper orientation.",
+                          "french": "Orientation du papier."},
+            "type": "enum",
+            "values": {"landscape": {"english": "Landscape", "french": "Paysage" },
+                       "portrait": {"english": "Portrait", "french": "Portrait" }
+                     },
+            "default": {"default":"portrait"}
          }
 }
 (* endvariables *)
@@ -46,6 +62,8 @@
 
 (* block preambule *)
 \usepackage{licence}
+
+%! Font management
 \makeatletter
 \renewcommand{\chorusfont}{%
    (* for letter in chorusfont *)
@@ -76,6 +94,9 @@
    (* endfor *)
 }
 \makeatother
+%! End of font management
+
+\geometry{((orientation)), ((papersize))paper}
 (* endblock *)
 
 (* block preface *)
