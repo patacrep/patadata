@@ -21,6 +21,22 @@
 {
 "version":{ "description": {"english": "Version", "french": "Version"},
             "default": {"default": "3.7.2"}
+         },
+"chordfont":{ "description": {"english": "Chord font",
+                          "french": "Police des accords"},
+            "default": {"default": "i"}
+         },
+"chordcolor":{ "description": {"english": "Chord color, HTML notation",
+                          "french": "Couleur des accords en notation HTML"},
+            "default": {"default": "000000"}
+         },
+"versefont":{ "description": {"english": "Verse font",
+                          "french": "Police des couplets"},
+            "default": {"default": ""}
+         },
+"chorusfont":{ "description": {"english": "Chorus font",
+                          "french": "Police des refrains"},
+            "default": {"default": "i"}
          }
 }
 (* endvariables *)
@@ -30,6 +46,36 @@
 
 (* block preambule *)
 \usepackage{licence}
+\makeatletter
+\renewcommand{\chorusfont}{%
+   (* for letter in chorusfont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+
+\def\@chordfont{%
+   (* for letter in chordfont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\definecolor{ChordColor}{HTML}{(( chordcolor ))}
+\renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
+
+\renewcommand{\lyricfont}{%
+   (* for letter in versefont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\makeatother
 (* endblock *)
 
 (* block preface *)
