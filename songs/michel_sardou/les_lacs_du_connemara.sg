@@ -10,8 +10,7 @@
   \gtab{Dm}{XX0231}
   \gtab{Gm}{1:022000}
   \gtab{D7}{XX0212}
-  \ifnorepeatchords%
-  \else%
+  \ifrepeatchords%
   \gtab{Gm7}{1:022030}
   \gtab{G#}{3:022100}
   \gtab{C#}{1:X32010}

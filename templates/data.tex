@@ -21,6 +21,38 @@
 {
 "version":{ "description": {"english": "Version", "french": "Version"},
             "default": {"default": "3.7.2"}
+         },
+"chordfont":{ "description": {"english": "Chord font",
+                          "french": "Police des accords"},
+            "default": {"default": "i"}
+         },
+"chordcolor":{ "description": {"english": "Chord color, HTML notation",
+                          "french": "Couleur des accords en notation HTML"},
+            "default": {"default": "000000"}
+         },
+"versefont":{ "description": {"english": "Verse font",
+                          "french": "Police des couplets"},
+            "default": {"default": ""}
+         },
+"chorusfont":{ "description": {"english": "Chorus font",
+                          "french": "Police des refrains"},
+            "default": {"default": "i"}
+         },
+"papersize":{ "description": {"english": "Paper size.",
+                          "french": "Taille du papier."},
+            "type": "enum",
+            "values": {"a4": {"default": "A4"},
+                       "a5": {"default": "A5"}
+                     },
+            "default": {"default":"a4"}
+         },
+"orientation":{ "description": {"english": "Paper orientation.",
+                          "french": "Orientation du papier."},
+            "type": "enum",
+            "values": {"landscape": {"english": "Landscape", "french": "Paysage" },
+                       "portrait": {"english": "Portrait", "french": "Portrait" }
+                     },
+            "default": {"default":"portrait"}
          }
 }
 (* endvariables *)
@@ -30,6 +62,41 @@
 
 (* block preambule *)
 \usepackage{licence}
+
+%! Font management
+\makeatletter
+\renewcommand{\chorusfont}{%
+   (* for letter in chorusfont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+
+\def\@chordfont{%
+   (* for letter in chordfont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\definecolor{ChordColor}{HTML}{(( chordcolor ))}
+\renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
+
+\renewcommand{\lyricfont}{%
+   (* for letter in versefont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\makeatother
+%! End of font management
+
+\geometry{((orientation)), ((papersize))paper}
 (* endblock *)
 
 (* block preface *)
