@@ -97,6 +97,20 @@
 %! End of font management
 
 \geometry{((orientation)), ((papersize))paper}
+
+%! Temporary hack for columns management
+\let\OldSongColumns=\songcolumns
+\def\songcolumns#1{%
+(* if orientation=="portrait" and papersize=="a5" *)
+    \OldSongColumns{1}
+(* elif orientation=="landscape" and papersize=="a4" *)
+    \count0=#1\relax\advance\count0 by 1\relax%
+    \OldSongColumns{\count0}
+(* else *)
+    \OldSongColumns{#1}
+(* endif *)
+}
+%! End of columns management
 (* endblock *)
 
 (* block preface *)
