@@ -10,7 +10,7 @@
 "picture" : "music_by_lauratheartist",
 "picturecopyright" : "LauraTheArtist @ deviantart.com",
 "subtitle" : "Tome 4",
-"content" : [
+"content" : [["sorted",
     "alain_souchon/bidon.sg",
     "ben_e_king/stand_by_me.sg",
     "bill_withers/just_two_of_us.sg",
@@ -170,7 +170,8 @@
     "vincent_delerm/la_natation_synchronisee.sg",
     "william_balde/rayon_de_soleil.sg",
     "yves_duteil/le_petit_pont_de_bois.sg",
-    "yves_simon/les_bateaux_du_metro.sg"],
+    "yves_simon/les_bateaux_du_metro.sg"
+    ]],
 "authwords" : {
   "sep" : ["and", "et"]
   },
