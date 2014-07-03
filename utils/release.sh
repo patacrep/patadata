@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "It is very unlikely that this script is up-to-date. Check it before running it."
+exit 1
+
 #Author: Romain Goffe
 #Date: 13/10/2011
 #Description: Build all the pdf on www.patacrep.com, increase their
