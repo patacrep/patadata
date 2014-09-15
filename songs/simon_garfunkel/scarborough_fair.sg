@@ -4,16 +4,16 @@
   [by={Simon\ \&\ Garfunkel},cov={the-definitive},album={The definitive}]
 
   \cover
-  \gtab{Am}{X02210}
   \gtab{Em}{022000}
-  \gtab{C}{X32010}
-  \gtab{G}{320003}
+  \gtab{Bm}{224432}
+  \gtab{A}{002220}
+  \gtab{D}{X00232}
 
   \begin{chorus}
-    \[Am]Are you going to \[Em]Scarborough \[Am]Fair
-    \[C] Parsley, \[Am]sage, rose\[C]ma\[D]ry and \[Am]thyme
-    Remember \[C]me to one who lives \[G]there
-    \[Am]She once \[G]was a \[Am]true love \[Em]of \[Am]mine
+    \[Em]Are you going to \[Bm]Scarborough \[Em]Fair
+    \[Em]Parsley, sage, rose\[A]mary and \[Em]thyme
+    \[Em]Remember \[Bm]me to \[Em]one who lives \[D]there
+    \[Em]She once \[D]was a \[Bm]true love of \[Em]mine
   \end{chorus}
 
   \begin{verse}

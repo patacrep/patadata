@@ -5,24 +5,26 @@
 
 
   \cover
+  \gtab{Em}{022000}
+  \gtab{D}{X00232}
+  \gtab{Bm}{224432}
   \gtab{Am}{X02210}
   \gtab{G}{320003}
-  \gtab{Em}{022000}
-
 
   \begin{verse}
-    C'est \[Am]un fameux trois mâts
-    Fin comme un oi\[G]seau
-    Hissez \[Am]ho ! Santi\[G]ano !
-    Dix-huit nœuds, quatre-cents tonneaux
-    Je suis \[Am]fier d'y \[Em]être \[Am]matelot
+    C'est \[Em]un fameux trois \[G]mâts
+    Fin comme un oi\[D]seau
+    Hissez \[Em]ho ! Santi\[D]ano !
+    \[Am]Dix-huit nœuds, quatre-\[D]cents tonneaux
+    Je suis \[Em]fier d'y \[D]être \[Em]matelot
   \end{verse}
 
   \begin{chorus}
-    Tiens \[Am]bon la vague et tiens bon le \[G]vent
-    Hissez \[Am]ho ! Santi\[G]ano !
-    Si Dieu veut, toujours droit devant
-    Nous ir\[Am]ons jusqu'\[Em]{à San} \[Am]Francisco
+    Tiens \[Em]bon la \[G]vague 
+    Et tiens bon le \[D]vent
+    Hissez \[Em]ho ! Santi\[D]ano !
+    \[Am]Si Dieu veut, toujours \[D]droit devant
+    Nous ir\[Em]ons jusqu'\[D]à San \[Em]Francisco
   \end{chorus}
 
   \begin{verse}
