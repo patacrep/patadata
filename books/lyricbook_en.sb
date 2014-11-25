@@ -9,5 +9,6 @@
 "authwords" : {
   "sep" : ["and", "et"]
   },
- "datadir" : ".."
+ "datadir" : "..",
+ "encoding" : "utf8"
 }
