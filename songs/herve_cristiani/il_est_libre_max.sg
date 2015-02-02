@@ -7,6 +7,9 @@
   \gtab{Em}{022000}
   \gtab{C}{X32010}
   \gtab{D}{XX0232}
+  
+  \musicnote[english]{This song can be played with a capo 6}
+  \musicnote[french]{Cette chanson peut se jouer avec un capo 6}
 
   \begin{verse}
     Il \[Em]met de la magie mine de rien \[C]dans tout c'qu'il fait
