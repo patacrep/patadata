@@ -40,11 +40,35 @@
          },
 "papersize":{ "description": {"english": "Paper size.",
                           "french": "Taille du papier."},
-            "type": "enum",
-            "values": {"a4": {"default": "A4"},
-                       "a5": {"default": "A5"}
-                     },
-            "default": {"default":"a4"}
+            "default": {"default":"A4"}
+         },
+"width":{ "description": {"english": "Width.",
+                          "french": "Largeur."},
+            "default": {"default":"210"}
+         },
+"height":{ "description": {"english": "Height.",
+                          "french": "Hauteur."},
+            "default": {"default":"297"}
+         },
+"margin_top":{ "description": {"english": "Margin top.",
+                          "french": "Marge en haut."},
+            "default": {"default":"13"}
+         },
+"margin_right":{ "description": {"english": "Margin right.",
+                          "french": "Marge à droite."},
+            "default": {"default":"18"}
+         },
+"margin_bottom":{ "description": {"english": "Margin bottom.",
+                          "french": "Marge en bas."},
+            "default": {"default":"13"}
+         },
+"margin_left":{ "description": {"english": "Margin left.",
+                          "french": "Marge à gauche."},
+            "default": {"default":"18"}
+         },
+"bindingoffset":{ "description": {"english": "Binding offset.",
+                          "french": "Reliure."},
+            "default": {"default":"0"}
          },
 "orientation":{ "description": {"english": "Paper orientation.",
                           "french": "Orientation du papier."},
@@ -96,14 +120,22 @@
 \makeatother
 %! End of font management
 
-\geometry{((orientation)), ((papersize))paper}
+\geometry{
+ total={((width))mm,((height))mm}
+ ,left=((margin_left))mm
+ ,right=((margin_right))mm
+ ,top=((margin_top))mm
+ ,bottom=((margin_bottom))mm
+ ,asymmetric
+ ,bindingoffset=((bindingoffset))mm % space reserved to bound pages together
+}
 
 %! Temporary hack for columns management
 \let\OldSongColumns=\songcolumns
 \def\songcolumns#1{%
-(* if orientation=="portrait" and papersize=="a5" *)
+(* if orientation=="portrait" and papersize=="A5" *)
     \OldSongColumns{1}
-(* elif orientation=="landscape" and papersize=="a4" *)
+(* elif orientation=="landscape" and papersize=="A4" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}
 (* else *)
