@@ -38,45 +38,18 @@
                           "french": "Police des refrains"},
             "default": {"default": "i"}
          },
-"papersize":{ "description": {"english": "Paper size.",
-                          "french": "Taille du papier."},
-            "default": {"default":"A4"}
+"geometry":{ "description": {"english": "Paper geometry (size, margin, orientation...).",
+                          "french": "Format du papier (taille, marges, orientation...)."},
+            "default": {"default":"a4paper"}
          },
-"width":{ "description": {"english": "Width.",
-                          "french": "Largeur."},
-            "default": {"default":"210"}
-         },
-"height":{ "description": {"english": "Height.",
-                          "french": "Hauteur."},
-            "default": {"default":"297"}
-         },
-"margin_top":{ "description": {"english": "Margin top.",
-                          "french": "Marge en haut."},
-            "default": {"default":"13"}
-         },
-"margin_right":{ "description": {"english": "Margin right.",
-                          "french": "Marge à droite."},
-            "default": {"default":"18"}
-         },
-"margin_bottom":{ "description": {"english": "Margin bottom.",
-                          "french": "Marge en bas."},
-            "default": {"default":"13"}
-         },
-"margin_left":{ "description": {"english": "Margin left.",
-                          "french": "Marge à gauche."},
-            "default": {"default":"18"}
-         },
-"bindingoffset":{ "description": {"english": "Binding offset.",
-                          "french": "Reliure."},
-            "default": {"default":"0"}
-         },
-"orientation":{ "description": {"english": "Paper orientation.",
-                          "french": "Orientation du papier."},
+"column_adjustment":{ "description": {"english": "Column adjsutment.",
+                          "french": "Ajustement des colonnes."},
             "type": "enum",
-            "values": {"landscape": {"english": "Landscape", "french": "Paysage" },
-                       "portrait": {"english": "Portrait", "french": "Portrait" }
+            "values": {"none": {"default": "none"},
+                       "only_one": {"default": "only_one"},
+                       "one_more": {"default": "one_more"}
                      },
-            "default": {"default":"portrait"}
+            "default": {"default":"none"}
          }
 }
 (* endvariables *)
@@ -121,22 +94,15 @@
 %! End of font management
 
 \geometry{
- ((orientation))
- ,total={((width))mm,((height))mm}
- ,left=((margin_left))mm
- ,right=((margin_right))mm
- ,top=((margin_top))mm
- ,bottom=((margin_bottom))mm
- ,asymmetric
- ,bindingoffset=((bindingoffset))mm % space reserved to bound pages together
+ ((geometry))
 }
 
 %! Temporary hack for columns management
 \let\OldSongColumns=\songcolumns
 \def\songcolumns#1{%
-(* if orientation=="portrait" and papersize=="A5" *)
+(* if column_adjustment=="only_one" *)
     \OldSongColumns{1}
-(* elif orientation=="landscape" and papersize=="A4" *)
+(* elif column_adjustment=="one_more" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}
 (* else *)
