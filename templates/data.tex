@@ -38,21 +38,18 @@
                           "french": "Police des refrains"},
             "default": {"default": "i"}
          },
-"papersize":{ "description": {"english": "Paper size.",
-                          "french": "Taille du papier."},
-            "type": "enum",
-            "values": {"a4": {"default": "A4"},
-                       "a5": {"default": "A5"}
-                     },
-            "default": {"default":"a4"}
+"geometry":{ "description": {"english": "Paper geometry (size, margin, orientation...), as options of the LaTeX geometry package.",
+                          "french": "Format du papier (taille, marges, orientation...), avec le même format que les options du paquet LaTeX geometry."},
+            "default": {"default":"a4paper"}
          },
-"orientation":{ "description": {"english": "Paper orientation.",
-                          "french": "Orientation du papier."},
+"column_adjustment":{ "description": {"english": "Column adjsutment.",
+                          "french": "Ajustement des colonnes."},
             "type": "enum",
-            "values": {"landscape": {"english": "Landscape", "french": "Paysage" },
-                       "portrait": {"english": "Portrait", "french": "Portrait" }
+            "values": {"none": {"default": "none"},
+                       "only_one": {"default": "only_one"},
+                       "one_more": {"default": "one_more"}
                      },
-            "default": {"default":"portrait"}
+            "default": {"default":"none"}
          }
 }
 (* endvariables *)
@@ -96,14 +93,16 @@
 \makeatother
 %! End of font management
 
-\geometry{((orientation)), ((papersize))paper}
+\geometry{
+ ((geometry))
+}
 
 %! Temporary hack for columns management
 \let\OldSongColumns=\songcolumns
 \def\songcolumns#1{%
-(* if orientation=="portrait" and papersize=="a5" *)
+(* if column_adjustment=="only_one" *)
     \OldSongColumns{1}
-(* elif orientation=="landscape" and papersize=="a4" *)
+(* elif column_adjustment=="one_more" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}
 (* else *)
