@@ -1,0 +1,74 @@
+{language: french}
+{columns: 2}
+{title: La chanson du hérisson}
+{artist: Brassens}
+{artist: Chatel}
+{album: Émilie jolie}
+
+
+  {cover: emilie-jolie}
+  \gtab{Bm}{2:X02210}
+  \gtab{G}{3:022100}
+  \gtab{F#7}{2:020100}
+
+  {start_of_chorus}
+    [Bm]Oh ! Qu'est-ce qu'il pique [G]ce hérisson !
+    [F#7]Oh ! Qu'elle est triste sa chan[Bm]son !
+    \rep{2}
+  {end_of_chorus}
+
+  
+    C'est un hérisson, qui piquait, qui piquait
+    Et qui voulait qu'on l'caresse-resse-resse
+    On l'caressait pas pas-pas-pas-pas
+    Non pas parce qu'il piquait pas
+    Mais parce qu'il piquait
+  
+
+  \begin{verse*}
+    C'est un hérisson, qui piquait, qui piquait
+    Et qui voulait qu'on l'caresse-resse-resse
+    On l'caressait pas-pas-pas-pas-pas
+    Non pas parce qu'il piquait pas
+    Mais parce qu'il piquait
+  \end{verse*}
+
+  
+    Quelle est la fée dans ce livre
+    Qui me donnera l'envie d'vivre ?
+    Quelle est la petite fille aux yeux bleus
+    Qui va m'rendre heureux ?
+  
+
+  \begin{verse*}
+    Quelle est la fée dans ce livre
+    Qui lui donnera l'envie d'vivre ?
+    Quelle est la petite fille aux yeux bleus
+    Qui l'rendra heureux ?
+  \end{verse*}
+
+  
+    Moi, je ne vois que moi
+    Il n'y a que moi, dans ce livre là
+    Moi, je ne vois que moi
+    Il n'y a que moi, dans ce livre la la la la
+    La-la-la-la-la-la
+    La la-la-la-la-la-la-la-la-la-la-la \dots
+  
+
+  \begin{verse*}
+    \textnote[english]{spoken}
+    \textnote[french]{parlé}
+    Émilie est allée caresser le hérisson
+  \end{verse*}
+
+  
+    Elle n'est plus triste cette chanson
+    J'ai caressé le hérisson
+    Il n'est plus triste le hérisson
+    Elle a caressé la chanson
+    \echo{Mais non ! Le hérisson ! \rep{2}
+    Pom pom}
+  
+
+

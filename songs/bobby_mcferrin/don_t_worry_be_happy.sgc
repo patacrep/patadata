@@ -1,0 +1,36 @@
+{language: english}
+{columns: 2}
+{title: Don't worry, be happy}
+{artist: McFerrin}
+{album: Don't worry be happy}
+
+
+  {cover: dont-worry-be-happy}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{F}{1:022100}
+  \gtab{Fm}{1:022000}
+
+  
+    [C]Here's a little song I wrote
+    [G]You might want to sing it note for note
+    Don't [F]worry,[Fm G] be [C]happy [G]
+  
+
+  
+    In every life we have some trouble
+    When you worry you make it double
+    Don't worry, be happy \echo{be happy now}
+  
+
+  {start_of_chorus}
+    [C]Uh uh uh uh uh
+    Uh uh uh uh [G]uh uh uh
+    Don't worry
+    Uh uh uh uh uh uh uh
+    Be happy
+    Uh uh uh uh [C]uh
+    Don't worry, be happy
+  {end_of_chorus}
+
+

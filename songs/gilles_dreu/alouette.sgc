@@ -1,0 +1,73 @@
+{language: french}
+{columns: 2}
+{title: Alouette}
+{artist: Dreu}
+{album: Alouette}
+
+
+  {cover: alouette}
+  \gtab{Em}{022000}
+  \gtab*{Am7}{002212}
+  \gtab{G7}{320001}
+  \gtab{D7}{XX0212}
+  \gtab{B7}{X21202}
+
+  
+    [Em]Alouette, alouet[Am7]te
+    L'é[D7]té est fi[G7]ni
+    [Em]Pauvre petite bê[Am7]te
+    Je [D7]suis ton a[G7]mi
+    [Em]Alouette, alouet[Am7]te
+    Je [D7]te comprends [G7]bien
+    Moi aussi [Em]{j'ai} en tê[Am]te
+    [B7]Beaucoup de cha[Em]grin
+  
+
+  \begin{verse*}
+    Dans les blés de la plaine
+    Lorsque tu chantais
+    Auprès de Madeleine
+    Moi je m'endormais
+    Dans l'eau de cette source
+    Nous buvions tous trois
+    La vie était si douce
+    Si pleine de joie
+  \end{verse*}
+
+  {start_of_chorus}
+    Alouette, alouette
+    Chantons tous les deux
+    Un autre jour, peut-être
+    On sera heureux
+  {end_of_chorus}
+
+  
+    Alouette, alouette
+    Puisque tout va mal
+    Il faut faire la fête
+    Je t'emmène au bal !
+    Viens donc sur mon épaule
+    Viens te réchauffer !
+    Tu verras, je suis drôle
+    Je sais bien danser
+  
+
+  \begin{verse*}
+    Et puis si tu t'embêtes
+    On viendra chez moi
+    Il y aura des noisettes
+    Et du pain pour toi
+    Alouette, alouette
+    L'amour et l'été
+    Comme les cigarettes
+    S'en vont en fumée
+  \end{verse*}
+
+  {start_of_chorus}
+    Alouette, alouette
+    Non, ne t'en fais pas
+    Alouette, alouette
+    L'été reviendra
+  {end_of_chorus}
+
+

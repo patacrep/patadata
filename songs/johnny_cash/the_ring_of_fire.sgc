@@ -1,0 +1,37 @@
+{language: english}
+{columns: 2}
+{title: The ring of fire}
+{artist: Cash}
+{album: The essential}
+
+
+  {cover: the-essential}
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+
+  \lilypond{The_ring_of_fire}
+
+  
+    [G]Love is a [C]burning [G]thing
+    And it makes a [C]firery [G]ring
+    Bound by [C]wild [G]desire
+    I fell into a [C]ring of [G]fire
+  
+
+  {start_of_chorus}
+    [D]I fell into a [C]burning ring of [G]fire
+    I went [D]down, down, down
+    And the [C]flames went [G]higher
+    And it [G]burns, burns, burns
+    The [C]ring of [G]fire \rep{2}
+  {end_of_chorus}
+
+  
+    The taste of love is sweet
+    When hearts like ours meet
+    I fell for you like a child
+    Oh, but the fire went wild
+  
+
+

@@ -1,0 +1,61 @@
+{language: english}
+{columns: 2}
+{title: Crocodile rock}
+{artist: John}
+{album: Crocodile Rock}
+
+
+  {cover: crocodile-rock}
+  \gtab{G}{320003}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{A7}{X02020}
+  \gtab{D7}{XX0212}
+
+  
+    I re[G]member when rock was young
+    Me and [Em]Susie had so much fun
+    Holding [C]hands and skimming stones
+    Had an [D]old gold Chevy and a place of my own
+  
+
+  \begin{verse*}
+    But the biggest kick I ever got
+    Was doing a thing called the \emph{crocodile rock}
+    While the other kids were Rocking round the clock
+    We were hopping and bopping to the \emph{crocodile rock}
+  \end{verse*}
+
+  {start_of_chorus}
+    [Em]Well crocodile-rocking is something shocking
+    When your [A7]feet just can't keep still
+    [D7]{I never} knew me a better time and I [G]guess I never will
+  {end_of_chorus}
+
+  {start_of_chorus}
+    Oh, Lawdy mama those Friday nights
+    When Susie wore her dresses tight
+    And the crocodile-rocking was out of [C]sight
+  {end_of_chorus}
+
+  {start_of_chorus}
+    [G]La, la la la la [Em]la
+    La la la la [C]la, la la la la [D]la
+  {end_of_chorus}
+
+  
+    But the years went by and the rock just died
+    Susie went and left us for some foreign guy
+    Long nights cryin' by the record machine
+    Dreaming of my Chevy and my old blue jeans
+  
+
+  \begin{verse*}
+    But they'll never kill the thrills we've got
+    Burning up to the \emph{crocodile rock}
+    Learning fast as the weeks went past
+    We really thought that the \emph{crocodile rock} would last
+  \end{verse*}
+
+

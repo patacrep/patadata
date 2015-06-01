@@ -1,0 +1,67 @@
+{language: french}
+{columns: 2}
+{title: Dragon Ball Z}
+{artist: Dessins Animés}
+{album: Dragon Ball Z}
+
+
+  {cover: dragon-ball-z}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{G}{320003}
+  \gtab{E}{022100}
+  \gtab{Am}{X02210}
+  \gtab{D}{XX0232}
+
+  {start_of_chorus}
+    [C]Dragon Ball [F]Z
+    Le [G]gentil Sango[C]han
+    [C]Dragon Ball [F]Z
+    Com[G]bat tous les mé[C]chants
+    [C]Dragon Ball [F]Z
+    Il [G]a tous les pou[C]voirs
+    [C]Dragon Ball [F]Z
+    La [G]force et le sa[C]voir
+  {end_of_chorus}
+
+  
+    [E]Son père é[Am]tait un héros
+    Le [D]grand le vaillant Sango[G]ku
+    [E]Le monde [Am]saura bientôt
+    Que [D]son esprit reste avec [G]nous
+  
+
+  {start_of_chorus}
+    Dragon Ball Z
+    Notre héros au grand cœur
+    Dragon Ball Z
+    Sera toujours vainqueur
+    Dragon Ball Z
+    Il fera triompher
+    Dragon Ball Z
+    L'amour et l'amitié
+  {end_of_chorus}
+
+  
+    Il n'a jamais peur de rien
+    Il ne craint aucun adversaire
+    Il est rusé et malin
+    C'est l'homme le plus fort de la Terre
+  
+
+  {start_of_chorus}
+    Dragon Ball Z
+    Héros au cœur vaillant
+    Dragon Ball Z
+    Valeureux combattant
+    Dragon Ball Z
+    Le gentil Sangohan
+    Dragon Ball Z
+    Combat tous les méchants
+    Dragon Ball Z
+    Il deviendra bientôt
+    Dragon Ball Z
+    Le plus grand des héros
+  {end_of_chorus}
+
+

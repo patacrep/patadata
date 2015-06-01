@@ -1,0 +1,55 @@
+{language: french}
+{columns: 2}
+{title: Joey I}
+{artist: Noir Désir}
+{album: Veuillez rendre l'âme}
+
+
+  {cover: veuillez-rendre-l-ame}
+  \gtab{Bm}{2:X02210}
+  \gtab{G}{320003}
+  \gtab{A}{X02220}
+
+  \begin{verse*}
+    \musicnote{\Intro : \nolyrics{[Bm]}}
+  \end{verse*}
+
+  
+    [Bm]Joey est affalé, tournant les mouches
+    Le souffle du soir aime comme il tord la bouche
+    Il y a trois déserts à traverser encore
+    Et une pendaison à réussir d'abord
+  
+
+  {start_of_chorus}
+    [G]Quelle étrange pensée [A]a {\dots} Joe[Bm]y ?
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      [Bm]Tu dormais Joey ou étais-tu éveillé ?
+      Penses-tu quitter la vie sans t'en aller ?
+      Si ton corps se balance, verras-tu plus loin ?
+      Ou est-ce de la transe dont tu as besoin ?
+    
+  \end{repeatedchords}
+
+  \begin{bridge}
+    [Bm]Assassiner son frère [G]
+    [Bm]Envahir l'Asie [A]
+    [Bm]Sauver la race humaine [G]
+    [Bm]Servir un Mezcal [A]
+    Oh oublier son [G]nom [A]{\dots} Joe[Bm]y
+  \end{bridge}
+
+  \begin{repeatedchords}
+    
+      [Bm]Joey a traversé tous les souterrains
+      Les nymphes et la folie glissées sous ses reins
+      Va-t'il revenir là dans le corps d'un chat ?
+      Serait-ce pour ce soir ou serait-ce pour une autre ?
+      Serait-ce pour ce soir ou serait-ce pour une autre fois ?
+    
+  \end{repeatedchords}
+
+

@@ -1,0 +1,78 @@
+{language: french}
+{columns: 2}
+{title: La fille du coupeur de joints}
+{artist: Thiéfaine}
+{album: Tout corps vivant branché sur le secteur…}
+
+
+  {cover: tout-corps-vivant-branche-sur-le-secteur}
+  {capo: 2}
+  \gtab{Em}{022000}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+
+  
+    Elle [Em]descendait de [D]{la montagne}
+    Sur [C]{un chariot} char[G]{gé de} paille
+    Sur [Am]{un chariot} char[Em]{gé de} foin
+    La [Am]{fille du} coupeur de [Em]joints \rep{2}
+  
+
+  \begin{verse*}
+    \musicnote {\nolyrics[Em D C G Am Em Am Em]}
+  \end{verse*}
+
+  
+    Elle descendait de la montagne
+    En chantant une chanson paillarde
+    Une chanson de collégien
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Mais nous on était cinq chômeurs
+    À se lamenter sur not'malheur
+    En se disant qu'on se taperait bien
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Elle descendait de la montagne
+    V'là qu'elle nous voit vers les murailles
+    Et qu'elle nous fait : coucou les gens !
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Ben, v'là qu'elle nous prend par la taille
+    Pis qu'elle nous emmène sur sa paille
+    Elle nous fait le coup du zeppelin
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Ben nous on était cinq chômeurs
+    À se payer une tranche de bonheur
+    Une tranche de tagada tsoin-tsoin
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Quand on eut passé la ferraille
+    Elle nous fit fumer de sa paille
+    Sacré bon dieu que c'était bien
+    La fille du coupeur de joints \rep{2}
+  
+
+  
+    Plus question de chercher du travail
+    On pédalait dans les nuages
+    Au milieu des petits lapins
+    La fille du coupeur de joints \rep{2}
+  
+
+  \musicnote{\Verse{} 1, dernier vers \Adlib{}}
+
+

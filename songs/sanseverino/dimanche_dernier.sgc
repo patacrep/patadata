@@ -1,0 +1,55 @@
+{language: french}
+{columns: 2}
+{title: Dimanche dernier}
+{artist: Sansévérino}
+{album: Les faux talbins}
+
+
+  {cover: les-faux-talbins}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+
+  
+    [C]Il n'y a pas de mouches
+    De serpents, d'araignées
+    Dessous ton oreiller
+    L'ogre les a bou[G]ffés
+    Dimanche der[C]nier
+  
+
+  
+    Endors-toi il est tard
+    N'aies pas peur des cauchemars
+    Et des mauvaises pensées
+    L'ogre les a bouffés
+    Dimanche dernier
+  
+
+  
+    Il n'y a pas de loups
+    Dans ta chambre chérie
+    Pas de fantômes du tout
+    Tout ça, c'est des conneries
+  
+
+  \begin{verse*}
+    Les monstres, les dragons
+    N'existent que dans les
+    Histoires mal racontées
+    L'ogre les a bouffés
+    Dimanche dernier
+  \end{verse*}
+
+  
+    Ton poisson rouge est mort
+    Ton grand-père vit encore
+    Ton frère a redoublé
+    Ta sœur a de l'acné
+    Tes parents ne se battent plus
+    Depuis que le juge
+    Les a enfin divorcés
+    Lundi dernier
+    \echo{Parce que dimanche, c'était fermé}
+  
+
+

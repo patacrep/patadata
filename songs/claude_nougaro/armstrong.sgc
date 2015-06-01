@@ -1,0 +1,73 @@
+{language: french}
+{columns: 2}
+{title: Armstrong}
+{artist: Nougaro}
+{album: Toulouse}
+
+
+  {cover: toulouse}
+  {capo: 3}
+  \gtab{Em}{022000}
+  \gtab{B7}{X21202}
+  \gtab{Am}{X02210}
+  \gtab{C7}{X32310}
+
+  
+    [Em]Armstrong, [B7]je ne [Em]suis pas [Am]noir
+    [Em]Je suis [B7]blanc de [Em]peau
+    [Em]Quand on [B7]veut chan[Em]ter l'es[Am]poir
+    [Em]Quel man[B7]que de [Em]pot
+  
+
+  \begin{verse*}
+    Oui, j'ai beau voir [Em]le ciel, l'[Am]oiseau
+    [Em]Rien, [B7]rien, [Em]rien ne [C7]luit là-haut
+    [Em]Les anges : [Am]zéro
+    [Em]Je suis [B7]blanc de [Em]peau
+  \end{verse*}
+
+  
+    Armstrong, tu te fends la poire
+    On voit toutes tes dents
+    Moi, je broie plutôt du noir
+    Du noir en dedans
+  
+
+  \begin{verse*}
+    Chante pour moi, Louis, oh oui
+    Chante, chante, chante ça tient chaud
+    J'ai froid, oh moi
+    Qui suis blanc de peau
+  \end{verse*}
+
+  
+    Armstrong, la vie, quelle histoire
+    C'est pas très marrant
+    Qu'on l'écrive blanc sur noir
+    Ou bien noir sur blanc
+  
+
+  \begin{verse*}
+    On voit surtout du rouge, du rouge
+    Sang, sang, sans trêve ni repos
+    Qu'on soit, ma foi
+    Noir ou blanc de peau
+  \end{verse*}
+
+  
+    Armstrong, un jour, tôt ou tard
+    On n'est que des os
+    Est-ce que les tiens seront noirs ?
+    Ce serait rigolo
+  
+
+  \begin{verse*}
+    Allez, Louis, Alléluia !
+    Au-delà de nos oripeaux
+    Noir et blanc
+    Sont ressemblants
+    Comme deux gouttes d'eau
+    Yeah
+  \end{verse*}
+
+

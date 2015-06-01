@@ -1,0 +1,66 @@
+{language: english}
+{columns: 2}
+{title: Come as you are}
+{artist: Nirvana}
+{album: Nevermind}
+
+
+  {cover: nevermind}
+  \gtab{Em}{022000}
+  \gtab{D}{X00232}
+  \gtab{G}{320001}
+  \gtab{A}{002220}
+  \gtab{C}{X32010}
+
+  
+    [Em]Come as you [D]are
+    As you [Em]were
+    As I [D]want you to [Em]be
+    As a fri[D]end
+    As a fri[Em]end
+    As an [D]old ene[Em]my
+  
+
+  \begin{repeatedchords}
+    
+      Take your [D]time
+      Hurry [Em]up
+      The choice is [D]yours
+      Don't be [Em]late
+      Take a [D]rest
+      As a [Em]friend
+      As an [D]old memo[Em]ry
+    
+  \end{repeatedchords}
+
+  {start_of_chorus}
+    [G]{A mem}[Em]ory \rep{3}
+    [G](A)
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      [Em]Come doused in [D]mud
+      Soaked in [Em]bleach
+      As I [D]want you to [Em]be
+      As a [D]trend
+      As a fri[Em]end
+      As an [D]old memo[Em]ry
+    
+
+    {start_of_chorus}
+      [G]{A mem}[Em]ory \rep{3}
+      [G](A)
+    {end_of_chorus}
+  \end{repeatedchords}
+
+  
+    [A]And I [C]swear
+    That I [A]don't have a gun[C]
+    No, I [A]don't have a gun [C] \rep{2}
+  
+
+  \musicnote{solo sur les accords du \Verse{} 3 et du \Chorus{},
+  puis \Verse{} 4 chanté à nouveau}
+
+

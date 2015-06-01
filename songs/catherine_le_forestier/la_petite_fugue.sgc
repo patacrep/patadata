@@ -1,0 +1,68 @@
+{language: french}
+{columns: 2}
+{title: La petite fugue}
+{artist: Le Forestier}
+{album: L'amour avec lui}
+
+
+  {cover: l-amour-avec-lui}
+  \gtab{A}{X02220}
+  \gtab{Dm}{XX0231}
+  \gtab{G7}{320001}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{B&}{1:X02220}
+  \gtab{Am}{X02210}
+  \gtab{E}{022100}
+
+  {start_of_chorus}
+    [A]{C'était} tou[Dm]jours la même [G7]
+    Mais on l'ai[C]mait quand même
+    [F]La fugue [B&]{d'autrefois}
+    Qu'on [Am]jouait [E]tous les [Am]trois
+  {end_of_chorus}
+
+  {start_of_chorus}
+    On était malhabiles
+    Elle était difficile
+    La fugue d'autrefois
+    Qu'on jouait tous les trois
+  {end_of_chorus}
+
+  
+    [A]Éléonore attaquait [Dm]le thème au pia[G7]no
+    On trou[C]vait ça tellement [F]beau
+    Qu'on en ou[B&]bliait [Am]de jouer pour l'[E]écou[Am]ter
+  
+
+  \begin{verse*}
+    Elle s'arrêtait brusquement et nous regardait
+    Du haut de son tabouret
+    Et disait : {\og}Reprenez à \emph{fa mi fa mi ré}{\fg}
+  \end{verse*}
+
+  
+    Souviens-toi qu'un violon fut jeté sur le sol
+    Car c'était toujours le sol
+    Qui gênait Nicolas quand il était bémol
+  
+
+  \begin{verse*}
+    Quand les voisins commençaient à manifester
+    C'était l'heure du goûter
+    Salut Jean-Sébastien et à jeudi prochain
+  \end{verse*}
+
+  
+    Un jour Éléonore a quitté la maison
+    Emportant le diapason
+    Depuis ce jour, nous n'accordons plus nos violons
+  
+
+  \begin{verse*}
+    L'un après l'autre, nous nous sommes dispersés
+    La fugue seule est restée
+    Mais chaque fois que je l'entends, c'est le printemps
+  \end{verse*}
+
+

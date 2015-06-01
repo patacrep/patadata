@@ -1,0 +1,49 @@
+{language: english}
+{columns: 2}
+{title: Breaking up is hard to do}
+{artist: Carpenters}
+{album: A kind of hush}
+
+
+  {cover: a-kind-of-hush}
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{Em}{022000}
+  \gtab{Dm}{XX0231}
+
+  {start_of_chorus}
+    Come-a, [G]come on down, [C]doobie do down [Am]down[F] \rep{3}
+    [G]Breaking up is [C]hard [F]to [C]do
+  {end_of_chorus}
+
+  
+    Don't take your [C]lo[Am]ve a[F]way from [G]me
+    [C]Don't you [Am]leave my heart in [F]mise[G]ry
+    [Em]If you go then [Am]I'll be blue
+    'Cause [Dm]breaking up is hard to [G]do
+  
+
+  \begin{verse*}
+    Remember when you hold me tight
+    And then you kissed me all through the night
+    Think of all that we've been through
+    'Cause breaking up is hard to do
+  \end{verse*}
+
+  
+    I beg of you don't say good-bye
+    Can't we give our love another try
+    And maybe it'll start anew
+    'Cause breaking up is hard to do
+  
+
+  \begin{verse*}
+    I beg of you don't say good-bye
+    Can't we give our love another try
+    And maybe it'll start anew
+    'Cause breaking up is hard to do
+  \end{verse*}
+
+

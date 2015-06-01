@@ -1,0 +1,73 @@
+{language: english}
+{columns: 1}
+{title: Here without you}
+{artist: 3 Doors Down}
+{album: Away from the sun}
+
+
+  {cover: away_from_the_sun}
+  \gtab{Am}{X02210}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{G}{320003}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics [Am F G]}
+  \end{verse*}
+
+  
+    A hundred [Am]days have made me older
+    Since the last[G] time that I saw your pretty face [Am F G]
+    A thousand [Am]lies have made me colder
+    And I [G]don't think I can look at this the same[Am F G]
+    [Am] All the miles that sepa[G]rate
+    [Am] Disappear now when I'm d[F]reamin' of y[G]our face
+  
+
+  {start_of_chorus}
+    [C] I'm here without you baby[G]
+    But you're still on my lonely m[Am]ind
+    I think about you baby
+    [F]And I dream a[G]bout you all the time
+  {end_of_chorus}
+
+  {start_of_chorus}
+    [C] I'm here without you baby
+    [G] But you're still with me in my d[Am]reams
+    And t[F]onight, there's [G]only you and me
+  {end_of_chorus}
+
+  \begin{verse*}
+    \musicnote{\nolyrics [Am G Am F G]}
+  \end{verse*}
+
+  
+    The [Am]miles just keep rollin'
+    As the [G]people leave their way to say he[Am]llo [F G]
+    I've heard this [Am]life is overrated
+    But I [G]hope that it gets better as we [Am]go [F G]
+  
+
+  \begin{repeatedchords}
+    {start_of_chorus}
+      [C] I'm here without you baby[G]
+      But you're still on my lonely m[Am]ind
+      I think about you baby
+      [F]And I dream a[G]bout you all the time
+    {end_of_chorus}
+
+    {start_of_chorus}
+      [C] I'm here without you baby
+      [G] But you're still with me in my d[Am]reams
+      And t[F]onight, there's [G]only you and me
+    {end_of_chorus}
+  \end{repeatedchords}
+
+  
+    [Am] Everything I know,[C] and anywhere I go
+    [G] It gets hard but it won't [F]take away my love
+    [Am] And when the last one falls,[C] when it's all said and [G]done
+    It gets hard but it won't [F]take away my [F]love [C G Am F G]
+  
+
+

@@ -1,0 +1,49 @@
+{language: english}
+{columns: 2}
+{title: Lazy}
+{artist: Noir DĂŠsir}
+{album: 666.667 Club~}
+
+
+  {cover: 666-667-club}
+  \gtab{Am}{X02210}
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+
+  
+    [Am]{I can} see you're young and pretty
+    [G]{I know} it would be so ea[D]sy
+    Anyway, dark lady, I feel lazy [Am]
+  
+
+  \begin{repeatedchords}
+    
+      [Am]Those afternoons are confused
+      [G]{I don't} think that you really cho[D]ose
+      There's even one more reason to feel lazy [Am]
+    
+  \end{repeatedchords}
+
+  {start_of_chorus}
+    [Am]While you go awa[G]y
+    [D]While you go awa[Am]y
+    \rep{2}
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      [Am]{I could} die but I could lie
+      I can deal with what's in your mind [D]
+      Anyway, I'm tired and I feel lazy [Am]
+    
+
+    
+      [Am]{You know}, we're both lost in maze
+      You're miserable, I'm so dazed [D]
+      Don't you think you should feel suddenly l[Am]azy
+    
+  \end{repeatedchords}
+
+  \musicnote{\Chorus}
+
+

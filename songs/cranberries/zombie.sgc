@@ -1,0 +1,70 @@
+{language: english}
+{columns: 2}
+{title: Zombie}
+{artist: Cranberries}
+{album: No need to argue}
+
+
+  {cover: no-need-to-argue}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab*{G}{3200XX}
+  \gtab{D}{XX0232}
+
+  
+    [Em]Another [C]head hangs lowly
+    [G]Child is slowly [D]taken
+    [Em]And the violence [C]caused such silence
+    [G]Who are we mis[D]taken
+  
+
+  \begin{verse*}
+    But you [Em]see, it's not me
+    It's not [C]my family
+    In your [G]head, in your head
+    They are figh[D]ting
+  \end{verse*}
+
+  {start_of_chorus}
+    With their [Em]tanks and their bombs
+    And their [C]bombs and their guns
+    In your [G]head, in your head
+    They are [D]crying
+  {end_of_chorus}
+
+  {start_of_chorus}
+    In your [Em]head, in your [C]head
+    Zombie, [G]zombie, zombi[D]e
+    What's in your [Em]head, in your [C]head
+    Zombie, [G]zombie, zombi[D]e
+  {end_of_chorus}
+
+  
+    Another mother's breaking
+    Heart is taking over
+    When the violence causes silence
+    We must be mistaken
+  
+
+  \begin{verse*}
+    It's the same old theme
+    Since 1916
+    In your head, in your head
+    They're still fighting
+  \end{verse*}
+
+  {start_of_chorus}
+    With their tanks and their bombs
+    And their bombs and their guns
+    In your head, in your head
+    They're dying
+  {end_of_chorus}
+
+  {start_of_chorus}
+    In your head, in your head
+    Zombie, zombie, zombie
+    What's in your head, in your head
+    Zombie, zombie, zombie
+  {end_of_chorus}
+
+

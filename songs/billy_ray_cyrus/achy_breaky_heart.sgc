@@ -1,0 +1,59 @@
+{language: french}
+{columns: 2}
+{title: Achy breaky heart}
+{artist: Cyrus}
+{album: Some gave all}
+
+
+  {cover: some-gave-all}
+  \gtab{A}{X02220}
+  \gtab{E}{022100}
+
+  
+    [A]You can tell the world
+    You know there was no girl
+    You can burn my clothes when I am [E]gone
+    Or [E]you can tell your friends
+    Just what a fool I've been
+    And laugh and joke about me on the [A]phone
+  
+
+  \begin{repeatedchords}
+    
+      [A]You can tell my arms
+      Go back into the farm
+      You can tell my feet to hit the [E]floor
+      Or [E]you can tell my lips
+      To tell my fingertips
+      They won't be reaching out for you no [A]more
+    
+
+    {start_of_chorus}
+      But [A]don't tell my heart
+      My achy breaky heart
+      I just don't think it'd under[E]stand
+      And [E]if you tell my heart
+      My achy breaky heart
+      He might blow up and kill this [A]man
+    {end_of_chorus}
+
+    
+      [A]You can tell your maw
+      I moved to Arcansas
+      You can tell your dog that bit my [E]leg
+      Or [E]tell your brother Cliff
+      Who's fist can tell my lip
+      He never really liked me any[A]way
+    
+
+    
+      Go [A]tell your aunt Louise
+      Tell anything you please
+      That sell already knows I'm not o[E]kay
+      Or [E]you can tell my eye
+      Whatch out for my mind
+      It might be walkin' out on me one [A]day
+    
+  \end{repeatedchords}
+
+
