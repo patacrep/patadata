@@ -1,0 +1,399 @@
+/*
+Parse Latex song into chordpro
+ */
+ 
+{
+    function megajoin(array){
+        for(x in array) {
+            if(array[x] instanceof Array) {
+                array[x] = array[x].join("");
+            }
+        }
+        return array.join("");
+    }
+    function property(name, value){
+        if(value instanceof Array) {
+            value = value.join("");
+        }
+        return "{" + name +": " + value + "}";
+    }
+    function tab_property(name, base, frets, special, ukulele){
+        var content = "";
+        content += name.replace("/b/g", "&");
+        if(base > 0){
+            content += " base-fret ";
+            content += base;
+        }
+        content += " frets ";
+        content += frets.join("").toUpperCase();
+        if(special){
+            content += " special";
+        }
+        var define = "define";
+        if(ukulele){
+            define += "_ukulele";
+        }
+        return property(define, content);
+    }
+    function blockify(name, content, newline){
+        var start = "{start_of_"+name+"}";
+        var end = "{end_of_"+name+"}";
+        if(newline){
+            start += "\r\n";
+            end += "\r\n";
+        }
+        return start + content + end;
+    }
+    function blockify_param(name, param, content, newline){
+        if(param instanceof Array) {
+            param = param.join("");
+        }
+        var start = "{start_of_"+name + ": "+param+"}";
+        var end = "{end_of_"+name+"}";
+        if(newline){
+            start += "\r\n";
+            end += "\r\n";
+        }
+        return start + content + end;
+    }
+    function chordname_split(chordname){
+        return chordname.split(" - ").join(" ").split(" ").join("][").replace("/b/g", "&");
+    }
+}
+
+start
+  = content:(language? newlines_merge columnsetting? newlines_merge song) {return content.join(""); }
+
+
+// Basic characters
+digits
+  = digits:[0-9]+ {return digits.join("")}
+ndigits
+  = digits
+  / "-" digits
+digit
+  = digit:[0-9]
+
+alpha
+  = chars:[a-zA-Z]+ {return chars.join("")}
+  
+slug
+  = chars:[a-zA-Z0-9-_]+ {return chars.join("")}
+
+url
+  = chars:[a-zA-Z0-9-_$.+!*'(),/:]+ {return chars.join("")}
+  
+
+// Text patterns
+inline_text
+  = content:inline_text_elt+ {return content.join("")}
+
+inline_text_elt
+  = safe_text
+  / inline_command
+  / empty_command
+  / ignored_command
+  / equation
+  
+safe_text
+  = content:nonlatex_char+ {return content.join("")}
+
+nonlatex_char
+  = [^\\\n\r{}$%\[\]]
+
+inline_command
+  = "\\dots {" content:inline_text "}" {return "..." + content}
+  / "\\shrp{" content:inline_text "}" {return "#" + content}
+
+empty_command
+  = "\\" content:empty_command_name " "? "{}" {return content}
+  / "\\" content:empty_command_name {return content}
+  / "{\\" content:empty_command_name "}" {return content}
+
+empty_command_name
+  = "oe" { return "œ"}
+  / "ier"
+  / "ieme"
+  / "dots" { return "..."}
+  / "ldots" { return "..."}
+  / "og" { return "``"} // guillemets
+  / "fg" { return "''"} // guillemets
+  / "flt" { return "&"}
+  / "shrp" { return "#"}
+  / "&"
+  / "_"
+  / "%"
+  / "#"
+  / ","
+  / "'"
+  / " "
+  / removed_command_name { return ""}
+
+removed_command_name
+  = "{" 
+  / "}"
+  / "newline"
+  / "MultiwordChords"
+  / "Adlib"
+
+ignored_command
+  = "\\" ignored_command_name "{" content:inline_text "}" {return content}
+
+ignored_command_name
+  = "emph"
+  / "Outro"
+
+equation
+  = "$" eq:equation_content "$" {return eq}
+
+equation_content
+  = "\\beta_1" { return "Beta1"}
+  / "\\beta_2" { return "Beta2"}
+  / "H_2O" { return "H20"}
+  / "H_2" { return "H2"}
+  / "O"
+  / "CO_2" { return "CO2"}
+  / "5m^2" { return "5m²"}
+
+block_standalone_command
+  = "\\capo{" digits:digits "}" { return property("capo", digits)}
+  / "\\meter{" num:digits "}{" denom:digits "}" { return property("meter", num + "/" + denom)}
+  / "\\cover" { return ""}
+  / "\\transposition{" digits:ndigits "}" {return property("transposition", digits)}
+  / "\\lilypond" " "? "{" file:slug "}" { return property("partition", [file + ".ly"])}
+  / "\\nolyrics{\\lilypond{" file:slug "}}" { return property("partition", [file + ".ly"])}
+  / "\\rep{" digits:digits "}" {return property("repeat", digits)}
+  / guitar_tab
+  / ukulele_tab
+
+guitar_tab
+  = "\\gtab{" name:inline_text "}{" base:basefret frets:([0-9xX]+) "}" { return tab_property(name, base, frets, false, false)}
+  / "\\gtab*{" name:inline_text "}{" base:basefret frets:([0-9xX]+) ":"? "}" { return tab_property(name, base, frets, true, false)}
+  / "\\gtab" "*"? "{" name:inline_text "}{}" { return ""}
+
+ukulele_tab
+  = "\\utab{" name:inline_text "}{" base:basefret frets:([0-9xX]+) "}" { return tab_property(name, base, frets, false, true)}
+  / "\\utab*{" name:inline_text "}{" base:basefret frets:([0-9xX]+) "}" { return tab_property(name, base, frets, true, true)}
+
+basefret
+  = digits:digits ":" " "? { return digits; }
+  / "" { return "0"}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+language
+  = "\\selectlanguage{" lang:alpha "}" {return property("language", lang);}
+
+columnsetting
+  = "\\songcolumns{" num:digits "}" {return property("columns", num);}
+
+song
+  = content:(begin_song properties newlines_merge song_blocks newlines_merge end_song newlines_discard scripture_block? newlines_discard) {return content.join(""); }
+
+begin_song
+  = "\\beginsong{" title:inline_text "}" {return property("title", title);}
+end_song
+  = "\\endsong" { return "";}
+
+
+properties 
+  = newlines_merge "[" newlines_merge props:property* "]" { return "\n" + props.join("\n")}
+
+property
+  = "by={" value:inline_text "}" prop_separator* { return property("artist", value)}
+  / "cov={" value:slug "}" prop_separator* { return property("cover", value)}
+  / "album={" value:inline_text "}" prop_separator* { return property("album", value)}
+  / "url={" value:url "}" prop_separator* { return property("url", value)}
+  / "original={" value:inline_text "}" prop_separator* { return property("original", value)}
+  
+prop_separator
+  = ","
+  / " "
+  / "%"? newline
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// @
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+song_blocks
+  = content:(song_block newlines_merge)* {return megajoin(content)}
+
+song_block
+  = block_standalone_command
+  / verse
+  / chorus
+  / bridge
+  / latex_comment_block
+  / branching_block
+  / textnote_block
+  / musicnote_block
+  / tablature_block
+  / repeated_block
+  / nolyrics_block
+  / special_block
+
+song_block_parts
+  = content:(song_block_part newlines_merge)* {return megajoin(content)}
+
+song_block_part
+  = block_standalone_command
+  / repeated_block_part
+  / nolyrics_block_part
+  / musicnote_block_part
+  / textnote_block_part
+  / special_block_part
+  / paragraph_line
+
+
+latex_comment_block
+  = "%" content:[^\r\n]* {return "#" + content.join("")}
+
+branching_block
+  = "\\if" condition:[^\r\n]+ newlines {return "#if" + condition.join("") + "\r\n"}
+  / "\\else" "%"? newlines {return "#else\r\n"}
+  / "\\fi" "%"? newlines {return "#fi\r\n"}  
+  
+
+
+repeated_block
+  = "\\begin{repeatedchords}" newlines c:song_blocks "\\end{repeatedchords}" newlines {return c}
+
+repeated_block_part
+  = "\\begin{repeatedchords}" newlines c:song_block_parts "\\end{repeatedchords}" newlines {return c}
+
+verse
+  = "\\begin{verse}" newlines c:song_block_parts "\\end{verse}" {return c}
+  / "\\beginverse" newlines c:song_block_parts "\\endverse" {return c}
+  / "\\begin{verse*}" newlines c:song_block_parts "\\end{verse*}" {return c}
+
+chorus
+  = "\\begin{chorus}" newlines c:song_block_parts "\\end{chorus}" {return blockify("chorus", c, true)}
+  / "\\beginchorus" newlines c:song_block_parts "\\endchorus" {return blockify("chorus", c, true)}
+
+bridge
+  = "\\begin{bridge}" newlines c:song_block_parts "\\end{bridge}" {return blockify("bridge", c, true)}
+
+nolyrics_block
+  = "{\\nolyrics " newlines c:song_block_parts "}" {return c}
+  / "\\nolyrics" "{" c:song_block_parts "}" {return c}
+
+nolyrics_block_part
+  = "{\\nolyrics " newlines c:song_block_parts "}" {return c}
+  / "\\nolyrics" " "? "{" c:song_block_parts "}" {return c}
+  / "\\nolyrics" {return ""}
+
+musicnote_block
+  = "\\musicnote" " "* "{" c:song_block_parts "}" {return blockify("musicnote", c, true)}
+  / "\\musicnote[" lang:alpha "]" " "* "{" c:song_block_parts "}" {return blockify_param("musicnote", lang, c, true)}
+
+musicnote_block_part
+  = "\\musicnote" " "* "{" c:song_block_parts "}" {return c}
+  / "\\musicnote[" lang:alpha "]" " "* "{" c:song_block_parts "}" {return c}
+
+
+textnote_block
+  = "\\textnote" " "* "{" c:song_block_parts "}" {return blockify("textnote", c, false)}
+  / "\\textnote[" lang:alpha "]" " "* "{" c:song_block_parts "}" {return blockify_param("textnote", lang, c, false)}
+
+textnote_block_part
+  = "\\textnote" " "* "{" c:song_block_parts "}" {return c}
+  / "\\textnote[" lang:alpha "]" " "* "{" c:song_block_parts "}" {return c}
+  / "\\textbf" " "* "{" c:song_block_parts "}" {return "**" + c + "**"}
+
+scripture_block
+  = "\\beginscripture{}" "%"? newlines c:song_block_parts "\\endscripture" "%"? {return blockify("scripture", c, true)}
+  / "\\beginscripture{" comment:inline_text "}" newlines c:song_block_parts "\\endscripture" "%"? {return blockify_param("scripture", comment, c, true)}
+
+special_block
+  = "\\Bridge" {return blockify("textnote", "Bridge", false)}
+  / "\\image[" [^\]]+ "]{" [^}]+ "}" {return ""}
+  / "\\MultiwordChords" { return ""}
+  
+special_block_part
+  = "\\Outro : " "{" newlines c:song_block_parts "}" {return c}
+  / "\\ifrepeatchords" c:song_block_parts "\\fi" {return c}
+  / "\\ifchorded" newline c:song_block_parts "\\fi" {return c}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Line
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+paragraph_line
+  = content:paragraph_line_elt+ paragraph_line_elt_comment? {return content.join("")}
+  / paragraph_line_elt_comment
+
+paragraph_line_elt_comment
+  = "%" newline { return ""}
+  / "%" c:[^\r\n]+ newline { return "\r\n#" + c.join("")}
+
+paragraph_line_elt
+  = inline_text
+  / chord
+  / command_in_paragraph
+  
+command_in_paragraph
+  = "\\emph{" c:paragraph_line "}" {return c}
+  / "\\echo{" c:song_block_parts "}" {return blockify("echo", c, false)}
+  / "\\" c:ignored_command_in_paragraph "{}"? { return c}
+
+ignored_command_in_paragraph
+  = "Intro" 
+  / "Chorus" 
+  / "Bridge" 
+  / "Verse" 
+  / "Rythm" 
+  / "Outro" 
+  / "Solo" 
+  / "Pattern"
+
+
+chord
+  = "\\[" chordname:inline_text "]" " "? "{" text:inline_text "}" {return "[" + chordname_split(chordname) + "]" + text}
+  / "\\[" chordname:inline_text "]" {return "[" + chordname_split(chordname) + "]"}
+
+
+
+newlines_discard
+  = newlines {return ""; }
+
+newlines_merge
+  = lines:newline* {return (lines.length>0)?"\r\n":""; }
+
+newlines
+  = lines:newline* {return lines.join(""); }
+
+newline
+  = " "* newline_char " "*
+
+newline_char
+  = "\r\n"
+  / "\r"
+  / "\n"
+  
+
+tablature_block
+  = " "* "\\begin{tab}" content:tablature_block_line+ "\\end{tab}" {return "#Tabs\n#   " +content.join("#   ")}
+
+tablature_block_line
+  = newlines t:tablature_command newlines { return t + "\r\n"}
+
+tablature_command
+  = "\\single " chord:digit " " fret:digits { return "single chord:" + chord + " fret:" + fret}
+  / "\\bar" { return "bar"}
