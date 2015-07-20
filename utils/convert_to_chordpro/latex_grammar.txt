@@ -117,8 +117,8 @@ empty_command_name
   / "ieme"
   / "dots" { return "..."}
   / "ldots" { return "..."}
-  / "og" { return "``"} // guillemets
-  / "fg" { return "''"} // guillemets
+  / "og" { return "«"} // guillemets
+  / "fg" { return "»"} // guillemets
   / "flt" { return "&"}
   / "shrp" { return "#"}
   / "&"
