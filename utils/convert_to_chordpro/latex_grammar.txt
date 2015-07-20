@@ -99,7 +99,8 @@ safe_text
   = content:nonlatex_char+ {return content.join("")}
 
 nonlatex_char
-  = [^\\\n\r{}$%\[\]]
+  = [^\\\n\r{}$%\[\]~]
+  / "~" { return " "}
 
 inline_command
   = "\\dots {" content:inline_text "}" {return "..." + content}
