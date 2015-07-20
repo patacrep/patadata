@@ -82,19 +82,19 @@
   \begin{verse}
     \[Am] Tes pièces d'or avaient disparu
     Tu courus \[G]prendre mon é\[Am]pée
-    \[Am] \echo{Mes pièces d'or avaient disparu
-    Je courus \[G]prendre mon é\[Am]pée}
+    \[Am] \echo{Mes pièces d'or avaient disparu}
+    \echo{Je courus \[G]prendre mon é\[Am]pée}
     \[Am] Puis tu sortis à moitié nu
     Hurlant de \[G]rage et meurtri\[Am]er
-    \[Am] \echo{Puis je sortis à moitié nu
-    Hurlant de \[G]rage et meurtri\[Am]er}
+    \[Am] \echo{Puis je sortis à moitié nu}
+    \echo{Hurlant de \[G]rage et meurtri\[Am]er}
   \end{verse}
 
   \begin{verse*}
     \[C] Les cuisines étaient dévastées
     Fallait voir l'état des pri\[Gm7]sons
-    \echo{Le personnel de nettoyage
-    Va réclamer l'augmentation}
+    \echo{Le personnel de nettoyage}
+    \echo{Va réclamer l'augmentation}
     \[Gm7] Ces peaux vertes allaient dégus\[C]ter
     C'était sans compter les \[Dm]scorpions
   \end{verse*}

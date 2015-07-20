@@ -348,7 +348,7 @@ paragraph_line_elt
   
 command_in_paragraph
   = "\\emph{" c:paragraph_line "}" {return c}
-  / "\\echo{" c:song_block_parts "}" {return blockify("echo", c, false)}
+  / "\\echo{" c:paragraph_line "}" {return property("echo", c)}
   / "\\" c:ignored_command_in_paragraph "{}"? { return c}
 
 ignored_command_in_paragraph
