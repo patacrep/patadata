@@ -130,9 +130,7 @@ empty_command_name
   / removed_command_name { return ""}
 
 removed_command_name
-  = "{" 
-  / "}"
-  / "newline"
+  = "newline"
   / "MultiwordChords"
   / "Adlib"
 
