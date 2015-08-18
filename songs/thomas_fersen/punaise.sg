@@ -101,10 +101,9 @@
   \end{repeatedchords}
 
   \begin{verse*}
-    \musicnote{\Outro : {
-    \nolyrics \[D] \[G] \[D] \[G]
-    \nolyrics \[Em] \[A] \[D] \[G]
-    \nolyrics \[D] \[G] \Adlib}}
+    \musicnote{\[D] \[G] \[D] \[G]}
+    \musicnote{\[Em] \[A] \[D] \[G]}
+    \musicnote{\[D] \[G]}
   \end{verse*}
 
 \endsong
