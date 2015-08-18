@@ -17,7 +17,7 @@
 
   \begin{verse*}
     \musicnote {\Intro :}
-    \nolyrics \[B7 E B7 E ]
+    \nolyrics \[B7 E B7 E]
     \nolyrics \[B7 E B7 E]
     \nolyrics \[A E A E]
     \nolyrics \[Edim E F#dim B7]
@@ -93,7 +93,7 @@
 
   \begin{verse*}
     \musicnote {\Outro :}
-    \nolyrics \[B7 E B7 E ]
+    \nolyrics \[B7 E B7 E]
     \nolyrics \[B7 E B7 E]
     \nolyrics \[A E A E]
     \nolyrics \[Edim E F{\shrp}dim B7]

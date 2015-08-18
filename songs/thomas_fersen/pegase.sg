@@ -20,7 +20,7 @@
   \utab{B}{2:2100}
 
   \begin{verse*}
-    \musicnote{\Intro :\nolyrics{ \[ C/Am Em/D]\rep{2}}}
+    \musicnote{\Intro :\nolyrics{ \[C/Am Em/D]\rep{2}}}
   \end{verse*}
 
   \begin{verse}
@@ -39,7 +39,7 @@
     \end{verse}
 
     \begin{verse*}
-      \musicnote{\nolyrics{ \[Em Em G G ] }}
+      \musicnote{\nolyrics{ \[Em Em G G] }}
       \musicnote{\nolyrics{ \[Em Bm C Am Em D Bm] }}
     \end{verse*}
 
@@ -66,7 +66,7 @@
   \end{repeatedchords}
 
   \begin{verse*}
-    \musicnote{\nolyrics{ \[Em Em G G ] }}
+    \musicnote{\nolyrics{ \[Em Em G G] }}
     \musicnote{\nolyrics{ \[Em Bm C Am Em D Bm] }}
     \musicnote{\nolyrics{ \[C/Am Em/D] \Adlib }}
   \end{verse*}
