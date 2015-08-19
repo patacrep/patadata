@@ -17,12 +17,10 @@
   \gtab{Am}{X02210}
   \gtab{E}{022100}
 
-  \musicnote{En arpège jusqu'au début du 1\ier{} refrain.
-  3\ieme{} couplet en arpège jusqu'à «~Maybe~».
-  Cette transcription est celle utilisée par Coulton ; capo 5\ieme{} case
-  pour la tonalité de la bande originale de Portal.
-  Note : le vrai nom de Do/Si* est Sim\#5addb9add11, mais ça faisait un
-  peu long.}
+  \musicnote{En arpège jusqu'au début du 1\ier{} refrain.}
+  \musicnote{3\ieme{} couplet en arpège jusqu'à «~Maybe~».}
+  \musicnote{Cette transcription est celle utilisée par Coulton ; capo 5\ieme{} case pour la tonalité de la bande originale de Portal.}
+  \musicnote{Note : le vrai nom de \[Do/Si*] est \[Sim\#5addb9add11], mais ça faisait un peu long.}
 
   \lilypond{Still_alive}
 
