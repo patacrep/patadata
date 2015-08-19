@@ -13,10 +13,6 @@
 {define: C base-fret 8 frets 0 2 2 1 0 0}
 {define: Cm* base-fret 8 frets 0 2 2 0 0 0 special}
 
-#verse
-
-#chorus
-
 
 [Cm]Plusieurs indices m'ont mis la puce à l'oreille
 J'ouvre l'[Fm]œil
