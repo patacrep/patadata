@@ -1,0 +1,55 @@
+{title: 10 sous dans ma poche}
+{artist: Le Donjon de Naheulbeuk}
+{album: Machins de taverne}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: machins-de-taverne}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E7 frets 0 2 0 1 0 0}
+
+{partition: 10_sous_dans_ma_poche-1.ly}
+
+
+J'ai [Am]10 sous dans ma [G]poche
+J'ai [C]aucun ar[G]gent
+{repeat: 4}
+
+{start_of_chorus}
+  Et tou[Am]jours gai gai
+  Et tou[Em]jours gaiement
+  [F]Y'a bien des gens
+  Dans [G]mon village
+  Qui n'en [C]ont [E7]pas [Am]tant
+  {repeat: 2}
+{end_of_chorus}
+
+
+J'ai 8 sous dans ma poche...
+
+
+J'ai 6 sous dans ma poche...
+
+
+J'ai 4 sous dans ma poche...
+
+
+J'ai 2 sous dans ma poche...
+
+
+J'ai pas d'sous dans ma poche
+J'ai aucun argent
+
+{start_of_chorus}
+  Et mes [Am]poches sont vides
+  Et oui c'est [Em]emmerdant
+  [F]Car c'est le nain
+  Dans [G]mon village
+  Qui a [C]tout [E7]l'ar[Am]gent
+{end_of_chorus}
+
+{partition: 10_sous_dans_ma_poche-2.ly}

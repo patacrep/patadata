@@ -1,0 +1,57 @@
+{title: Super héros}
+{artist: Balbino Medellin}
+{album: Le soleil et l'ouvrier}
+{cover: le-soleil-et-l-ouvrier}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: C frets X 3 2 0 1 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+
+
+[Bm]Je suis l'homme qui valait trois milliards
+Et quatre centimes d'eu[F#]ros super héros d'comptoir
+[Bm]Moitié Steve Austin et moitié Bruce Banner
+J'deviens tout [F#]vert après dix picons d'bière
+[Am]J'ai les doigts palmés comme l'homme de l'Atlantide
+À marée [Em]basse quand mon verre se vide
+[Am]Je dérive au fond du pacifique
+Seul avec ma [D]trique bionique
+
+{start_of_chorus}
+  [G]On veut tous toucher le soleil
+  Et sauter tran[Em]quille par dessus les grattes ciels
+  [Am]S'envoler en costume rouge moulant
+  Et être beau gosse [D]dedans
+  Ouais mais c'est pas fait pour nos [Em]gueules ohohoh[D]oh
+  Dans cette série on est tout [Em]seul ohohoh[D]oh
+  Non non c'est pas fait pour nos [Em]gueules ohohoh[D]oh
+  Notre seul pouvoir c'est d'faire la [Em]gueule [Bm]
+  Ou bien de s'ai[Em]mer [Bm]
+  Pour ceux qui [Em]veulent [Bm]
+  [Em] [F#m] [G] [A]
+{end_of_chorus}
+
+
+Je suis X-Or et Sankukai
+Mon vaisseau spatial a des sièges en sky
+Après la deuxième bouteille de blanc
+Tous les mecs du bar m'appellent Ken le survivant
+J'm'imagine sauver la planète
+Croiser Wonder Woman et lui faire sa fête
+Avoir des amis, des vrais copains
+Fidèles comme Flipper le dauphin
+
+{start_of_bridge}
+[Em]Na na [Em]na na na [C]na na [B]na...
+Super héros na na na...
+Je suis un super héros nana nanana na na...
+[C]
+{end_of_bridge}

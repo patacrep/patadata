@@ -1,0 +1,88 @@
+{title: Super héros}
+{artist: Oldelaf et Monsieur D.}
+{album: L'album de la maturité}
+{cover: l-album-de-la-maturite}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets 2 0 0 0}
+{define: Em frets 0 4 3 2}
+{define: D frets 2 2 2 0}
+{define: F frets 2 0 1 0}
+{define: E base-fret 2 frets 2 2 2 0}
+{define: C frets 0 0 0 3}
+
+
+[Am]Franchement, on n'a pas choisi
+D'être [Em]des super héros
+[Am]Moi si j'avais eu le choix
+J'aurais plu[Em]tôt acheté une Twingo
+[D]Mais on a plein [F]de pouvoirs alors faut [Am]qu'on assure
+[D]Moi si c'était à [F]refaire, je changerais [E]de costume
+
+[Am]Je suis Silver Loup 2000
+Avec ma [Em]meute, on protège les foules
+[Am]Moi en fait, je suis sa meute
+Et on m'ap[Em]pelle Manimoule
+[D]Moitié homme, [F]moitié loup, 100 % [Am]loup d'argent
+[D]Lui, c'est un sourd-[F]muet, c'est Pépito, notre [E]aide de camp
+
+{start_of_chorus}
+  Allez [Am]Silver Loup [F]transmuta[C]tion
+  [Am]Manimoule, [F]franchement là [E]non...
+{end_of_chorus}
+
+
+[Am]Si vous croyez qu'j'ai pas des supers pouvoirs
+Vous vous trom[Em]pez parce que par exemple {echo: ouais, par exemple ?}
+[Am]Bah par exemple, si je veux, enfin je...
+Bon, ça c'est [Em]pas un bon exemple
+Ah bah si, [D]j'peux faire des [F]ultra-sons que seules les [Am]moules entendent {echo: hi}
+[D]Ça fait super [F]mal, si ça continue je [E]quitte la bande
+
+[Am]Tiens dis-nous quels sont tes pouvoirs
+Toi mon fi[Em]dèle Manimoule ?
+[Am]Moitié homme, moitié moule et moitié rassuré
+Cos[Em]tume 100% cool
+[D]La vilenie, [F]l'injustice, ensemble on [Am]les pourfend
+[D]Chef, je pense qu'il [F]faut s'barrer car voilà [E]les méchants
+
+{start_of_chorus}
+  [Am]Silver Loup [F]transmuta[C]tion
+  [Am]Manimoule [F]transmuta[E]tion
+{end_of_chorus}
+
+
+[Am]Le chef des méchants, il est trop naze
+Il nous en[Em]voie des navettes toutes nulles
+[Am]Et moi je persiste à dire
+Que mon cos[Em]tume il est ridicule
+[D]Ses navettes, je [F]les pulvérise avec des [Am]ultra sons {echo: hi}
+[D]Excuse-moi, je me rappelais [F]plus, [E]pardon
+
+[Am]Pépito, passe-nous des flingues
+Non, moi je [Em]veux qu'on m'appelle Cougar
+[Am]{echo: Mais, mais comment ça, mais alors tu parles ?}
+Et oui, c'est [Em]ça mon super pouvoir
+[D]Allons mes a[F]mis vers la justice et la [Am]liberté
+[D]Allons à l'at[F]taque, moi mon pouvoir, c'est de su[E]per-marcher
+
+{start_of_chorus}
+  [Am]Silver Loup [F]transmuta[C]tion
+  [Am]Manimoule [F]transmuta[E]tion
+  [Am]Pépito {echo: Non ! Cou[F]gar !} Ah oui, par[C]don
+  [Am]Feu, force, flamme, [F]super ac[E]tion
+{end_of_chorus}
+
+{start_of_chorus}
+  [F]On dé[G]fend les ois[Am]eaux, les fleurs
+  [F]On ne co[G]nnaît pas la [Am]peur
+  [F]Oui, en [G]fait, ça dé[Am]pend pour la peur
+  [F]Ouais, mais on est toujours [E]vainqueurs !
+  Super héros au grand [Am]cœur
+{end_of_chorus}

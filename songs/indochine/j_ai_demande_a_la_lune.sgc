@@ -1,0 +1,46 @@
+{title: J'ai demandé à la Lune}
+{artist: Indochine}
+{album: Paradize}
+{cover: paradize}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+
+
+[A]J'ai de[E]mandé à la [F#m]Lune
+[A]Et le So[E]leil ne le sait [F#m]pas
+[Bm]Je lui ai montré mes brû[F#m]lures
+[C#m]Et la Lune s'est moquée de [E]moi
+
+Et comme le [A]ciel n'a[E]vait pas fière a[F#m]llure
+[A]Et que je [E]ne guérissais [F#m]pas
+[Bm]Je me suis dit : «Quelle infor[F#m]tune»
+[C#m]Et la Lune s'est moquée de [E]moi
+
+
+J'ai demandé à la Lune
+Si tu voulais encore de moi
+Elle m'a dit : «J'ai pas l'habitude
+De m'occuper des cas comme ça»
+
+Et toi et moi, on était tellement sûrs
+Et on se disait quelques fois
+Que c'était juste une aventure
+Et que ça ne durerait pas
+
+{start_of_chorus}
+  [Dm]Je n'ai pas grand chose à te [Am]dire
+  [Dm]Et pas grand chose pour te faire [Am]rire
+  [C]Car j'imagine toujours le [G]pire
+  [C]Et le meilleur me fait sou[G]ffrir
+{end_of_chorus}
+
+{comment: Repeat verse 2}

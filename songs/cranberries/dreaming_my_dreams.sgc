@@ -1,0 +1,57 @@
+{title: Dreaming my dreams}
+{artist: The Cranberries}
+{album: No need to argue}
+{cover: no-need-to-argue}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+
+Al[C]l the th[G]ings you sa[Am]id to me toda[F]y
+Ch[C]ange my[G] perspectiv[Am]e in every wa[F]y
+Th[C]ese thin[G]gs count to[Am] mean so m[F]uch to me
+In[C]to my fa[G]ith, you and[Am] your bab[F]y
+
+{start_of_bridge}
+[C]It's out the[G]re, [Am]it's out the[F]re
+[C]It's out the[G]re if [Am]you want me I'll be [F]here
+[C]It's out the[G]re, [Am]it's out the[F]re
+[C]It's out the[G]re if [Am]you want me I'll be [F]here
+{end_of_bridge}
+
+{start_of_chorus}
+  I'[C]ll be drea[G]ming my dreams[Am] with you [F]
+  I'[C]ll be drea[G]ming my dreams[Am] with you [F]
+  And[C] there's[G] no other p[Am]lace, that I'd lay d[F]own my face
+  D[C]reaming [G]my dreams w[Am]ith you [F]
+{end_of_chorus}
+
+{guitar_comment:  [C][G][Am][F]}
+
+{start_of_bridge}
+It's out there, it's out there
+It's out there if you want me I'll be here
+It's out there, it's out there
+It's out there if you want me I'll be here
+{end_of_bridge}
+
+{start_of_chorus}
+  I'll be dreaming my dreams with you
+  I'll be dreaming my dreams with you
+  And there's no other place
+  That I'd lay down my face
+  I'll be dreaming my dreams with you
+{end_of_chorus}
+
+{start_of_chorus}
+  Dreaming my dreams with you
+  I'll be dreaming my dreams with you
+  And there's no other place
+  That I'd lay down my face
+  I'll be dreaming my dreams with you
+{end_of_chorus}
+
+{guitar_comment:  [C]}

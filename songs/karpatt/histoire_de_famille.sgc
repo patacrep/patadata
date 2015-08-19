@@ -1,0 +1,49 @@
+{title: Histoire de famille}
+{artist: Karpatt}
+{album: Dans d'beaux draps}
+{url: http://www.karpatt.net}
+{cover: dans-d-beaux-draps}
+{language: french}
+{columns: 1}
+{define: Fm base-fret 8 frets X 0 2 2 1 0}
+{define: C7 base-fret 8 frets 0 2 0 1 0 0}
+{define: G7 base-fret 8 frets X 2 1 2 0 X}
+{define: B&m base-fret 6 frets 0 2 2 0 0 0}
+
+{start_of_chorus}
+  Elle était [Fm]comme sa mère mais [C7]en plus vache
+  Comme sa mère en [Fm]plus peau de vache
+  Elle était comme sa mère en [C7]plus méchante
+  J'aimais la mère, j'aimais la [Fm]fille, j'aimais la tante
+{end_of_chorus}
+
+
+[C7]Elle [Fm]donnait des coups de pieds aux [C7]chiens surtout ceux qui [Fm]remuaient la queue
+[C7]Un p'tit susucre, un [Fm]coup de saton, [C7]entre les deux [Fm]yeux
+[C7]Elle [Fm]aimait les gentils tou[C7]tous qui continuaient de la [Fm]croire
+[C7]Avant de leur flan[Fm]quer un di[G7]rect dans la mâ[C7]choire
+
+[B&m]C'était la mère d'une fa[Fm]mille où les hommes [C7]avaient déser[Fm]té
+[B&m]Y'avait la mère la [Fm]tante, la fille et [C7]moi planté sur le palier
+
+
+La tante était comme la mère qui lui avait inculqué tout
+Elle l'avait aidée à s'défaire de son époux
+Elle mangeait des babas au rhum et quand elle était fin bourrée
+Elle tordait le cou aux canards et aux poulets
+
+C'était la tante d'une famille où les hommes s'étaient fait virer
+Y'avait la mère la tante, la fille et moi planté sur le palier
+
+
+Enfin, {echo: enfin}, y'avait aussi la fille, des boucles plein les cheveux
+C'était joli de la voir faire, pire que ses deux aïeux
+Elle souriait aux garçons qui se laissaient amadouer
+Faisant mine de bien vouloir se laisser embrasser
+
+Ils étaient dans ses bras, la bouche en cul de poule
+Elle prenait son élan et frappait d'un coup de boule
+{repeat: 2}
+
+C'était la fille d'une famille où les hommes s'étaient fait castrer
+Y'avait la mère la tante, la fille et moi un pansement sur le nez

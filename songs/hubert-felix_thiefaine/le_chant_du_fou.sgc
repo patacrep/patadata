@@ -1,0 +1,57 @@
+{title: Le chant du fou}
+{artist: Hubert-Félix Thiéfaine}
+{album: Tout corps vivant branché sur le secteur...}
+{cover: tout-corps-vivant-branche-sur-le-secteur}
+{language: french}
+{columns: 2}
+{capo: 3}
+{define: D frets X X 0 2 3 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am/F# frets X 0 4 2 1 0 special}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A frets X 0 2 2 2 0}
+
+
+[D] Le fou a chanté dix-sept [Em]fois
+[C] Les yeux croisés sur son perchoir
+[Am/F#] Une vérité au bout des doigts
+Une lampe entre les mâ[E]choires
+
+
+[D] Le fou a chanté dix-sept [Em]fois
+[C] Puis il est mort de désespoir
+[Am/F#] Dans un champ de labiales carni[E]vores
+
+{start_of_chorus}
+  [F#m] Tous les tombeaux se sont ou[Bm]verts
+  Pour voir p[Em]asser le mort vain[A]queur
+  [F#m] L'alcool s'est figé sur ton [Bm]verre
+  Ta ciga[Em]rette tombe sur ton [A]cœur
+  [C] Et tu cherches une [Am/F#]vérité par-delà l'es[E]pace
+  [C] Ouais, tu cherches une [Am/F#]vérité par-delà l'es[E]pace
+{end_of_chorus}
+
+
+[D] Un autre fou sort de son [Em]trou
+[C] Les yeux recouverts de poussière
+[Am/F#] De trois siècles passés chez Luci[E]fer
+
+
+[D] Un autre fou sort de son [Em]trou
+[C] Et vient respirer la lumière
+[Am/F#] Qui gerce les murs d'Hangui-Tcheou
+Comme un grand coup de cime[E]terre
+
+{start_of_chorus}
+  [F#m] Les feuilles tombent des co[Bm]cas
+  Et se ré[Em]pandent sur l'Occi[A]dent
+  [F#m] Demain [F#m] tu verras tous ces [Bm]petits alchimistes [Bm]
+  Pulvéri[Em]ser un conti[A]nent
+  [C] Et ta tête tombe [Am/F#] de son socle de [E]rêves
+  [C] Ouais, ta tête tombe [Am/F#] de son socle de [E]rêves {repeat: 3}
+{end_of_chorus}
+
+{guitar_comment:  [C][Am/F#][E] ab lib.}

@@ -1,0 +1,87 @@
+{title: Bassin d'Irlande}
+{artist: Mes souliers sont rouges}
+{album: En dehors des clous}
+{url: http://www.messoulierssontrouges.com}
+{cover: en-dehors-des-clous}
+{language: french}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+
+
+[F]Par un beau matin je me suis levée
+Plus matin que ma tan[C]te
+{repeat: 2}
+
+[B&]Dans mon joli jardin j'étais
+C'est pour cueillir rose blan[C]che
+
+{start_of_chorus}
+  [F]Pendant que nous faisions l'amour
+  Ils sont venus nous sur[C]pren[F]dre
+{end_of_chorus}
+
+
+Dans mon joli jardin j'étais
+C'est pour cueillir rose blanche
+{repeat: 2}
+
+J'en avais pas cueilli trois brins
+Voilà mon amant qui rentre
+
+
+J'en avais pas cueilli trois brins
+Voilà mon amant qui rentre
+{repeat: 2}
+
+En lui donnant ce beau bouquet
+Il me tomba sur la hanche
+
+
+En lui donnant ce beau bouquet
+Il me tomba sur la hanche
+{repeat: 2}
+
+Dessus la hanche, dessus le pied
+Il me cassa la jambe
+
+
+Dessus la hanche, dessus le pied
+Il me cassa la jambe
+{repeat: 2}
+
+Faut aller chez le médecin
+Qu'est le meilleur de l'Irlande
+
+
+Faut aller chez le médecin
+Qu'est le meilleur de l'Irlande
+{repeat: 2}
+
+Beau médeci, beau médecin
+Que dites-vous de ma jambe ?
+
+
+Beau médeci, beau médecin
+Que dites-vous de ma jambe ?
+{repeat: 2}
+
+Ta jambe elle ne guérira point
+À moins que tu n'la trempes
+
+
+Ta jambe elle ne guérira point
+À moins que tu n'la trempes
+{repeat: 2}
+
+Dans l'eau couri, dans l'eau courante
+D'un grand bassin d'Irlande
+
+
+Dans l'eau couri, dans l'eau courante
+D'un grand bassin d'Irlande
+{repeat: 2}
+
+Dans l'eau courante, dans l'eau baignante
+Du bassin de ta tante

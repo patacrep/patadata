@@ -1,0 +1,55 @@
+{title: Cannonball}
+{artist: Damien Rice}
+{album: O}
+{cover: o}
+{language: english}
+{columns: 2}
+{define: B&m base-fret 1 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: D#m7 base-fret 6 frets X 0 2 0 1 0}
+
+
+[B&m] Still a little [F#]bit of your [C#]taste in [G#]my mouth
+[B&m] Still a little [F#]bit of you [C#]laced with [G#]my doubt
+[B&m] Still a little [F#]hard to say [C#] [G#]
+What's [D#m7]going on [G#]
+
+
+Still a little bit of your ghost, your witness
+Still a little bit of your face I haven't kissed
+You step a little closer each day
+and I can't say what's going on
+
+{start_of_chorus}
+  [C#]Stones [F#]taught me to [G#]fly
+  [C#]Love [F#]taught me to [G#]lie
+  [C#]Life [F#]taught me to [G#]die
+  So it's not [D#m7]hard to fall
+  When you [F#]float like a [G#]cannon[B&m]ball
+{end_of_chorus}
+
+
+Still a little bit of your song in my ear
+Still a little bit of your words I long to hear
+You step a little closer to me
+So close that I can't see what's going on
+
+{start_of_chorus}
+  Stones taught me to fly
+  Love taught me to cry
+  So come on courage, teach me to be shy
+  'Cause it's not hard to fall
+  And I don't want to scare her
+{end_of_chorus}
+
+{start_of_chorus}
+  It's not hard to fall
+  And I don't wanna lose
+{end_of_chorus}
+
+{start_of_chorus}
+  It's not hard to grow
+  When you know that you just don't know
+{end_of_chorus}

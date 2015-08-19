@@ -1,0 +1,21 @@
+{title: La danse des esquimaux}
+{artist: Anny Versini et Jean-Marc Versini}
+{album: Les chansons de la marmotte}
+{cover: les-chansons-de-la-marmotte}
+{language: french}
+{columns: 2}
+{capo: 4}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+
+{partition: La_danse_des_esquimaux.ly}
+
+
+[C]C'est une danse [F]que l'on [C]danse [E7]chez les esqui[Am]maux
+[C]Elle se danse [F]en ca[C]dence [E7]quand on n'a pas [Am]chaud
+
+{start_of_chorus}
+  1,2,3,4,5,6 oh
+{end_of_chorus}

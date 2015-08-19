@@ -1,0 +1,57 @@
+{title: Le petit pont de bois}
+{artist: Yves Duteil}
+{album: La tarantelle}
+{cover: la-tarantelle}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: E7 frets 0 2 0 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+
+Tu [D]te souviens du pont
+Qu'on [G]traversait na[D]guère
+Pour [D]passer la rivière
+Tout [E7]près de la mai[A]son
+
+Le [B7]petit pont de [Em]bois
+Qui [A7]ne tenait plus [D]guère
+Que [Bm]par un grand mys[E7]tère
+Et [A7]deux piquets tout [D]droits
+
+Le [D]petit pont de bois
+Qui [G]ne tenait plus [D]guère
+Que [D]par un grand mystère
+Et [A7]deux piquets tout [D]droits
+
+
+Si tu reviens par là
+Tu verras la rivière
+Et j'ai refait en pierre
+Le petit pont de bois
+
+Puis je l'ai recouvert
+De rondins de bois vert
+Pour rendre à la rivière
+Son vieil air d'autrefois
+{repeat: 2}
+
+
+Elle suit depuis ce temps
+Son cours imaginaire
+Car il ne pleut plus guère
+Qu'une ou deux fois par an
+
+Mais dans ce coin de terre
+Un petit pont bizarre
+Enjambe un nénuphar
+Au milieu des fougères
+{repeat: 2}
+
+Pour aller nulle part
+Et pourtant j'en suis fier

@@ -1,0 +1,50 @@
+{title: Sweet amanite phalloïde queen}
+{artist: Hubert-Félix Thiéfaine}
+{album: Météo für nada}
+{cover: meteo-fur-nada}
+{language: french}
+{columns: 2}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: Ebm base-fret 6 frets X 0 2 2 1 0}
+{define: B&m base-fret 6 frets 0 2 2 0 0 0}
+
+{guitar_comment: Intro: [F#]}
+
+
+Pi[F#]lote aux yeux de gélatine
+Dans [B]ce vieux satellite-usine
+[G#m] Manufacture de recyclage
+Des mélancolies [C#]hors d'usage
+
+{start_of_chorus}
+  Ô [E&m]sweet a[B]manite phal[F#]loïde [C#]queen {repeat: 3}
+{end_of_chorus}
+
+{guitar_comment: [B][F#][B] {repeat: 2}}
+
+
+Je suis le [B&m]Captain M'acchab [F#][B&m]
+Aux ordres d'une beau[F#]té na[B&m]bab [F#][B&m]
+Pri[F#]ma bel[B]ladona made in
+Moloch-city destroy-ma[F#]chine
+
+{guitar_comment: Chorus, [B][F#][B]}
+
+
+A[F#]mour-amok and paradise
+Quand [B]elle fumivore ses king-size
+[G#m] Dans son antichambre d'azur
+Avant la séance [C#]de torture
+
+{guitar_comment: Chorus, [B][B][F#][F#] {repeat: 2} [B][B]}
+
+
+Je suis le [B&m]rebelle éclaté [F#][B&m]
+Au service de Sa [F#]Majes[B&m]té [F#][B&m]
+La [F#]reine aux [B]désirs écarlates
+Des galaxies d'amour-pi[F#]rate
+
+{guitar_comment: Chorus, [B][F#][B], Chorus ab lib.}

@@ -1,0 +1,72 @@
+{title: Love is all}
+{artist: Roger Glover}
+{album: The Butterfly Ball and the Grasshopper's Feast}
+{cover: the_butterfly_ball}
+{language: english}
+{columns: 2}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+
+{guitar_comment:  Intro:  | [B] | [E] | [A] | [D] |  }
+
+
+[C] Every[G]body's got to l[C]ive tog[F]ether
+[C] All the p[G]eople got to [C]unders[F]tand
+[C] So love your n[G]eighbour like you l[C]ove your b[F]rother
+[G] Come on and join the band
+
+
+[C] Well all you [G]need is love and [C]unders[F]tanding
+[C] Ring the [G]bell and let the [C]people [F]know
+[C] We're so [G]happy and we're [C]celeb[F]rating
+[G] Come on and let your feelings show
+
+{start_of_chorus}
+  Love is a[Am]ll, well love is a[D]ll
+  Love is a[G]ll, can't you hear the c[C]all
+  So love is [Am]all you need, love is a[D]ll
+  You ne[G]ed at the butterfly ba[C]ll
+  | [B] | [E] | [A] | [D] |
+{end_of_chorus}
+
+
+[C] Ain't you [G]happy that we're [C]all tog[F]ether
+[C] At the [G]ball in nature's [C]country[F]side
+[C] And alt[G]hough we're wearing [C]different [F]faces
+[G] Nobody wants to hide
+
+{start_of_chorus}
+  Love is a[Am]ll and all is lo[D]ve and
+  It's ea[G]sy, yes it's so [C]easy
+  At the [Am]Butterfly Ball where [D]love is all
+  And [G]it's so [C]easy
+  | [B] | [E] | [A] | [D] | {repeat: 4}
+{end_of_chorus}
+
+
+[C] Well all you [G]need is love and [C]unders[F]tanding
+[C] Ring the [G]bell and let the [C]people [F]know
+[C] We're so [G]happy and we're [C]celeb[F]rating
+[G] Let your feelings show
+
+{start_of_chorus}
+  Love is [Am]all, yes love is a[D]ll
+  At the [G]Butterfly [C]Ball
+  Love is [Am]big, love is sm[D]all
+  Love is [Am]free, love is a[D]ll
+  At the [G]Butterfly [C]Ball
+{end_of_chorus}
+
+When you [Am]back's to the wa[D]ll
+When you're starting to [G]fall
+You got something to [C]lean on
+Love [Am]is every[D]thing
+It can make you [G]sing at the Butterfly [C]Ball
+Love is a[Am]ll, I say love is a[D]ll
+Yes love is [G]all at the Butterfly [C]Ball

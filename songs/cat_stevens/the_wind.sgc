@@ -1,0 +1,38 @@
+{title: The wind}
+{artist: Cat Stevens}
+{album: Teaser and the firecat}
+{cover: teaser-and-the-firecat}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: Em frets 0 2 2 0 0 0}
+
+
+[D] I listen to the [G]wind
+To the [A]wind of my [D]soul
+[D][G][A][D]
+[D] Where I'll end up, well I [G]think
+Only [A]God really [D]knows
+[D][G][A][Em]
+
+{start_of_chorus}
+  I [A]sat upon the [G]set[A]ting [D]sun [Em]
+  I [G]never, [Em]never, [G]never, [A]never [G]
+  I [A]never wanted [G]wa[A]ter [D]once [Em]
+  I [G]never, [Em]never, [G]ne[D]ver
+{end_of_chorus}
+
+
+I listen to my words
+But they fall far below
+I let my music take me
+Where my heart wants to go
+
+{start_of_chorus}
+  I swam upon the Devil's Lake
+  I never, never, never, never
+  I'll never make the same mistake
+  I never, never, never
+{end_of_chorus}

@@ -1,0 +1,38 @@
+{title: Twist and shout}
+{artist: The Beatles}
+{album: Please please me}
+{cover: please-please-me}
+{language: english}
+{columns: 1}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: A7 base-fret 5 frets 0 2 0 1 3 0 special}
+
+{start_of_chorus}
+  [A7]Well, shake it up, [D]baby, now {echo: [G]shake it up, [A]baby}
+  [A7]Twist and [D]shout {echo: [G]twist and sh[A]out}
+  [A7]Come on come on, come on, come on, [D]baby, now {echo: [G]come on [A]baby}
+  [A7]Come on and work it [D]on out {echo: [G]work it on [A]out}
+{end_of_chorus}
+
+
+Well, work it on out, honey {echo: work it on out}
+You know you look so good {echo: look so good}
+You know you got me goin', now {echo: got me goin'}
+Just like I knew you would {echo: like I knew you would, oh!}
+
+{guitar_comment: Chorus}
+
+
+You know you're a twisty little girl {echo: twist little girl}
+You know you twist so fine {echo: twist so fine}
+Come on and twist a little closer, now {echo: twist a little closer}
+And let me know that you're mine {echo: let me know you're mine, oh!}
+
+[A]Ah {echo: Ah Ah} Ah {echo: Ah Ah}
+
+{guitar_comment: Chorus; Verse 2}
+
+[A7]Well, shake it, shake it, shake it, [D]baby, now {echo: [G]shake it up [A]baby} {repeat: 3}
+[A]Ah {echo: Ah Ah} Ah!

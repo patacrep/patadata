@@ -1,0 +1,109 @@
+{title: Still alive}
+{artist: Jonathan Coulton}
+{album: Portal}
+{cover: portal}
+{language: english}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: F#m frets X 4 4 2 0 X special}
+{define: Bm base-fret 1 frets X 0 2 2 1 0}
+{define: E7 frets 0 2 2 1 3 0}
+{define: Fmaj7 frets X X 3 2 1 0 special}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: C/B* frets X 2 0 0 1 0 special}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+
+{guitar_comment: En arpège jusqu'au début du 1ier refrain.}
+{guitar_comment: 3ieme couplet en arpège jusqu'à « Maybe ».}
+{guitar_comment: Cette transcription est celle utilisée par Coulton ; capo 5ieme case pour la tonalité de la bande originale de Portal.}
+{guitar_comment: Note : le vrai nom de [Do/Si*] est [Sim#5addb9add11], mais ça faisait un peu long.}
+
+{partition: Still_alive.ly}
+
+
+This was a [A]triumph. [F#m][A]
+I'm [F#m]making a [A]note here:
+[F#m]HUGE SUCC[A]ESS. [F#m]
+It's [Bm]hard to over[E7]state
+my satis[A]faction. [F#m][A]
+
+[F#m]Aperture [A]Science [F#m][A]
+We [F#m]do what we [A]must
+be[F#m]cause we [A]can. [F#m]
+[Bm]For the good of [E7]all of us.
+Except the [Fmaj7]ones who are dead.
+
+{start_of_chorus}
+  But there's [C]no sense [G]crying
+  over [F]every mis[C]take.
+  You just [C]keep on [G]trying
+  till you [F]run out of [C]cake.
+  And the [Dm]science gets [G]done.
+  And you [C]make a [C/B*]neat [Am]gum.
+  For the [F]people who [E]are
+  still a[A]live. [F#m][A]
+{end_of_chorus}
+
+
+I'm [F#m]not even [A]angry. [F#m][A]
+[F#m]I'm being [A]so sin[F#m]cere right [A]now. [F#m]
+[Bm]Even though you [E7]broke my heart.
+And [A]killed me [F#m][A]
+
+And [F#m]tore me to [A]pieces. [F#m][A]
+And [F#m]threw every [A]piece in[F#m]to a [A]fire. [F#m]
+[Bm]As they burned it [E7]hurt because
+I was so [Fmaj7]happy for you!
+
+{start_of_chorus}
+  Now these [C]points of [G]data
+  make a [F]beautiful [C]line
+  And we're [C]out of [G]beta.
+  We're re[F]leasing on [C]time.
+  So I'm [Dm]GLaD. I got [G]burned.
+  Think of [C]all the [C/B*]things we [Am]learned
+  for the [F]people who [E]are
+  still a[A]live. [F#m][A]
+{end_of_chorus}
+
+
+[F#m]Go ahead and [A]leave me. [F#m][A]
+I [F#m]think I'd pre[A]fer to [F#m]stay in[A]side. [F#m]
+[Bm]Maybe you'll find [E7]someone else
+to [A]help you. [F#m][A]
+
+[F#m]Maybe Black [A]Mesa. [F#m][A]
+[F#m]THAT WAS A [A]JOKE. Ha [F#m]ha, FAT [A]CHANCE. [F#m]
+[Bm]Anyway this [E7]cake is great.
+It's so de[Fmaj7]licious and moist.
+
+{start_of_chorus}
+  Look at [C]me still [G]talking
+  when there's [F]Science to [C]do.
+  When I [C]look out [G]there,
+  it makes me [F]GLaD I'm not [C]you.
+  I've ex[Dm]periments to [G]run.
+  There is [C]research [C/B*]to be [Am]done.
+  On the [F]people who [E]are
+  still a[A]live. [F#m]
+{end_of_chorus}
+
+
+And be[A]lieve me I [F#m]am
+still a[A]live. [F#m]
+I'm doing [A]science and [F#m]I'm
+still a[A]live [F#m]
+I feel fan[A]tastic and [F#m]I'm
+still a[A]live [F#m]
+And while you're [A]dying I'll [F#m]be
+still a[A]live [F#m]
+And when you're [A]dead I will [F#m]be
+still a[A]live [F#m]
+STILL A[A]LIVE [F#m]
+Still a[A]live.
+
+{comment: Portal - The cake is a lie.}

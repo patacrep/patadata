@@ -1,0 +1,64 @@
+{title: Boulevard of broken dreams}
+{artist: Green Day}
+{album: American idiot}
+{url: http://www.greenday.com}
+{cover: american-idiot}
+{language: english}
+{columns: 2}
+{define: F#5 base-fret 2 frets 0 2 2 X X X special}
+{define: A5 base-fret 5 frets 0 2 2 X X X special}
+{define: E5 base-fret 7 frets X 0 2 2 X X special}
+{define: B5 base-fret 7 frets 0 2 2 X X X special}
+{define: D5 base-fret 5 frets X 0 2 2 X X special}
+{define: C#5 base-fret 4 frets X 0 2 2 X X special}
+
+
+[F#5]I walk a [A5]lonely road
+[E5]The only one [B5]that I have
+[F#5]Ever known. Don't know [A5]where it goes
+[E5]But it's home to me [B5]and I walk
+[F#5]Alone [A5] [E5] [B5]
+
+
+I walk this empty street
+On the Boulevard of Broken Dreams
+Where the city sleeps
+And I'm the only one and I walk
+Alone
+
+I [A5]walk alone, I [E5]walk alone
+I [B5]walk alone, I walk a ...
+
+{start_of_chorus}
+  [D5]My [A5]shadow's [E5]the only one [B5]that walks beside me
+  [D5]My [A5]shallow [E5]heart's the [B5]only thing that's beating
+  [D5]Some[A5]times [E5]I wish someone [B5]out there will find me
+  [D5]'Til [A5]then [C#5]I walk alone
+{end_of_chorus}
+
+Ah-ah, Ah-ah, Ah-ah, Ah-ah
+Ah-ah, Ah-ah, Ah-ah
+
+
+I'm walking down the line
+That divides me somewhere in
+My mind. On the border line
+Of the edge and where I walk
+Alone
+
+
+Read between the lines
+What's fucked up and everything's
+Alright. Check my vital signs
+To know I'm still alive and I walk
+Alone
+
+Ah-ah, Ah-ah, Ah-ah, Ah-ah
+Ah-ah, Ah-ah
+
+
+I walk this empty street
+On the Boulevard of Broken Dreams
+Where the city sleeps
+And I'm the only one and I walk
+A ...

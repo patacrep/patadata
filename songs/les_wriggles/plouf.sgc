@@ -1,0 +1,57 @@
+{title: Plouf}
+{artist: Les Wriggles}
+{album: Partent en live}
+{cover: partent-en-live}
+{language: french}
+{columns: 1}
+{define: D7M base-fret 5 frets X 0 2 1 2 0 special}
+{define: C#7 base-fret 4 frets X 0 2 0 2 0}
+{define: B7 base-fret 6 frets 1 0 1 X 1 X special}
+{define: C#m/A base-fret 4 frets 1 X 2 2 1 0 special}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: F#m* base-fret 9 frets X 0 2 2 1 0 special}
+{define: E frets 0 2 2 1 0 0}
+{define: E7 frets 0 2 2 1 3 0 special}
+{define: E6 frets 0 2 2 1 2 0 special}
+
+
+Le [D7M]petit Jordy a [C#7]très bien compris
+Qu'[B7]à la piscine pour draguer les copines, faut faire...
+
+{start_of_chorus}
+  [C#m/A]Plouf ! [C#m]Plouf !
+  La vie, parfois fait [F#m]plouf [F#m*][E][E7][E6][E]
+{end_of_chorus}
+
+
+Le petit Grégory apprenait la vie
+Au bord de la rivière avec son père, et puis...
+
+
+Jimmy regardait les nuages, assis au bord de la page :
+«Qu'est c'que c'est ça, papa ?
+--- Un avion d'la TWA
+--- Qu'est c'que c'est ça dans l'air ?
+--- C'est un avion de la Swissair !» Et puis...
+
+
+Eric le grand skipper, sur son bateau à voile
+Contemplait les étoiles au large du Pays de Galles, et puis...
+
+
+Léon jouait du violon : «Ouais ! c'est chouette le violon»
+Mais c'est pas pratique de jouer sur le Titanic, parce que...
+
+
+Fernando le photographe finissait son paragraphe par :
+«Besos mi amor» à bord du Rainbow Warrior, et puis...
+
+
+Dans la vie jette-toi à l'eau
+Tant qu'il n'y a personne pour te pousser dans le dos, parce que...
+
+{start_of_chorus}
+  Plouf ! Plouf !
+  La mort aussi fait...
+{end_of_chorus}

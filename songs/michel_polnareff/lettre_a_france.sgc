@@ -1,0 +1,88 @@
+{title: Lettre à France}
+{artist: Michel Polnareff}
+{album: Passé Présent}
+{cover: passe-present}
+{language: french}
+{columns: 2}
+{define: E&M7 frets X X 1 3 3 3}
+{define: D4 frets X X 0 2 3 3}
+{define: D frets X X 0 2 3 2}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: Cm7 base-fret 3 frets X 0 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: A7 frets X 0 2 0 2 0}
+{define: Dm7 frets X X 0 2 1 1}
+{define: F7 base-fret 1 frets 0 2 0 1 0 0}
+{define: B&7M base-fret 1 frets X 0 2 1 2 0}
+{define: A frets X 0 2 2 2 0}
+{define: D7 frets X X 0 2 1 2}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: Am7 frets X 0 2 2 1 3}
+
+{start_of_chorus}
+  [E&M7]Il était une [D4]fois[D]
+  Toi et [Gm]moi[D4][D]
+  [E&M7]N'oublie jamais [D4]ça[D]
+  Toi et [Gm]moi[D4][D]
+{end_of_chorus}
+
+{start_of_bridge}
+[Gm][Cm7][F][Dm][EbM7][A7][D][D4][D]
+[Gm][Cm][F][Dm7][EbM7][A][D7][Gm]
+{end_of_bridge}
+
+
+[Gm]Depuis que je [Cm7]suis loin de [F7]toi
+Je suis [B&7M]comme loin de [E&7M]moi
+Et je [A7]pense à [D]toi tout [D4]bas[D]
+[Gm]Tu es à [Cm7]six heures de [F7]moi
+Je suis à [B&7M]des années de [E&7M]toi
+C'est [A]ça [D7]être [Gm]là-bas
+
+{start_of_chorus}
+  [F]La [G]différen[Cm7]ce
+  [F7]C'est ce silen[B&]ce
+  Par[A&]fois au [Am7]fond de [D7]moi
+{end_of_chorus}
+
+
+Tu vis toujours au bord de l'eau
+Quelquefois dans les journaux
+Je te vois sur des photos, et moi loin de toi
+Je vis dans une boite à musique
+Électrique et fantastique
+Je vis en Chimérique
+
+{start_of_chorus}
+  La différence
+  C'est ce silence
+  Parfois au fond de moi
+{end_of_chorus}
+
+
+Tu n'es pas toujours la plus belle
+Et je te reste infidèle
+Mais qui peut dire l'avenir, de nos souvenirs
+Oui, j'ai le mal de toi parfois
+Même si je ne le dis pas
+L'amour c'est fait de ça
+
+{start_of_bridge}
+[Gm]
+{end_of_bridge}
+
+{start_of_chorus}
+  Il était une fois
+  Toi et moi
+  N'oublie jamais ça
+  Toi et moi
+{end_of_chorus}
+
+
+Depuis que je suis loin de toi
+Je suis comme loin de moi
+Et je pense à toi là-bas
+Oui j'ai le mal de toi parfois
+Mêm' si je ne le dis pas
+Je pense à toi tout bas

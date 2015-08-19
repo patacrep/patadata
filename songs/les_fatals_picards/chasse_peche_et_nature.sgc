@@ -1,0 +1,95 @@
+{title: Chasse, pêche et nature}
+{artist: Les Fatals Picards}
+{album: Droit de veto}
+{cover: droit-de-veto}
+{language: french}
+{columns: 2}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+
+
+[Am]Il est 5 heures du matin
+Lorsque je réveille les [F]chiens
+Rex, mon teckel à poil roux
+Qui a une balle dans le ge[G]nou
+Et Josiane mon doberman
+Ah non ça merde, c'est ma [Am]femme
+
+
+D'abord le petit déjeuner
+Chocapic et Beaujolais
+Pour l'énergie c'est vital
+Autant que mon gilet pare-balle
+Sans oublier les tartines
+Pâté de foie, rillettes, sardines
+
+
+[C]Me voilà sur le pied de guerre
+Aussi beau qu'un mili[G]taire
+Prêt à retrouver les copains
+Au lieu-dit : «Les Marca[F]ssins»
+Je prend mon fusil ma be[G]sace
+Y'a pas à dire : ça fait [Am]classe
+
+{start_of_chorus}
+  Chasse, [A]pêche et bi[E]ture
+  Nous on res[F#m]pecte la na[D]ture
+  Chevro[A]tine, canon [E]scié
+  Canarder [D]c'est [E]notre...mé[Am]tier
+{end_of_chorus}
+
+
+Il est 6 heures du matin
+Le soleil se lève enfin
+On va commencer doucement
+Par une caisse de bière ou de vin blanc
+Puis après pour s'échauffer
+Un vieux cerf, un renard blessé
+
+
+Ça y est on peut plus l'arrêter
+Marcel nous fait son défilé
+Survet bleu et broderie en daim
+Même les taupes voient bien que ça craint
+On rigole, on descend trois kirs
+Et une vache qui tentait d'fuir
+
+{start_of_chorus}
+  Chasse, pêche et biture
+  Nous on respecte la nature
+  Quand les biches nous tendent les bras
+  Sans faillir on les abat
+{end_of_chorus}
+
+
+On va communier un peu
+Avec l'eau, la terre, le feu
+Les couleurs sont chatoyantes
+Roger a ses balles traçantes
+La nature nous offre enfin
+Une 4L et ses poussins
+
+
+Quand soudain derrière une souche
+J'aperçois comme un truc louche
+Le soir même à la télé
+On est carrément tous indignés
+Au championnat de VTT
+40 morts et 3 blessés
+
+{start_of_chorus}
+  Chasse, [A]pêche et bi[E]ture
+  Nous on res[F#m]pecte la na[D]ture
+  Chevro[A]tine et oie sau[E]vage
+  À chaque fois [D]c'est un [E]vrai car[A]nage
+  Pêche et bi[E]ture
+  Nous on res[F#m]pecte la bi[D]ture
+  Chevro[A]tine et caisse de [E]rhum
+  Approche donc [D]si qu'[E]t'es un [A]homme
+{end_of_chorus}

@@ -1,0 +1,68 @@
+{title: Octobre}
+{artist: Francis Cabrel}
+{album: Samedi soir sur la Terre}
+{cover: samedi-soir-sur-la-terre}
+{language: french}
+{columns: 2}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#7 base-fret 2 frets 0 2 0 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: F#m base-fret 2 frets 0 2 2 1 0 0}
+
+
+[E]Le vent fera craquer les [A]branches
+La brume [E]viendra dans sa robe [A]blanche
+Y'aura [C#m]des feuilles partout
+Couchées [F#7]sur les cailloux
+Oc[A]tobre tiendra sa revanche
+
+[E]Le soleil sortira à [A]peine
+Nos corps se [E]cacheront sous des bouts de [A]laines
+Perdue [C#m]dans tes foulards
+Tu croi[F#7]seras le soir
+Oc[A]tobre endormi aux fon[E]taines
+
+{start_of_chorus}
+  Il y aura [A]certainement
+  Sur les [B]tables en fer blanc
+  Quelques [C#m]vases vides et [A]qui traînent
+  [F#m]Et des nuages [B]pris aux antennes [A][E]
+  Je t'of[A]frirai des fleurs
+  Et des [B]nappes en couleurs
+  Pour ne [C#m]pas qu'Octobre [A]nous prenne [F#m]
+{end_of_chorus}
+
+
+[E]On ira tout en haut des col[A]lines
+Regarder [E]tout ce qu'Octobre illu[A]mine
+Mes mains [C#m]sur tes cheveux
+Des é[F#7]charpes pour deux
+De[A]vant le monde qui s'incline
+
+{start_of_bridge}
+{guitar_comment:  [E][A][E][A][C#m][F#7][A][E]}
+{end_of_bridge}
+
+{start_of_chorus}
+  [A]Certainement appu[B]yés sur des bancs
+  Il y aura [C#m]quelques hommes qui se [A]souviennent
+  [F#m]Et des nuages [B]pris aux antennes [A][E]
+  Je t'of[A]frirai des fleurs
+  Et des [B]nappes en couleurs
+  Pour ne [C#m]pas qu'Octobre [A]nous prenne [F#m]
+{end_of_chorus}
+
+
+[E]Et sans doute on verra appa[A]raître
+Quelques [E]dessins sur la buée des fe[A]nêtres
+Vous, vous [C#m]jouerez dehors
+Comme les [F#7]enfants du nord
+Oc[A]tobre restera peut-être
+
+[E][A]
+[E][A]
+Vous, vous [C#m]jouerez dehors
+Comme les [F#7]enfants du nord
+Oc[A]tobre restera peut-[E]être

@@ -1,0 +1,33 @@
+{title: Where is my mind}
+{artist: Pixies}
+{album: Death to the Pixies}
+{cover: death-to-the-pixies}
+{language: english}
+{columns: 1}
+{define: E frets 0 2 2 1 0 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: Am base-fret 4 frets 0 2 2 0 0 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+
+
+With your [E]feet in the air and your [C#m]head on the ground [A&] [A]
+[E] Try this tri[C#m]ck and [A&]spin it. Ye[A]ah!
+[E] Your head will coll[C#m]apse but there's [A&]nothing in it and you'll [A]ask yourself
+
+{start_of_chorus}
+  Where is my mind? Where is my mind?
+  Where is my mind?
+{end_of_chorus}
+
+[E]Way [A&]out, in the [A]water, see it [Am]swimmin'
+[C#] [B]
+
+
+I was swimmin' in the Caribbean
+Animals were hiding behind the rock
+Except the little fish but they told me, he swears tryin' to talk to me to me to me
+
+{guitar_comment: Chorus, Bridge, Solo, Verse 1, Chorus}

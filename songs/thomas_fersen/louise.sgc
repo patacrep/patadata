@@ -1,0 +1,88 @@
+{title: Louise}
+{artist: Thomas Fersen}
+{album: Les ronds de carotte}
+{cover: les-ronds-de-carotte}
+{language: french}
+{columns: 2}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: B&m base-fret 1 frets X 0 2 2 1 0}
+{define: C7 frets X 3 2 3 1 0}
+{define: E& frets X X 1 3 4 3}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: Fm frets 1 0 1 3}
+{define: B&m base-fret 1 frets 2 0 0 0}
+{define: C7 frets 0 0 0 1}
+{define: E& base-fret 1 frets 2 2 2 0}
+{define: A& base-fret 3 frets 2 0 1 0}
+
+{guitar_comment: Intro :  [Fm][B&m][C7][Fm]}
+
+
+[Fm]Tes lèvres, Louise
+Sont [B&m]des portes d'église
+Où [C7]j'entre le matin
+Le [Fm]chapeau à la main
+
+[Fm]Tes lèvres, Louise
+Penses-[B&m]tu ce qu'elles me disent ?
+Ou [C7]c'est du caraco
+Le [Fm]rubis d'un mégot ?
+
+{start_of_chorus}
+  A[C7]près tout, peu importe
+  Où [Fm]j'allume ma clope
+  Aux [E&]premiers feux du jour
+  Ou aux [A&]foudres de l'amour
+  Si [Fm]les miennes se grisent
+  À [B&m]tes lèvres, Louise [C7] [Fm]
+  [C7][Fm][E&][A&]
+{end_of_chorus}
+
+
+Sur [Fm]tes lèvres, Louise
+Les [B&m]miennes sont assises
+Je ne dé[C7]colle plus les fesses
+[Fm]De ce banc de messe
+
+[Fm]Tes lèvres, Louise
+Crois-[B&m]tu ce qu'elles me disent ?
+Ou [C7]cette basilique
+Est [Fm]un kiosque à musique ?
+
+{start_of_chorus}
+  A[C7]près tout peu importe
+  Où [Fm]j'allume ma clope
+  Si [E&]ce n'est pas l'amour
+  Ce [A&]sont les alentours
+  Si [Fm]les miennes se grisent
+  À [B&m]tes lèvres, Louise [C7] [Fm]
+  [C7][Fm][E&][A&]
+{end_of_chorus}
+
+
+[Fm]Ta lettre, Louise
+Est [B&m]arrivée tantôt
+De [C7]tes lèvres cerise
+[Fm]Elle porte le sceau
+
+[Fm]Tes lèvres, Louise
+[B&m]Me donnent congé
+[C7]Ma rage s'épuise
+Sur [Fm]mes ongles rongés
+
+{start_of_chorus}
+  [C7]Paris te contient
+  Et je suis [Fm]jaloux comme un chien
+  [E&]Je reviens gratter
+  À ta [A&]porte
+  [Fm]Tes lèvres sont closes
+  Louise, tu [B&m]m'envoies sur les roses
+  [C7]Dis-moi quelque chose... [Fm]Rien
+  [C7][Fm][E&][A&]
+{end_of_chorus}
+
+
+[Fm]Louise, je ne veux plus
+Que [B&m]tu passes la nuit
+En [C7]bas de l'avenue
+[Fm]Sous un [C7]para[Fm]pluie

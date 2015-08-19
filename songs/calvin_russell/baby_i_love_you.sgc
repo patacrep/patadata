@@ -1,0 +1,39 @@
+{title: Baby I love you}
+{artist: Calvin Russell}
+{album: Sounds from the fourth world}
+{cover: sounds_from_the_fourth_world}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: D4 frets X X 0 2 3 3 special}
+{define: Am frets X 0 2 2 1 0}
+{define: A4 frets X 0 2 2 3 0 special}
+{define: G frets 3 2 0 0 0 3}
+{define: G4 frets 3 2 0 0 1 3 special}
+{define: C frets X 3 2 0 1 0}
+
+{guitar_comment:  Intro:  [D] [D4] [Am] [A4] [G] [G4] [D]  }
+
+
+[D]And now the thoughts of you so [Am]fine
+Is rollin' through my [G]mind
+It's ruling all of my [D]time
+[D]I can almost touch your [Am]skin
+It takes my senses [G]in
+And my dreams [D]begin
+
+{start_of_chorus}
+  Baby I love [C]you
+  I can't [G]help it
+  No matter [D]what I try
+  But I [C]never want to cage [G]you
+  I want to see you [D]fly
+{end_of_chorus}
+
+
+[D]And the picture of your perfect [Am]face
+Is so quick to re[G]place
+Any other thoughts that I [D]make
+I've searched the world for a girl like [Am]you
+To tell my story [G]to
+And you're my dream come [D]true

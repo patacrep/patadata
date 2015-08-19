@@ -1,0 +1,68 @@
+{title: Mon ange}
+{artist: Oldelaf}
+{album: Bête et méchant}
+{cover: bete-et-mechant}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+
+
+[Em]Saute, saute, [Am]saute[Em]relle
+[Am]Au mi[G]lieu de [F#]mon jar[B7]din
+[Em]Saute, saute et [D]viens, ma [G]belle
+[Am]Je t'é[G]crase en[B7]tre mes [Em]mains
+
+{start_of_chorus}
+  «Michel, si tu joues dans l'jardin, attention
+  Tu n'dois pas t'salir
+  --- Oui maman
+  --- C'est bien mon ange»
+{end_of_chorus}
+
+
+Trotte, trotte, coccinelle
+Toute rouge avec tes points
+Trotte, trotte et viens, ma belle
+Je te pousse dans le grille-pain
+{echo: Et comme ça t'es toute cramée !}
+
+{start_of_chorus}
+  «Michel, qu'est-ce que tu fais dans la cuisine ?
+  Y'a plein d'objets dangereux, allez file !
+  --- Oui maman
+  --- C'est bien, t'es gentil mon ange»
+{end_of_chorus}
+
+
+Vole, vole, tourterelle
+Blanche dame du matin
+Vole, vole à tire-d'aile
+Mon lance-pierre te touche enfin
+{echo: Yes ! Bien fait !}
+
+{start_of_chorus}
+  «Michel, je n'veux pas qu'tu touches aux oiseaux ?
+  Je te l'ai déjà dit, tu peux attraper plein d'maladies
+  --- Oui maman
+  --- C'est bien mon ange»
+{end_of_chorus}
+
+
+Rampe, rampe, mon teckel
+Chien tout moche comme un boudin
+Rampe, rampe vers ton écuelle
+J'ai mis du piment indien
+Et du tabasco chilien
+Et puis aussi 2 kilos de poivre en grains
+{echo: Comme ça, ça va t'faire super mal à ta p'tite bouche de chien !}
+
+{start_of_chorus}
+  «Michel, qu'est-ce que tu fais ?
+  --- Heu, je donne à boire à Médor car il avait l'air d'avoir soif
+  --- C'est bien, t'es gentil mon ange»
+{end_of_chorus}

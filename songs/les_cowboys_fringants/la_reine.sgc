@@ -1,0 +1,71 @@
+{title: La reine}
+{artist: Les Cowboys Fringants}
+{album: La grand messe}
+{cover: la-grand-messe}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+
+On n'[Em]avait jamais su de quel pays qu'elle v'nait
+Ni même l'âge qu'elle avait ou comment qu'[Am]elle s'appelait
+Mais tout l'[D]monde la surnommait «La [C]Reine»
+Dans l'bout d'la rue Sainte-[D]Catherine [Bm]et d'la [Em]Main
+
+Elle s'promenait dans l'quartier depuis au moins dix ans
+Côtoyant les putains et les itinérants
+Mais quand on entendait son accent
+On s'doutait qu'elle v'nait pas du Lac St-Jean
+
+{start_of_chorus}
+  Chaque [D]soir elle prenait sous son [Em]aile
+  Les clo[C]chards et les junkies du [G]fond de ruelles
+  Comme un [Am]ange-gardien venu du [Em]ciel
+  Qui serait atter[D]ri dans [Bm]les pou[Em]belles
+{end_of_chorus}
+
+{partition: La_reine.ly}
+
+
+La nuit avec son pick-up elle faisait sa tournée
+Distribuant des toasts et un peu de café
+Pour donner un p'tit brin de chaleur
+À ceux qui ont l'hiver dret dans le cœur
+
+Pour les écorchés vifs elle inspirait la paix
+Sa seule présence était comme un baume sur leurs plaies
+Son regard était une lanterne
+Pour les naufragés des sombres tavernes
+
+
+Selon c'que dit Paulo un chauffeur de taxi
+Elle aurait fui la guerre pour immigrer ici
+Y'a de ça une couple de décennies
+Quand ils ont tué son p'tit gars pis son mari
+
+Et c'qu'elle aurait trouvé pour s'accrocher à la vie
+C'est d's'occuper des pauvres et des plus démunis
+Au lieu d'vivre triste éternellement
+Elle avait maintenant des centaines d'enfants
+
+
+Ça s'est passé hier dans nuit du douze au treize
+En sortant d'son pick-up l'a eu comme un malaise
+Près d'chez elle, au métro du Collège
+On l'a retrouvée morte dans un banc d'neige
+
+On n'aura jamais su de quel pays qu'elle v'nait
+Ni même l'âge qu'elle avait ou comment qu'elle s'appelait
+Mais c'matin les gens pleuraient «La Reine»
+Dans l'bout d'la rue Sainte-Catherine et d'la Main
+
+{start_of_chorus}
+  Mais au moins elle a repris ses ailes
+  Pour partir vers un monde un peu moins cruel
+  Et même si elle croyait pas en Dieu
+  C'est sûr qu'elle vole quelq'part où l'ciel est bleu
+{end_of_chorus}

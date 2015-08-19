@@ -1,0 +1,73 @@
+{title: Promeneur}
+{artist: Jean Leloup}
+{album: La vallée des réputations}
+{cover: la-vallee-des-reputations}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+
+[Em] [Am] La route est noire à présent
+Il y a des rivières de [Em]sang
+[Em] [B7] Le ciel se couvre plein d'orage
+Je ne marcherai pas davan[Am]tage
+
+
+[C]On a beau [G]dire
+On a beau [Am]faire
+La vie suit son [G]cours
+Au gré des a[C]mours
+Je t'aime et te [G]quitte
+Nous sommes [Am]quittes
+Tu pars pour de [G]bon
+De toutes fa[C]çons
+
+{start_of_chorus}
+  [C]Prome[F]neur
+  La chanson que tu [C]chantes
+  Je l'ai souvent chan[E]tée
+  Je l'ai souvent chan[Am]tée
+  Et la [F]corde dont tu veux te [C]pendre
+  Je l'ai souvent nou[E]ée
+  Je l'ai souvent nou[Am]ée
+  Et le [F]clou où tu veux te sus[C]pendre
+  Je l'ai souvent clou[E]é
+  Je l'ai souvent clou[Am]é
+  Et le [F]clou [C] [E] [Am]
+{end_of_chorus}
+
+
+[C]Tu m'as recuei[G]lli
+Tu m'as tra[Am]hi
+Les levers de so[G]leil
+Ne seront plus pa[C]reils
+Combien de viei[G]llards
+Meurent en criant re[Am]grets
+Il est beaucoup trop [G]tard
+Il est beaucoup trop [C]loin
+
+{start_of_chorus}
+  [C]Prome[F]neur
+  Dans ton terrain [C]vague
+  Le cadavre qu'on [E]drague
+  À la pointe du [Am]jour
+  C'est la [F]fille du pas[C]teur
+  Un ancien merce[E]naire
+  L'a tuée de co[Am]lère
+  À pré[F]sent
+  Il se cache et il [C]pleure
+  Le canon d'un fu[E]sil
+  Pointé sur son [Am]cœur
+  Il re[F]pense
+  À sa [C]mère
+  À l'enfance bé[E]nie
+  Et puis
+  Il [Am]tire, [G] il vise [C]bien [E] {repeat: 2}
+  Il [Am]tire
+{end_of_chorus}

@@ -1,0 +1,51 @@
+{title: La bière du donjon}
+{artist: Le Donjon de Naheulbeuk}
+{album: À poil dans la forêt}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: a-poil-dans-la-foret}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+
+La [Am]bière du donjon, c'est [G]nous qui la bra[Am]ssaine
+La [Am]bière du donjon, c'est [G]nous qui la bra[Am]ssons
+Bra[Em]ssons, bra[Am]ssons la [Em]bière du don[Am]jaine
+Bra[Em]ssons, bra[Am]ssons la [F]bière du [E]don[Am]jon
+
+{partition: La_biere_du_donjon.ly}
+
+
+La [Am]bière du donjon, c'est [G]nous qui la ser[Am]vaine
+La [Am]bière du donjon, c'est [G]nous qui la ser[Am]vons
+Ser[Em]vons, servons la [Em]bière du don[Am]jaine
+Ser[Em]vons, servons la [F]bière du [E]don[Am]jon
+
+
+La [Am]bière du donjon, c'est [G]nous qui la ven[Am]daine
+La [Am]bière du donjon, c'est [G]nous qui la ven[Am]dons ...
+
+
+La [Am]bière du donjon, c'est [G]nous qui la bu[Am]vaine
+La [Am]bière du donjon, c'est [G]nous qui la bu[Am]vons ...
+
+
+La [Am]bière du donjon, c'est [G]nous qui la ro[Am]taine
+La [Am]bière du donjon, c'est [G]nous qui la ro[Am]tons ...
+
+
+La [Am]bière du donjon, c'est [G]nous qui la pi[Am]ssaine
+La [Am]bière du donjon, c'est [G]nous qui la pi[Am]ssons ...
+
+
+La [Am]bière du donjon, c'est [G]nous qui la chan[Am]taine
+La [Am]bière du donjon, c'est [G]nous qui la chan[Am]tons ...
+
+
+La [Am]bière du donjon, c'est [G]nous qui la ger[Am]baine
+La [Am]bière du donjon, c'est [G]nous qui la ger[Am]bons ...
+{echo: Et même qu'après, eh bien on en r'prend !}

@@ -1,0 +1,88 @@
+{title: Bidon}
+{artist: Alain Souchon}
+{album: Bidon}
+{cover: bidon}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: D frets X X 0 2 3 2}
+{define: D5+ frets X X 0 3 3 2 special}
+{define: D6 frets X X 0 4 3 2 special}
+{define: D7 frets X X 0 2 1 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+
+{guitar_comment: Intro :  [A][E][F#m][E]}
+
+
+[A]Elle croyait qu'j'étais James [E]Dean
+Américain d'ori[F#m]gine
+Le fils de Buffalo [E]Bill
+Alors admira[A]tion [E][F#m][E]
+
+[A]Faut dire qu'j'avais la ch'mise à car[E]reaux
+La guitare derrière dans l'[F#m]dos
+Pour faire le cow-boy très [E]beau
+Mais composi[A]tion [E][F#m][E]
+
+[Bm]Elle me parlait anglais tout l'[F#]temps
+J'lui [Bm]répondais deux trois mots bi[F#]don
+Des [Bm]trucs entendus dans des chan[E]sons
+Consterna[A]tion [E][F#m][E]
+
+
+[A]Elle croyait qu'j'étais cou[E]reur
+Qu'j'arrivais des vingt quatre-[F#m]heures
+Avec mon casque en [E]couleur
+Alors admira[A]tion [E][F#m][E]
+
+[A]J'lui disais drapeau à [E]damier
+Dérapages bien contrô[F#m]lés
+Admirateurs fasci[E]nés
+Télévi[A]sion [E][F#m][E]
+
+[Bm]Elle me dit : «Partons à la [F#]mer»
+[Bm]Dans ton bolide fendant l'[F#]air
+Elle [Bm]passe pas l'quatre-vingt ma trac[E]tion
+Consterna[A]tion [E][F#m][E]
+
+{start_of_chorus}
+  J'suis [D]mal dans ma peau
+  En [D5+]coureur très beau
+  And [D6]I just go
+  Et ma [D7]pince à vélo
+  J'suis [G]bidon {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  J'suis [D]qu'un mec à frime
+  Bour[D5+]ré d'aspirine
+  And [D6]I just go
+  Et ma [D7]pince à vélo
+  J'suis [G]bidon {repeat: 2}
+{end_of_chorus}
+
+
+[A]Elle croyait qu'j'étais chan[E]teur
+Incognito, voya[F#m]geur
+Tournées, sono, filles en [E]pleurs
+Admira[A]tion [E][F#m][E]
+
+Faut [A]dire qu'j'avais des talons ai[E]guilles
+Le manteau d'lapin d'une [F#m]fille
+Des micros bracelets aux ch'[E]villes
+Exhibi[A]tion [E][F#m][E]
+
+[Bm]Elle me dit : «Chante-moi une chan[F#]son»
+J'ai [Bm]avalé deux trois maxi[F#]tons
+Puis [Bm]j'ai bousillé satisfac[E]tion
+Consterna[A]tion [E][F#m][E]
+
+{start_of_chorus}
+  J'ha[D]bite chez ma grand-mère
+  Derrière [D5+]le garde barrière
+  And [D6]I just go
+  Et ma [D7]pince à vélo
+  J'suis [G]bidon {repeat: 2}
+{end_of_chorus}

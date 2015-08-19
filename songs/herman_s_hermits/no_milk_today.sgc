@@ -1,0 +1,55 @@
+{title: No milk today}
+{artist: Herman's Hermits}
+{album: Original hits}
+{cover: original-hits}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+
+
+[Am]No milk today, my [C]love has gone away
+The [E7]bottle stands for [Am]lorn, a [E7]symbol of the [Am]dawn
+
+
+No milk today, it seems a common sight
+But people passing by don't know the reason why
+
+{start_of_chorus}
+  [A]How could they know just [G]what this message means
+  The [D]end of my hopes, the [D]end of [E7]all my [A]dreams
+{end_of_chorus}
+
+{start_of_chorus}
+  How could they know the palace there had been
+  Behind the door where my love reigned as queen
+{end_of_chorus}
+
+
+No milk today, it wasn't always so
+The company was gay, we turned night into day
+
+{start_of_bridge}
+[A]But all that's [E]left is a [D]place dark and [E]lonely
+[A]A terraced [E]house in a [D]mean street back of [F#m]town
+{end_of_bridge}
+
+{start_of_bridge}
+[A]Becomes a [E]shrine when I [D]think of you [E]only
+[D]Just two up two [E]down
+{end_of_bridge}
+
+
+No milk today, it wasn't always so
+The company was gay, we turned night into day
+
+{start_of_bridge}
+As music played the faster did we dance
+We felt it both at once, the start of our romance
+{end_of_bridge}

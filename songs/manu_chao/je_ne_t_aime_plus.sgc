@@ -1,0 +1,34 @@
+{title: Je ne t'aime plus}
+{artist: Manu Chao}
+{album: Clandestino}
+{cover: clandestino}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 3 3}
+{define: Am frets 2 0 0 0}
+{define: Dm frets 2 2 1 0}
+{define: G frets 0 2 3 2}
+
+{start_of_chorus}
+  [Am]Je ne t'aime plus mon amour
+  [Dm]Je ne t'aime plus [G]tous les jours
+  {repeat: 2}
+{end_of_chorus}
+
+
+[Am]Parfois j'aimerais mourir
+Telle[Am]ment j'ai voulu croire
+[Dm]Parfois j'aimerais mourir
+Pour [G]ne plus rien avoir
+[Am]Parfois j'aimerais mourir
+Pour [Am]plus jamais te voir
+
+
+[Am]Parfois j'aimerais mourir
+Telle[Am]ment y'a plus d'espoir
+[Dm]Parfois j'aimerais mourir
+Pour [G]plus jamais te revoir
+[Am]Parfois j'aimerais mourir
+Pour [Am]ne plus rien savoir

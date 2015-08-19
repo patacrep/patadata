@@ -1,0 +1,39 @@
+{title: Ulysse 31 : Thémis et Nono}
+{artist: Dessins Animés}
+{album: Ulysse 31}
+{cover: ulysse}
+{language: french}
+{columns: 2}
+{capo: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+
+
+Thé[Em]mis, petite fleur [Am]bleue
+L'amour et la [B7]joie sont dans tes [Em]yeux
+Un [Em]jour, tu retrouve[Am]ras
+Ton frère per[B7]du à mille [Em]lieux
+
+Thémis avec tes amis
+Ulysse et Télémaque, Nono aussi
+Tu es toujours protégée
+Des dieux, du cyclope, tu es bien gardée
+
+{start_of_chorus}
+  C'est moi No[E]no, le tout petit ro[A]bot
+  Qui déroute les [E]dieux
+  Malgré [B7]tous leurs com[E]plots
+  C'est moi No[E]no, le tout petit ro[A]bot
+  Moi je n'ai jamais [E]peur
+  De me [B7]faire bo[E]bo
+{end_of_chorus}
+
+{start_of_chorus}
+  La la la la la la la la la la
+  La la la la la
+  La la la la la la la
+  {repeat: 2}
+{end_of_chorus}

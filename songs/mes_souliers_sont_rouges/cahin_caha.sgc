@@ -1,0 +1,86 @@
+{title: Cahin-caha}
+{artist: Mes souliers sont rouges}
+{album: Proches}
+{url: http://www.messoulierssontrouges.com}
+{cover: proches}
+{language: french}
+{columns: 2}
+{capo: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+
+[Am]C'était un homme, un beau un vrai
+De ceux dont [C]on fait le grand mât
+Des bateaux [Em]qui s'en vont là-bas
+
+C'était un de ces gars là qui
+Une fois le boulot fini
+S'en allait boire un coup là-bas
+
+{start_of_chorus}
+  C'était un [F]gars comme [E]ci, comme [Am]ça
+  Et il al[F]lait ca[E]hin-ca[Am]ha {repeat: 2}
+{end_of_chorus}
+
+
+C'était un gars qui pour un coup
+Se serait passé la corde au cou
+Et ça fait mal quand ça passe là
+
+Oui c'était c'type qui dans la rue
+S'enflammait à la vue de vos culs
+Et ça c'est bon quand ça passe là
+
+
+Mais dans les soirées de gala
+Au p'tit musette, à la guinguette
+Et même dans les bals à papas
+
+Il s'ennuyait tout seul assis
+Loin de tous, amoureux, aigri
+Et rêvait d'une fille à son bras
+
+
+Il a vécu pas mal de temps
+Comme un fantôme, souvent errant
+À travers les champs et les bois
+
+Mais un matin, le pauvre bougre
+A eu enfin le coup de foudre
+Pour une jolie poupée de bois
+
+
+Il l'a prise, il l'a emmenée
+Pour la présenter au curé
+Mais le saint homme se moqua
+
+Pareillement, Monsieur le maire
+Gronda qu'il n'y avait rien à faire
+Pour marier ces amoureux là
+
+
+Et quand sa pauvre mère eut vent
+De l'amour abracadabrant
+Dans sa tombe, elle se retourna
+
+Faisant une p'tite place dans sa bière
+Passait par ici son vieux père
+Qui sans hésiter y plongea
+
+
+Désespéré, tellement blessé
+Notre homme prit sa bien-aimée
+Et la ramena dans les bois
+
+C'est alors qu'elle s'est réveillée
+C'est alors qu'elle s'est transformée
+L'amour a gagné pour une fois
+
+{start_of_chorus}
+  C'est une histoire comme ci, comme ça
+  Tant pis si vous n'y croyez pas {repeat: 2}
+{end_of_chorus}

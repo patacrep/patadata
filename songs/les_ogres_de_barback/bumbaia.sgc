@@ -1,0 +1,37 @@
+{title: Bumbaïa}
+{artist: Les Ogres de Barback}
+{album: Pitt Ocha au pays des mille collines}
+{url: http://www.lesogres.com}
+{cover: pitt-ocha-2}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+
+
+[Bm]Le cœur plein de joie
+[A]Sous les é[F#]toiles en fête
+[Bm]Danse Pitt Ocha
+[A]En chantant [F#]à tue-tête
+
+[Bm]L'avenir est évident
+[F#]Dans les yeux de nos enfants
+[A]La liberté nous sourit
+[F#]Sous le ciel de Mongolie
+
+{start_of_chorus}
+  C'est [Bm]bumbaïa, [A]bumbaïa
+  Bumbaïa [F#]plein de [Bm]joie
+{end_of_chorus}
+
+
+Danse Pitt Ocha
+Sous les étoiles en fête
+Le cœur plein de joie
+Et plus rien ne l'arrête
+
+Les enfants font la musique
+Le vent souffle la rythmique
+Lune et Soleil le refrain
+Ensemble tapent des mains

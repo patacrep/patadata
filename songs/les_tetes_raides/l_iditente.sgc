@@ -1,0 +1,70 @@
+{title: L'iditenté}
+{artist: Les Têtes Raides}
+{album: Gratte poil}
+{cover: gratte-poil}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+
+
+[Am]Les clans des rues, les clandestins
+Les cris des chiens hurlent à la [G]ronde
+J'[C]suis pas inscrit sur la mappe[E7]monde
+[Am]Y'a pas d'pays pour les vauriens
+Les poètes et les balla[G]dins
+Y'a pas d'[C]pays, si tu le [E7]veux, prends le [Am]mien
+
+{start_of_chorus}
+  [C]Que Paris est beau quand [G]chantent les oiseaux
+  [Am]Que Paris est laid quand il [E7]se croit français
+  [Am] [Dm] [E7] [Am]
+{end_of_chorus}
+
+
+Avec ses sans-pa[E7]pirs
+Qui vont bientôt r'par[Am]tir
+Vers leur pays les [E7]chiens
+On a tout pris chez eux y'a plus [Am]rien
+
+
+De rétention en cale de fond
+J'en ai même oublié mon ombre
+Je promène moi dans vos décombres
+On m'a donné un bout de rien
+J'en ai fait cent mille chemins
+J'en ai fait cent, j'en ai fait un
+
+
+Un chemin de l'identité
+L'iditenté l'idétitan
+L'itendidé, à la ronde
+Et dans ce flot d'une idée rien
+J'aurai plus d'nom j'aurai plus rien
+Dis-moi c'est quand {echo: Dis-moi c'est quand} que tu reviens
+
+{start_of_chorus}
+  Que Paris est beau quand chantent les oiseaux
+  Que Paris est laid quand il se croit français
+{end_of_chorus}
+
+
+Avec tous ces champs d'tir
+Et tous ces fous du tir
+Y visent pas que les lapins
+C'est plus du gros sel
+C'est des [Am]tomahawks
+Ou des missiles sol-[E7]air
+Ou des [Am]skuds
+Et [Dm]moi, avec mon pistolet à bou[E7]chon
+Je pars au front
+
+{start_of_chorus}
+  Paris sera beau quand chantera les oiseaux
+  Paris sera beau si les oiseaux
+  Mais non Paris sera beau car les oiseaux
+  Paris sera beau
+{end_of_chorus}

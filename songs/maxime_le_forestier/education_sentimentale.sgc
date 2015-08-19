@@ -1,0 +1,50 @@
+{title: Éducation sentimentale}
+{artist: Maxime Le Forestier}
+{album: Mon frère}
+{cover: mon-frere}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G7 frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+{partition: Education_sentimentale.ly}
+
+
+[C]Ce soir à la brume [Am]nous irons ma brune
+[Dm]Cueillir des serments[G7]
+[C]Cette fleur sauvage [Am]qui fait des ravages
+[Dm]Dans les cœu[G7]rs d'en[C]fant
+
+[F]Pour toi ma princesse, [G7]j'en ferai des tresses
+Et dans tes che[C]veux
+[E]Ces serments ma belle [Am]te rendront cruelle
+[Dm]Pour tes [G7]amou[C]reux [E][Am][G][F][G][C]
+
+
+[C]Demain à l'aurore, [Am]nous irons encore
+[Dm]Glaner dans les champs[G7]
+[C]Cueillir des promesses, [Am]des fleurs de tendresse
+[Dm]Et de s[G7]enti[C]ments
+
+[F]Et sur la colline, [G7]dans les sauvagines
+Tu te couche[C]ras
+[E]Dans mes bras ma brune, [Am]éclairée de lune
+[Dm]Tu te d[G7]onne[C]ras [E][Am][G][F][G][C]
+
+
+[C]C'est au crépuscule [Am]quand la libellule
+[Dm]S'endort au marais[G7]
+[C]Qu'il faudra, voisine, [Am]quitter la colline
+[Dm]Et vi[G7]te ren[C]trer
+
+[F]Ne dis rien ma brune, [G7]pas même à la lune
+Et moi dans mon [C]coin
+[E]J'irai solitaire, [Am]je saurai me taire
+[Dm]Je ne d[G7]irai [C]rien [E][Am][G][F][G][C]
+
+{guitar_comment: Au premier couplet}

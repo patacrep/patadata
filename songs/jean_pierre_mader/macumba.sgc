@@ -1,0 +1,41 @@
+{title: Macumba}
+{artist: Jean-Pierre Mader}
+{album: Microclimats}
+{cover: microclimats}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: A7 frets X 0 2 0 2 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: B7 frets X 2 1 2 0 2 special}
+{define: B& base-fret 1 frets X 0 2 2 2 X}
+{define: C frets X 3 2 0 1 0}
+
+{guitar_comment: Rythm : {partition: Macumba.ly}}
+{guitar_comment: Intro :  | [Dm] | [A7] | [Dm] | [A7] | }
+
+
+[Dm]Elle est v[A7]enue sans bag[Dm]age [A7]
+[Dm]Comme éch[A7]ouée d'un naufr[Dm]age [A7]
+[Em] Dans les cales d'un cargo
+[B7] Elle a quitté son [Em]île [B7]
+[Dm] Pour un monde nouv[A7]eau
+Loin des bidonv[Em]illes [A7]
+
+{start_of_chorus}
+  Au Mac[Dm]umba, Macumba, elle dan[A7]se tous les soirs
+  Pour l[Dm]es dockers du port qui ne [A7] pensent qu'à boire
+  Au Mac[Dm]umba, Macumba, elle dan[A7]se tous les soirs
+  Pour d[B&]es marins largués qui cherche[C]nt la bagarre
+  Au Mac[Dm]umba [A7]
+{end_of_chorus}
+
+
+[Dm]Pour trouver[A7] la force d'att[Dm]endre [A7]
+[Dm]Elle s'inv[A7]ente des rêves t[Dm]endres [A7]
+[Em] Les verres de téquila
+[B7] Réchauffent sa mém[Em]oire [B7]
+[Dm] De ces mots d'autref[A7]ois
+Brûlants comme l'esp[Em]oir
+
+{comment: Chorus}

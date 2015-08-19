@@ -1,0 +1,84 @@
+{title: Sous les jupes des filles}
+{artist: Alain Souchon}
+{album: C'est déjà ça}
+{cover: c-est-deja-ca}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+
+
+[Am]Rétines et pupilles
+Les garçons [G]ont les yeux qui brillent
+[F]Pour un jeu de dupes
+Voir sous les jupes des [C]filles
+
+[Am]Et la vie toute entière
+Absor[G]bée par cette affaire
+[F]Par ce jeu de dupes
+Voir sous les jupes des [C]filles
+
+{start_of_chorus}
+  [Fm]Elles, très fières
+  Sur leurs [G7]escabeaux en l'air
+  Regard méprisant
+  Et laissant le vent tout [Cm]faire
+{end_of_chorus}
+
+{start_of_chorus}
+  [Fm]Elles, dans l'suave
+  La fai[G7]blesse des hommes elles savent
+  Que la seule chose qui tourne sur terre
+  C'est leurs robes lé[Cm]gères
+{end_of_chorus}
+
+
+[Am]On en fait beaucoup
+Se pen[G]cher, tordre son cou
+[F]Pour voir l'infortune
+À quoi nos vies se ré[C]sument
+
+[Am]Pour voir tout l'orgueil
+Toutes les [G]guerres avec les deuils
+[F]La mort, la beauté
+Les chansons d'été, les [C]rêves
+
+{start_of_chorus}
+  [Fm][G7][Cm]
+  [Fm]Si parfois
+  Ça les [G7]gène et qu'elles veulent pas
+  Qu'on regarde leurs guibolles
+  Les garçons s'affolent de [Cm]ça
+{end_of_chorus}
+
+
+[Am]Alors faut qu'ça tombe
+Les hommes [G]ou bien les palombes
+[F]Les bieres, les khmers rouges
+Le moindre chevreuil qui [C]bouge
+
+[Am]Fanfare bleu blanc rage
+Verres de [G]rouge et vert de rage
+[F]L'honneur des milices
+Tu seras un homme mon [C]fils
+
+{start_of_chorus}
+  [Fm]Elles, pas fières
+  Sur leurs [G7]escabeaux en l'air
+  Regard implorant
+  Et ne comprenant pas [Cm]tout
+{end_of_chorus}
+
+{start_of_chorus}
+  [Fm]Elles, dans l'grave
+  La fai[G7]blesse des hommes elles savent
+  Que la seule chose qui tourne sur terre
+  C'est leurs robes lé[Cm]gères
+{end_of_chorus}
+
+{comment: Répéter Verse 1}

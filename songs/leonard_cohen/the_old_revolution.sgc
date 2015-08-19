@@ -1,0 +1,52 @@
+{title: The old revolution}
+{artist: Leonard Cohen}
+{album: Songs from a room}
+{cover: songs-from-a-room}
+{language: english}
+{columns: 2}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: B7 base-fret 2 frets X 0 2 0 2 0}
+
+
+[E] I finally [A] broke into the [E]prison
+[B] I found my place in the [E]chain [E7]
+[A] Even damnation is [E]poisoned with [Am]rainbows
+[E] All the brave young men
+[G#] They're waiting now to see a sig[C#m]nal
+Which some [A]killer will be [F#]lighting for [B]pay [B7]
+
+{start_of_chorus}
+  [A] Into this furnace I [E]ask you now to [Am]venture
+  [E]You whom I [B7]cannot be[A]tray [A][E]
+{end_of_chorus}
+
+
+[E] I fought in the [A]old revo[E]lution
+[B] On the side of the ghost and the [E]King [E7]
+[A] Of course I was very young and I [E]thought that we were [Am]winning
+[E] I can't pretend
+[G#] I still feel very much like sin[C#m]ging
+As they [A]carry the [F#]bodies a[B]way [B7]
+
+
+[E] Lately you've [A]started to [E]stutter
+[B] As though you had nothing to [E]say [E7]
+[A] To all of my architects [E]let me be [Am]traitor
+[E] Now let me say
+[G#] I myself gave the or[C#m]der
+To [A]sleep and to [F#]search and to des[B]troy [B7]
+
+
+[E] Yes, you who are [A]broken by [E]power
+[B] You who are absent all [E]day [E7]
+[A] You who are kings for the sake of your [E]children's [Am]story
+[E] The hand of your beggar
+[G#] Is burdened down with mo[C#m]ney
+The [A]hand of your [F#]lover is [B]clay [B7]

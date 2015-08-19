@@ -1,0 +1,80 @@
+{title: SNCeuFeu}
+{artist: Crep}
+{album: Mon voisin le manchot}
+{url: http://www.patacrep.com/fr/static3/audio}
+{cover: mon-voisin-le-manchot}
+{language: french}
+{columns: 2}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: D7 base-fret 3 frets X 2 1 2 0 X}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+
+
+[G]Ce week-end pour faire la fête
+Ré[D7]serve ton billet [G]sur le net
+Pas d'[G]crise de nerfs, c'est pas l'moment
+De [D7]maudire ce site [G]indécent
+
+{start_of_chorus}
+  [G]Cours, cours, dépêche-toi
+  Tu [D7]vas l'rater en[G]core une fois
+  [G]Cours, cours, dépêche-toi
+  Tu [D7]sais qu'il ne t'attendra [G]pas
+{end_of_chorus}
+
+
+Évite toute valise surchargée
+On n'sait jamais c'qui peut t'arriver
+30 minutes avant l'départ
+Prie pour qu'le tram soit pas en r'tard
+
+[G]Travaux sur la voie, t'es bien en [C]veine
+Mais pas à ça [D]près, vas pas stres[G]ser
+[G]Profite d'la chaleur hu[C]maine
+En mode sar[D]dine dans un wagon bon[G]dé
+
+
+Y'a qu'une bonne dame d'vant la machine
+Mais dépêche-toi parbleu, fais-vite
+C'est vrai qu'l'interface réactive
+Reste un concept très futuriste
+
+Billet retiré, faut l'composter
+Bouscule tout l'monde, fais pas d'quartiers
+Voie 138, au bout du quai
+Prépare ton sprint, pense au roulé-boulé
+
+
+Surtout, dans ton effort
+Rappelle-toi cette règle d'or
+
+Dès que l'[Em]sifflet sonne[D]ra, le train parti[Em]ra
+Si les [G]dieux sont avec [D]toi, il t'emmène[Em]ra
+De pingouin, mais
+
+Les [Em]portes [G]du Co[A]rail se [C]ferment
+Et [Em]tu te trouves du [G]mauvais cô[B7]té
+{echo: Mais si !}
+
+
+Youhou, yipi yeah
+T'es imbattable à la course à pied
+Reprend ton souffle, c'est mérité
+Cette épopée est terminée
+
+[Gm]Mais soudain surgissant d'nulle part
+Le [D7]contrôleur an[Gm]nonce un r'tard
+Ta [Gm]correspondance part dans les airs
+Un [D7]arbre est tombé sur une [Gm]caténaire
+
+{start_of_chorus}
+  Cours, cours, et cours toujours
+  SNCF, quelle histoire d'amour
+  Cours, cours, et cours toujours
+  Et surtout ne pense pas au r'tour
+{end_of_chorus}

@@ -1,0 +1,50 @@
+{title: Winter lady}
+{artist: Leonard Cohen}
+{album: Songs of Leonard Cohen}
+{cover: songs-of-leonard-cohen}
+{language: english}
+{columns: 2}
+{define: Amaj7 base-fret 5 frets X 0 2 2 1 X special}
+{define: D+* base-fret 3 frets X 3 2 0 1 X special}
+{define: C frets X 3 2 0 1 X special}
+{define: D+ base-fret 3 frets X 0 2 0 1 X special}
+{define: Am7 frets X 0 2 0 1 X special}
+
+# Note: la notation « N: » dans les accords suivants dénote d'un
+# décalage de N cases, et non d'un barré à la case N
+
+{guitar_comment: 4 cordes centrales en arpège}
+
+{guitar_comment: Intro: [Amaj7][D+*]}
+
+
+[D+*]Traveling [Amaj7]lady, [D+*] stay a[C]while
+Un[D+*]til the [Amaj7]night is [D+*]over
+I'm just a [Amaj7]station [D+*]on your [C]way
+I [D+*]know I'm [Amaj7]not your [D+*]lover
+
+{start_of_chorus}
+  Well [D+]I lived with a [Am7]child of snow
+  [D+]When I was a [Am7]soldier
+  And I[D+] fought every [Am7]man for her
+  Un[D+]til the nights grew [Am7]colder
+{end_of_chorus}
+
+
+She [D+*]used to [Amaj7]wear her [D+*]hair like [C]you
+Ex[D+*]cept when [Amaj7]she was [D+*]sleeping
+And then she'd [Amaj7]weave it [D+*]on a [C]loom
+Of [D+*]smoke and [Amaj7]gold and [D+*]breathing
+
+{start_of_chorus}
+  And [D+]why are you so [Am7]quiet now
+  [D+]Standing there in the [Am7]doorway?
+  You [D+]chose your journey [Am7]long before
+  You [D+]came upon this [Am7]highway
+{end_of_chorus}
+
+
+[D+*]Traveling [Amaj7]lady, [D+*] stay a[C]while
+Un[D+*]til the [Amaj7]night is [D+*]over
+I'm just a [Amaj7]station [D+*]on your [C]way
+I [D+*]know I'm [Amaj7]not your [D+*]lover

@@ -1,0 +1,18 @@
+{title: Here's to you}
+{artist: Joan Baez}
+{album: Sacco et Vanzetti}
+{cover: sacco_vanzetti}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+
+
+[C]Here's to [G7]you, Ni[Am]colas and [E]Bart
+[C]Rest for[G7]ever [Am]here in our [G7]hearts
+[C]The last and [F]final [G]moment is [Am]yours
+That [C]agon[Dm]y is y[Am]our [E]tri[Am]umph

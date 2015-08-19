@@ -1,0 +1,51 @@
+{title: Émilie}
+{artist: Soan}
+{album: Tant pis}
+{cover: tant-pis}
+{language: french}
+{columns: 1}
+{capo: 4}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+
+{start_of_chorus}
+  {guitar_comment: Intro : [Am][F][E] {repeat: 4}}
+{end_of_chorus}
+
+
+J'aime[Am]rais tenir dans mes mains ce [F]maudit Saint [E]Graal
+Qui se cache, on ne sait z'où : il se rit bien de nos promesses
+Je ne serais pas mécontent que se pendent à mon cou
+Quelques félicitations, un peu de gloire et bonne presse
+Je n'ai rien contre la fortune et si je veux bien rester droit
+J'aime autant dormir sous la lune uniquement quand c'est un choix
+J'aimerais voir de nos yeux, un gosse de moi sourire
+Que ce p'tit con m'appelle papa, le voir grandir et vivre vieux
+
+{start_of_chorus}
+  Et si je [Am]n'ai rien de tout ça, peu im[C]porte
+  J'irai [G]chanter devant ta porte, Émi[Am]lie
+  Et si l'on ne [Am]m'ouvre pas, que le Diable m'em[C]porte
+  Peu m'im[E]portent les saveurs du para[Am]dis !
+{end_of_chorus}
+
+
+J'aimerais découvrir le monde avant que d'en crever
+Quitte à saigner de trop, de pas voir si la terre est ronde
+Mourir un an, peut-être deux, me reposer un peu
+Puis, revenir en conquérant tant que mes dents tiennent ces lieux
+Et même dans des oripeaux, des adipes troués
+Martyrisés par manque de pot, une fois le temps d'abandonner
+Moi qui voulais tous les empires et les murs à tomber
+Moi qui n'aurais su réussir, j'ensorcelle ton escalier
+
+{start_of_chorus}
+  Et si je n'ai rien fait de moi, peu importe
+  Je chante devant ta porte, Émilie
+  Et si l'on ne m'ouvre pas, que le Diable m'emporte
+  Peu m'importent les saveurs du paradis !
+  {repeat: 2}
+{end_of_chorus}

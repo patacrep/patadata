@@ -1,0 +1,109 @@
+{title: Sur le fil}
+{artist: Debout sur le Zinc}
+{album: La fuite en avant}
+{url: http://www.dslz.org}
+{cover: la-fuite-en-avant}
+{language: french}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: B7 frets X 2 1 2 0 2}
+{define: E7 frets 0 2 0 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: F frets 2 0 1 0}
+{define: Am frets 2 0 0 0}
+{define: Dm frets 2 2 1 0}
+{define: B7 base-fret 2 frets 0 1 0 0}
+{define: E7 frets 1 2 0 2}
+{define: A frets 2 1 0 0}
+{define: G frets 0 2 3 2}
+{define: C frets 0 0 0 3}
+
+{guitar_comment: Intro :  [F]}
+
+
+[F] Mais qu'est-ce qui les fait cou[Am]rir
+Les fait avan[F]cer
+Les oblige à tous se [Am]suivre
+À se rassu[Dm]rer
+Dans un tourbillon effra[B7]yant
+Vers lequel ils vont en chan[E7]tant ?
+
+[F] Moi, j'me noie dans un verre [Am]d'eau
+J'ai surement ra[F]té
+Un truc, un très gros pan[Am]neau
+Je ne peux pas les rattra[Dm]per
+Si d'aventure je m'y es[B7]saye
+Pour moi c'est la chute assu[E7]rée
+
+{start_of_chorus}
+  Car je [A]vis comme [Dm]on marche sur un [Am]fil
+  Un [Dm]seul battement de [Am]cils
+  Suffi[G]rait à me faire tom[C]ber [E7]
+  Oui je [A]suis une [Dm]espèce fra[Am]gile
+  Un [Dm]rien, un imbé[Am]cile
+  Un musi[G]cien, un éga[C]ré [E7]
+{end_of_chorus}
+
+
+[F] Je n'ai pas de mode d'em[Am]ploi
+Je n'les lis ja[F]mais
+Je crois que je n'y crois [Am]pas
+Et que je me [Dm]fais
+Jour après jour aux alé[B7]as
+Et aux incidents de par[E7]cours
+
+[F] Toi, tu voulais être in[Am]dien
+Lui, un poli[F]cier
+Elle, un ingénieur mar[Am]tien
+Lui, une jolie [Dm]fée
+Mais on se retrouve à 20 [B7]heures
+Bien souvent sur nos cana[E7]pés
+
+{start_of_chorus}
+  Car on [A]vit comme [Dm]on marche sur un [Am]fil
+  Un [Dm]seul battement de [Am]cils
+  Suffi[G]rait à nous faire dou[C]ter [E7]
+  Oui nous [A]sommes une [Dm]espèce fra[Am]gile
+  Une [Dm]poussière in[Am]fime
+  Et nos [G]rêves se sont envo[C]lés [E7]
+{end_of_chorus}
+
+{start_of_bridge}
+[F][F][Am][Am] [F][F][Am][Am]
+[A][Dm][Am][Dm] [Am][G][F][F]
+{end_of_bridge}
+
+
+[F] La vie c'est de la bri[Am]cole
+Deux, trois bouts de fi[F]celle
+Un élastique et on dé[Am]colle
+Alors visons le [Dm]ciel
+Car c'est ce qu'on fait de [B7]mieux
+Rêver nous fait pousser des [E7]ailes
+
+{start_of_chorus}
+  On vi[A]vra comme [Dm]on marche sur un [Am]fil
+  In[Dm]solent, indo[Am]cile
+  Tout là-[G]haut sur la cano[C]pée [E7]
+  Car nous [A]sommes une [Dm]espèce fra[Am]gile
+  Qui [Dm]d'un battement de [Am]cil
+  Pourrait at[G]teindre l'éterni[C]té [E7]
+{end_of_chorus}
+
+{start_of_chorus}
+  On vi[A]vra comme [Dm]on marche sur un [Am]fil
+  In[Dm]solent, indo[Am]cile
+  Tout là-[G]haut sur la cano[C]pée [E7]
+  Oui, nous [A]sommes une [Dm]espèce fra[Am]gile
+  Qui [Dm]d'un battement de [Am]cil
+  Pourrait tou[G]cher l'éterni[C]té [E7]
+{end_of_chorus}
+
+{start_of_chorus}
+  On vi[A]vra comme [Dm]on marche sur un [Am]fil...
+  [D][Am][G][C][E7]
+{end_of_chorus}

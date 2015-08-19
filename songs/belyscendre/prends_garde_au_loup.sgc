@@ -1,0 +1,34 @@
+{title: Prends garde au loup}
+{artist: Belyscendre}
+{album: Prends garde au loup}
+{url: http://www.belyscendre.com}
+{cover: prends-garde-au-loup}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+
+{start_of_chorus}
+  Prends garde au [Am]loup bergère
+  [F]Prends garde au [Am]loup {repeat: 2}
+{end_of_chorus}
+
+
+[Am]Il est au [Dm]bois qui re[G]garde, qui regarde
+[Am]Il est au [Dm]bois qui re[G]garde tes mou[Am]tons
+
+{start_of_chorus}
+  C'est pas le loup bergère
+  C'est pas le loup {repeat: 2}
+{end_of_chorus}
+
+
+C'est les garçons et qui tournent et qui tournent
+C'est les garçons et qui tournent autour de vous
+
+{start_of_chorus}
+  Prends garde au loup bergère
+  Prends garde au loup {repeat: 2}
+{end_of_chorus}

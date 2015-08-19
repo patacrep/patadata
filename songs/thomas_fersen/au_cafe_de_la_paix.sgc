@@ -1,0 +1,104 @@
+{title: Au café de la Paix}
+{artist: Thomas Fersen}
+{album: Les ronds de carotte}
+{cover: les-ronds-de-carotte}
+{language: french}
+{columns: 2}
+{define: F6 frets X X 3 2 3 1 special}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Gdim base-fret 2 frets 1 2 0 1 X X special}
+{define: C7 frets X 3 2 3 1 0}
+{define: F6 base-fret 1 frets 1 1 0 2 special}
+{define: B& base-fret 1 frets 2 1 0 0}
+{define: Gdim frets 0 1 3 1 special}
+{define: C7 frets 0 0 0 1}
+
+
+[F6]Rendez-[B&]vous
+À [F6]la brasse[B&]rie
+Du [F6]café de la [B&]Paix
+Je [F6]t'atten[B&]drais
+
+Je [F6]porte un [B&]feutre
+De [F6]couleur [B&]neutre
+Et mon [F6]pardes[B&]sus
+N'est pas bril[F6]lant non [B&]plus
+
+{start_of_chorus}
+  Je [F6]poserai mon jour[B&]nal
+  Sur [Gdim]le bar devant [F6]moi
+  Je [F6]poserai mon jour[B&]nal
+  Tu [Gdim]me reconnaî[C7]tras
+{end_of_chorus}
+
+
+Si [F6]t'es en re[B&]tard
+Pas[F6]sé le [B&]quart
+Je [F6]prendrai un de[B&]mi
+Pour [F6]noyer mon en[B&]nui
+
+Si [F6]t'es en re[B&]tard
+[F6]Jusqu'au [B&]soir
+Je [F6]prendrai un sé[B&]rieux
+Pour le [F6]noyer [B&]mieux
+
+{start_of_chorus}
+  Je [F6]plierai mon jour[B&]nal
+  Sur [Gdim]le bar devant [F6]moi
+  Je [F6]plierai mon jour[B&]nal
+  Tu [Gdim]me reconnaî[C7]tras
+{end_of_chorus}
+
+{start_of_bridge}
+La la [F6]la la la la [B&]la
+La la [F6]la la la la [B&]la
+[F6]La la la la [B&]la
+La la [F6]la [B&]
+{end_of_bridge}
+
+
+[F6]On i[B&]ra
+Où tu vou[B&]dras
+Tu [F6]me pren[B&]dras
+Le bras comme [F6]autre[B&]fois
+
+On [F6]ira voir notre [B&]rue
+Notre [F6]chambre au si[B&]xième
+Tout [F6]ça n'existe [B&]plus
+Mais on [F6]ira quand [B&]même
+
+{start_of_chorus}
+  L'an[F6]nonce dans le jour[B&]nal
+  Est [Gdim]parue y a un [F6]mois
+  Si [F6]tu lis ce jour[B&]nal
+  Tu [Gdim]te reconnaî[C7]tras
+{end_of_chorus}
+
+
+On [F6]ira voir la [B&]Seine
+Et le [F6]cœur de Pa[B&]ris
+Ma [F6]maison de car[B&]ton
+Au [F6]pont Ma[B&]rie
+
+On [F6]ira voir ail[B&]leurs
+On [F6]ira faire for[B&]tune
+La la la [F6]la la [B&]la
+La la la [F6]la la [B&]la
+
+On [F6]ira voir ail[B&]leurs
+Parce [F6]qu'il est [B&]l'heure
+Les [F6]chaises sont sur les [B&]tables
+C'est la [F6]fin de la [B&]fable
+
+{start_of_chorus}
+  Je [F6]pose ce qu'il me [B&]reste
+  Sur [Gdim]le bar devant [F6]moi :
+  Trois clous et [F6]un bouton de [B&]veste
+  Tu ne me [Gdim]reconnaîtras [C7]pas
+{end_of_chorus}
+
+
+La [F6]nuit étreint le [B&]ciel
+La [F6]nuit étreint le [B&]ciel
+Allez, mon [F6]rossi[B&]gnol
+La [F6]vie est [B&]belle

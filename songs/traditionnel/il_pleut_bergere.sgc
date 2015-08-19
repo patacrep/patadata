@@ -1,0 +1,44 @@
+{title: Il pleut bergère}
+{artist: Traditionnel}
+{album: France}
+{cover: traditionnel}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+
+
+Il [G]pleut, il pleut bergère
+Presse tes [D]blancs mou[G]tons
+[D]Allons sous ma chau[G]mière
+Bergère, vite, al[D]lons
+
+[D]J'entends sur le feuil[G]lage
+[C]L'eau qui tombe [G]à grand [D]bruit
+Voi[G]ci, voici l'o[C]rage
+[G]Voilà l'é[D]clair qui [G]luit
+
+
+En[G]tends-tu le tonnerre ?
+Il roule en [D]appro[G]chant
+[D]Prends un abri, ber[G]gère
+À ma droite, en mar[D]chant
+
+[D]Je vois notre ca[G]bane
+[C]Et, tiens, voi[G]ci ve[D]nir
+Ma [G]mère et ma sœur [C]Anne
+[G]Qui vont l'é[D]table ouv[G]rir
+
+
+Bon[G]soir, bonsoir, ma mère
+Ma sœur [D]Anne, bon[G]soir
+[D]J'amène ma ber[G]gère
+Près de vous pour ce [D]soir
+
+[D]Va te sécher, ma [G]mie
+[C]Auprès de [G]nos ti[D]sons
+Soeur, [G]fais-lui compa[C]gnie
+[G]Entrez, pe[D]tits mou[G]tons
+
+{partition: Il_pleut_bergere.ly}

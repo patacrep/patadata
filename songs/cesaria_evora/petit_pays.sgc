@@ -1,0 +1,45 @@
+{title: Petit pays}
+{artist: Cesária Évora}
+{album: Cesária}
+{cover: cesaria}
+{language: portuguese}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+
+
+[Em]La na cêu bô ê um es[Am]trela [B7]
+Ki catá bril[Em]ha
+Li na mar bô ê um areia
+Ki catá moiá
+Espaiote nesse munde fora
+Sô rotcha e mar
+
+Terra pobre chei di amor
+Tem morna tem coladera
+Terra sabe chei di amor
+Tem batuco tem funaná
+
+Espaiote nesse munde fora
+Sô rotcha e mar
+Terra pobre chei di amor
+Tem morna tem coladera
+Terra pobre chei di amor
+Tem batuco tem funaná
+
+{start_of_chorus}
+  Oi tonte sodade
+  Sodade sodade
+  Oi tonte sodade
+  Sodade sem fim
+  {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  Petit pays
+  Je t'aime beaucoup
+  Petit, petit
+  Je l'aime beaucoup
+  {repeat: 2}
+{end_of_chorus}

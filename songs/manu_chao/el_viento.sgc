@@ -1,0 +1,44 @@
+{title: El viento}
+{artist: Manu Chao}
+{album: Clandestino}
+{cover: clandestino}
+{language: spanish}
+{columns: 2}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+
+{guitar_comment: Intro  [G#m] [F#] [G#m] [F#]}
+
+
+El [G#m]viento viene
+El [F#]viento se va
+[G#m]Por la fron[F#]tera
+El [G#m]viento viene
+El [F#]viento se va
+[G#m] [F#]
+
+El [G#m]hombre viene
+El [F#]hombre se va
+[G#m]Sin más ra[F#]zon
+El [G#m]hombre viene
+El [F#]hombre se va
+[G#m]Ruta Baby[F#]lon
+
+{start_of_chorus}
+  [G#m]Por la carretera {repeat: 2}
+{end_of_chorus}
+
+
+La [G#m]suerte viene
+La [F#]suerte se va
+[G#m]Por la fron[F#]tera
+La [G#m]suerte viene
+La [F#]suerte se va
+[G#m] [F#]
+
+El [G#m]hombre viene
+El [F#]hombre se va
+[G#m]Sin más ra[F#]zon
+El [G#m]hombre viene
+El [F#]hombre se va
+[G#m]¿Cuando volve[F#]ra?

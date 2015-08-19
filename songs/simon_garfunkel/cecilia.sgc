@@ -1,0 +1,29 @@
+{title: Cecilia}
+{artist: Simon & Garfunkel}
+{album: The definitive}
+{cover: the-definitive}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+
+{start_of_chorus}
+  Ce[D]cilia, you're [G]breaking my [D]heart
+  You're [G]shaking my [D]confidence [A]daily
+  Oh Ce[G]cil-[D]ia, I'm [G]down on my [D]knees
+  I'm [G]begging you [D]please to come [A]home
+{end_of_chorus}
+
+
+Making [D]love in the [G]after[A]noon
+With Ce[D]cilia, [G]up in [A]my bed[D]room
+{echo: Making love} I got [D]up to [G]wash my [A]face
+When I [D]come back to bed
+Some[G]one's [A]taken my [D]place
+
+
+Jubi[G]la[D]tion
+She [G]loves me [D]again
+I [G]fall on the [D]floor and I [A]laughing
+{repeat: 2}

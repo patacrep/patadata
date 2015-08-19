@@ -1,0 +1,87 @@
+{title: Snow (Hey oh)}
+{artist: Red Hot Chili Peppers}
+{album: Stadium Arcadium}
+{cover: stadium-arcadium}
+{language: english}
+{columns: 2}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+
+#first verse pattern
+
+
+[G#m]Come to decide that the [E]things that I tried
+Were [B]in my life just [F#]to get high on
+When I sit alone come get a little known
+But I need more than myself this time
+
+Step from the road to the sea, to the sky
+And I do believe it, we rely on
+When I lay it on, come get to play it on
+All my life to sacrifice
+
+#chorus
+
+{start_of_chorus}
+  Hey oh
+  Listen what I say oh
+  {echo: I got your} Hey oh
+  Now listen what I say oh
+{end_of_chorus}
+
+#first verse pattern
+
+
+When will I know that I really can't go
+To the well once more time to decide on
+When it's killing me, when will I really see
+All that I need to look inside
+
+Come to believe that I better not leave
+Before I get my chance to ride
+When it's killing me, what do I really need
+All that I need to look inside
+
+#chorus extended
+
+{start_of_chorus}
+  Hey oh
+  Listen what I say oh
+  {echo: Come back and} Hey oh
+  Look at what I say oh
+{end_of_chorus}
+
+{start_of_chorus}
+  [E]The more I see, the less I know
+  The more I like to let it go
+  [G#m]Hey oh
+  Wo-oo wo-oo [E]wo
+{end_of_chorus}
+
+#second chorus
+
+[B]Deep beneath the cover of another [F#]perfect wonder
+Where it's [C#m]so white as snow
+Privately divided by a world so undecided
+And there's nowhere to go
+
+In between the cover of another perfect wonder
+And it's so white as snow
+Running through a field where all my tracks will
+Be concealed and there is nowhere to go
+
+#first verse pattern
+
+
+When to descend to amend for a friend
+All the channels that have broken down
+Now you bring it up, I'm gonna ring it up
+Just to hear you sing it out
+
+Step from the road to the sea, to the sky
+And I do believe what we rely on
+When I lay it on, come get to play it on
+All my life to sacrifice

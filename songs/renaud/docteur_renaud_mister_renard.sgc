@@ -1,0 +1,89 @@
+{title: Docteur Renaud, Mister Renard}
+{artist: Renaud}
+{album: Boucan d'enfer}
+{cover: boucan-d-enfer}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em7 frets 0 2 2 0 3 0 special}
+{define: F2 frets 1 3 3 0 X X special}
+{define: G2 frets 3 X 0 2 X X special}
+{define: E/G# base-fret 2 frets 3 1 1 3 4 1 special}
+
+
+[Am]Comme y'a eu [F]Gainsbourg et Gains[G]barre
+Y'a le [Em7]Renaud et le Re[Am]nard
+Le Renaud [F]ne boit que de [G]l'eau
+Le Renard [Em7]carbure au Ri[Am]card
+Un côté [F]blanc, un côté [G]noir
+Personne n'est [Em7]tout moche ou tout [Am]beau
+Moitié ange [F]et moitié sa[G]laud
+Et c'est ce [Em7]que nous allons [Am]voir
+
+{start_of_chorus}
+  [F]Docteur Re[G]naud, Mis[Em7]ter Re[Am]nard [F] [G] [Em7]
+{end_of_chorus}
+
+
+Renard est un sacré soiffard
+Renaud est sobre comme un moineau
+Quand Renaud rejoint son plumard
+Renard s'écroule dans l'caniveau
+Renaud se méfie des pétards
+Et du chichon qui rend idiot
+Renard se les roule peinard
+Pour s'exploser le ciboulot
+
+{start_of_chorus}
+  [Em7]Renaud s'ef[F]force, c'est son boulot
+  D'écrire [E/G#]de jolies histoires
+  Pour séduire [Am]les gens, les mar[G]mots
+  Pour amu[F]ser pour émouvoir
+  À la poin[F2]te de son stylo
+  Le Renard [E/G#]n'a que des gros mots
+  La para[Am]no et le ca[G]fard
+  N'lui inspirent [F2]que des idées noires
+{end_of_chorus}
+
+
+Renaud souffre de tous les maux
+Qui accablent ce monde barbare
+Il porte les croix sur son dos
+Des injustices les plus notoires
+Renard désabusé se marre
+Se contrefout de ce bazar
+Le monde peut crever bientôt
+Renard s'en réjouirait plutôt
+
+
+Renaud a choisi la guitare
+Et la poésie et les mots
+Comme des armes un peu dérisoires
+Pour fustiger tous les blaireaux
+Renard, c'est son côté anar
+Crache sur tous les idéaux
+Se moque du tiers comme du quart
+Des engagements les plus beaux
+
+{start_of_chorus}
+  Renaud mérite les bravos
+  Car en amour et c'est sa gloire
+  Il est tendre comme un agneau
+  Pour une seule et même histoire
+  Renard se frotte à toutes les peaux
+  À que des aventures d'un soir
+  Avec des canons, des cageots
+  Renard s'rait-il un brin vicelard ?
+{end_of_chorus}
+
+
+C'est à cause du désespoir
+Qui tombe à 50 ans bientôt
+Que le Renard, tôt ou tard
+Prendra le dessus sur Renaud
+Aujourd'hui son amour se barre
+Son bel amour, son Domino
+Elle quitte le vilain Re[G2]nard
+Mais aimera toujours Renaud[Am] [F]

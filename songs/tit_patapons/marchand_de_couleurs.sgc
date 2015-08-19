@@ -1,0 +1,66 @@
+{title: Marchand de couleurs}
+{artist: Tit Patapons}
+{album: Premier jet}
+{cover: premier-jet}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Asus4 frets X 0 2 2 3 0 special}
+{define: Asus2 frets X 0 2 2 0 0 special}
+{define: Am7 frets X 0 2 2 1 3 special}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+
+Sou[Am]viens-toi de moi, je suis ce[Asus4]lui
+Qui co[Asus2]lorait tes [Am]rêves
+Qui t'ap[Am]portait des [Am7]vagues
+De bon[Asus2]heur sur la [Am]grève
+Celui qui distribue
+Des arc-en-ciels aux âmes tristes
+Qui transforme les tempêtes
+En légères brises
+
+{start_of_chorus}
+  Sou[Am]viens-toi de [F]moi
+  Je suis le [C]marchand de cou[Am]leurs
+  Qui apporte les sourires
+  Et distribue les bonheurs
+  Qui envoie le soleil
+  Réchauffer ton pays froid
+  Qui désarme la tristesse
+  Pour te remplir de joie
+  {repeat: 2}
+{end_of_chorus}
+
+{partition: Marchand_de_couleurs.ly}
+
+
+Moi tou[Am]jours, je t'emmène dans des [F]landes
+Aux [C]parfums su[Am]crés
+À jamais, je te guéris
+De ces grandes plaines rougeoyantes
+Où la fumée des combats
+Reste encore à planer
+Et les braises des feux
+Encore à voler
+
+
+{echo: Souviens-toi de moi}
+Je colorais tes rêves
+{echo: Souviens-toi de moi}
+Jusque sur la grève
+{echo: Souviens-toi de moi}
+Des arcs-en-ciel aux âmes tristes
+{echo: Souviens-toi de moi}
+
+{start_of_chorus}
+  Souviens-toi de moi
+  Je suis le marchand de couleurs
+  Ferme les yeux
+  Je t'emmène loin des tourments
+  Je suis celui qui vit
+  Au plus profond de ton cœur
+  Qui écoute encore
+  Les roulements de l'océan
+{end_of_chorus}

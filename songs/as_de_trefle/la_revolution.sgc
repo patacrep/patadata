@@ -1,0 +1,56 @@
+{title: La révolution}
+{artist: As de Trêfle}
+{album: Houlala}
+{url: http://www.as-de-trefle.com/}
+{cover: houlala}
+{language: french}
+{columns: 2}
+{define: B&m base-fret 1 frets X 0 2 2 1 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: E&m base-fret 6 frets X 0 2 2 1 0}
+{define: D& base-fret 4 frets X 0 2 2 2 0}
+{define: G& base-fret 2 frets 0 2 2 1 0 0}
+{define: B&m base-fret 1 frets 2 0 0 0}
+{define: A& base-fret 3 frets 2 0 1 0}
+{define: E&m base-fret 1 frets 2 2 1 0}
+{define: D& base-fret 1 frets 0 0 0 1}
+{define: G& base-fret 1 frets 2 0 1 0}
+
+
+[B&m]Quoi que tu dises
+Ou [A&]quoi que tu fasses
+[E&m] Ce sera la révolution
+
+[B&m]Quoiqu'on en dise
+Quelles [A&]que soient les menaces
+[E&m] C'est la dernière solution
+
+Que [B&m]ça te défrise
+Que [A&]tu aies des angoisses
+[E&m] Si je baisse mon pantalon
+
+[B&m]Quoi que tu dises
+Ou [A&]quoi que tu fasses
+[E&m] C'est pour la grosse commission
+
+{start_of_chorus}
+  {guitar_comment: Violon}
+  [B&m][A&][E&m][E&m] {repeat: 4}
+  {partition: La_revolution.ly}
+{end_of_chorus}
+
+
+[D&]Prends-toi en main
+Laisse-[A&]les pas dans tes poches
+[B&m]Serre les poings
+Re[G&]lève la caboche
+
+[D&]Mets des cailloux
+[A&]Dans ta sacoche
+[B&m]Fais le voyou
+[G&]Ou bien raccroche
+
+[D&]Toi, le fripon
+La [A&]vraie tête de pioche
+[B&m]Fais pas le con
+À [G&]rouler des galoches

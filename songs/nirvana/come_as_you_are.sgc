@@ -1,0 +1,53 @@
+{title: Come as you are}
+{artist: Nirvana}
+{album: Nevermind}
+{cover: nevermind}
+{language: english}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X 0 0 2 3 2}
+{define: G frets 3 2 0 0 0 1}
+{define: A frets 0 0 2 2 2 0}
+{define: C frets X 3 2 0 1 0}
+
+
+[Em]Come as you [D]are
+As you [Em]were
+As I [D]want you to [Em]be
+As a fri[D]end
+As a fri[Em]end
+As an [D]old ene[Em]my
+
+
+Take your [D]time
+Hurry [Em]up
+The choice is [D]yours
+Don't be [Em]late
+Take a [D]rest
+As a [Em]friend
+As an [D]old memo[Em]ry
+
+{start_of_chorus}
+  [G]A mem[Em]ory {repeat: 3}
+  [G](A)
+{end_of_chorus}
+
+
+[Em]Come doused in [D]mud
+Soaked in [Em]bleach
+As I [D]want you to [Em]be
+As a [D]trend
+As a fri[Em]end
+As an [D]old memo[Em]ry
+
+{start_of_chorus}
+  [G]A mem[Em]ory {repeat: 3}
+  [G](A)
+{end_of_chorus}
+
+
+[A]And I [C]swear
+That I [A]don't have a gun[C]
+No, I [A]don't have a gun [C] {repeat: 2}
+
+{guitar_comment: solo sur les accords du Verse 3 et du Chorus, puis Verse 4 chanté à nouveau}

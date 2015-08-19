@@ -1,0 +1,46 @@
+{title: '74 -- '75}
+{artist: The Connells}
+{album: Ring}
+{cover: ring}
+{language: english}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+
+
+[F] Got no [C]reason
+For [F]coming to me and the [C]rain running [F]down
+There's no [C]reason [Am]
+
+[F] And the [C]same voice
+[F]Coming to me like it's [C]all slowin' [F]down
+And be[C]lieve me [G]
+
+{start_of_chorus}
+  I was the [Am]one who let you [C]know
+  I was your [G]sorry-ever-[F]after
+  '[Am]74 -- '[C]75 [G]
+{end_of_chorus}
+
+
+It's not easy
+Nothing to say 'cause it's already said
+It's never easy
+
+When I look oh, in your eyes
+Then I find that I'll do fine
+When I look oh, in your eyes then I do better
+
+{start_of_chorus}
+  I was the one who let you know
+  I was your sorry-ever-after
+  '74 -- '75
+{end_of_chorus}
+
+{start_of_chorus}
+  Giving me more and I'll defy
+  'Cause you're really only after
+  '74 -- '75
+{end_of_chorus}

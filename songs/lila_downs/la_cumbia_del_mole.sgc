@@ -1,0 +1,47 @@
+{title: La cumbia del mole}
+{artist: Lila Downs}
+{album: La cantina}
+{cover: la-cantina}
+{language: spanish}
+{columns: 2}
+{define: Em base-fret 7 frets X 0 2 2 1 0}
+{define: B base-fret 7 frets 0 2 2 1 0 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+
+
+Cuentan que en Oa[Em]xaca, se [B]toma el mezcal con [Em]cafe {repeat: 2}
+Dicen que la [D]hierba, le cura la mala [Em]fe {repeat: 2}
+[Am]A mi me gusta el [Em]mole, mi so[B]ledad me va a mo[Em]ler {repeat: 2}
+
+{partition: La_cumbia_del_mole.ly}
+
+{start_of_chorus}
+  Mi que[Em]rida sole[B]dad, me va a guisar un mo[Em]lito
+  Por el [Em]cielo de Monter[B]rey, de noche sueño con[Em]tigo
+  {repeat: 2}
+{end_of_chorus}
+
+[Em]Se muele con cacahuate
+Se muele también el pan
+Se muele al almendra seca
+Se muele el chile, también la sal
+Se muele ese chocolate
+Se muele la canela
+Se muele pimienta y clavo
+Se muele la mole entera
+Se muele ...
+
+Se muele ese chocolate
+Se muele también el pan
+Se muele al almendra seca
+Se muele el chile también la sal
+Se muele ese chocolate
+Se muele la canela
+Se muele pimienta y clavo
+Se muele la mole entera {repeat: 3}
+
+
+Cuentan que en Oaxaca con agua es el chocolate {repeat: 2}
+Dicen que en la fiesta todito se ha de quemar {repeat: 2}
+Para que haga su manda por la pasión de soledad {repeat: 2}

@@ -1,0 +1,121 @@
+{title: Monsieur}
+{artist: Thomas Fersen}
+{album: Qu4tre}
+{cover: qu4tre}
+{language: french}
+{columns: 3}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: A# base-fret 1 frets X 0 2 2 2 0}
+{define: D# frets X X 1 3 4 3}
+{define: G frets 3 2 0 0 0 3}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: Cm frets 0 3 3 3}
+{define: A# base-fret 1 frets 2 1 0 0}
+{define: D# base-fret 1 frets 2 2 2 0}
+{define: G frets 0 2 3 2}
+{define: Fm frets 1 0 1 3}
+{define: B base-fret 2 frets 2 1 0 0}
+
+{guitar_comment:  Intro :  [Cm][B][Cm] {repeat: 2} }
+
+Les pa[Cm]ssants sur son chemin
+Sou[A#]lèvent leurs ga[D#]lures
+Le chien [A#]lui lèche les [D#]mains
+Sa [G]présence ras[Cm]sure
+
+Voyez [Cm]cet enfant qui beugle
+[A#]Par lui secou[D#]ru
+Et comme [A#]il aide l'a[D#]veugle
+À [G]traverser la [Cm]rue
+
+Dans la [Cm]paix de son jardin
+Il [A#]cultive ses [D#]roses
+Monsieur [A#]est un assas[D#]sin
+[G]Quand il est mo[Cm]rose
+
+{start_of_chorus}
+  Il é[Cm]trangle son semblable
+  [A#]Dans le bois d'Meu[D#]don
+  Quand il [A#]est inconso[D#]lable
+  [Fm]Quand il a l'bour[G]don
+{end_of_chorus}
+
+À la [Cm]barbe des voisins
+Qui [A#]le trouvent sympa[D#]thique
+Monsieur [A#]est un assas[D#]sin
+Je [G]suis son domes[Cm]tique
+
+Et je [Cm]classe ce dossier
+[A#]Sous les églan[D#]tines
+Je suis [A#]un peu jardi[D#]nier
+Et [G]je fais la cui[Cm]sine
+
+Il é[Cm]trangle son prochain
+Quand [A#]il a le ca[D#]fard
+Allez [A#]hop ! Dans le bas[D#]sin
+[G]Sous les nénu[Cm]phars
+
+Et je [Cm]donne un coup de balai
+[A#]Sur les lieux du [D#]crime
+Où il [A#]ne revient ja[D#]mais
+[G]Même pas pour la [Cm]frime
+
+Sans é[Cm]veiller les soupçons
+[A#]Aux petites [D#]heures
+Nous ren[A#]trons à la mai[D#]son
+[G]Je suis son chauf[Cm]feur
+
+{start_of_chorus}
+  Lala[Cm]lalalalala...
+{end_of_chorus}
+
+Car sous [Cm]son air anodin
+[A#]C'est un luna[D#]tique
+Monsieur [A#]est un assas[D#]sin
+[G]Chez lui c'est chro[Cm]nique
+
+Il é[Cm]trangle son semblable
+[A#]Lorsque minuit [D#]sonne
+Et moi [A#]je pousse le [D#]diable
+[G]Dans le bois d'Bou[Cm]logne
+
+Le cli[Cm]ent dans une valise
+[A#]Avec son cha[D#]peau
+Prendra [A#]le train pour Ve[D#]nise
+[G]Et un peu de re[Cm]pos
+
+{start_of_chorus}
+  Il ét[Cm]rangle son semblable
+  [A#]Dans le bois d'Meu[D#]don
+  Quand il [A#]est inconso[D#]lable
+  [Fm]Quand il a l'bour[G]don
+{end_of_chorus}
+
+À la [Cm]barbe des voisins
+Qui [A#]le trouve sympa[D#]thique
+Monsieur [A#]est un assas[D#]sin
+Je [G]suis son domes[Cm]tique
+
+{guitar_comment:  [Cm][A#][D#][A#][D#][G][Cm]}
+
+{start_of_chorus}
+  Vous al[Cm]lez pendre monsieur
+  Je [A#]vais perdre ma [D#]place
+  Vous al[A#]lez pendre mon[D#]sieur
+  Hé[Fm]las ! Trois fois hé[G]las !
+{end_of_chorus}
+
+Mais il [Cm]fallait s'y attendre
+Et [A#]je prie Votre Hon[D#]neur
+Humble[A#]ment, de me re[D#]prendre
+[G]Comme servi[Cm]teur
+
+Et je [Cm]classerai ce dossier
+[A#]Sous les églan[D#]tines
+Je suis [A#]un peu jardi[D#]nier
+Et [G]je fais la cui[Cm]sine
+
+{guitar_comment: Outro :}
+{guitar_comment:  [Cm][A#][D#][A#][D#][Fm][G]}
+{guitar_comment:  [Cm][A#][D#][A#][D#][G][Cm]}

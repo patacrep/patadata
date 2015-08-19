@@ -1,0 +1,46 @@
+{title: Lucky Luke}
+{artist: Dessins Animés}
+{album: Lucky Luke}
+{cover: lucky-luke}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+
+[Am]On l'appelle Lucky Luke
+[G]De l'Ouest au Far-Ouest
+[F]Il arrive au galop
+[C]Ce cow-boy héros
+
+
+[Am]Son tir est plus rapide
+[G]Plus rapide que son ombre
+[F]Et son revolver va plus vite que l'éclair
+Oh [G]sacré Lucky [C]Luke !
+
+{start_of_chorus}
+  [G]Bang Bang Lucky Luke
+  [C]Bang Bang Lucky Luke
+  [G]C'est lui qui a le truc pour [C]nous étonner
+{end_of_chorus}
+
+{start_of_chorus}
+  [G]Bang Bang Lucky Luke
+  [C]Bang Bang Lucky Luke
+  [F]C'est un homme qui n'a peur de personne
+  Mê[G]me pas des Dal[C]ton !
+{end_of_chorus}
+
+{start_of_chorus}
+  Bang Bang Lucky Luke {repeat: 2}
+  Même les Dalton, qui ne craignent personne
+  Ont peur de Lucky Luke !
+{end_of_chorus}
+
+
+Les [F]hors-la-loi
+N'échapperont pas
+Au [G]tir de Lucky [C]Luke !

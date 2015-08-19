@@ -1,0 +1,34 @@
+{title: Stand by me}
+{artist: Ben E. King}
+{album: Best of}
+{cover: ben-e-king-best-of}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+
+When the [C]night has come [Am] and the land is dark
+And the [F]moon is the [G]only light we [C]see
+
+No I won't be afraid, oh, I won't be afraid
+Just as long as you stand, stand by me
+
+{start_of_chorus}
+  So darling, darling, stand by me, oh stand by me
+  Oh stand, stand by me, stand by me
+{end_of_chorus}
+
+
+If the sky that we look upon should tumble and fall
+Or the mountains should crumble to the sea
+
+I won't cry, I won't cry, no I won't shed a tear
+Just as long as you stand, stand by me
+
+{start_of_chorus}
+  Whenever your in trouble won't you stand by me, oh stand by me
+  Oh stand, oh stand, stand by me
+{end_of_chorus}

@@ -1,0 +1,20 @@
+{title: Le petit gobelin}
+{artist: Le Donjon de Naheulbeuk}
+{album: T'as pas le niveau}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: t-as-pas-le-niveau}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: G7 frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+
+[C]C'était un petit gobelin qui s'en [G]allait [G7]à la [C]plage
+[C]Mais il n'savait pas nager et il y [G]avait [G7]des re[C]quins
+[F]Plouf, plouf, le [C]gobelin !
+Il s'est [G7]noyé dans les [C]vagues
+[F]Miam, miam, a [C]dit l'requin
+Tu finis [G7]dans mon œso[C]phage
+Voilà c'qu'ar[F]rive si [G7]t'es pas [C]sage !

@@ -1,0 +1,45 @@
+{title: Mrs. Robinson}
+{artist: Simon & Garfunkel}
+{album: The definitive}
+{cover: the-definitive}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: A frets X 0 2 2 2 0}
+
+{start_of_chorus}
+  [D] And here's to [G]you Mrs. [Em]Robinson
+  [G]Jesus loves you [Em]more than you will [C]know, {echo: wo wo [Am]wo}
+  [D]God bless you [G]please Mrs. [Em]Robinson
+  [G]Heaven holds a [Em]place for those who [C]pray, {echo: hey hey [Am]hey}
+{end_of_chorus}
+
+
+[E7]We'd like to know a little bit about you for our files
+[A]We'd like to help you learn to help yourself
+[D]Look around you, [G]all you see are [C]sympathetic [Am]eyes
+[E7]Stroll around the grounds un[D]til you feel at home
+
+
+Hide it in a hiding place where no one ever goes
+Put it in your pantry with your cupcakes
+It's a little secret just the Robinsons' affair
+Most of all you've got to hide it from the kids
+
+
+Sitting on a sofa on a Sunday afternoon
+Going to the candidates debate
+Laugh about it, shout about it, when you've got to choose
+Any way you look at it you lose
+
+{start_of_chorus}
+  Where have you gone Joe DiMaggio?
+  A nation turns its lonely eyes to you, {echo: wo wo wo}
+  What's that you say Mrs. Robinson?
+  Joltin' Joe has left and gone away, {echo: hey hey hey, hey hey hey}
+{end_of_chorus}

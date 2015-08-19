@@ -1,0 +1,41 @@
+{title: Inch-Allah}
+{artist: Mon côté punk}
+{album: Mon côté punk}
+{cover: mon-cote-punk}
+{language: french}
+{columns: 2}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: D7 base-fret 3 frets X 2 1 2 0 X}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+
+
+[Gm]Même si la route craque sous [D7]nos pas
+La nuit en un jour se re[Gm]tira
+Et tes mains [G7]posées sur mes [Cm]poignets
+[Cm]Et le vent souffle sur notre [Gm]forêt
+[Gm]Je n'ai pas la peur de tout [D7]ça
+Je t'aime, Inch-Al[Gm]lah
+
+{start_of_chorus}
+  Une [F]barque, remplie de [B&]voiles
+  Du [F]vent de rêve, pour nos [B&]escales
+  Et la [D7]mer, en témoi[Gm]gnage
+  Et la [D7]mer ...
+{end_of_chorus}
+
+
+Viens, on largue cette roulotte et on se prend la main
+À nous deux, on peut voir jusqu'à demain
+Et si tu veux c'est le soleil
+Qui nous éclaire et la vie fait des merveilles
+Je veux n'avoir besoin que de toi
+Pour vivre, ce monde-là
+
+{start_of_chorus}
+  Une barque, remplie de voiles
+  Du vent de rêve, pour nos voyages
+  Et l'amour, en témoignage
+  Et l'amour ...
+{end_of_chorus}

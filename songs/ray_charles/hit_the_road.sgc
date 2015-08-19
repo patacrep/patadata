@@ -1,0 +1,37 @@
+{title: Hit the road}
+{artist: Ray Charles}
+{language: english}
+{columns: 1}
+{define: Am frets X 0 2 2 1 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+{guitar_comment: Intro : [Am][G][F][E] {repeat: 2}}
+
+{start_of_chorus}
+  Hit the road Jack and don't you come back
+  No more, no more, no more, no more
+  Hit the road Jack and don't you come back
+  No more
+{end_of_chorus}
+
+{comment: oh what you say?}
+
+
+Old woman, old woman, oh you treat me so mean,
+You're the meanest old woman that I ever have seen.
+I guess if you said so
+I'd have to pack my things and go.
+
+{comment: That's right}
+
+
+Now baby, listen baby, don't you treat me this way
+'Cause I'll be back on my feet some day.
+Don't care if you do 'cause it's understood
+you got no money you just ain't no good.
+Well, I guess if you say so
+I'd have to pack my things and go.
+
+{comment: That's right}

@@ -1,0 +1,45 @@
+{title: Little gentleman}
+{artist: Les Ogres de Barback}
+{album: Irfan le héros}
+{url: http://www.lesogres.com}
+{cover: irfan-le-heros}
+{language: french}
+{columns: 1}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+
+
+[B&]C'est un little gentleman qui [Cm]se promène [F]sur tous les boule[B&]vards
+De Paris ou de Lon[Cm]don, de [F]toutes les capi[B&]tales
+Lassé d'sa super [Cm]woman, [F]il fuit dans le [B&]noir
+À ses yeux il aban[Cm]donne son do[F]micile conju[B&]gal
+{repeat: 2}
+
+{start_of_chorus}
+  [Gm]Dans un moment de [F]poésie, il [Gm]repense quand même [F]à son lit
+  [Gm]À l'enrobage des ma[F]melles de sa femelle
+  [Gm]À son visage [F]complexé qui [Gm]se tord quand elle [F]est vexée
+  [Gm]Et aux caresses, douces, [F]douces caresses avec ses fesses
+{end_of_chorus}
+
+
+Pendant un jour ou deux dans un wagon, il vagabonde
+Comme un vagabond, il fait des bonds quand il est réveillé
+Par le contrôleur de pensées, de rêves et de gaieté
+Qui vient montre à l'heure contrôler qu'son humeur n'est pas évaporée
+
+Il en a marre c'est con, pas drôle, il se met à pleurer
+
+
+C'est un little gentleman qui vagabonde dans une bande dessinée
+Avant il était un peu mythomane avec-la-première-blonde qu'il a rencontrée
+Il s'est marié, l'a fait trois gosses et il les a regrettés
+
+C'est un little gentleman qui vagabonde au cœur de mes pensées
+Avant il était un peu mythomane avec-la-première-blonde qu'il a rencontrée
+Il s'est marié, l'a fait trois gosses et il les a regrettés
+Il arrête pas d'se prendre des bosses ...
+
+Et il est bien emmerdé mais ...

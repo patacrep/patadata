@@ -1,0 +1,57 @@
+{title: De bonnes raisons}
+{artist: Alex Beaupain}
+{album: Les chansons d'amour}
+{cover: les-chansons-d-amour}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F7 frets 1 X 2 2 1 X special}
+{define: E7 frets 0 2 0 1 3 0 special}
+{define: Dm frets X X 0 2 3 1}
+{define: C frets X 3 2 0 1 0}
+{define: D7 frets X X 0 2 1 2}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+
+
+[Am] Ton feu nou[Em]rri de ques[F7]tions
+Sur [E7]le pourquoi du comment
+[Am]De mon c[Em]œur et ses rai[F7]sons
+[E7]Ne trouve pas [E7]de répondant
+[Dm]Je ne [E7]manque pas[Am]
+[C] De bonnes raisons pour t'ai[Dm]mer
+[Dm]Je ne vois [E7]pas
+Pour quelle rai[Am]son te les do[C]nner
+[D7] Mes bonnes rais[F7]ons pour t'aimer[Am]
+Pourq[C]uoi te les [D7]donner ?[D7][F7]
+
+
+Est-ce ta jolie paire de fesses
+La peur de la solitude
+Le hasard et la paresse
+Ou une mauvaise habitude ?
+Je ne manque pas {echo: Pourquoi les taire ?}
+De bonnes raisons pour t'aimer
+Je ne vois pas
+Pour quelles raisons te les donner ?
+De bonnes raisons pour m'aimer
+Pourquoi me les donner ?
+
+{start_of_chorus}
+  [B&]Mon pet[F7]it ange
+  [B&]Voudrait que je chante[F7] ses [Am]louanges {echo: [C]Glo[D7]ri[F7]a !}
+  [B&]Ma sainte re[F7]lique
+  [B&]Demande son can[F7]tique des [Am]cantiques {echo: [C]Allé[D7]lu[F7]ia !}
+{end_of_chorus}
+
+
+Peut-être est-ce pour ton odeur
+Ta façon de t'endormir
+Peut-être aussi pour ta sœur
+Ton argent ou encore pire ?
+Je ne manque pas {echo: Pourquoi les taire ?}
+De bonnes raisons pour t'aimer
+Je ne vois pas
+Pour quelle raison te les donner ?
+Mes bonnes raisons pour t'aimer
+Pourquoi te les donner ?

@@ -1,0 +1,49 @@
+{title: Canción del Mariachi}
+{artist: Los Lobos}
+{album: Desperado}
+{cover: desperado}
+{language: spanish}
+{columns: 2}
+{define: Em base-fret 7 frets X 0 2 2 1 0}
+{define: B base-fret 7 frets 0 2 2 1 0 0}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+
+
+Soy un [Em]hombre muy honrado
+Que me gusta lo me[B]jor
+A mujeres no me faltan
+Ni al dinero, ni el [Em]amor
+
+Jineteando en mi caballo
+Por la sierra yo me voy
+Las estrellas y la luna
+Ellas me dicen donde voy
+
+{start_of_chorus}
+  [Am]Ay, ay, ay, [Em]ay
+  [B]Ay, ay, mi [Em]amor
+  [Am]Ay, mi more[Em]na
+  [B]De mi cora[Em]zón
+{end_of_chorus}
+
+
+Me gusta tocar guitarra
+Me gusta cantar el sol
+Mariachi me acompaña
+Cuando canto mi canción
+
+Me gustan tomar mis copas
+Aguardiente es lo mejor
+También la tequila blanca
+Con su sal le da sabor
+
+
+Me gusta tocar guitarra
+Me gusta cantar el sol
+Mariachi me acompaña
+Cuando canto mi canción
+
+Me gustan tomar mis copas
+Aguardiente es lo mejor
+También la tequila blanca
+Con su sal le da sabor

@@ -1,0 +1,58 @@
+{title: Où je vais}
+{artist: La Rue Kétanou}
+{album: En attendant les caravanes}
+{url: http://www.larueketanou.com}
+{cover: en-attendant-les-caravanes}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Gm base-fret 4 frets 0 2 2 0 0 0}
+{define: Dm frets 2 2 1 0}
+{define: B& base-fret 1 frets 2 1 0 0}
+{define: F frets 2 0 1 0}
+{define: Gm frets 0 2 3 1}
+
+{start_of_chorus}
+  [Dm][B&][F][Gm] {repeat: 4}
+  {partition: Ou_je_vais.ly}
+  [Dm]Je n'sais [B&]pas [F]où je [Gm]vais
+{end_of_chorus}
+
+{start_of_chorus}
+  Oh [Dm]ça je [B&]n'l'ai ja[F]mais bien [Gm]su
+  Mais [Dm]si ja[B&]mais je [F]le sa[Gm]vais
+  [Dm]Je crois [B&]bien que je [F]n'irais [Gm]plus
+{end_of_chorus}
+
+
+Aujour[Dm]d'hui je [B&]t'aime, oui [F]mais de[Gm]main ?
+
+On ne [Dm]peut ja[B&]mais être [F]sûr de [Gm]rien
+On [Dm]va tou[B&]jours seul [F]sur la [Gm]route
+Je [Dm]conti[B&]nue coû[F]te que [Gm]coûte
+Et [Dm]puis une [B&]route en [F]croise une [Gm]autre
+Et [Dm]puis une [B&]autre et en[F]core une [Gm]autre
+Pourvu [Dm]que la [B&]tienne, oh [F]mon a[Gm]mour
+Croi[Dm]se la [B&]mienne [F]tous les [Gm]jours
+
+
+Et [Dm]oui je [B&]suis u[F]ne ci[Gm]gale
+T'in[Dm]quiète four[B&]mi j'crève [F]pas la [Gm]dalle
+La [Dm]musique [B&]c'est un [F]bon gagne-[Gm]pain
+Où [Dm]que je [B&]sois, je n'[F]manque de [Gm]rien
+Je [Dm]chante tou[B&]jours de [F]quoi grail[Gm]ler
+De [Dm]quoi trin[B&]quer, de [F]quoi cau[Gm]ser
+Je [Dm]m'endors [B&]où il [F]fait som[Gm]meil
+Et [Dm]je passe [B&]l'été [F]au so[Gm]leil
+
+
+Un [Dm]jour i[B&]ci, l'au[F]tre là-[Gm]bas
+La S[Dm]NC[B&]F ne [F]m'aura [Gm]pas
+Et [Dm]toi qui [B&]n'a qu'une [F]seule a[Gm]dresse
+Oh [Dm]pauvre [B&]si tu [F]veux j't'en [Gm]laisse
+Mais [Dm]échange [B&]de bons [F]procé[Gm]dés
+[Dm]Si tu [B&]veux bien [F]m'héber[Gm]ger
+Ben [Dm]je se[B&]rai le [F]bienve[Gm]nu
+Ben [Dm]nous se[B&]rons les [F]bienve[Gm]nus

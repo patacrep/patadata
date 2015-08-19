@@ -1,0 +1,47 @@
+{title: Bienvenida a Tijuana}
+{artist: Manu Chao}
+{album: Radio Bemba}
+{cover: radio-bemba}
+{language: spanish}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+
+Bienvenida a Ti[C]juana
+Bienvenida mi a[Am]mor
+De noche a la ma[F]ñana
+[G]Bienvenida mi a[C]mor
+
+
+Bienvenida mamacita
+Ay mi ruta Babylon
+Bienvenida a la cena
+Sopita de camarón
+
+{start_of_chorus}
+  Calavera no llora
+  Serenata de amor
+  Calavera no llora
+  No tiene corazón
+{end_of_chorus}
+
+
+Por la pana-americana
+Bienvenida a la aduana
+Bienvenida a mi suerte
+A mi me gusta verte
+
+
+I wanna go to San Diego
+I wanna go y no puedo
+Bienvenida a la Juana
+Bienvenida a Tijuana
+
+
+Bienvenida mamacita
+Ay mi ruta Babylon
+Bienvenida a la Juana
+Tequila, sexo, marihuana

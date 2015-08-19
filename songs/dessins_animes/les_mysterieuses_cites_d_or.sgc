@@ -1,0 +1,37 @@
+{title: Les mystérieuses cités d'or}
+{artist: Dessins Animés}
+{album: Les mystérieuses cités d'or}
+{cover: mysterieuses-cites-d-or}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+
+
+Enfant [C]du soleil
+Tu parcours la terre le ciel
+Cherche [Am]ton chemin
+C'est ta [E]vie, c'est ton des[Am]tin
+
+Et le jour, la nuit
+Avec tes deux meilleurs amis
+À bord du Grand Condor
+Tu recherches les Cités d'Or
+
+{start_of_chorus}
+  [Dm]Aaaah ah ah ah [Am]ah
+  Esteban, [G]Zia, [E]Tao les Cités d'[Am]O[A]r
+  [Dm]Aaaah ah ah ah [Am]ah
+  Esteban, [G]Zia, [E]Tao les Cités d'[Am]Or
+  [G]Tou-dou dou-dou dou, [Am]ah ah ah
+  [G]Tou-dou dou-dou dou, les Cités d'[Am]Or
+{end_of_chorus}
+
+
+Enfant du soleil
+Ton destin est sans pareil
+L'aventure t'appelle
+N'attends pas et cours vers elle ...

@@ -1,0 +1,75 @@
+{title: Les hirondelles}
+{artist: Les Cowboys Fringants}
+{album: L'expédition}
+{cover: l-expedition}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: D frets X X 0 2 3 2}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+
+
+[Bm]Quand on le voyait
+Il était parfait
+Et avait la [A]vie dont les gens rêvaient
+Famille charmante
+Et une entre[G]prise plus que florissante
+Une épouse ai[Bm]mante
+
+Mais en vérité
+Il était vidé
+Et avait la fuite dans les idées
+Tous les jours pourtant
+Il remettait son masque souriant
+Comme un paravent
+
+{start_of_chorus}
+  [A]L'image que l'on donne
+  N'est pas toujours la [Bm]bonne
+  Volent, volent, les hiron[A]delles
+  Même les beaux plumages
+  Peuvent être une [Bm]cage ...
+{end_of_chorus}
+
+
+Elle était distante
+Un peu arrogante
+On la trouvait snob et condescendante
+Toujours à l'écart
+Survolant les gens du haut du regard
+Froide et sans égards
+
+Mais sa suffisance
+N'était que défense
+Et un truc pour sauver les apparences
+Car cette timide
+Avait toujours été en vain avide
+D'amitiés solides
+
+[D][A][D][D][A][A][D][D]
+[Bm][A][G][G][F#][F#][F#]
+{repeat: 2}
+
+
+On disait souvent
+Qu'il était avenant
+Et qu'il avait l'âme du bon vivant
+Homme sans tourments
+Qui se laissait aller au gré du vent
+Un Roger Bontemps
+
+Mais s'il s'enivrait
+C'est qu'il se terrait
+Au fond de lui un malaise, un boulet
+Et son air gaillard
+Tout comme sa façade de fêtard
+N'étaient que remparts
+
+{start_of_chorus}
+  ...
+  Volent, volent, les hirondelles
+  Quand elles sont épuisées
+  Elle piquent du nez ...
+{end_of_chorus}

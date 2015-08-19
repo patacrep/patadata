@@ -1,0 +1,57 @@
+{title: Les elfes de GreenElven}
+{artist: Le Donjon de Naheulbeuk}
+{album: À poil dans la forêt}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: a-poil-dans-la-foret}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+
+
+[Dm]Ils sont fiers, ils [C]sont élan[Dm]cés
+Comme les [F]arbres de [C]leur [Am]forêt
+[Dm]Blanche est la [C]feuille où [Am]court leur trait
+Les [Dm]elfes de [C]GreenEl[Dm]ven
+
+
+[Dm]De leur plume aux [C]reflets d'ar[Dm]gent
+Naissent des [F]êtres [C]d'autres [Am]temps
+Des [Dm]landes [C]perdues, des [Am]chevaux blancs
+Les [Dm]elfes de [C]GreenEl[Dm]ven {echo: ho, c'est beau}
+
+
+[Dm]Ils imaginent [C]des con[Dm]trées
+Des reines mau[F]dites aux [C]yeux vio[Am]lets
+Les [Dm]ombres s'é[C]tendent sur [Am]la forêt
+Des [Dm]elfes de [C]GreenEl[Dm]ven
+
+{start_of_chorus}
+  [Dm]Et quand le [C]soir tombe sur les [Am]feuilles dorées
+  [Dm]Le sang de la [C]forêt coule sur leurs [Am]cheveux blancs
+  [Dm]Avec dans leurs [C]carnets des cro[Am]quis ravagés
+  [Dm]Par la détresse im[C]pie de l'artiste sou[Am]ffrant
+{end_of_chorus}
+
+
+[Dm]Vient alors la [C]dame au visage [Dm]fin
+Calme les [F]esprits con[C]tre son [Am]sein
+[Dm]Sonnent en[C]suite les [Am]chants sereins
+Les [Dm]elfes de [C]GreenEl[Dm]ven
+
+{start_of_chorus}
+  [Dm]Puis leurs ar[C]mées piaffantes à l'o[Am]rée du bois
+  [Dm]Chargent dans les [C]ténèbres au son des [Am]tambourins
+  [Dm]Lèvent leurs lames [C]luisantes dans le [Am]froid
+  [Dm]Et cueillent des fram[C]boises jusqu'au [Am]matin
+{end_of_chorus}
+
+
+[Dm]Ainsi donc s'a[C]chève la [Dm]nuit
+Mon his[F]toire se [C]termine i[Am]ci
+Et [Dm]je con[C]temple [Am]les croquis
+Les [Dm]elfes de [C]GreenEl[Dm]ven {repeat: 2}
+
+{comment: Encyclopédie Naheulbeuk - Une chanson écrite par PenOfChaos -- paroles et musique -- pour remercier le studio GreenElven d'avoir illustré notre galette de Mithril, alias Machins de Taverne.}

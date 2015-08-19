@@ -1,0 +1,64 @@
+{title: Les p'tits plaisirs}
+{artist: Les blérots de R.A.V.E.L}
+{album: Voleurs du dimanche}
+{cover: voleurs-du-dimanche}
+{language: french}
+{columns: 2}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: D7 base-fret 3 frets X 2 1 2 0 X}
+{define: G base-fret 3 frets X 0 2 2 1 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: D# base-fret 6 frets X 0 2 2 2 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+
+
+[Cm]À se promener sur les quais
+[D7]Quand il pleut de[G]puis le mois de mai
+[Cm]Dire bonjour aux bateaux-mouches
+[D7]Qui sont gavés [G]de mecs louches
+
+Qui [Fm]tassés comme des larves, grouillent
+[Cm]Finiront tous hommes-grenouilles
+Et [G]repartiront là-bas
+[Cm]Des souvenirs plein les bras
+
+
+À faire le tour de la Terre
+Accroupi sur son derrière
+Faire semblant de voyager
+En gardant les bras croisés
+
+Traverser les océans
+Vers de nouveaux continents
+En faisant des mots croisés
+Abruti devant sa télé
+
+{start_of_chorus}
+  [D#]Les p'tits plaisirs de la [Gm]vie, sur Terre
+  [A]Les p'tits plaisirs de la [D]vie, mon cher
+  [D#]Les p'tits plaisirs de [Gm]la vie, sur Terre
+  [D]Les p'tits plaisirs de la [Gm]vie, mon cher
+{end_of_chorus}
+
+
+Aller vivre à la campagne
+Quand la ville roule au butane
+Vivre en plein milieu des champs
+Loin des villes et loin des gens
+
+Piétiner les OGM
+Là où parfois les gens sèment
+La tempête récolte le vent
+Rat des villes et rat des champs
+
+
+Aller vivre dans l'espace
+Quand il n'y aura plus de place
+Quand il n'y aura plus d'oiseaux
+Que des poubelles et des mégots
+
+Et se promener sur la Lune
+Sur ses cratères et ses dunes
+Faire l'amour dans l'atmosphère
+Avec la tête à l'envers

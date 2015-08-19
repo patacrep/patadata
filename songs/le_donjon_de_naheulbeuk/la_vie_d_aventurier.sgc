@@ -1,0 +1,108 @@
+{title: La vie d'aventurier}
+{artist: Le Donjon de Naheulbeuk}
+{album: T'as pas le niveau}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: t-as-pas-le-niveau}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+
+Et alors ? Qu'est-ce que tu vas faire
+quand tu s'ras niveau 2 ?
+
+
+Quand j'au[G]rai mon niveau 2
+J'a[D]chèterai un du[G]vet
+Pour dormir dans les donjons
+Sans [D]jamais m'enrhu[G]mer
+
+{start_of_chorus}
+  C'est [G]un [D]peu [G]ça, la [Am]vie d'aventu[G]rier
+  Et [G]on [D]y [G]va, y'a des [D]gobelins à sai[G]gner
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 3
+J'achèterai un carquois
+J'y mettrai des flèches magiques
+Du genre qui t'arrache un bras
+
+{start_of_chorus}
+  ...  y'a des squelettes à poutrer
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 4
+J'achèterai un cheval
+Je sais pas vraiment monter
+Tant pis, ça m'est égal !
+
+{start_of_chorus}
+  ...  y'a des orques à décimer
+{end_of_chorus}
+
+{partition: La_vie_d_aventurier.ly}
+
+
+Quand j'aurai mon niveau 5
+J'achèterai des parchemins
+Pour lancer des sortilèges
+Même si j'suis pas magicien
+
+{start_of_chorus}
+  ...  y'a des momies à cramer
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 6
+J'achèterai une armure
+C'est moins facile de courir
+Mais on évite les fractures
+
+{start_of_chorus}
+  ...  y'a des trolls à bousiller
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 7
+J'achèterai un anneau
+Qui donne +2 en charisme
+Et la puissance d'un taureau
+
+{start_of_chorus}
+  ...  y'a des minotaures à tuer
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 8
+J'achèterai une baliste
+Pour assiéger les donjons
+Des nécromancultistes
+
+{start_of_chorus}
+  ...  y'a des liches à éventrer
+{end_of_chorus}
+
+
+Quand j'au[G]rai mon niveau 9
+J'a[Em]chèterai une vor[G]pale
+Pour ar[Em]racher au dragon
+Ses [D]parties géni[G]tales
+
+{start_of_chorus}
+  ...  y'a un dragon pour tester
+{end_of_chorus}
+
+
+Quand j'aurai mon niveau 10
+J'achèterai des pansements
+Pour corriger les erreurs
+Du niveau précédent
+
+{start_of_chorus}
+  C'est surtout ça, la vie d'aventurier
+  Je rentre chez moi, ma carrière est terminée
+{end_of_chorus}

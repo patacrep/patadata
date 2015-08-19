@@ -1,0 +1,31 @@
+{title: The ring of fire}
+{artist: Johnny Cash}
+{album: The essential}
+{cover: the-essential}
+{language: english}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+
+{partition: The_ring_of_fire.ly}
+
+
+[G]Love is a [C]burning [G]thing
+And it makes a [C]firery [G]ring
+Bound by [C]wild [G]desire
+I fell into a [C]ring of [G]fire
+
+{start_of_chorus}
+  [D]I fell into a [C]burning ring of [G]fire
+  I went [D]down, down, down
+  And the [C]flames went [G]higher
+  And it [G]burns, burns, burns
+  The [C]ring of [G]fire {repeat: 2}
+{end_of_chorus}
+
+
+The taste of love is sweet
+When hearts like ours meet
+I fell for you like a child
+Oh, but the fire went wild

@@ -1,0 +1,92 @@
+{title: Saint-Jean-du-Doigt}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: Dm frets 2 2 1 0}
+{define: Gm frets 0 2 3 1}
+{define: F frets 2 0 1 0}
+{define: A frets 2 1 0 0}
+{define: C frets 0 0 0 3}
+{define: D frets 2 2 2 0}
+
+
+Elle a [Dm]les cheveux mayonnaise
+Moi j'ai [Dm]un pull caca d'oie
+Elle c'est [Gm]Jeanne et moi c'est [F]Blaise
+Ça se passe [A]à Saint-Jean-du-[Dm]Doigt
+
+[Dm][Dm][Dm][Dm] [Gm][F][A][Dm]
+
+Faudrait [Dm]que j'monte sur une chaise
+Car elle [Dm]est plus grande que moi
+Faudrait [Gm]que j'monte sur une [Dm]chaise
+Ça va [Gm]mieux quand elle s'as[A]soit
+
+J'suis comme [Gm]au pied de la fa[Dm]laise
+Quand son [Gm]grand corps se dé[Dm]ploie
+Je res[Gm]pire ses charen[Dm]taises
+Et c'est [A]son nombril que [Dm]j'vois
+
+{start_of_chorus}
+  Allez [C]Jeanne, y a pas de ma[F]laise
+  Viens donc [C]admirer chez [F]moi
+  Mes es[D]tampes japo[Gm]naises
+  Et puis [A]mon chapeau chi[Dm]nois
+{end_of_chorus}
+
+{start_of_chorus}
+  {guitar_comment: Violon}
+  [Dm][Dm][Dm][Dm] [Gm][F][A][Dm]
+  [Dm][Dm][Dm][Dm] [Gm][Dm][Gm][A]
+  {partition: Saint-Jean-du-Doigt.ly}
+{end_of_chorus}
+
+
+Elle a [Dm]vingt ans, j'en ai treize
+Et c'est [Dm]vrai que j'ai les pieds froids
+Mais mon [Gm]cœur est une [F]braise
+Et je [A]n'suis pas mala[Dm]droit
+
+Pour dan[Dm]ser la sainte-jeannaise
+Qu'on danse [Dm]à Saint-Jean-du-Doigt
+[Gm][Dm][Gm][A]
+
+[Dm][Dm][Dm][Dm]
+Elle m'a [Gm]fait une clé an[Dm]glaise
+Quand j'l'ai [Gm]crue prête a l'em[A]ploi
+
+J'ai pris [Gm]une douche écos[Dm]saise
+C'était [Gm]chaud pis c'était [Dm]froid
+Une cha[Gm]leur de ge[Dm]nèse
+Et l'mer[A]cure à -3[Dm]3
+
+{start_of_chorus}
+  Erreur, [C]fallait pas que je [F]biaise
+  Fallait [C]pas sortir du [F]bois
+  Car la [D]Jeanne, elle est pas [Gm]niaise
+  Même si [A]elle n'a qu'un petit [Dm]pois
+{end_of_chorus}
+
+
+Elle a [Dm]les cheveux mayonnaise
+Moi j'ai [Dm]un pull caca d'oie
+Elle c'est [Gm]Jeanne et moi c'est [F]Blaise
+Ça s'passe [A]à Saint-Jean-du-[Dm]Doigt
+
+Fixé [Dm]avec une punaise
+Epin[Dm]glé à la paroi
+Pour la [Gm]regarder à [Dm]l'aise
+J'ai mis [Gm]son portrait chez [A]moi
+
+Soit dit [Gm]entre paren[Dm]thèses
+Faut pas [Gm]l'crier sur les [Dm]toits
+C'est mon [Gm]polochon que [Dm]j'baise
+Vous i[A]maginez ma [Dm]joie...

@@ -1,0 +1,60 @@
+{title: Les cigales}
+{artist: La Rue Kétanou}
+{album: Y'a des cigales dans la fourmilière}
+{url: http://www.larueketanou.com}
+{cover: y-a-des-cigales-dans-la-fourmiliere}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: E frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+
+Eh bour[Dm]geois entends [E]tu ?
+[Dm]Passer dans ta [E]rue
+Une pa[Dm]rade d'espé[E]rance
+Et qui [Dm]chante et qui [E]danse
+Et [Dm]vogue vogue la ga[E]lère
+Le [Dm]cap sur la bo[E]hème
+Et [Dm]vogue vogue nos chi[E]mères
+Le [Dm]cap sur leurs fre[E]daines
+
+{start_of_chorus}
+  Y'a des ci[G]gales dans la fourmi[Am]lière
+  Et vous n'pou[F]vez rien y [C]faire
+  Y'a des ci[G]gales dans la fourmi[Am]lière
+  Et c'est pour [G]ça [F]que j'es[E]père
+{end_of_chorus}
+
+
+Eh bourgeois, entends-tu ?
+Passer dans ta rue
+Une parade de scandale
+C'est les enfants d'la balle
+Et ça jongle et ça crache le feu
+Et ça fait boum boum dans les oreilles
+À vot' bon cœur mesdames et messieurs
+À vot' bon cœur ou pas, c'est pareil
+
+
+Eh bourgeois, entends-tu ?
+Passer dans ta rue
+Une parade de fortune
+C'est les oiseaux sans plume
+Et qui s'acharnent tant bien que mal
+À vivre comme ils respirent
+Quitte à crever la dalle
+Ils ont tant de choses à dire
+
+
+Eh bourgeois, entends-tu ?
+Passer dans ta rue
+Une parade de ville en ville
+C'est le théâtre du Fil
+Et qui joue dans toutes les langues
+Pour mieux parler de l'amour
+Pendant que le monde se demande
+Si demain il fera jour

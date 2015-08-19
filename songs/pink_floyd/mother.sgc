@@ -1,0 +1,53 @@
+{title: Mother}
+{artist: Pink Floyd}
+{album: The Wall}
+{cover: the-wall}
+{language: english}
+{columns: 1}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+
+[G]Mother do you think they'll drop the [C]bomb? [G]
+[G]Mother do you think they'll like this [C]song? [G]
+[C]Mother do you think they'll try to break my [G]balls?
+[D]Ohhh... [C]Ahhh... Mother should I build the [G]wall?
+
+
+[G]Mother should I run for presi[C]dent? [G]
+[G]Mother should I trust the govern[C]ment? [G]
+[C]Mother will they put me in the firing [G]line?
+[D]Ohhh... [C]Ahhh... Mother is it just a waste of [G]time?
+
+{start_of_chorus}
+  [G]Hush now baby don't you [C]cry
+  [F]Mama's gonna make all of your [C] nightmares come true
+  [F]Mama's gonna put all of her [C]fears into you
+  [F]Mama's gonna keep you right here [C]under her wing
+  She [F]won't let you fly but she [C]might let you sing
+  [F]Mama's gonna keep baby [C]cozy and [G]warm
+  [D]Ohhh... [C]babe [D]Ohhh... [C]babe
+  [D]Oh... babe of [C]course mama's gonna help build the [G]wall
+  {guitar_comment:  | [C] | [G] | [C] | [G] | [C] | [D] | [C] | [G] }
+{end_of_chorus}
+
+
+[G]Mother do you think she's good en[C]ough... for [G]me?
+[G]Mother do you think she's danger[C]ous... to [G]me?
+[C]Mother will she tear your little boy a[G]part?
+[D]Ohhh... [C]Ahhh... Mother will she break my [G]heart?
+
+{start_of_chorus}
+  [G]Hush now baby baby don't you [C]cry
+  [F]Mama's gonna check out all of your [C]girlfriends for you
+  [F]Mama won't let anyone d[C]irty get through
+  [F]Mama's gonna wait up unt[C]il you get in
+  [F]Mama's will always find out [C] where you've been
+  [F]Mama's gonna keep baby [C]healthy and [G]clean
+  [D]Ohhh... [C]baby [D]Ohhh... [C]baby
+  [D]Oh... baby you'll [C] always by baby to [G]me
+{end_of_chorus}
+
+Mother did it need to be so [C]high?

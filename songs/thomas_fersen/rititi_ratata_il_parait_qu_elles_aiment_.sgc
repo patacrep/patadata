@@ -1,0 +1,101 @@
+{title: Rititi, ratata (il paraît qu'elles aiment)}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: E&m base-fret 6 frets X 0 2 2 1 0}
+{define: B base-fret 2 frets X 0 2 2 1 0}
+{define: A&m base-fret 4 frets 0 2 2 0 0 0}
+{define: G& base-fret 2 frets 0 2 2 1 0 0}
+{define: B&7 base-fret 1 frets X 0 2 0 2 0}
+{define: E&m base-fret 1 frets 2 2 1 0}
+{define: B base-fret 2 frets 2 1 0 0}
+{define: A&m frets 2 1 0 0}
+{define: G& base-fret 3 frets 2 0 1 0}
+{define: B&7 base-fret 1 frets 0 1 0 0}
+
+{guitar_comment: Intro :  [E&m][B&7]}
+
+
+[E&m]Dans mon harmonium
+Y'a une [B]araignée énorme
+Je lui [A&m]joue de la musique
+[G&]Y paraît qu'ça [B&7]pique
+
+Elle est [E&m]venue faire son toit
+Dans [B]la robe de bois
+[A&m]De mon harmonium
+[G&]Comme elle est mi[B&7]gnonne
+
+{start_of_chorus}
+  Riti[E&m]ti, rata[B&7]ta {repeat: 2}
+{end_of_chorus}
+
+
+[E&m]Dans mon harmonium
+Y'a une [B]araignée énorme
+Je lui [A&m]joue des requiem
+[G&]Y paraît qu'elles [B&7]aiment
+
+[E&m]Elle est très gentille
+[B]Mais j'suis comme les filles
+[A&m]Ça me fout la trouille
+[G&]Paraît qu'ça cha[B&7]touille
+
+
+[B]Dans mon harmonium
+Y'a une [A&m]araignée qui lorgne
+Du cô[G&]té de ma personne
+Pa[B&7]raît qu'ça saucissonne
+
+Que ça [B]mange son époux
+[A&m]Comme un vulgaire pou
+Après [G&]la marche nup[B&7]tiale
+[G&]Paraît qu'c'est nor[B&7]mal
+
+[B]Moi dans mon délire
+[A&m]Ça m'fait défaillir
+[G&]Et quand elle promène
+[B&7]Son gros abdomen
+
+[B]J'me vois à la morgue
+[A&m]Alors sur mon orgue
+[G&]Je joue pour la [B&7]veuve
+[G&]Paraît qu'elles s'é[B&7]meuvent
+
+
+[E&m]Dans mon harmonium
+Y'a une [B]araignée énorme
+Y'a une [A&m]araignée géante
+[G&]Est-ce qu'elle est vi[B&7]vante ?
+
+[E&m]Elle ne bouge plus
+[B]Comme elle est velue !
+[A&m]Moi, ça m'horripile
+[G&]Faudrait qu'elle s'é[B&7]pile
+
+
+[B]Paraît qu'ça les berce
+[A&m]D'entendre la messe
+[G&]Trop tard je l'assomme
+[B&7]Que Dieu me pardonne
+
+[B]Avec mon missel
+De com[A&m]munion solennelle
+[G&]Ma femme s'impa[B&7]tiente
+[G&]Elle n'est pas con[B&7]tente
+
+[B]On dirait, Simone
+[A&m]On dirait qu'tu lorgnes
+Du cô[G&]té de ma personne
+Comme une [B&7]araignée énorme
+
+Celle qui [B]mange son époux
+[A&m]Comme un vulgaire pou
+Après [G&]la marche nup[B&7]tiale
+[G&]Ce n'est pas nor[B&7]mal
+
+{guitar_comment: Outro :}
+{guitar_comment:  [E&m][B][A&m][G&][B&7] {repeat: 2}}
+{guitar_comment:  [E&m][B&7] {repeat: 2} ab lib.}

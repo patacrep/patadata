@@ -1,0 +1,53 @@
+{title: Rue Mazarine}
+{artist: Les Ogres de Barback}
+{album: Terrain vague}
+{url: http://www.lesogres.com}
+{cover: terrain-vague}
+{language: french}
+{columns: 1}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: B&m base-fret 6 frets 0 2 2 0 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: Fm frets 1 0 1 3}
+{define: C frets 0 0 0 3}
+{define: B&m base-fret 1 frets 2 0 0 0}
+{define: G frets 0 2 3 2}
+{define: E& base-fret 1 frets 2 2 2 0}
+{define: A& base-fret 3 frets 2 0 1 0}
+
+{guitar_comment: Intro : }
+[Fm][C][B&m][Fm] [B&m][Fm][G][C]
+[Fm][C][B&m][Fm] [B&m][Fm][C][Fm]
+
+
+[Fm]J'ai voulu offrir une [C]mandarine à [B&m]Amandine, ma [Fm]petite copine
+[B&m]Elle m'a dit : « J'préfère les [Fm]clémentines ! » [G]Elle est partie chez A[C]mine
+[Fm]Amine, le vendeur d'é[C]picerie fine, d'o[B&m]ranges sanguines, rue [Fm]Mazarine
+N'a [B&m]pas pu résister à [Fm]l'avance de l'angine A[C]mandine fan de clémen[Fm]tines
+
+{start_of_chorus}
+  [E&]Ah, maman, si t'avais [A&]vu ma mine, ma [E&]mine, ma[A&]man
+  [E&]Ah seulement, si t'avais [A&]vu ma mine, [G]mine, maman, d'enterre[C]ment
+  [E&]Ah vraiment si t'avais [A&]vu ma mine, A[E&]mine, ma[A&]man
+  [E&]Si seulement t'avais pu [A&]voir ma mine, [G]mine maman d'enterre[C]ment
+{end_of_chorus}
+
+
+[Fm]J'ai voulu offrir une [C]mandarine à [B&m]Clémentine, ma [Fm]petite voisine
+[B&m]Elle m'a dit : « J'préfère l'o[Fm]range sanguine, y'en [G]a plein les rayons d'A[C]mine»
+[Fm]Amine, l'épicier chez [C]qui je chine quand [B&m]je cuisine, rue [Fm]Mazarine
+N'a [B&m]pas pu résister à [Fm]Clémentine, ma petite voi[C]sine qu'est fan d'orange san[Fm]guine
+
+{start_of_bridge}
+[Fm][C][B&m][Fm] [B&m][Fm][G][C]
+[Fm][C][B&m][Fm] [B&m][Fm][C][Fm]
+{end_of_bridge}
+
+
+[Fm]J'ouvrirai bientôt rue [C]Mazarine, une [B&m]grande vitrine d'é[Fm]picerie fine
+Clé[B&m]mentine, mandarine, o[Fm]range sanguine, et [G]tout ce qu'il faut pour la cui[C]sine
+J'm'ins[Fm]tallerai juste en face de [C]chez Amine, il [B&m]sera has been, je sais que c'est [Fm]pas très clean
+Mais [B&m]mine de rien, Clémentine [Fm]et Amandine, à l'o[C]rigine, c'étaientt mes co[Fm]pines

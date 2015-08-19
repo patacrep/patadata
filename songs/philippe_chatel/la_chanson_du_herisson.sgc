@@ -1,0 +1,60 @@
+{title: La chanson du hérisson}
+{artist: Philippe Chatel et Georges Brassens}
+{album: Émilie jolie}
+{cover: emilie-jolie}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: F#7 base-fret 2 frets 0 2 0 1 0 0}
+
+{start_of_chorus}
+  [Bm]Oh ! Qu'est-ce qu'il pique [G]ce hérisson !
+  [F#7]Oh ! Qu'elle est triste sa chan[Bm]son !
+  {repeat: 2}
+{end_of_chorus}
+
+
+C'est un hérisson, qui piquait, qui piquait
+Et qui voulait qu'on l'caresse-resse-resse
+On l'caressait pas pas-pas-pas-pas
+Non pas parce qu'il piquait pas
+Mais parce qu'il piquait
+
+C'est un hérisson, qui piquait, qui piquait
+Et qui voulait qu'on l'caresse-resse-resse
+On l'caressait pas-pas-pas-pas-pas
+Non pas parce qu'il piquait pas
+Mais parce qu'il piquait
+
+
+Quelle est la fée dans ce livre
+Qui me donnera l'envie d'vivre ?
+Quelle est la petite fille aux yeux bleus
+Qui va m'rendre heureux ?
+
+Quelle est la fée dans ce livre
+Qui lui donnera l'envie d'vivre ?
+Quelle est la petite fille aux yeux bleus
+Qui l'rendra heureux ?
+
+
+Moi, je ne vois que moi
+Il n'y a que moi, dans ce livre là
+Moi, je ne vois que moi
+Il n'y a que moi, dans ce livre la la la la
+La-la-la-la-la-la
+La la-la-la-la-la-la-la-la-la-la-la ...
+
+spoken
+parlé
+Émilie est allée caresser le hérisson
+
+
+Elle n'est plus triste cette chanson
+J'ai caressé le hérisson
+Il n'est plus triste le hérisson
+Elle a caressé la chanson
+Mais non ! Le hérisson !
+{echo: Mais non ! Le hérisson !}
+{echo: Pom pom}

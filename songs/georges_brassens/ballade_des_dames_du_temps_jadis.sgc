@@ -1,0 +1,51 @@
+{title: Ballade des dames du temps jadis}
+{artist: Georges Brassens}
+{album: La mauvaise réputation}
+{cover: la-mauvaise-reputation}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: D frets X X 0 2 3 2}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+
+[A]Dictes moy où, n'en quel pays
+Est [E7]Flora, la belle Ro[A]maine
+Archipiada, ne Thaïs
+Qui fut [E7]sa cousine germ[A]aine
+[D]Echo, parlant quand bruyt on maine
+Dessus ri[C#m]vière ou sus [F#]estan
+Qui beau[Bm]lté ot trop plus qu'hu[A]maine ?
+Mais où [E7]sont les neiges d'an[F#]tan !
+Qui beau[Bm]lté ot trop plus qu'hu[A]maine ?
+Mais où [E7]sont les neiges d'an[A]tan !
+
+
+Où est la très sage Hélloïs
+Pour qui chastré fut et puis moyne
+Pierre Esbaillart à Saint Denis ?
+Pour son amour ot ceste essoyne
+Semblablement, où est la royne
+Qui commanda que Buridan
+Fust gecté en ung sac en Saine ?
+Mais où sont les neiges d'antan ! {repeat: 2}
+
+
+La royne Blanche comme lis
+Qui chantoit à voix de seraine
+Berte aux grant pié, Bietris, Alis
+Haremburgis qui tint le Maine
+Et Jehanne, la bonne Lorraine
+Qu'Englois brûlèrent à Rouan
+Ou sont ilz, Vierge souveraine ?
+Mais où sont les neiges d'antan ? {repeat: 2}
+
+
+...
+Prince, n'enquérez de sepmaine
+Où elles sont, ne de cest an
+Que ce reffrain ne vous remaine :
+Mais où sont les neiges d'antan ? {repeat: 2}

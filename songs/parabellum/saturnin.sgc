@@ -1,0 +1,34 @@
+{title: Saturnin}
+{artist: Parabellum}
+{album: Dense microsillon à faisceau de lumière cohérente}
+{cover: dense-microsillon-a-faisceau-de-lumiere-coherente}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: E frets 0 2 2 1 0 0}
+
+{partition: Saturnin.ly}
+
+
+[A]Approchez, tous les a[D]mis
+Les grands et les pe[E]tits
+Regardez [A]bien ! [E]
+[A]Le cœur fier et l'œil ma[D]lin
+Voici venir au [E]loin
+Votre ami Satur[A]nin
+
+{start_of_chorus}
+  On [D]dit que rien ne [A]lui fait peur
+  [E]Quand il s'agit d'aven[A]ture
+  Il [D]est têtu et [A]bagarreur
+  [E]Mais gentil je vous le jure
+{end_of_chorus}
+
+
+Et s'il est un peu bavard
+Et même un peu vantard
+Ça ne fait rien
+Car plus vous le connaîtrez
+Et plus vous l'aimerez
+Votre ami Saturnin

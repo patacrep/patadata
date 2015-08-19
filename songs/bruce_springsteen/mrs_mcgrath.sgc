@@ -1,0 +1,63 @@
+{title: Mrs. McGrath}
+{artist: Bruce Springsteen}
+{album: We shall overcome}
+{cover: we-shall-overcome}
+{language: english}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+{partition: Mrs_McGrath.ly}
+
+
+``Oh, [Dm]Mrs. McGrath'', the sergeant said
+``Would you [F]like to make a soldier [C]out of your son Ted
+With a [C]scarlett coat and a big cocked hat
+Oh, Mrs. McGrath, wouldn't [Dm]you like that?''
+
+{start_of_chorus}
+  With your [Dm]too-ri-a, fol-di-diddle-da
+  [F]Too-ri, oor-ri, [C]oor-ri-a
+  With your [C]too-ri-a, fol-di-diddle-da
+  Too-ri, oor-ri, [Dm]oor-ri-a
+{end_of_chorus}
+
+
+Now, Mrs. McGrath lived on the shore
+For the space of seven long years or more
+She spied a ship coming into the bay
+With her son from far away
+
+``Oh captain dear, where have you been
+You've been sailing the Mediterranean
+Have you news of my son Ted
+Is he living or is he dead?''
+
+
+Up came Ted without any legs
+And in their place, two wooden pegs
+She kissed him a dozen times or two
+And said, ``My god, Ted is it you?''
+
+``Now, were you drunk or were you blind
+When you left your two fine legs behind?
+Or was it walking upon the sea
+That wore your two fine legs away?''
+
+
+``No, I wasn't drunk and I wasn't blind
+When I left my two fine legs behind
+A cannon ball on the fifth of May
+Tore my two fine legs away''
+
+``Oh, Teddyboy'', the widow cried
+``Your two fine legs were your mother's pride
+Stumps of a tree won't do at all
+Why didn't you run from the cannon ball?''
+
+
+``All foreign wars I do proclaim
+Live on the blood and the mothers' pain
+I'd rather have my son as he used to be
+Than the king of America and his whole Navy''

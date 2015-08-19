@@ -1,0 +1,43 @@
+{title: Paradise}
+{artist: Coldplay}
+{album: Mylo Xyloto}
+{cover: mylo-xyloto}
+{language: english}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+
+
+[Dm]When she was just a [B&]girl
+[F]She expected the [C]world
+But it [Dm]flew away from her [B&]reach
+So she [F]ran away in her [C]sleep
+
+{start_of_chorus}
+  Dreamed of [Gm]para, para, [B&] paradise
+  [F]Para, para, [C] paradise
+  [Gm]Para, para, [B&] paradise
+  [F]Every time she [C]closed her eyes
+{end_of_chorus}
+
+
+When she was just a girl
+She expected the world
+But it flew away from her reach
+And bullets catch in her teeth
+
+{start_of_bridge}
+[Dm]Life goes on, it [B&]gets so heavy
+The [F]wheel breaks the [C]butterfly
+[Gm]Every tear, a water[C]fall
+In the [B&]night, the stormy [F]night, she closed her [C]eyes
+In the [B&]night, the stormy [F]night, away she [C]flies
+{end_of_bridge}
+
+{start_of_bridge}
+Still [B&]lying under[F]neath the stormy [C]skies
+She said, [B&m]oh oh, [F]oh oh oh oh, I know the [C]sun's set to rise
+{end_of_bridge}

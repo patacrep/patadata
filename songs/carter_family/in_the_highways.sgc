@@ -1,0 +1,27 @@
+{title: In the highways}
+{artist: Carter Family}
+{album: O brother}
+{cover: o-brother}
+{language: english}
+{columns: 2}
+{capo: 1}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+
+In the [C]highways, in the hedges
+In the [G]highways, in the [C]hedges
+In the [C]highways, in the hedges
+I'll be [G]somewhere working for my [C]Lord
+
+{start_of_chorus}
+  I'll be [F]somewhere working
+  I'll be [C]somewhere working
+  I'll be [G]somewhere working for my [C]Lord
+  {repeat: 2}
+{end_of_chorus}
+
+
+If He calls me I will answer {repeat: 3}
+I'll be somewhere working for my Lord

@@ -1,0 +1,60 @@
+{title: Manatthan-Kaboul}
+{artist: Renaud}
+{album: Boucan d'enfer}
+{cover: boucan-d-enfer}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: E frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm7 frets X X 0 2 1 1 special}
+{define: Em frets 0 2 2 0 0 0}
+{define: E* base-fret 2 frets X X 1 3 4 X special}
+{define: E/D base-fret 2 frets X X 0 3 4 X special}
+{define: E/C base-fret 2 frets X 2 X 3 4 X special}
+{define: E/B base-fret 2 frets X 1 X 3 4 X special}
+
+#intro à faire
+
+
+[C]Petit [F]Portori[G]cain[F]
+[C]Bien inté[F]gré, quasiment New [G]Yorkais[F]
+[C]Dans mon buil[F]ding tout de verre [G]et d'acier[Am]
+[F]Je prends mon [Dm7]job, un rail de [E]coke, un café
+
+[C]Peti[F]te fille af[G]ghane[F]
+[C]De l'autre [F]côté de la [G]Terre[F]
+[C]Jamais en[F]tendu parler [G]de Manhat[Am]tan
+[E*]Mon quoti[E/D]dien c'est la mis[E/C]ère et la [E/B]guerre
+
+{start_of_chorus}
+  Deux étran[Am]gers au bout du [F]monde, si diffé[Dm7]rents
+  [E]Deux incon[Am]nus, deux ano[F]nymes, mais pour[G]tant[E]
+  Pulvéri[Am]sés sur l'au[F]tel
+  De la [Dm7]violence éter[E]nelle
+{end_of_chorus}
+
+
+Un 747
+S'est explosé dans mes fenêtres
+Mon ciel si bleu est devenu orage
+Lorsque les bombes ont rasé mon village
+
+
+[C]So [G]long, adieu mon [F]rêve améri[C]cain
+[A]Moi, [Em]plus jamais l'es[F]clave des [G]chiens
+[C]Ils [G]t'imposaient l'Is[F]lam des ty[C]rans
+[E*]Ceux-là ont-[E/D]ils jamais lu [E/C]le Coran[E/B] ?
+
+
+J'suis redevenu poussière
+Je s'rai pas maître de l'Univers
+Ce pays que j'aimais tellement serait-il
+Finalement colosse aux pieds d'argile ?
+
+Les dieux, les religions
+Les guerres de civilisations
+Les armes, les drapeaux, les patries, les nations
+Font toujours de nous de la chair à canon

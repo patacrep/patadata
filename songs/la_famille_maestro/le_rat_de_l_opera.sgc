@@ -1,0 +1,59 @@
+{title: Le rat de l'opéra}
+{artist: La Famille Maestro}
+{album: Opus 2}
+{cover: opus2}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: E frets 0 2 2 1 0 0}
+
+{partition: Le_rat_de_l_opera-1.ly}
+
+
+[A]Il était une fois un gentil rat vivant à la pointe du [D]raz
+Ce rat là [E]râlait au fond d'un placard, d'un placard à ba[A]lais
+Il se di[A]sait le destin est méchant
+Qui ne sut faire de moi qu'un rat, qu'un rat des [D]champs
+Moi, qui ne [E]trouve alléchant que le chant, le chant de l'opé[A]ra
+
+
+Au ras des planches de son débarras, le rat faisait des entrechats
+Ce rat là rêvait qu'il était un petit rat de l'opéra
+Quand le chat n'est pas là les souris dansent
+Alors pourquoi les rats n'auraient pas cette chance là
+Le seul ballet que je veux voir passer est au palais Garnier
+
+{partition: Le_rat_de_l_opera-2.ly}
+
+{start_of_chorus}
+  [A]Où tu l'as [E]mis mon tu[A]tu, l'as [E]mis, l'as mis, l'as mis
+  [A]Où, sont mes chaussons poin[E]tus, où tu [A]les as mis
+  Ou tu tu tu tu [A]tu
+  La mi la mi la [E]mi
+  Ou tu tu tu tu [A]tu
+  Les as mis, les as [D]mis
+  Mon tutu, mon tu[A]tu
+  Et mes chaussons pointus
+  Tu tu les as mis [E]où, où, où ?
+{end_of_chorus}
+
+
+Il était une fois un gentil rat vivant à la pointe du raz
+Le rabougri en avait ras le bol de n'être qu'un raté
+Il se disait si l'opéra engage
+Des petits rats au gage alors pourquoi pas moi, moi
+Le seul ballet dont j'aime la pratique est le ballet classique
+
+
+Arrivant Paris place de l'Opéra, le rat des champs dut déchanter
+On lui dit : «Pas de rats chez nous, car ta vraie place est à l'égout»
+Il se dressa sur la pointe des pattes
+Et pour les épater, faisait des pointes, et trois, quatre
+On lui tendit un panneau qui disait : «On va dératiser»
+
+
+Le rat dût s'en aller
+Du ballet, du ballet
+Le rat dût s'en aller
+Oui, du ballet

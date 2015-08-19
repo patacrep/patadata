@@ -1,0 +1,80 @@
+{title: La corrida}
+{artist: Francis Cabrel}
+{album: Samedi soir sur la Terre}
+{cover: samedi-soir-sur-la-terre}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: B&sus2 base-fret 1 frets 0 0 2 2 0 0 special}
+{define: Csus2 frets 0 3 0 0 1 0 special}
+{define: Dsus4 frets X X 0 2 3 3 special}
+{define: Asus4 frets X 0 2 2 3 0 special}
+{define: A frets X 0 2 2 2 0}
+
+
+Depuis le [Dm]temps que je patiente
+Dans cette [F]chambre noire
+J'entends qu'on [C]s'amuse et qu'on chante
+Au bout du [B&sus2]couloir
+
+Quelqu'un a [Dm]touché le verrou
+Et j'ai plon[F]gé vers le grand jour
+J'ai vu les [C]fanfares, les barrières
+Et les gens [B&sus2]autour
+
+{guitar_comment:  [Dm][F][C][B&sus2]}
+
+
+Dans les pre[Dm]miers moments j'ai cru
+Qu'il fallait [F]seulement se défendre
+Mais cette [C]place est sans issue
+Je commence à [B&sus2]comprendre
+
+Ils ont re[Dm]fermé derrière moi
+Ils ont eu [F]peur que je recule
+Je vais bien [C]finir par l'avoir
+Cette dan[B&sus2]seuse ridicule
+
+{start_of_chorus}
+  [Dm][F] Est-ce que ce monde est [C]sérieux ?[B&sus2] {repeat: 2}
+{end_of_chorus}
+
+
+Andalou[Dm]sie je me souviens
+Les prairies [F]bordées de cactus
+Je ne vais pas [C]trembler
+Devant ce pantin, ce [B&sus2]minus !
+
+Je vais l'attra[Dm]per lui et son chapeau
+Les faire tour[F]ner comme un soleil
+Ce soir la [C]femme du torero
+Dormira [B&sus2]sur ses deux oreilles
+
+{start_of_bridge}
+[B&sus2]J'en ai poursuivi des fan[Csus2]tômes
+Presque tou[Dm]ché leurs ballerines [Dsus4][Dm]
+Ils ont fra[Bsus2]ppé fort dans mon cou
+Pour que je [A]m'incline [Asus4][A]
+{end_of_bridge}
+
+{start_of_bridge}
+Ils sortent [B&sus2]d'où ces acrobates
+[Csus2]Avec leurs costumes de [Dm]papier ? [Dsus4][Dm]
+J'ai jamais [B&sus2]appris à me battre
+Contre des [Csus2]poupées [B&sus2]
+{end_of_bridge}
+
+{guitar_comment:  [Dm][F][C][B&sus2]}
+
+
+Sentir le [Dm]sable sous ma tête
+C'est fou comme [F]ça peut faire du bien
+J'ai prié [C]pour que tout s'arrête
+Andalou[B&sus2]sie je me souviens
+
+Je les entends [Dm]rire comme je râle
+Je les vois [F]danser comme je succombe
+Je ne pensais [C]pas qu'on puisse autant
+S'amuser [B&sus2]autour d'une tombe

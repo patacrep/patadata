@@ -1,0 +1,48 @@
+{title: J'veux du soleil}
+{artist: Au petit bonheur}
+{album: Mal de vivre}
+{cover: mal-de-vivre}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: Em frets 0 2 2 0 0 0}
+
+
+Je suis [Bm]resté qu'un enfant
+Qu'au[F#]rait grandi trop vite
+Dans [Em]un monde en super plastique
+Moi j'veux [F#]retrouver ... Maman !
+Qu'elle m'[Bm]raconte des histoires
+De [F#]Jane et de Tarzan
+De [Em]princesses et de cerfs-volants
+J'veux du [F#]soleil dans ma mémoire.
+
+{start_of_chorus}
+  J'veux du [Bm]soleil
+  J'veux du [F#]soleil
+  J'veux du [Em]soleil
+  J'veux du [F#]soleil
+{end_of_chorus}
+
+
+J'veux traverser des océans
+Et devenir Monte-Cristo
+Au clair de lune
+M'échapper de la citadelle
+J'veux devenir roi des marécages
+Me sortir de ma cage
+Un Père Noël pour Cendrillon
+Sans escarpin ...
+
+
+J'veux faire danser Maman
+Au son clair des grillons
+J'veux retrouver mon sourire d'enfant
+Perdu dans le tourbillon
+Dans le tourbillon de la vie
+Qui fait que l'on oublie
+Que l'on est resté des mômes
+Bien au fond de nos abris.
+
+{comment: premier couplet}

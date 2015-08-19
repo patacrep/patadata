@@ -1,0 +1,40 @@
+{title: Old Dan Tucker}
+{artist: Bruce Springsteen}
+{album: We shall overcome}
+{cover: we-shall-overcome}
+{language: english}
+{columns: 2}
+{capo: 3}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+
+[C]Old Dan Tucker was a [F]fine old man
+[G]Washed his face with a [C]fryin' pan
+[C]Combed his hair with a [F]wagon wheel
+And [G]died with a toothache [C]in his heel
+
+{start_of_chorus}
+  [C]Get out the way, [F]Old Dan Tucker
+  [G]You're too late to [C]get your supper
+  {repeat: 2}
+{end_of_chorus}
+
+
+Now [C]Old Dan Tucker [F]come to town
+[G]Ridin' a billy goat, [C]leadin' a hound
+The [C]hound dog barked and bil[F]ly goat jumped
+And [G]landed old Tucker [C]on a stump
+
+
+Now [C]Old Dan Tucker got [F]drunk and fell
+In the [G]fire and kicked up [C]holy hell
+A [C]red-hot coal got [F]in his shoe
+And, [G]oh my Lord, the [C]ashes flew!
+
+
+Now [C]Old Dan Tucker [F]come to town
+[G]Swinging them ladies [C]all round
+[C]First to the right and [F]then to the left
+[G]Then to the gal that [C]he loved best

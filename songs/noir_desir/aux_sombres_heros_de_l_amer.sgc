@@ -1,0 +1,51 @@
+{title: Aux sombres héros de l'amer}
+{artist: Noir Désir}
+{album: Veuillez rendre l'âme}
+{cover: veuillez-rendre-l-ame}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Dm frets X X 0 2 3 1}
+
+
+[Am]Aux sombres héros de l'a[F]mer
+Qui ont su traver[C]ser
+Les océ[G]ans du [F]vide
+
+À la mémoire de nos frères
+Dont les sanglots si longs
+Faisaient couler l'acide
+
+{start_of_chorus}
+  [Am]Al[C]ways [Dm]lost in the [F]sea {repeat: 2}
+{end_of_chorus}
+
+
+Tout part toujours dans les flots
+Au fond des nuits sereines
+Ne vois-tu rien venir ?
+
+Les naufragés et leurs peines
+Qui jetaient l'ancre ici
+Et arrêtaient d'écrire
+
+
+Ami, qu'on crève d'une absence
+Ou qu'on crève d'un abcès
+C'est le poison qui coule
+
+Certains nageaient sous les lignes
+De flottaisons intimes
+À l'intérieur des foules
+
+
+Aux sombres héros de l'amer
+Qui ont su traverser
+Les océans du vide
+
+À la mémoire de nos frères
+Dont les sanglots si longs
+Faisaient couler l'acide

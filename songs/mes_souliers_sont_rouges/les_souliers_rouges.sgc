@@ -1,0 +1,60 @@
+{title: Les souliers rouges}
+{artist: Mes souliers sont rouges}
+{album: Tape la galoche}
+{url: http://www.messoulierssontrouges.com}
+{cover: tape-la-galoche}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D7 frets X X 0 2 1 2}
+{define: C frets X 3 2 0 1 0}
+
+{partition: Les_souliers_rouges.ly}
+
+
+Ah si j'a[G]vais les beaux souliers que ma mi[D7]gnonne, ma mi[G]gnonne
+Si j'a[C]vais les beaux sou[G]liers que ma mi[D7]gnonne m'a don[G]nés
+{repeat: 2}
+Les souliers du vieux Poirier
+
+{start_of_chorus}
+  Mes souliers [C]sont [G]rouges
+  Ma mi[D7]gnonne, ma mi[G]gnonne
+  Mes sou[C]liers sont [G]rouges
+  Ma mi[D7]gnonne mes a[G]mours
+  {repeat: 2}
+{end_of_chorus}
+
+
+Si j'avais les beaux chaussons ...
+Les chaussons du vieux Gagnon, les souliers ...
+
+
+Si j'avais les belles jar'tières ...
+Les jar'tières du vieux Giguère, les chaussons ...
+
+
+Si j'avais la belle culotte ...
+La culotte du vieux Mayotte, les jar'tières ...
+
+
+Si j'avais la belle chemise ...
+La chemise du vieux Laprise, la culotte ...
+
+
+Si j'avais les belles bretelles ...
+Les bretelles du vieux Roussel, la chemise ...
+
+
+Si j'avais le beau collet ...
+Le collet du vieux Forest, les bretelles ...
+
+
+Si j'avais le beau capot ...
+Le capot du vieux Thibault, le collet ...
+
+
+Si j'avais le beau chapeau ...
+Le chapeau du vieux Garneau, le capot ...
+
+{comment: Bien que cette chanson à récapituler soit courante en France (Berry, Normandie ...), c'est encore au Québec (merci Le rêve du Diable) que nous sommes allés la chercher. Titre phare, elle est la doyenne de notre répertoire. Jimi témoigne : «C'était il y a bien longtemps ...» Merci Jimi.}

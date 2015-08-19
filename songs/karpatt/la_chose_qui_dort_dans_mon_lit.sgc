@@ -1,0 +1,48 @@
+{title: La chose qui dort dans mon lit}
+{artist: Karpatt}
+{album: Dans le caillou}
+{url: http://www.karpatt.net}
+{cover: dans-le-caillou}
+{language: french}
+{columns: 2}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: E7 base-fret 5 frets X 2 1 2 0 X}
+
+
+[Am] Elle court même pas au ralenti sur la plage
+Quand elle s'endort elle a même pas de bigoudis
+Elle est pas maquillée quand elle se réveille
+J'ai des doutes [E7] sur la chose qui dort dans mon [Am]lit
+
+[Am] Elle passe pas ses après-midis chez l'coiffeur
+Elle a jamais rendez-vous chez son psy
+Elle m'raconte pas les dépressions de ses copines
+J'ai des doutes [E7] sur la chose qui dort dans mon [Am]lit
+
+{start_of_chorus}
+  Elle s'est pas [Dm]fait refaire les seins
+  Elle s'est pas [Am]fait liposucer
+  Elle s'est [Dm]pas fait lifter et elle a [Am]jamais fait d'UV
+  Elle passe pas [Dm]deux heures aux waters et elle [Am]parle jamais de mariage
+  Même mes co[E7]pains ... elle les aime [Am]bien
+{end_of_chorus}
+
+
+[Am] Elle mange jamais d'yaourts sans sucres
+Elle fait jamais d'régime, elle supporte pas les fruits
+Elle aime le steack saignant, les frites, la confiture
+J'ai des doutes [E7] sur la chose qui dort dans mon [Am]lit
+
+[Am] Elle passe pas ses après-midis dans les magasins
+Pendant les soldes, aucun symptôme d'hystérie
+Elle a pas dix mille paires de pompes qui servent à rien
+J'ai des doutes [E7] sur la chose qui dort dans mon [Am]lit
+
+{start_of_chorus}
+  Elle est pas [Dm]abonnée a Elle
+  Elle est pas [Am]fan de George Clooney
+  Elle lit [Dm]pas Alexandre Jardin, elle passe pas [Am]deux heures à zapper
+  Elle est pas [Dm]accro de ménage et elle trouve [Am] que j'cuisine bien
+  Et même au [E7]pieu ... tu sais quoi ? Ça se passe [Am]bien ...
+{end_of_chorus}

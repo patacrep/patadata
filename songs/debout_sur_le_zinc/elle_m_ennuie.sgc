@@ -1,0 +1,69 @@
+{title: Elle m'ennuie}
+{artist: Debout sur le Zinc}
+{album: Des singes et des moutons}
+{url: http://www.dslz.org}
+{cover: des-singes-et-des-moutons}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: A7 base-fret 5 frets 0 2 0 1 0 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: Dm frets 2 2 1 0}
+{define: Gm frets 0 2 3 1}
+{define: A7 frets 0 1 0 0}
+{define: B& base-fret 1 frets 2 1 0 0}
+
+{guitar_comment: Intro :}
+{guitar_comment:  [Dm][Dm][Gm][Dm]}
+{guitar_comment:  [Gm][A7][Dm][Dm]}
+
+
+[Dm]Un regard de biche
+Des [Gm]cils qui touchent le ciel
+[A7]Des seins qui aguichent
+Des jambes... Oh [Dm]mon dieu, je chancelle !
+
+Des [Dm]fesses made in tungstène
+Un [Gm]goût parfum roudoudou
+[A7]Une peau terre de Sienne
+Une voix qui [Dm]fait : «Ah doudou, ah poupoupidou»
+
+[Dm]Une taille de guêpe
+Des [Gm]mains mâtinées de velours
+Et [A7]sur la tête des bouclettes qui dégringolent
+Jusqu'aux fesses, oh [Dm]maman, au secours !
+
+[Dm]Dire qu'elle n'aime que moi
+Et [Gm]dire qu'elle dort dans mon lit
+[A7]Dire qu'elle est à moi
+Et que tout [Dm]le monde m'envie mais
+
+{start_of_chorus}
+  Elle [B&]m'ennuie, m'ennuie, m'ennuie
+  Elle [Dm]m'ennuie, m'ennuie, m'ennuie
+  Elle [B&]m'ennuie du [A7]lundi jusqu'au lun[Dm]di
+  Elle [B&]m'ennuie, m'ennuie, m'ennuie
+  Elle [Dm]m'ennuie, m'ennuie, m'ennuie
+  Elle [B&]m'ennuie même [A7]pendant la [Dm]nuit
+{end_of_chorus}
+
+{guitar_comment: Bridge :  [Dm][Gm][A7][Dm] {repeat: 2}}
+
+
+[Dm]Quand je rêve de sirènes
+Elle, [Gm]elle me parle de ma mère
+[A7]Dans l'instant suprême
+Elle se prend [Dm]à parler de la sienne
+
+[Dm]Mes amis sont bannis
+Et [Gm]ma guitare est sous clef
+[A7]Huit crises d'hystérie par jour
+Sont [Dm]nécessaires à sa santé
+
+Sans [Dm]hésiter, je vous l'affirme
+[Gm]C'est une professionnelle
+[A7]Cette chanson le confirme
+Mais [Dm]pourquoi elle est si belle ?
+
+{guitar_comment: Outro :  [Dm]}

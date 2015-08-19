@@ -1,0 +1,46 @@
+{title: Me and Julio down by the schoolyard}
+{artist: Simon & Garfunkel}
+{album: Concert in Central Park}
+{cover: concert-in-central-park}
+{language: english}
+{columns: 2}
+{capo: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+{guitar_comment: Intro: [G][C][G][D] {repeat: 2}}
+
+
+The [G]mama pajama rolled out of bed
+And ran to the police [C]station
+When the [D]papa found out, he began to shout
+And he started the investi[G]gation
+
+It's against the [D]law
+It was against the [G]law
+What the mama [D]saw
+It was against the [G]law
+
+
+The mama looked down and spit on the ground
+Every time my name gets mentioned
+The papa said, ``Oh, if I get that boy
+I'm gonna stick him in the house of detention''
+
+{start_of_chorus}
+  Well, I'm on my [C]way
+  I don't know [G]where I'm going
+  I'm on my [C]way
+  I'm takin' my [G]time but I don't know [D]where
+  Goodbye [C]Rosie the [F]Queen of Co[G]rona
+  See you, me and [F]Julio [C]down by the [D]school[G]yard [C]
+  See you, [G]me and [F]Julio [C]down by the [D]school[G]yard [C]
+{end_of_chorus}
+
+
+In a couple of days they come and take me away
+But the press let the story leak
+Now when the radical priest come to get me released
+He's all on the cover of Newsweek

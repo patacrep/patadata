@@ -1,0 +1,62 @@
+{title: Avancer mes grolles}
+{artist: Tournée Générale}
+{album: Tournée générale}
+{cover: tournee-generale}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+
+
+[Dm]Fille de choix, loin des bonnes manières
+Autour de [B&]toi, mon [C]cœur, bri[F]cole
+Des arti[A]fices qui foutent tout en [Dm]l'air
+Pour t'emmener [B&]dans ma [A]faran[Dm]dole
+
+[Dm]Tu te résignes, persistes et signes
+Que je ne [B&]suis qu'un [C]pot de [F]colle
+Mais ça n'colle [A]pas, je passe à la [Dm]ligne
+Pour faire [B&]avan[A]cer mes [Dm]grolles
+
+{start_of_chorus}
+  Y'a pas d'pro[Gm]blèmes à [C]ma poin[F]ture
+  [Gm] Y'a pas d'pro[A]blèmes pourvu qu'ça [Dm]dure
+  {repeat: 2}
+{end_of_chorus}
+
+
+[Dm]Dans mon CV, y'a pas grand chose
+Pour m'faire te[B&]nir sur [C]mes gui[F]bolles
+Officielle[A]ment, moi, j'ai eu ma [Dm]dose
+De passer [B&]par les [A]proto[Dm]coles
+
+[Dm]Dans mon histoire, y'a beaucoup d'blancs
+Des idées [B&]noires posées [C]sur le [F]sol
+Je les re[A]lève constam[Dm]ment
+Pour faire [B&]avan[A]cer mes [Dm]grolles
+
+
+[Dm]Et même du plus haut des grattes-ciels
+On n'me pren[B&]dra pas [C]par le [F]col
+Je me suis [A]vu pousser du [Dm]zèle
+De mon âme [B&]j'ai le [A]mono[Dm]pole
+
+[Dm]Et si je tombe du dernier étage
+Avant l'bi[B&]tume, je prends [C]mon en[F]vol
+Pour rejoindre [A]le prochain cou[Dm]rage
+Qui fera [B&]avan[A]cer mes [Dm]grolles
+
+
+[Dm]Oh je te vois, noble bourgeois
+Protéger [B&]le fond [C]de ton [F]bol
+En me ser[A]vant un sourire nar[Dm]quois
+Ta soupe au [B&]lait, moi [A]j'en ri[Dm]gole
+
+[Dm]Car le pain qui rempli mon ventre
+Je l'ai chez [B&]ceux dont [C]je raf[F]fole
+En remet[A]tant la balle au [Dm]centre
+Je f'rai tou[B&]jours avan[A]cer mes [Dm]grolles {repeat: 2}

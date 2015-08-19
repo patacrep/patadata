@@ -1,0 +1,52 @@
+{title: Plantation}
+{artist: Kana}
+{album: Kana}
+{cover: kana}
+{language: french}
+{columns: 2}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+
+Je [G]viens de m'acheter un p'tit lo[C]pin de terre
+[D]Pour pouvoir faire plan[G]ter
+
+{start_of_chorus}
+  J'[G]ai un tout petit problème dans ma [C]plantation
+  [D]Pourquoi ça pousse [G]pas ?
+  {repeat: 2}
+{end_of_chorus}
+
+
+Moi j'ai planté bananes
+Banane, ça pousse pas
+Moi j'ai planté cocos
+Coco, ça pousse pas
+
+
+Moi j'ai planté légumes
+Légumes toujours pas pousser
+Moi j'ai planté agrumes
+Agrumes toujours pas pousser
+
+
+Moi j'ai planté concombres
+Concombre, ça pousse pas
+Moi j'ai planté bien à l'ombre
+À l'ombre ça pousse toujours pas
+
+
+Moi j'ai planté manioc
+Manioc toujours pas pousser
+Moi j'ai planté tapioc
+Tapioc toujours pas pousser
+
+
+Moi j'ai planté Kana
+Canne à sucre ça pousse pas
+Moi j'ai planté des nanas, des tas !
+L'ananas ça pousse pas
+
+
+Moi j'ai planté ganja
+Ganja ça pousse comme ça  ...

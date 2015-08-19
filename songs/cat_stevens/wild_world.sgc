@@ -1,0 +1,42 @@
+{title: Wild world}
+{artist: Cat Stevens}
+{album: Tea for the tillerman}
+{cover: tea-for-the-tillerman}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: D7 frets X X 0 2 1 2}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: E frets X X 0 2 3 1}
+{define: G7 frets 3 2 0 0 0 1}
+{define: D frets X X 0 2 3 2}
+
+
+[Am]Now that I've [D7]lost everything to [G]you
+[G]You say you [C]wanna start something [F]new
+[F]And it's [Dm]breaking my heart you're [E]leaving
+[E]Baby, I'm grievin'
+
+But if you want to leave, take good care
+Hope you have a lot of nice things to wear
+But then a lot of nice things turn bad, out [G7]there
+
+{start_of_chorus}
+  [C]Oh [G]baby, baby, it's a [Am]wild [F]world
+  [G]It's hard to get [F]by, just upon a [C]smile
+  [C]Oh [G]baby, baby, it's a [Am]wild [F]world
+  [G]I'll always remem[F]ber you like a [C]child, girl [D][E]
+{end_of_chorus}
+
+
+You know I've seen a lot of what the world can do
+And it's breaking my heart in two
+Because I never want to see you sad, girl
+Don't be a bad girl
+
+But if you want to leave, take good care
+Hope you make a lot of nice friends out there
+But just remember there's a lot of bad, out there

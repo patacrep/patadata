@@ -1,0 +1,65 @@
+{title: Dumb}
+{artist: Nirvana}
+{album: In Utero}
+{cover: in-utero}
+{language: english}
+{columns: 2}
+{capo: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 1}
+{define: C frets X 3 2 0 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: B* frets X X 2 4 4 X special}
+{define: C* frets X X 3 5 5 X special}
+
+
+[Em] [Am]I'm not like the[G]m
+But [C]I can prete[Em]nd
+[Am]The sun is go[G]ne
+But [C]I have a lig[Em]ht
+
+[Am]The day is do[G]ne
+But [C]I'm having fu[Em]n
+[Am]I think I'm du[G]mb
+Or [C]maybe just [Em]happy
+
+{start_of_chorus}
+  [G] Think I'm just [E]happy
+  [G] Think I'm just [Em]happy
+  [G] Think I'm just [E]happy [G][B]
+{end_of_chorus}
+
+
+[Em] [Am]My heart is bro[G]ke
+But [C]I have some glu[Em]e
+[Am]Help me inha[G]le
+And [C]mend it with yo[Em]u
+
+[Am]We'll float arou[G]nd
+And [C]hang out on clou[Em]ds
+[Am]Then we'll come do[G]wn
+And [C]have a han[Em]gover
+
+{start_of_chorus}
+  [G] Have a han[E]gover
+  [G] Have a han[Em]gover
+  [G] Have a han[E]gover [G][B]
+{end_of_chorus}
+
+[B*] Skin the sun[C*]
+Fall asleep[B*]
+Wish away[C*]
+The soul is cheap[B*]
+Lesson learned[C*]
+Wish me luck[B*]
+Soothe the burn[C*]
+Wake me up
+
+{guitar_comment: Verse & Chorus 1}
+
+
+[Em] [Am]I think I'm du[G]mb
+[C]I think I'm du[Em]mb
+{guitar_comment: ab lib.}

@@ -1,0 +1,65 @@
+{title: Lola}
+{artist: Noir Désir}
+{album: Où veux-tu que je regarde ?}
+{cover: ou-veux-tu-que-je-regarde}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F#m base-fret 1 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+{start_of_chorus}
+  [Bm]Home ag[A]ain
+  [Bm]Sing that song of [A]pain
+  That [G]follows [F#m]me ...
+{end_of_chorus}
+
+
+[F#m]Oh I try to [D]find her
+[F#m]Oh I try to [D]answer
+[F#m]I touch her hand and [D]death smiles
+[F#m]She really wants to [D]take me
+[F#m]I've seen the door and the [D]walls cry
+[F#m]Let it drain, [D]static blood
+[F#m]And kiss the fallen [D]angel
+[F#m]Down in the heart of [D]hell
+Or
+[F#m]I will [D]find the outside
+[F#m]I will [D]try to run
+[F#m]I will [D]find the outside
+[F#m]I will ...
+
+
+[F#m]Oh I try to [D]kill her
+[F#m]And I read the [D]prayer
+[F#m]How to have the [D]whole
+[F#m]Let it drain [D]your soul !
+[F#m]I will [D]find the outside
+[F#m]I will [D]try to run
+[F#m]I will [D]find the outside
+[F#m]I will ... [D] and then she say
+
+{start_of_bridge}
+[A] All [G#]night, und[D]er red tavern lights
+[A] You can ask to [G#]see, [F#m]Lola, Lola
+[A]All [G#]night [D]singing blood and soul
+[A] You can ask to [G#]see, [F#m]Lola, Lola
+[A]All [G#]night, [D]spitting blood and soul
+[A] You can scream [G#]it, [F#m]Lola, Lola
+[A]All [G#]night, [D]bleeding blood and soul
+[A] You can scream [G#]it, [D]Lola, Lola [E] [D]
+{end_of_bridge}
+
+
+Give us your [E]magic
+You can have my [D]madness
+Show me the r[E]isk
+Leave me the [D]rest I know
+Don't leave me c[E]old as
+Dead fish [D]eyes
+Just go aw[E]ay
+Please go aw[D]ay [F#m] [D]

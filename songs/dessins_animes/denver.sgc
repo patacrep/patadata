@@ -1,0 +1,41 @@
+{title: Denver, le dernier dinosaure}
+{artist: Dessins Animés}
+{album: Denver}
+{cover: denver}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+
+{start_of_chorus}
+  [D]Denver, le dernier [A]dinosaure
+  [G]C'est mon [D]ami et bien [A]plus en[D]core
+  [D]Denver, le dernier [A]dinosaure
+  [G]Vient d'un [D]monde jamais [A]vu en[D]core [C]
+{end_of_chorus}
+
+
+Ve[A]nu de la torride [G]et ancienne [A]jungle
+[A]C'est le plus gentil de [G]tous les [A]animaux [G]
+
+
+Partout où nous allons les gens sont sidérés
+De se trouver nez à nez avec un grand dino
+
+Depuis la nuit des temps jusque sous les projecteurs
+[F]Il met dans [G]notre [C]vie un peu plus [D]de bo[E]nheur
+
+{start_of_chorus}
+  [A]Denver, le dernier [E]dinosaure
+  [D]C'est mon [A]ami et bien [E]plus en[A]core
+  [A]Denver, le dernier [E]dinosaure
+  [D]Vient d'un [A]monde jamais [E]vu en[A]core [C]
+{end_of_chorus}
+
+
+Avant tout était gris et les jours étaient si tristes
+Mais tout a changé quand il est arrivé

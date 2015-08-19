@@ -1,0 +1,47 @@
+{title: My lady d'Arbanville}
+{artist: Cat Stevens}
+{album: Mona bone jakon}
+{cover: mona-bone-jakon}
+{language: english}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+{start_of_chorus}
+  My lady d'Arbanville [Em]
+  [D] Why do you sleep so still?
+  [Em] I'll wake you tomorrow
+  [D] And you will be my [Bm]fill
+  Yes, you will be my [Em]fill
+{end_of_chorus}
+
+
+My lady d'Arbanville
+Why does it grieve me so?
+But your heart seems so silent
+Why do you breathe so low? {repeat: 2}
+
+
+My lady d'Arbanville
+You look so cold tonight
+Your lips feel like winter
+Your skin has turned to white {repeat: 2}
+
+
+La lala lalala {echo: ahah ah ahah}
+La lalala la la {echo: ahah ah ahah}
+Lala la lalalala {echo: ahah ah ahah}
+Lalalala lala {echo: ah} {repeat: 2}
+
+
+My lady d'Arbanville
+Why does it grieve me so?
+But your heart seems so silent
+Why do you breathe so low? {repeat: 2}
+
+
+I loved you my lady
+Though in your grave you lie
+I'll always be with you
+This rose will never die {repeat: 2}

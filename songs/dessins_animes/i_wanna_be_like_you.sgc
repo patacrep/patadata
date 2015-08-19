@@ -1,0 +1,77 @@
+{title: The jungle book: I wanna be like you}
+{artist: Dessins Animés}
+{album: The jungle book}
+{cover: the-jungle-book}
+{language: english}
+{columns: 2}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: G7 base-fret 3 frets 0 2 0 1 0 0}
+{define: B&7 base-fret 1 frets X 0 2 0 2 0}
+{define: E&7 base-fret 6 frets X 0 2 0 2 0}
+{define: C7 frets X 3 2 3 1 0}
+{define: F7 base-fret 1 frets 0 2 0 1 0 0}
+
+
+Now [Cm]I'm the king of the swingers, oh
+The jungle [G7]VIP
+I've reached the top and had to stop
+And that's what botherin' [Cm]me [G7]
+
+I [Cm]wanna be a man, mancub
+And stroll right into [G7]town
+And be just like the other men
+I'm tired of monkeyin' a[Cm]round, [B&7]oh
+
+{start_of_chorus}
+  [E&7]Oo bee doo
+  I wanna be like [C7]you
+  I wanna [F7]walk like you
+  [B&7]Talk like you, [E&7]too [B&7]
+{end_of_chorus}
+
+{start_of_chorus}
+  You'll see it's [E&7]true
+  An ape like [C7]me
+  Can [F7]learn to be
+  [B&7]Human [E&7]too [G7]
+{end_of_chorus}
+
+{comment: spoken}
+
+``Gee, cousin Louie
+You're doin' real good!''
+``Now here's your part of the deal, cuz
+Lay the secret on me of man's red fire''
+``But I don't know how to make fire!''
+
+
+Now [Cm]don't try to kid me, mancub
+I made a deal with [G7]you
+What I desire is man's red fire
+To make my dream come [Cm]true [G7]
+
+Now, [Cm]give me the secret, mancub
+Come on, clue me what to [G7]do
+Give me the power of man's red flower
+So I can be like [Cm]you [B&7]
+
+{start_of_chorus}
+  [E&7]You!
+  I wanna be like [C7]you
+  I wanna [F7]walk like you
+  [B&7]Talk like you, [E&7]too [B&7]
+{end_of_chorus}
+
+{start_of_chorus}
+  You'll see it's [E&7]true
+  Someone like [C7]me
+  Can [F7]learn to be
+  [B&7]Like someone like [E&7]me!
+{end_of_chorus}
+
+{start_of_chorus}
+  Can [F7]learn to be
+  [B&7]Like someone like [E&7]you {echo: One more time! Yeah!}
+  Can [F7]learn to be
+  [B&7]Like someone like [E&7]me!
+{end_of_chorus}

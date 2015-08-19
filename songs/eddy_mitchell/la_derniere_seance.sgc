@@ -1,0 +1,74 @@
+{title: La dernière séance}
+{artist: Eddy Mitchell}
+{album: La dernière séance}
+{cover: la-derniere-seance}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+{define: B&7 base-fret 1 frets X 0 2 0 2 0}
+{define: C7 frets X 3 2 3 1 0}
+
+
+[C] La lumière revient déjà
+[Em] Et le film est terminé
+[F] Je réveille mon voisin
+[Em] Il dort comme un [A7]nouveau-né
+[Fm] Je relève mon strapontin
+[Em] J'ai une envie [Am]de bailler
+[Dm] C'était la dernière séquence
+[G] C'était la dernière séance
+[Dm] Et le rideau [G]sur l'écran est [C]tombé
+
+
+La photo sur le mot fin
+Peut faire sourire ou pleurer
+Mais je connais le destin
+D'un cinéma de quartier
+Il finira en garage
+En building, supermarché
+Il n'a plus aucune chance
+C'était sa dernière séance
+Et le rideau sur l'écran est tombé
+
+{start_of_chorus}
+  Bye [Fm]bye, les héros que j'ai[B&7]mais
+  L'entracte est termi[C7]née
+  Bye [Fm]bye, rendez-vous à ja[B&7]mais
+  Mes chocolats gla[Em]cés, gla[G]cés
+{end_of_chorus}
+
+
+J'allais rue des Solitaires
+À l'école de mon quartier
+À cinq heure j'étais sorti
+Mon père venait me chercher
+On voyait Gary Cooper
+Qui défendait l'opprimé
+C'était vraiment bien l'enfance
+Mais c'est la dernière séquence
+Et le rideau sur l'écran est tombé
+
+{start_of_chorus}
+  Bye bye, les filles qui tremblaient
+  Pour les jeunes premiers
+  Bye bye, rendez-vous à jamais
+  Mes chocolats glacés, glacés
+{end_of_chorus}
+
+
+La lumière s'éteint déjà
+La salle est vide à pleurer
+Mon voisin détend ses bras
+Il s'en va boire un café
+Un vieux pleure dans un coin
+Son cinéma est fermé
+C'était la dernière séquence
+C'était sa dernière séance
+Et le rideau sur l'écran est tombé

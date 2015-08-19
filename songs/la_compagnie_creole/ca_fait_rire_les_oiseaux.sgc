@@ -1,0 +1,72 @@
+{title: Ça fait rire les oiseaux}
+{artist: La compagnie créole}
+{album: Ça fait rire les oiseaux}
+{cover: ca-fait-rire-les-oiseaux}
+{language: french}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: C frets X 3 2 0 1 0}
+{define: Dm frets X X 0 2 3 1}
+
+{start_of_chorus}
+  Ça fait [F]rire les oiseaux
+  Ça fait [B&]chanter les abeilles
+  Ça [F]chasse les nuages
+  Et fait [C]briller le soleil
+{end_of_chorus}
+
+{start_of_chorus}
+  Ça fait rire les oiseaux
+  Et danser les écureuils
+  Ça rajoute des couleurs
+  Aux couleurs de l'arc-en-ciel
+{end_of_chorus}
+
+{start_of_chorus}
+  Ça fait [F]rire les oiseaux
+  [B&] Oh, [C]oh, oh, [F]rire les oiseaux
+  {repeat: 2}
+{end_of_chorus}
+
+
+Une [F]chanson d'amour
+C'est comme un [B&]looping en avion
+Ça [C]fait battre le cœur
+Des filles et [F]des garçons
+
+Une chanson d'amour
+C'est d'l'oxygène dans la maison
+Tes pieds n'touchent plus par terre
+T'es en lévitation
+
+Si y a d'la [Dm]pluie dans ta vie
+Si le [B&]soir te fait peur
+La [C]musique est là pour [F]ça
+Y'a tou[Dm]jours une mélodie
+Pour des [B&]jours meilleurs
+Allez, [C]tape dans tes mains
+Ça porte bonheur
+C'est magique, un refrain
+Qu'on reprend tous en chœur
+
+
+T'es revenu chez toi
+La tête pleine de souvenirs
+Des soirs au clair de lune
+Des moments de plaisir
+
+T'es revenu chez toi
+Et tu veux déjà repartir
+Pour trouver l'aventure
+Qui n'aurait pas dû finir
+
+Si y a du gris dans tes nuits
+Ou des larmes dans ton cœur
+La musique est là pour ça
+Y'a toujours une mélodie
+Pour des jours meilleurs
+Allez, tape dans tes mains
+Ça porte bonheur
+C'est magique, un refrain
+Qu'on reprend tous en chœur

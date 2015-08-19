@@ -1,0 +1,52 @@
+{title: The wind cries Mary}
+{artist: Jimi Hendrix}
+{album: Are you experienced}
+{cover: are-you-experienced}
+{language: english}
+{columns: 1}
+{define: E& base-fret 6 frets X 0 2 2 2 X special}
+{define: E base-fret 7 frets X 0 2 2 2 X special}
+{define: F base-fret 8 frets X 0 2 2 2 X special}
+{define: E&* base-fret 8 frets X 2 0 0 X X special}
+{define: E* base-fret 9 frets X 2 0 0 X X special}
+{define: F* base-fret 9 frets X 3 1 1 X X special}
+{define: C base-fret 3 frets X 0 2 2 2 0 special}
+{define: B& base-fret 1 frets X 0 2 2 2 0 special}
+{define: F** base-fret 1 frets 0 2 2 1 0 0 special}
+{define: G base-fret 3 frets 0 2 2 1 0 0 special}
+{define: B&* base-fret 6 frets 0 2 2 1 0 0 special}
+{define: A& base-fret 4 frets 0 2 2 1 0 0 special}
+{define: D& base-fret 9 frets 0 2 2 1 0 0 special}
+
+{guitar_comment: Intro: | [E&] [E] [F] | [E&*] [E*] [F*] |  {repeat: 2}}
+
+
+[C]After all the [B&]jacks are in their [F**]boxes
+[C]And the clowns have [B&]all gone to [F**]bed
+[C]You can hear happiness [B&]staggering on [F**]down the street
+[G]Footsteps [B&*]dressed in [E&]red[E][F]
+[G]And the [B&*]wind whispers [E&]Mary[E][F] [E&*][E*][F*]
+
+
+A broom is drearily sweeping
+Up the broken pieces of yesterday's life
+Somewhere a queen is weeping
+Somewhere a king has no wife
+And the wind cries Mary
+
+| [F] [E&] | [B&*] [A&] |  {repeat: 3}
+| [G] | [B&*] | [D&] | [F] |
+
+
+The traffic lights turn blue tomorrow
+And shine the emptiness down on my bed
+The tiny island sags downstream
+Cause the life that lived is dead
+And the wind screams Mary
+
+
+Will the wind ever remember
+The names it has blown in the past
+With its crutch, its old age, and its wisdom
+It whispers no, this will be the last
+And the wind cries Mary

@@ -1,0 +1,34 @@
+{title: Fake wings}
+{artist: Yuki Kajiura}
+{album: Fiction}
+{cover: fiction}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+
+[Am]Shine
+Bright morning [Dm]light
+[G]Now in the [F]air
+The [G]spring is [Am]coming
+
+
+Sweet
+Blowing wind
+Singing down
+The hills and valleys
+
+{start_of_chorus}
+  [F]Keep your eyes on [C]me
+  Now we're [Dm]on the edge of [E]hell
+{end_of_chorus}
+
+
+Dear my love
+Sweet morning light
+Wait for me
+You've gone much farther, too far

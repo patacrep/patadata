@@ -1,0 +1,93 @@
+{title: Tout le monde se presse}
+{artist: Louis Chedid}
+{album: Le soldat rose}
+{cover: le-soldat-rose}
+{language: french}
+{columns: 2}
+{define: C7/9 base-fret 3 frets X 0 2 0 0 0 special}
+{define: C7/9 base-fret 3 frets X 2 1 2 3 X special}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: F7 base-fret 1 frets 0 2 0 1 0 0}
+{define: F7/9 base-fret 8 frets X 0 2 0 0 0 special}
+{define: D7/9 base-fret 5 frets X 2 1 2 3 X special}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: C7 frets X 3 2 3 1 0}
+{define: C#dim frets X X 2 3 2 3 special}
+{define: Gm7 frets X X 3 3 3 3 special}
+{define: G7/5# frets X X 3 4 4 3 special}
+{define: C#7/9 base-fret 4 frets X 2 1 2 3 X special}
+{define: Gdim frets X X 2 3 2 3 special}
+{define: B&dim base-fret 3 frets X X 2 3 2 3 special}
+{define: C#dim base-fret 6 frets X X 2 3 2 3 special}
+{define: Edim base-fret 9 frets X X 2 3 2 3 special}
+{define: Gdim* base-fret 12 frets X X 2 3 2 3 special}
+
+{start_of_chorus}
+  [C7/9]Tout l'monde se presse, tout l'monde se presse
+  [F]Attention au départ
+  [C7/9]Même si c'est pas l'Orient Express
+  [F]Direction quelque part
+  [D7/9]Embarquez voyageurs
+  [G]Pas besoin d'aller bien loin
+  [C7/9]Pour s'en aller ailleurs
+  Loin du train-train quotidien
+{end_of_chorus}
+
+
+[C7/9]Tout l'monde se presse, tout l'monde se presse
+[F]Attention au départ
+[D7/9]Ça n'est pas tout prêt[G] l'Italie {echo: et non !}
+[C7/9]Mais en gardant les[F] yeux fermés
+[D7/9]Au bout du rayon [G]spaghetti
+[C7/9]On voit des gondo[F7]les amarrées [F7/9]
+[D7/9]Pourquoi aller jusqu'en Asie
+[G]Quand il suffit qu'on imagine
+[C7]En longeant le rayon riz
+Qu'on est[C#dim] à la [Gm7] muraille de [G7/5#]Chine
+
+
+Tout l'monde se presse, tout l'monde se presse
+Attention au départ
+En Russie il fait bien trop froid
+Et comme j'ai peur de m'enrhumer
+Je file au rayon des vodkas
+Et la place rouge, c'est l'bout d'mon nez
+Si vous voulez voir des fantômes
+Je vous emmène au rayon draps
+Quand vient minuit, c'est leur royaume
+Mais surtout ne descendez pas
+
+{start_of_chorus}
+  [C7/9]Tout l'monde se presse, tout l'monde se presse
+  [F]Attention au départ
+  [C#7/9]Tout l'monde se [C7/9*]presse, tout l'monde se presse {repeat: 3}
+  [Gdim][B&dim][C#dim][Edim][Gdim*]
+  {echo: Zorro est arri...}
+{end_of_chorus}
+
+{start_of_chorus}
+  [C7/9]Tout l'monde se presse, tout l'monde se presse, [F]Attention au départ
+  [D7/9]Tout l'monde se presse, tout l'monde se presse, [G]Attention au départ
+  [E7/9]Tout l'monde se presse, tout l'monde se presse, [A]Attention au départ
+  [F#7/9]Tout l'monde se presse, tout l'monde se presse, [B]Attention au départ
+  [F#7/9]
+{end_of_chorus}
+
+#_____________________________________________________________________________
+#Le passage C7 - C#dim - Gm7 - G7/5# - (C7) assez rapide
+#peut être remplacé par des basses en octaves plus simples
+#
+#Guitare 1 |--0----3----3----3----|--3-
+# |--1----2----3----4----|--5-
+# |--3----3----3----4----|--3-
+# |--2----2----3----3----|--5-
+# |--3-------------------|-----
+# |----------------------|-----
+#
+#Guitare 2 |----------------------|-----
+# |----------------------|-----
+# |--5----6----7----8----|--9-
+# |--x----x----x----x----|--x--
+# |--3----4----5----6----|--7-
+# |----------------------|-----
+#_____________________________________________________________________________

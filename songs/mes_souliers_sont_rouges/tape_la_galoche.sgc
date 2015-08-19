@@ -1,0 +1,81 @@
+{title: Tape la galoche}
+{artist: Mes souliers sont rouges}
+{album: Tape la galoche}
+{url: http://www.messoulierssontrouges.com}
+{cover: tape-la-galoche}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+
+Le ma[G]tin au saut du lit
+J'enfile [D]une paire de sa[G]vates {repeat: 2}
+
+Mes belles [F]savates écar[G]lates
+Mes deux [D]pieds sont bien chau[G]ssés
+
+{start_of_chorus}
+  [F]Tape la ga[G]loche
+  Mes deux [D]pieds sont bien chau[G]ssés
+  J'va pou[D]voir aller dan[G]ser
+  {repeat: 2}
+{end_of_chorus}
+
+
+Le matin au saut du lit
+J'enfile une paire chaussons {repeat: 2}
+
+Mes p'tits chaussons vermillons
+Mes belles savates écarlates
+
+
+Le matin au saut du lit
+J'enfile une paire de sabots {repeat: 2}
+
+Mes vieux sabots coqu'licots
+Mes p'tits chaussons vermillons
+...
+
+
+Le matin au saut du lit
+J'enfile une paire de souliers {repeat: 2}
+
+Mes souliers couleur pompier
+Mes vieux sabots coqu'licots
+...
+
+
+Le matin au saut du lit
+J'enfile une paire de bottines {repeat: 2}
+
+Mes bottines hémoglobines
+Mes souliers couleur pompiers
+...
+
+
+Le matin au saut du lit
+J'enfile une paire d'charentaises {repeat: 2}
+
+Mes charantaises à la fraise
+Mes bottines hémoglobines
+...
+
+
+Le matin au saut du lit
+J'enfile une paire de tennis {repeat: 2}
+
+Mes tennis de communisse
+Mes charantaises à la fraise
+...
+
+
+Le matin au saut du lit
+J'enfile mes boîtes à orteils {repeat: 2}
+
+Boîtes à orteils coup d'soleil
+Mes tennis de communisse
+...
+
+{comment: Chanson «casse-cou» à jouer au grand galop, Tape la Galoche a été composée sur mesure pour les Souliers par Benoît -- «Bebeu l'énervant» précise Denys qui doit la chanter sans assistance respiratoire.}

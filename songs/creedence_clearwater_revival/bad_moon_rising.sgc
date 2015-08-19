@@ -1,0 +1,45 @@
+{title: Bad moon rising}
+{artist: Creedence Clearwater Revival}
+{album: Green River}
+{cover: green-river}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+
+
+[D]I see a [A]bad [G]moon a [D]rising
+[D]I see [A]trouble [G]on the way[D]
+[D]I see [A]earth[G]quakes and [D]lightnings
+[D]I see [A]bad [G]times to[D]day
+
+{start_of_chorus}
+  [G]Don't go around tonight
+  Well, it's [D]bound to take your life
+  [A]There's a [G]bad moon on the rise[D]
+{end_of_chorus}
+
+
+[D]I hear hur[A]ri[G]canes blowing[D]
+[D]I know the [A]end is [G]coming soon[D]
+[D]I fell [A]rivers [G]over flowing[D]
+[D]I hear the [A]voice from [G]rage and ruin[D]
+
+{start_of_chorus}
+  [G]Don't go around tonight
+  Well, it's [D]bound to take your life
+  [A]There's a [G]bad moon on the rise[D]
+{end_of_chorus}
+
+
+[D]Hope you [A]got your [G]things together[D]
+[D]Hope you are [A]quite [G]prepared to die[D]
+[D]Looks like we're [A]in for [G]nasty weather[D]
+[D]One eye is [A]thaking [G]for an eye[D]
+
+{start_of_chorus}
+  [G]Don't go around tonight
+  Well, it's [D]bound to take your life
+  [A]There's a [G]bad moon on the rise[D]
+{end_of_chorus}

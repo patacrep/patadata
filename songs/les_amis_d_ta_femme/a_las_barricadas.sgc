@@ -1,0 +1,33 @@
+{title: A las barricadas}
+{artist: Les amis d'ta femme}
+{album: Noir et rouge aussi un peu}
+{cover: noir-et-rouge-aussi-un-peu}
+{language: spanish}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+
+
+[Dm]Negras tormentas agitan los aires
+[A]Nubes oscuras nos [Dm]impiden ver
+
+[Dm]Aunque nos espere el dolor y la muerte
+[A]Contra el enemigo nos [Dm]llama el deber
+
+
+El [F]bien más preciado es [C]la libertad
+[C]Hay que defenderla con [A]fe y valor
+
+[Dm]Alza la bandera revolucionaria
+[A]Que lleva el pueblo a su [Dm]emancipación
+{repeat: 2}
+
+
+En pie el pueblo obrero, a la batalla
+Hay que derrocar a la reacción
+
+¡A las barricadas! ¡A las barricadas!
+Por el triunfo de la Confederación
+{repeat: 2}
