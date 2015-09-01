@@ -62,6 +62,6 @@
 
   \lilypond{10_sous_dans_ma_poche-2}
 
-  \image[width=4cm]{\currfiledir nb_chest}
+  \image[width=4cm]{nb_chest}
 
 \endsong
