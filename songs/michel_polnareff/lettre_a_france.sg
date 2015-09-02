@@ -4,7 +4,7 @@
   [by={Michel Polnareff},cov={passe-present},album={Passé Présent }]
 
   \cover
-  \gtab{E&M7}{XX1333}
+  \gtab{D#maj7}{XX1333}
   \gtab{D4}{XX0233}
   \gtab{D}{XX0232}
   \gtab{Gm}{3:022000}
@@ -14,30 +14,30 @@
   \gtab{A7}{X02020}
   \gtab{Dm7}{XX0211}
   \gtab{F7}{1:020100}
-  \gtab{B&7M}{1:X02120}
+  \gtab{A#maj7}{1:X02120}
   \gtab{A}{X02220}
   \gtab{D7}{XX0212}
   \gtab{A&}{4:022100}
   \gtab{Am7}{X02213}
 
   \begin{chorus}
-    \[E&M7]Il était une \[D4]fois\[D]
+    \[D#maj7]Il était une \[D4]fois\[D]
     Toi et \[Gm]moi\[D4 D]
-    \[E&M7]N'oublie jamais \[D4]ça\[D]
+    \[D#maj7]N'oublie jamais \[D4]ça\[D]
     Toi et \[Gm]moi\[D4 D]
   \end{chorus}
 
   \begin{bridge}
-    \[Gm Cm7 F Dm EbM7 A7 D D4 D]
-    \[Gm Cm F Dm7 EbM7 A D7 Gm]
+    \[Gm Cm7 F Dm D#maj7 A7 D D4 D]
+    \[Gm Cm F Dm7 D#maj7 A D7 Gm]
   \end{bridge}
 
   \begin{verse}
     \[Gm]Depuis que je \[Cm7]suis loin de \[F7]toi
-    Je suis \[B&7M]comme loin de \[E&7M]moi
+    Je suis \[A#maj7]comme loin de \[D#maj7]moi
     Et je \[A7]pense à \[D]toi tout \[D4]bas\[D]
     \[Gm]Tu es à \[Cm7]six heures de \[F7]moi
-    Je suis à \[B&7M]des années de \[E&7M]toi
+    Je suis à \[A#maj7]des années de \[D#maj7]toi
     C'est \[A]ça \[D7]être \[Gm]là-bas
   \end{verse}
 

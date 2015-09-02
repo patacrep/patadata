@@ -10,7 +10,7 @@
   \gtab{F}{1:022100}
   \gtab{G}{320003}
   \gtab{C7}{X32310}
-  \gtab*{F7M}{XX3210}
+  \gtab*{Fmaj7}{XX3210}
   \gtab{Dm}{XX0231}
   \gtab*{Dm7}{XX0211}
   \gtab{G7}{320001}
@@ -30,7 +30,7 @@
   \end{verse*}
 
   \begin{chorus}
-    \[C7]L'été, on allait voir la \[F7M]mer
+    \[C7]L'été, on allait voir la \[Fmaj7]mer
     \[Dm]{Tu vois}, c'\[G]était pas la mi\[Em]sère
     \[Am]C'était pas non plus l'para\[F]dis
     Eh \[Dm]{ouais, tant} \[E]pis
@@ -93,14 +93,14 @@
   \end{verse*}
 
   \begin{chorus}
-    \[C7]Mais, quand on a juste \[F7M]quinze ans
+    \[C7]Mais, quand on a juste \[Fmaj7]quinze ans
     \[Dm]{On n'a} pas le \[G]cœur assez \[Em]grand
     \[Am]Pour y loger toutes ces choses \[F]là
     \[Dm]{Tu vois} \[E]
   \end{chorus}
 
   \begin{chorus}
-    \[C7]Maintenant qu'il est loin d'\[F7M]ici
+    \[C7]Maintenant qu'il est loin d'\[Fmaj7]ici
     \[Dm]{En pensant} \[G]{à tout} ça, j'me \[Em]dis
     \[Am]Qu'j'aimerais bien qu'il soit près de \[F]moi
     \[G] Pap\[Am]a \[Dm7] \[G7] \[C]
