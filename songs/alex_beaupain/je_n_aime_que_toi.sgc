@@ -11,7 +11,7 @@
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 {define: F#7 base-fret 2 frets 0 2 0 1 0 0}
 
-{guitar_comment: Intro : [D][F#m][Em][A] {repeat: 2}}
+{guitar_comment: Intro : [D F#m Em A] {repeat: 2}}
 
 
 [D]Petit salaud, ton [F#m]jeu est clair

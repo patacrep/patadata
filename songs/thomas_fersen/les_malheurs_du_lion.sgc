@@ -16,7 +16,7 @@
 {define: Fm frets 1 0 1 3}
 
 {start_of_chorus}
-  {guitar_comment:  [Cm][G][Cm] {repeat: 2}}
+  {guitar_comment:  [Cm G Cm] {repeat: 2}}
 {end_of_chorus}
 
 

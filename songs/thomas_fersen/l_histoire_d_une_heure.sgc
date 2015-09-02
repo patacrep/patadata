@@ -16,10 +16,10 @@
 {define: F#dim base-fret 2 frets 0 1 0 1}
 
 {guitar_comment: Intro :}
-[B7][E][B7][E]
-[B7][E][B7][E]
-[A][E][A][E]
-[Edim][E][F#dim][B7]
+[B7 E B7 E]
+[B7 E B7 E]
+[A E A E]
+[Edim E F#dim B7]
 
 
 [B7]C'est l'histoire d'une [E]heure
@@ -82,7 +82,7 @@ Je [A]chante ma chan[E]son
 Je [F#dim]ne les compte [B7]plus
 
 {guitar_comment: Outro :}
-[B7][E][B7][E]
-[B7][E][B7][E]
-[A][E][A][E]
-[Edim][E][F#dim][B7]
+[B7 E B7 E]
+[B7 E B7 E]
+[A E A E]
+[Edim E F#dim B7]

@@ -12,7 +12,7 @@
 {define: Dm frets 2 2 1 0}
 {define: Gm frets 0 2 3 1}
 
-{guitar_comment: Intro :  [Cm][Dm][Gm][Gm] {repeat: 6}}
+{guitar_comment: Intro :  [Cm Dm Gm Gm] {repeat: 6}}
 
 
 [Cm]Moi j'croyais [Dm]au grand a[Gm]mur
@@ -30,7 +30,7 @@
   [Dm]Pam palam pam [Gm]pam
   {repeat: 4}
   {guitar_comment: Violon}
-  [Cm][Dm][Gm][Gm] {repeat: 4}
+  [Cm Dm Gm Gm] {repeat: 4}
   {partition: Chanson_d_amur.ly}
 {end_of_chorus}
 

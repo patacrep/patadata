@@ -11,7 +11,7 @@
 {define: B base-fret 7 frets 0 2 2 1 0 0}
 {define: D base-fret 5 frets X 0 2 2 2 0}
 
-{guitar_comment: Intro : [Em][C][Am][B] {repeat: 2}}
+{guitar_comment: Intro : [Em C Am B] {repeat: 2}}
 
 
 [Em]Un beau jour que j'[C]allais aller, [Am]aller à l'é[B]cole
@@ -25,7 +25,7 @@ Mais elle ne m'écoutait pas, elle était un peu folle
 Elle attendait de moi que je m'arrête
 Pour grimper de mes pieds jusqu'à ma tête
 
-{guitar_comment: [Em][C][Em][C][Em][C][B7] {repeat: 2}}
+{guitar_comment: [Em C Em C Em C B7] {repeat: 2}}
 
 
 Elle avait de petits bras et plein de poils pour gratter

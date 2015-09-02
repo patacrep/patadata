@@ -17,7 +17,7 @@
 {define: Bm base-fret 2 frets 2 0 0 0}
 {define: D frets 2 2 2 0}
 
-{guitar_comment: Intro :  [Em][G][Am][B7] {repeat: 6}}
+{guitar_comment: Intro :  [Em G Am B7] {repeat: 6}}
 
 
 De[G]puis que je me suis co[Em]gné la tête
@@ -41,7 +41,7 @@ Dans [Bm]l'armoire à den[Em]telles
   [Em]Éclaire la scène
 {end_of_chorus}
 
-{guitar_comment: [Am][D][Em][Bm][Em]}
+{guitar_comment: [Am D Em Bm Em]}
 
 
 Je [G]le retrouve [Em]dans mon lit
@@ -58,8 +58,8 @@ Dans [D]ton vieux débarras
 L'or[Em]dinaire est chagrin
 Dans [Bm]l'armoire en sa[Em]pin
 
-{guitar_comment:  [Am][D][Am][Bm][Em]}
-{guitar_comment:  [Em][G][Am][B7] {repeat: 6}}
+{guitar_comment:  [Am D Am Bm Em]}
+{guitar_comment:  [Em G Am B7] {repeat: 6}}
 
 
 Mon [G]squelette est un [Em]tendre
@@ -82,7 +82,7 @@ Le [G]voilà parti [Em]dans la nuit
 Il [G]roule comme un pou[Em]let sans tête
 Et [G]tout finit dans [Em]un grand bruit
 
-{guitar_comment:  [Am][D][Am][Bm][Em] {repeat: 2}}
+{guitar_comment:  [Am D Am Bm Em] {repeat: 2}}
 
 Sque[Am]lette, mon macabre
 T'es [Bm]rentré dans un arbre
@@ -93,6 +93,6 @@ Dans [D]la maison en ruine
 Le [Em]puits me désespère
 Dans [Bm]son manteau de [Em]lierre
 
-{guitar_comment:  [Am][D][Am][Bm][Em]}
+{guitar_comment:  [Am D Am Bm Em]}
 
-{guitar_comment: Outro :  [Em][G][Am][Bm] {repeat: 4}}
+{guitar_comment: Outro :  [Em G Am Bm] {repeat: 4}}

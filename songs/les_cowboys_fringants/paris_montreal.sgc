@@ -9,7 +9,7 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: C frets X 3 2 0 1 0}
 
-{guitar_comment: Intro : [Am][F][C][G] {repeat: 2}}
+{guitar_comment: Intro : [Am F C G] {repeat: 2}}
 
 {start_of_chorus}
   Tu m'é[Am]cris, il pleut à Montré[G]al
@@ -34,4 +34,4 @@ Mais y'a pas de bonnes ma[F]nières
 Pour se dire a[C]dieu
 Ça se [F]passe jamais comme on [Am] veut
 
-[Am][F][C][G] {repeat: 2}
+[Am F C G] {repeat: 2}

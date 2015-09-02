@@ -17,7 +17,7 @@
 {define: Am frets 2 0 0 0}
 {define: B base-fret 2 frets 2 1 0 0}
 
-{guitar_comment: Intro :  [Em][C][D][G] [Am][B][Em][Em]}
+{guitar_comment: Intro :  [Em C D G] [Am B Em Em]}
 
 
 [Em]Toi que j'ai connu à l'é[C]cole

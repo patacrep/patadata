@@ -7,7 +7,7 @@
 {define: C frets X 3 2 0 1 0}
 {define: Bm7 frets X 0 0 2 0 2}
 {define: Am frets 0 0 2 2 1 0}
-{define: Am7M base-fret 1 frets X 0 2 1 1 0}
+{define: A#mmaj7 base-fret 1 frets X 0 2 1 1 0}
 {define: F#dim frets X X 2 3 2 3}
 {define: Dm6 frets X X 0 2 0 1}
 {define: E7 frets 0 3 0 1 0 0}
@@ -16,15 +16,15 @@
 
 [C]Je te donnerai
 [E7]Tous les bateaux, tous les oi[Bm7]seaux, tous les soleils
-[E7]Toutes les roses, toutes les [Am]choses qui t'émer[Am7M]veillent
+[E7]Toutes les roses, toutes les [Am]choses qui t'émer[A#mmaj7]veillent
 [Am7]Petite [F#dim]fille de ma [Dm6]rue ...[E7]
 [C]Tu n'as jamais vu
 [Am7]Tous les bateaux, tous les oi[Bm7]seaux, tous les soleils
-[E7]L'île au trésor et les fruits [Am]d'or et les a[Am7M]beilles
+[E7]L'île au trésor et les fruits [Am]d'or et les a[A#mmaj7]beilles
 [Am7]Ne pleure [F#dim]pas petite [Dm6]fille[E7]
 [C]Moi je t'ai rêvée
 Tu [Dm6]es venue
-Ô mon enfant, mon [Am]incon[Am7M]nue
+Ô mon enfant, mon [Am]incon[A#mmaj7]nue
 [Am7]Je t'ai trou[D9]vée
 Dans [Dm6]cette rue... [E7]
 

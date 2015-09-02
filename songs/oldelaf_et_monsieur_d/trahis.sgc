@@ -10,7 +10,7 @@
 {define: E frets 0 2 2 1 0 0}
 {define: C# base-fret 4 frets X 0 2 2 2 0}
 
-{guitar_comment: Intro : [F#m][D][A][E] {repeat: 2}}
+{guitar_comment: Intro : [F#m D A E] {repeat: 2}}
 
 
 [F#m]Tu as eu une [D]si riche car[A]riè[E]re

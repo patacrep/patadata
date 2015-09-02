@@ -9,13 +9,13 @@
 {define: B frets X 2 4 4 4 2}
 {define: C base-fret 3 frets X 0 2 2 2 0}
 
-{guitar_comment: Intro : [Gm][B&][B][C]}
+{guitar_comment: Intro : [Gm Bb B C]}
 
 
-[Gm]Je suis un missionnaire de la drague, je l'a[B&]voue[B][C]
-[Gm]Le kiki au toutou en espadrilles a c[B&]lous[B][C]
-[Gm]Elle craquait sur les sièges, les penden[B&]tifs[B][C]
-[Gm]J'ai la poupée d'E.T. dans ma golf G[B&]TI[B][C]
+[Gm]Je suis un missionnaire de la drague, je l'a[Bb]voue[B C]
+[Gm]Le kiki au toutou en espadrilles a c[Bb]lous[B C]
+[Gm]Elle craquait sur les sièges, les penden[Bb]tifs[B C]
+[Gm]J'ai la poupée d'E.T. dans ma golf G[Bb]TI[B C]
 
 Elle était émotive en parlant de Jean-Yves
 Un amant incompris, qu'elle quitta pour Henri

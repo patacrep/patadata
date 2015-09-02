@@ -10,7 +10,7 @@
 {define: D frets X X 0 2 3 2}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
-{guitar_comment: Intro: [G][C][G][D] {repeat: 2}}
+{guitar_comment: Intro: [G C G D] {repeat: 2}}
 
 
 The [G]mama pajama rolled out of bed

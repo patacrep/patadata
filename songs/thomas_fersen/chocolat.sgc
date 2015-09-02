@@ -15,7 +15,7 @@
 {define: C#m base-fret 1 frets 0 3 3 3}
 {define: F#7 base-fret 2 frets 1 2 0 2}
 
-{guitar_comment: Intro :  [B][D#7][G#m][G#m] {repeat: 2}}
+{guitar_comment: Intro :  [B D#7 G#m G#m] {repeat: 2}}
 
 
 Ma cigarette sur l'o[G#m]reille et mes grosses lunettes de so[C#m]leil
@@ -43,7 +43,7 @@ Ils ont écouté du [C#m]Bob tout en fouillant ma garde-[D#7]robe
   Ils ont goûté le sa[F#7]von mais le savon c'est pas [B]bon, oh non !
 {end_of_chorus}
 
-{guitar_comment:  [B][D#7][G#m][G#m] {repeat: 2}}
+{guitar_comment:  [B D#7 G#m G#m] {repeat: 2}}
 
 
 Y'a la volante dans mes cal[G#m]cifs, ils sont pourtant inoffen[C#m]sifs
@@ -58,4 +58,4 @@ Elle a un gros derrière car[C#m]ré mais elle n'a rien à décla[D#7]rer
   La Jamaïque elle est plus [F#7]là, elle était dans le choco[B]lat, oh oui !
 {end_of_chorus}
 
-{guitar_comment: Outro :  [B][D#7][G#m][G#m] {repeat: 2}}
+{guitar_comment: Outro :  [B D#7 G#m G#m] {repeat: 2}}

@@ -17,7 +17,7 @@
 {define: Em frets 0 4 3 2}
 {define: F#m frets 2 1 2 0}
 
-{guitar_comment: Intro :  [D][A][Bm][G][D][A][Bm][G]}
+{guitar_comment: Intro :  [D A Bm G D A Bm G]}
 
 
 [D]Il lui man[Em]quait quatre pha[Bm]langes
@@ -86,4 +86,4 @@ Il avait [Bm]une âme d'ar[G]tiste
   Le bala[D]fré [A] [Bm] [G]
 {end_of_chorus}
 
-{guitar_comment: Outro :  [D][A][Bm][G][D]}
+{guitar_comment: Outro :  [D A Bm G D]}

@@ -11,7 +11,7 @@
 {define: Cm base-fret 3 frets X 0 2 2 1 0}
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 
-{guitar_comment: Intro : [Em][D][Em][D]}
+{guitar_comment: Intro : [Em D Em D]}
 
 
 Dans la [Em]salle du [D]bar-ta[Em]bac de la [D]rue des [Em]martyrs [D] [Em] [D]

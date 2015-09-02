@@ -16,7 +16,7 @@
 {define: G frets 3 2 0 0 0 3}
 
 {start_of_chorus}
-  [Am][F][Dm][Am][E]
+  [Am F Dm Am E]
 {end_of_chorus}
 
 
@@ -44,8 +44,8 @@ Et loin des beaux discours, des grandes théories
 Il changeait la vie
 
 {start_of_chorus}
-  [Am][F][Dm][Am][E]
-  [C][G][Dm][Am][E]
+  [Am F Dm Am E]
+  [C G Dm Am E]
 {end_of_chorus}
 
 

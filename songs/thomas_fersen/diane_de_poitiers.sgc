@@ -19,25 +19,25 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 {define: Cm frets 0 3 3 3}
 
-{guitar_comment: Intro :  [B&9][B&7]}
+{guitar_comment: Intro :  [Bb9 Bb7]}
 
-Que fait [E&]donc en ce lieu
+Que fait [Eb]donc en ce lieu
 [F]Parmi ces messieurs
 Cette [Gm]blonde aux bras nus
-Si [B&]nus, qu'elle éter[B&7]nue ?
-Dans ses [E&]doigts, elle se mouche
+Si [Bb]nus, qu'elle éter[Bb7]nue ?
+Dans ses [Eb]doigts, elle se mouche
 Et [F]pour s'rincer la bouche
 Elle [Gm]commande un cognac
-Puis [B&]un autre co[B&7]gnac
+Puis [Bb]un autre co[Bb7]gnac
 
-Je lui [E&]dis à l'oreille :
+Je lui [Eb]dis à l'oreille :
 «T'es belle [F]comme Diane de Poitiers
 Veux-tu [Gm]prendre la moitié
-De mon [B&]lit si t'as som[B&7]meil ?»
-Elle me ré[E&]pond, je cite :
+De mon [Bb]lit si t'as som[Bb7]meil ?»
+Elle me ré[Eb]pond, je cite :
 «Il [F]faut pas qu'tu t'excites
 Ce n'est [Gm]pas c'que tu penses
-Je [B&]suis restée vieille [B&7]France»
+Je [Bb]suis restée vieille [Bb7]France»
 
 
 C'est d'ac[Cm]cord, je t'accueille
@@ -47,7 +47,7 @@ Comme [F]un frère et une sœur
 Toi le [Cm]lit, moi la banquette
 [F]À la bonne franquette
 C'est d'ac[Gm]cord pour ce soir
-Moi je [B&]dors dans la baignoire
+Moi je [Bb]dors dans la baignoire
 
 Certes, je [Cm]ne suis pas un saint
 Et quand [F]la lumière s'éteint
@@ -56,7 +56,7 @@ Mais [F]j'm'en remets à Platon
 Pour nous [Cm]deux, c'est plus sage
 Vu [F]la différence d'âge
 Non ce [Gm]soir, pas d'folies
-[B&]Chacun dans son lit
+[Bb]Chacun dans son lit
 
 Soit, je [Cm]ne suis pas un moine
 J'dis[F]sipe mon patrimoine
@@ -65,7 +65,7 @@ Ma [F]voix est devenue rauque
 À la [Cm]suite des abus
 Mais [F]ce soir j'ai rien bu
 Non ce [Gm]soir, je suis strict
-Le [B&]devoir me le dicte
+Le [Bb]devoir me le dicte
 
 J'ai rien [Cm]d'un ecclésiastique
 Ma cons[F]cience est élastique
@@ -74,10 +74,10 @@ J'suis [F]pas dans l'droit chemin
 Non, je [Cm]ne suis pas très pieux
 Quand c'est [F]l'heure d'aller au pieu
 Je fais [Gm]rarement ma prière
-J'pré[B&]fère une petite bière
+J'pré[Bb]fère une petite bière
 
 {start_of_chorus}
-  [Cm][F][Cm][F][Cm][F][Gm][B&]
+  [Cm F Cm F Cm F Gm Bb]
 {end_of_chorus}
 
 
@@ -88,7 +88,7 @@ J'en ai [F]détourné plus d'une
 Mais faut [Cm]pas rester dehors
 Avec [F]tous ces délinquants
 Sois tran[Gm]quille, moi je dors
-[B&]Sur le lit de camp
+[Bb]Sur le lit de camp
 
 Soit, j'suis [Cm]pas un chérubin
 Fau[F]drait que j'prenne un bain
@@ -97,7 +97,7 @@ Cet[F]te barbe acajou
 Et mon [Cm]linge n'est pas net
 En[F]fin, pour être honnête
 Ce ma[Gm]tin dans le bus
-J'ai [B&]attrapé une puce
+J'ai [Bb]attrapé une puce
 
 Les [Cm]nuits d'hiver sont longues
 Dans [F]ma baignoire oblongue
@@ -106,7 +106,7 @@ Sur[F]tout sur la banquette
 Le di[Cm]van du séjour
 Le [F]canapé d'velours
 Le fau[Gm]teuil Louis-Philippe
-À [B&]cheval sur les principes !
+À [Bb]cheval sur les principes !
 
 
 Mais c'est d'ac[Cm]cord, je t'accueille
@@ -116,4 +116,4 @@ Comme [F]un frère et une sœur
 Toi le [Cm]lit, moi la banquette
 [F]À la bonne franquette
 C'est d'ac[Gm]cord pour ce soir
-Moi je [B&]dors dans la baignoire
+Moi je [Bb]dors dans la baignoire

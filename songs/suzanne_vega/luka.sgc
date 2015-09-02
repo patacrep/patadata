@@ -10,7 +10,7 @@
 {define: C frets X 3 2 0 1 0}
 {define: Em frets 0 2 2 0 0 0}
 
-{guitar_comment: Intro:  [G][D][C][D] {repeat: 2}}
+{guitar_comment: Intro:  [G D C D] {repeat: 2}}
 
 
 [G] My name is [D]Luka
@@ -36,7 +36,7 @@ I try not to act too proud
   You just don't argue anymore {repeat: 3}
 {end_of_chorus}
 
-{guitar_comment:  [G][D][C][D] {repeat: 2}}
+{guitar_comment:  [G D C D] {repeat: 2}}
 
 
 Yes I think I'm okay
@@ -68,4 +68,4 @@ Yes I think you've seen me before
   You just don't argue anymore {repeat: 3}
 {end_of_chorus}
 
-{guitar_comment: Outro:  [G][D][C][D] {repeat: 2}}
+{guitar_comment: Outro:  [G D C D] {repeat: 2}}

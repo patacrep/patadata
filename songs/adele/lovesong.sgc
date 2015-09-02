@@ -10,7 +10,7 @@
 {define: G base-fret 3 frets 0 3 3 2 0 0}
 {define: D# base-fret 6 frets X 0 3 3 3 0}
 
-{guitar_comment: Intro:  [Cm][A#][G#][G]}
+{guitar_comment: Intro:  [Cm A# G# G]}
 
 
 [Cm]Whenever [A#]I'm alone [G#]with you [G]
@@ -18,7 +18,7 @@ You make me feel like I am home again
 Whenever I'm alone with you
 You make me feel like I am whole again
 
-{guitar_comment:  [Cm][A#][G#][G]}
+{guitar_comment:  [Cm A# G# G]}
 
 
 Whenever I'm alone with you
@@ -36,7 +36,7 @@ You make me feel like I am fun again
   I will [A#]always love you
 {end_of_chorus}
 
-{guitar_comment:  [Cm][A#][G#][G]}
+{guitar_comment:  [Cm A# G# G]}
 
 
 Whenever I'm alone with you

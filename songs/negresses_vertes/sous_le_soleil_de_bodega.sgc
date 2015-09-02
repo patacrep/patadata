@@ -11,10 +11,10 @@
 {define: B& base-fret 1 frets X 0 2 2 2 0}
 
 {start_of_chorus}
-  [G]Aie, Bodega, Bodega [G#][G]
-  [G]Chante nos joies et nos folies [G#][G]
-  [G]Aie, Bodega, Bodega [G#][G]
-  [G]Tu es l'étoile de nos nuits [G#][G]
+  [G]Aie, Bodega, Bodega [G# G]
+  [G]Chante nos joies et nos folies [G# G]
+  [G]Aie, Bodega, Bodega [G# G]
+  [G]Tu es l'étoile de nos nuits [G# G]
 {end_of_chorus}
 
 
@@ -40,10 +40,10 @@ Tonnerre de Dieu, toi Dyonisos
 Bénis ma chair, bénis mes os
 
 {start_of_chorus}
-  [G]Aie, Bodega, Bodega [G#][G]
-  [G]Brûle mon cœur et mes soucis [G#][G]
-  [G]Il sera toujours midi [G#][G]
-  Sous le soleil de Bode[B&]ga [G#]
+  [G]Aie, Bodega, Bodega [G# G]
+  [G]Brûle mon cœur et mes soucis [G# G]
+  [G]Il sera toujours midi [G# G]
+  Sous le soleil de Bode[Bb]ga [G#]
   Sous le soleil de Bode[G]ga
 {end_of_chorus}
 

@@ -25,7 +25,7 @@
 {define: B base-fret 2 frets 2 1 0 0}
 {define: C frets 0 0 0 3}
 
-{guitar_comment: Intro :  [Gm][Dm][A#][Cm] {repeat: 2}}
+{guitar_comment: Intro :  [Gm Dm A# Cm] {repeat: 2}}
 
 
 Il y a des [Gm]jours dans la vie
@@ -121,7 +121,7 @@ Un [F]accordéon
   Et le [G]reste leur fait peur
   Je leur souhaite [D]bien du bonheur...
   À Kévin et ma [Em]sœur
-  [D][Em][D]
+  [D Em D]
 {end_of_chorus}
 
 {guitar_comment: Outro}

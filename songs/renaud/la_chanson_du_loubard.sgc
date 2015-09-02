@@ -11,7 +11,7 @@
 {define: G frets 3 2 0 0 0 3}
 {define: B7 frets X 2 1 2 0 2}
 
-{guitar_comment: Intro :  [Em][C][Em][C]}
+{guitar_comment: Intro :  [Em C Em C]}
 
 
 [Em]Le jour se lève sur ma ban[C]lieue

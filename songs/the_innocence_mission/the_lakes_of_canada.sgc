@@ -11,7 +11,7 @@
 {define: G frets 3 2 0 0 0 3}
 {define: Am frets X 0 2 2 1 0}
 
-{guitar_comment: Intro: [Dm][F][C][G] {repeat: 2}}
+{guitar_comment: Intro: [Dm F C G] {repeat: 2}}
 
 
 [F]Look for me another [C]day
@@ -29,7 +29,7 @@ I thought I saw [Dm]it
   My little [Dm]mouth, my winter [C]lungs
   Don't tell me [Am]what cannot be [F]done
   Cannot be done
-  [F][C][G][Dm]
+  [F C G Dm]
 {end_of_chorus}
 
 

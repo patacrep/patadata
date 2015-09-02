@@ -11,7 +11,7 @@
 {define: C frets X 3 2 0 1 0}
 {define: E frets 0 2 2 1 0 0}
 
-{guitar_comment: Pattern 1 : [Am][Em][Bm][F][C]}
+{guitar_comment: Pattern 1 : [Am Em Bm F C]}
 
 
 [Am] On ne choisit pas son en[Em]fance
@@ -24,10 +24,10 @@ Mais aux réunions de comi[C]té
   Qu'on habitait rue Jean Jau[Am]rès
   En face du square Maurice Tho[F]rez
   Avant d'aller vivre à Mont[C]rouge
-  [E][Am][F]
+  [E Am F]
 {end_of_chorus}
 
-{guitar_comment: Pattern 2 : [C][E][Am][F][Am]}
+{guitar_comment: Pattern 2 : [C E Am F Am]}
 
 
 [C] On a été en URSS l'hi[E]ver
@@ -35,7 +35,7 @@ Les pays de l'Est, c'est mieux l'hi[Am]ver
 On voit bien mieux les bâti[F]ments
 Les nuances de gris, ça flashe sur le [Am]blanc
 
-{guitar_comment: Pattern 1 : [Am][Em][Bm][F][C]}
+{guitar_comment: Pattern 1 : [Am Em Bm F C]}
 
 Devant la statue de Lénine
 Pour nous c'était le grand frisson
@@ -49,7 +49,7 @@ Et les chapkas étaient en option
   Pour acheter des parpaings
 {end_of_chorus}
 
-{guitar_comment: Pattern 2 : [C][E][Am][F][Am]}
+{guitar_comment: Pattern 2 : [C E Am F Am]}
 
 
 On mangeait des Lenin's burger
@@ -57,14 +57,14 @@ Fallait vraiment faire attention
 Il y avait du chou, une pomme de terre
 La viande, elle était en option
 
-{guitar_comment: Pattern 2 : [C][E][Am][F][Am]}
+{guitar_comment: Pattern 2 : [C E Am F Am]}
 
 On achetait du coca Kolkose
 Approuvé par le comité
 Ça devait soigner la silicose
 On s'en servait pour désherber
 
-{guitar_comment: Pattern 1 : [Am][Em][Bm][F][C]}
+{guitar_comment: Pattern 1 : [Am Em Bm F C]}
 
 On regardait pas la contrebande
 On regardait pas la corruption
@@ -85,7 +85,7 @@ Le discernement en option
   À droite, systématiquement
 {end_of_chorus}
 
-{guitar_comment: Pattern 2 : [C][E][Am][F][Am]}
+{guitar_comment: Pattern 2 : [C E Am F Am]}
 
 
 Les copains se foutaient de moi tout le temps
@@ -100,7 +100,7 @@ Et le dentier d'un Tupolev
   En 2002 en allant voter
 {end_of_chorus}
 
-{guitar_comment: Pattern 1 : [Am][Em][Bm][F][C]}
+{guitar_comment: Pattern 1 : [Am Em Bm F C]}
 
 
 Et même si tout ce que je raconte

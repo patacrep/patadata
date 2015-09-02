@@ -9,13 +9,13 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: Am frets X 0 2 2 1 0}
 
-{guitar_comment: Intro :  [Dm][Gm][Dm][Am] {repeat: 2}}
+{guitar_comment: Intro :  [Dm Gm Dm Am] {repeat: 2}}
 
 {start_of_chorus}
   Il vi[Dm]vote dans les rues, les squares [Gm]et les jardins
-  [Dm][Am]
+  [Dm Am]
   Marchant [Dm]regard éperdu, il fait [Gm]son bonhomme de chien
-  [Dm][Am]
+  [Dm Am]
 {end_of_chorus}
 
 

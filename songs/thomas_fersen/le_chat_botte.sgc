@@ -17,7 +17,7 @@
 {define: B7 base-fret 2 frets 0 1 0 0}
 {define: G frets 0 2 3 2}
 
-{guitar_comment: Intro :  [Em][C][Am][D] {repeat: 2} }
+{guitar_comment: Intro :  [Em C Am D] {repeat: 2} }
 
 
 [Em]Je travaille au [C]Chat Botté
@@ -43,7 +43,7 @@
   [Am]Quand on les en[D]file
   [Em]Essayer c'est [C]adopter
   [Am]Les mules en rep[D]tile
-  [Em][C][Am][D] {repeat: 2}
+  [Em C Am D] {repeat: 2}
 {end_of_chorus}
 
 

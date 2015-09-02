@@ -18,14 +18,14 @@
 {define: A& base-fret 4 frets 0 2 2 1 0 0 special}
 {define: D& base-fret 9 frets 0 2 2 1 0 0 special}
 
-{guitar_comment: Intro: | [E&] [E] [F] | [E&*] [E*] [F*] |  {repeat: 2}}
+{guitar_comment: Intro: | [Eb] [E] [F] | [Eb*] [E*] [F*] |  {repeat: 2}}
 
 
-[C]After all the [B&]jacks are in their [F**]boxes
-[C]And the clowns have [B&]all gone to [F**]bed
-[C]You can hear happiness [B&]staggering on [F**]down the street
-[G]Footsteps [B&*]dressed in [E&]red[E][F]
-[G]And the [B&*]wind whispers [E&]Mary[E][F] [E&*][E*][F*]
+[C]After all the [Bb]jacks are in their [F**]boxes
+[C]And the clowns have [Bb]all gone to [F**]bed
+[C]You can hear happiness [Bb]staggering on [F**]down the street
+[G]Footsteps [Bb*]dressed in [Eb]red[E][F]
+[G]And the [Bb*]wind whispers [Eb]Mary[E][F] [Eb*][E*][F*]
 
 
 A broom is drearily sweeping
@@ -34,8 +34,8 @@ Somewhere a queen is weeping
 Somewhere a king has no wife
 And the wind cries Mary
 
-| [F] [E&] | [B&*] [A&] |  {repeat: 3}
-| [G] | [B&*] | [D&] | [F] |
+| [F] [Eb] | [Bb*] [Ab] |  {repeat: 3}
+| [G] | [Bb*] | [Db] | [F] |
 
 
 The traffic lights turn blue tomorrow

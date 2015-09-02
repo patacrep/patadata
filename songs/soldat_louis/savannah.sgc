@@ -10,7 +10,7 @@
 {define: Em frets 0 2 2 0 0 0}
 {define: D frets X X 0 2 3 2}
 
-{guitar_comment: Intro : [Am][C][G] {repeat: 2}}
+{guitar_comment: Intro : [Am C G] {repeat: 2}}
 
 
 [Am]Condamnés à l'océan au [C]vent qui mène le [G]bal

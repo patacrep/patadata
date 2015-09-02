@@ -14,7 +14,7 @@
 {define: Dm base-fret 5 frets X 0 2 2 1 0}
 {define: E&7 base-fret 4 frets X 2 1 2 0 X special}
 
-{guitar_comment: Intro : [Am][E7][Am][E7][Am][E7][Am][E7]}
+{guitar_comment: Intro : [Am E7 Am E7 Am E7 Am E7]}
 
 
 [Am]Dans un grand bol [E7]de strychnine
@@ -62,8 +62,8 @@
 --- Ah, je savais bien que ça serait bon»
 
 
-[Am]Le pudding à [AmM7]l'arsenic
+[Am]Le pudding à [Ammaj7]l'arsenic
 [Am7]Nous permet ce [Am6]pronostic
 [Dm]Demain sur les [Am]bords du Nil
-[E&7]Que mangeront les [E7]crocodiles ?
+[Eb7]Que mangeront les [E7]crocodiles ?
 [E7]Des [E7]Gau[Am]lois !

@@ -10,9 +10,9 @@
 {define: Gm7 base-fret 3 frets 0 2 0 0 0 0}
 
 
-[C#7]J'entends encore l'Onde [G#7][G7]Sensuelle
-[C#7]De ta bouche sur la mienne[G#7][G7]
-[C#7]C'était si fort, c'était si beau[G#7][G7]
+[C#7]J'entends encore l'Onde [G#7 G7]Sensuelle
+[C#7]De ta bouche sur la mienne[G#7 G7]
+[C#7]C'était si fort, c'était si beau[G#7 G7]
 [C#7]La philosophie de ton [D#7]souffle
 Entre mes mo[G#7]ts[G7]
 
@@ -23,17 +23,17 @@ Mais je n'sais plus où donner du crâne
 Mais comment t'atteindre...
 
 {start_of_chorus}
-  [Fm7]Mais comment t'att[G7][G#7]eindre
-  Onde Sen[G7][C7]suelle
-  [Fm7]Toi qui me donne[G7][G#7]
-  des ailes[C#7][C7]
-  [Fm7]Pourrais-je un [G7][G#7]jour
-  Te rendre é[G7][C7]ternel
-  [Fm7]Pour nous li[G7][G#7]er
-  Jusqu'au c[C#7][C7]iel
+  [Fm7]Mais comment t'att[G7 G#7]eindre
+  Onde Sen[G7 C7]suelle
+  [Fm7]Toi qui me donne[G7 G#7]
+  des ailes[C#7 C7]
+  [Fm7]Pourrais-je un [G7 G#7]jour
+  Te rendre é[G7 C7]ternel
+  [Fm7]Pour nous li[G7 G#7]er
+  Jusqu'au c[C#7 C7]iel
 {end_of_chorus}
 
-{guitar_comment: [C#7][G#7][G7] {repeat: 2} }
+{guitar_comment: [C#7 G#7 G7] {repeat: 2} }
 
 
 Tes doubles sens si romantiques

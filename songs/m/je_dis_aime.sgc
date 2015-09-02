@@ -12,7 +12,7 @@
 {define: D7 frets X 5 4 5 3 X}
 {define: B7 frets X 2 1 2 0 2}
 
-{guitar_comment: Intro : [Em][G][Am][B7/F#,][Em][G][Am][C7] {repeat: 2} }
+{guitar_comment: Intro : [Em G Am B7/F# Em G Am C7] {repeat: 2} }
 
 
 [Em]J'ai [G]les mé[Am]ninges no[B7/F#]mades
@@ -23,14 +23,14 @@
 {start_of_chorus}
   Je dis [D7]aime
   [C7]Et je le [G]sème
-  [B7]Sur ma pla[Em]nète [Em][F][B7/F#]
+  [B7]Sur ma pla[Em]nète [Em F B7/F#]
   Je dis [D7]aime
   [C7]Comme un em[G]blème
-  [B7]La haine je la [Em]jette [Em][F][B7/F#]
+  [B7]La haine je la [Em]jette [Em F B7/F#]
   Je dis [D7]aime, [C7]aime, [B7]aime
 {end_of_chorus}
 
-{guitar_comment: [Em][G][Am][B7/F#,][Em][G][Am][C7]}
+{guitar_comment: [Em G Am B7/F# Em G Am C7]}
 
 
 [Em]Du [G]Sphinx dans [Am]mon [B7]Rimeur

@@ -14,7 +14,7 @@
 {define: F frets 2 0 1 0}
 {define: C frets 0 0 0 3}
 
-{guitar_comment: Intro :  [Gm][Gm][Dm][F] {repeat: 2}}
+{guitar_comment: Intro :  [Gm Gm Dm F] {repeat: 2}}
 
 
 [Gm] Elle pleure son marin

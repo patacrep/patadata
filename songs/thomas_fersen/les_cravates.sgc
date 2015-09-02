@@ -15,7 +15,7 @@
 {define: E base-fret 2 frets 2 2 2 0}
 {define: B7 base-fret 2 frets 0 1 0 0}
 
-{guitar_comment: Intro : [C#m][F#m][Bm][E]}
+{guitar_comment: Intro : [C#m F#m Bm E]}
 
 
 [C#m] Je devrais être heureux comme un [F#m]pape

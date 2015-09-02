@@ -15,87 +15,87 @@
 {define: G& base-fret 3 frets 2 0 1 0}
 {define: B&7 base-fret 1 frets 0 1 0 0}
 
-{guitar_comment: Intro :  [E&m][B&7]}
+{guitar_comment: Intro :  [Ebm Bb7]}
 
 
-[E&m]Dans mon harmonium
+[Ebm]Dans mon harmonium
 Y'a une [B]araignée énorme
-Je lui [A&m]joue de la musique
-[G&]Y paraît qu'ça [B&7]pique
+Je lui [Abm]joue de la musique
+[Gb]Y paraît qu'ça [Bb7]pique
 
-Elle est [E&m]venue faire son toit
+Elle est [Ebm]venue faire son toit
 Dans [B]la robe de bois
-[A&m]De mon harmonium
-[G&]Comme elle est mi[B&7]gnonne
+[Abm]De mon harmonium
+[Gb]Comme elle est mi[Bb7]gnonne
 
 {start_of_chorus}
-  Riti[E&m]ti, rata[B&7]ta {repeat: 2}
+  Riti[Ebm]ti, rata[Bb7]ta {repeat: 2}
 {end_of_chorus}
 
 
-[E&m]Dans mon harmonium
+[Ebm]Dans mon harmonium
 Y'a une [B]araignée énorme
-Je lui [A&m]joue des requiem
-[G&]Y paraît qu'elles [B&7]aiment
+Je lui [Abm]joue des requiem
+[Gb]Y paraît qu'elles [Bb7]aiment
 
-[E&m]Elle est très gentille
+[Ebm]Elle est très gentille
 [B]Mais j'suis comme les filles
-[A&m]Ça me fout la trouille
-[G&]Paraît qu'ça cha[B&7]touille
+[Abm]Ça me fout la trouille
+[Gb]Paraît qu'ça cha[Bb7]touille
 
 
 [B]Dans mon harmonium
-Y'a une [A&m]araignée qui lorgne
-Du cô[G&]té de ma personne
-Pa[B&7]raît qu'ça saucissonne
+Y'a une [Abm]araignée qui lorgne
+Du cô[Gb]té de ma personne
+Pa[Bb7]raît qu'ça saucissonne
 
 Que ça [B]mange son époux
-[A&m]Comme un vulgaire pou
-Après [G&]la marche nup[B&7]tiale
-[G&]Paraît qu'c'est nor[B&7]mal
+[Abm]Comme un vulgaire pou
+Après [Gb]la marche nup[Bb7]tiale
+[Gb]Paraît qu'c'est nor[Bb7]mal
 
 [B]Moi dans mon délire
-[A&m]Ça m'fait défaillir
-[G&]Et quand elle promène
-[B&7]Son gros abdomen
+[Abm]Ça m'fait défaillir
+[Gb]Et quand elle promène
+[Bb7]Son gros abdomen
 
 [B]J'me vois à la morgue
-[A&m]Alors sur mon orgue
-[G&]Je joue pour la [B&7]veuve
-[G&]Paraît qu'elles s'é[B&7]meuvent
+[Abm]Alors sur mon orgue
+[Gb]Je joue pour la [Bb7]veuve
+[Gb]Paraît qu'elles s'é[Bb7]meuvent
 
 
-[E&m]Dans mon harmonium
+[Ebm]Dans mon harmonium
 Y'a une [B]araignée énorme
-Y'a une [A&m]araignée géante
-[G&]Est-ce qu'elle est vi[B&7]vante ?
+Y'a une [Abm]araignée géante
+[Gb]Est-ce qu'elle est vi[Bb7]vante ?
 
-[E&m]Elle ne bouge plus
+[Ebm]Elle ne bouge plus
 [B]Comme elle est velue !
-[A&m]Moi, ça m'horripile
-[G&]Faudrait qu'elle s'é[B&7]pile
+[Abm]Moi, ça m'horripile
+[Gb]Faudrait qu'elle s'é[Bb7]pile
 
 
 [B]Paraît qu'ça les berce
-[A&m]D'entendre la messe
-[G&]Trop tard je l'assomme
-[B&7]Que Dieu me pardonne
+[Abm]D'entendre la messe
+[Gb]Trop tard je l'assomme
+[Bb7]Que Dieu me pardonne
 
 [B]Avec mon missel
-De com[A&m]munion solennelle
-[G&]Ma femme s'impa[B&7]tiente
-[G&]Elle n'est pas con[B&7]tente
+De com[Abm]munion solennelle
+[Gb]Ma femme s'impa[Bb7]tiente
+[Gb]Elle n'est pas con[Bb7]tente
 
 [B]On dirait, Simone
-[A&m]On dirait qu'tu lorgnes
-Du cô[G&]té de ma personne
-Comme une [B&7]araignée énorme
+[Abm]On dirait qu'tu lorgnes
+Du cô[Gb]té de ma personne
+Comme une [Bb7]araignée énorme
 
 Celle qui [B]mange son époux
-[A&m]Comme un vulgaire pou
-Après [G&]la marche nup[B&7]tiale
-[G&]Ce n'est pas nor[B&7]mal
+[Abm]Comme un vulgaire pou
+Après [Gb]la marche nup[Bb7]tiale
+[Gb]Ce n'est pas nor[Bb7]mal
 
 {guitar_comment: Outro :}
-{guitar_comment:  [E&m][B][A&m][G&][B&7] {repeat: 2}}
-{guitar_comment:  [E&m][B&7] {repeat: 2} ab lib.}
+{guitar_comment:  [Ebm B Abm Gb Bb7] {repeat: 2}}
+{guitar_comment:  [Ebm Bb7] {repeat: 2} ab lib.}

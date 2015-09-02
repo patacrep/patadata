@@ -21,7 +21,7 @@
 
 {start_of_chorus}
   {guitar_comment: Accordéon}
-  [Am][Dm][E7][E7] [Am][Dm][E7][Am]
+  [Am Dm E7 E7] [Am Dm E7 Am]
   {partition: Hannah_1.ly}
 {end_of_chorus}
 
@@ -50,7 +50,7 @@ Qui resteront des incon[E7]nus
 {start_of_chorus}
   J'l'ai [Am]croisée une soi[Dm]rée
   Où j'é[E7]tais un peu bla[Am]sé...
-  [Am][Dm][E7][E7] [Am][Dm][E7][Am]
+  [Am Dm E7 E7] [Am Dm E7 Am]
 {end_of_chorus}
 
 
@@ -78,10 +78,10 @@ Lui illuminaient le cer[E7]veau
 {start_of_chorus}
   Mais [Am]son regard d'en[Dm]fant
   Est par[E7]ti depuis long[Am]temps...
-  [Am][Dm][E7][E7] [Am][Dm][E7][Am]
+  [Am Dm E7 E7] [Am Dm E7 Am]
 {end_of_chorus}
 
-[G][C][G][C] [E7][Am][E7][A][A][A]
+[G C G C] [E7 Am E7 A A A]
 {partition: Hannah_2.ly}
 
 
@@ -109,7 +109,7 @@ Serait là pour semer du bon[E7]heur
 {start_of_chorus}
   Mais [Am]quand on t'a bri[Dm]sé
   La vie est [E7]ben plus malai[Am]sée...
-  [Am][Dm][E7][E7] [Am][Dm][E7][Am]
+  [Am Dm E7 E7] [Am Dm E7 Am]
 {end_of_chorus}
 
 {start_of_bridge}
@@ -117,7 +117,7 @@ Elle [G]espère qu'un moment don[C]né
 Elle pour[G]ra lever le [C]voile
 Sur [E7]ces sombres an[Am]nées
 Et enfin [E7]revoir les é[A7]toiles
-[Dm][G][C][F] [Dm][Dm][E7][Am]
+[Dm G C F] [Dm Dm E7 Am]
 {end_of_bridge}
 
 
@@ -134,5 +134,5 @@ J'en glisserai une dans ta [E7]poche
 {start_of_chorus}
   En [Am]attendant dors [Dm]bien
   On se [E7]reparle de[Am]main...
-  [Am][Dm][E7][E7][Am]
+  [Am Dm E7 E7 Am]
 {end_of_chorus}

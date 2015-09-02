@@ -12,7 +12,7 @@
 {define: Cm base-fret 3 frets X 0 2 2 1 0}
 {define: G7 frets 3 2 0 0 0 1}
 
-{guitar_comment: Intro:  [C][B7][G*][A7][Cm][G7][Em][Em7] {repeat: 2}}
+{guitar_comment: Intro:  [C B7 G* A7 Cm G7 Em Em7] {repeat: 2}}
 
 
 [C]I see the [B7]crystal rain drops [Em]fall

@@ -15,7 +15,7 @@
 {define: Am7 frets X 0 2 0 1 0}
 
 {start_of_chorus}
-  {guitar_comment: Intro : [C][G][Am][Am][F][C][G][G][C][G][Am]}
+  {guitar_comment: Intro : [C G Am Am F C G G C G Am]}
 {end_of_chorus}
 
 
@@ -25,7 +25,7 @@ Puisqu'[G]ils sont si nombreux
 [C]Même la mo[G]rale parle [Am]pour eux
 [F]J'aimerais quand même te [C]dire
 Tout ce que j'ai pu é[G]crire
-Je l'ai puisé à l'encre [F]de tes yeux [C7][Dm11][C][Am7]
+Je l'ai puisé à l'encre [F]de tes yeux [C7 Dm11 C Am7]
 
 
 Je n'avais pas vu que tu portais des chaînes
@@ -38,9 +38,9 @@ C'est ton sourire qui me l'a dicté
 
 {start_of_chorus}
   {guitar_comment: Solo}
-  [C][G][Am][Am][F][C][G][G]
-  [C][G][Am][Am][F][F][C][C]
-  [G][G][F][F][C7][Dm11][C][Am7]
+  [C G Am Am F C G G]
+  [C G Am Am F F C C]
+  [G G F F C7 Dm11 C Am7]
 {end_of_chorus}
 
 

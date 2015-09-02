@@ -13,18 +13,18 @@
 {define: A frets 2 1 0 0}
 {define: Gm frets 0 2 3 1}
 
-{guitar_comment: Intro :  [Dm][B&][A][Dm][A][Dm]}
+{guitar_comment: Intro :  [Dm Bb A Dm A Dm]}
 
 
 Une vieille deux chevaux qui [Dm]tousse
-Déversait des prospec[B&]tus
+Déversait des prospec[Bb]tus
 «Ce soir vingt heures, venez [A]tous
-Entrez au Lacrymal Cir[Dm]cus !» [A][Dm]
+Entrez au Lacrymal Cir[Dm]cus !» [A Dm]
 
 J'étais seul et je cher[A]chais
 Un abri contre la [Dm]bruine
 J'ai pris ma place au gui[A]chet
-D'une roulotte qui tombe en [Dm]ruine [A][Dm]
+D'une roulotte qui tombe en [Dm]ruine [A Dm]
 
 {start_of_chorus}
   Au Lacrymal Cir[Gm]cus
@@ -41,14 +41,14 @@ D'une roulotte qui tombe en [Dm]ruine [A][Dm]
 
 
 Un vieux lion à bout de [Dm]force
-A cligné trois fois des [B&]yeux
+A cligné trois fois des [Bb]yeux
 Il me disait, je crois, en [A]morse :
-«J'peux pas sauter j'ai peur du [Dm]feu !» [A][Dm]
+«J'peux pas sauter j'ai peur du [Dm]feu !» [A Dm]
 
 Puis un clown neurasthé[A]nique
 A pleuré sur mon é[Dm]paule :
 «J'ai beau faire mes gags scé[A]niques
-Quand je tombe je suis pas [Dm]drôle !» [A][Dm]
+Quand je tombe je suis pas [Dm]drôle !» [A Dm]
 
 {start_of_chorus}
   Au Lacrymal Cir[Gm]cus
@@ -75,6 +75,6 @@ Quand je tombe je suis pas [Dm]drôle !» [A][Dm]
 
 {start_of_chorus}
   Au Lacrymal Cir[Gm]cus...
-  [Dm][Gm][Dm]
-  [A][A][Dm][A][Dm][A] [A][Dm]
+  [Dm Gm Dm]
+  [A A Dm A Dm A] [A Dm]
 {end_of_chorus}

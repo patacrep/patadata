@@ -10,7 +10,7 @@
 {define: Am7 frets X 0 2 0 1 0}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
-{guitar_comment: Intro: [C][C/B][Am7][F]}
+{guitar_comment: Intro: [C C/B Am7 F]}
 
 
 [C]So lately [C/B]you're wondering

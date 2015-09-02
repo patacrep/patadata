@@ -10,8 +10,8 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
 {start_of_chorus}
-  [C] No [G]woman, no cry [Am][F]
-  [C] No [G]woman, no cry [C][G]
+  [C] No [G]woman, no cry [Am F]
+  [C] No [G]woman, no cry [C G]
   {repeat: 2}
 {end_of_chorus}
 

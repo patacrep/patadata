@@ -19,7 +19,7 @@
 {define: G7 frets 0 2 1 2}
 {define: G6 frets 0 2 0 2 special}
 
-{guitar_comment: Intro :  [Am][Em][C][C] {repeat: 2} [Am][Am][Am][Am]}
+{guitar_comment: Intro :  [Am Em C C] {repeat: 2} [Am Am Am Am]}
 
 
 [Am] Icitte à soir, y [Em]mouille à siot
@@ -32,7 +32,7 @@
 [F] C'pas grave chu habi[C]tué, chérie
 [G] De m'parler tout seul [C]ces temps-ci
 
-{guitar_comment: Bridge :  [Am][Em][C][C]}
+{guitar_comment: Bridge :  [Am Em C C]}
 
 
 [Am] Depuis quelqu' semaines j'dors [Em]pu d'mes nuits
@@ -56,7 +56,7 @@
   Entre [G]Baie-Comeau pis [C]Port-Cartier
 {end_of_chorus}
 
-{guitar_comment: Bridge :  [Am][Em][C][C]}
+{guitar_comment: Bridge :  [Am Em C C]}
 
 
 [Am] T'es heureuse ici [Em]qu'tu m'disais
@@ -80,7 +80,7 @@
   Pour [G]me souhaiter jo[C]yeux Noël
 {end_of_chorus}
 
-{guitar_comment: Bridge :  [Am][Em][C][C][Am][Am][Am][Am]}
+{guitar_comment: Bridge :  [Am Em C C Am Am Am Am]}
 
 
 [Am] Sais-tu au moins qu'tu [Em]m'as fais croire

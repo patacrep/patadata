@@ -15,8 +15,8 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 
 {guitar_comment: Intro :}
-{guitar_comment:  [Dm][Dm][Gm][Dm]}
-{guitar_comment:  [Gm][A7][Dm][Dm]}
+{guitar_comment:  [Dm Dm Gm Dm]}
+{guitar_comment:  [Gm A7 Dm Dm]}
 
 
 [Dm]Un regard de biche
@@ -40,15 +40,15 @@ Et [Gm]dire qu'elle dort dans mon lit
 Et que tout [Dm]le monde m'envie mais
 
 {start_of_chorus}
-  Elle [B&]m'ennuie, m'ennuie, m'ennuie
+  Elle [Bb]m'ennuie, m'ennuie, m'ennuie
   Elle [Dm]m'ennuie, m'ennuie, m'ennuie
-  Elle [B&]m'ennuie du [A7]lundi jusqu'au lun[Dm]di
-  Elle [B&]m'ennuie, m'ennuie, m'ennuie
+  Elle [Bb]m'ennuie du [A7]lundi jusqu'au lun[Dm]di
+  Elle [Bb]m'ennuie, m'ennuie, m'ennuie
   Elle [Dm]m'ennuie, m'ennuie, m'ennuie
-  Elle [B&]m'ennuie même [A7]pendant la [Dm]nuit
+  Elle [Bb]m'ennuie même [A7]pendant la [Dm]nuit
 {end_of_chorus}
 
-{guitar_comment: Bridge :  [Dm][Gm][A7][Dm] {repeat: 2}}
+{guitar_comment: Bridge :  [Dm Gm A7 Dm] {repeat: 2}}
 
 
 [Dm]Quand je rêve de sirènes

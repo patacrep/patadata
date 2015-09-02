@@ -11,39 +11,39 @@
 {define: B& base-fret 1 frets X 0 2 2 2 0}
 {define: A7 frets X 0 2 0 2 0}
 
-{guitar_comment: Pattern 1 : [Dm][F][C][Gm][B&][C][Dm]}
+{guitar_comment: Pattern 1 : [Dm F C Gm Bb C Dm]}
 
 
 Il [Dm]ne reste que quelques minutes à ma vie
 Tout [F]au plus quelques heures je sens que je faiblis
 Mon [C]frère est mort hier au milieu du désert
-Je [Gm]suis maintenant le dernier hu[B&]main [C]de la [Dm]terre
+Je [Gm]suis maintenant le dernier hu[Bb]main [C]de la [Dm]terre
 
-{guitar_comment: Pattern 2 : [Dm][Gm][C][B&][A7]}
+{guitar_comment: Pattern 2 : [Dm Gm C Bb A7]}
 
 On [Dm]m'a décrit jadis, quand j'étais un enfant
 Ce [Gm]qu'avait l'air le monde il y a très très longtemps
 Quand [C]vivaient les parents de mon arrière grand-père
-Et [B&]qu'il tombait encore de la [A7]neige en hiver
+Et [Bb]qu'il tombait encore de la [A7]neige en hiver
 
 En ces temps on vivait au rythme des saisons
 Et la fin des étés apportait la moisson
 Une eau pure et limpide coulait dans les ruisseaux
 Où venaient s'abreuver chevreuils et orignaux
 
-{guitar_comment: Pattern 3 : [Dm][B&][F][C]}
+{guitar_comment: Pattern 3 : [Dm Bb F C]}
 
 Mais [Dm]moi je n'ai vu qu'une planète désolante
-[B&]Paysages lunaires et chaleur suffocante
+[Bb]Paysages lunaires et chaleur suffocante
 Et tous [F]mes amis mourir par la soif ou la faim
 Co[C]mme tombent les mouches
 
 {start_of_chorus}
   Jusqu'à c'qu'il n'y ait plus [Dm]rien
-  Plus [Gm]rien, plus [C]rien [B&][C]
+  Plus [Gm]rien, plus [C]rien [Bb C]
 {end_of_chorus}
 
-{guitar_comment: Pattern 1 : [Dm][F][C][Gm][B&][C][Dm]}
+{guitar_comment: Pattern 1 : [Dm F C Gm Bb C Dm]}
 
 
 Il ne reste que quelques minutes à ma vie
@@ -51,7 +51,7 @@ Tout au plus quelques heures, je sens que je faiblis
 Mon frère est mort hier au milieu du désert
 Je suis maintenant le dernier humain de la terre
 
-{guitar_comment: Pattern 2 : [Dm][Gm][C][B&][A7]}
+{guitar_comment: Pattern 2 : [Dm Gm C Bb A7]}
 
 Tout ça a commencé il y a plusieurs années
 Alors que mes ancêtres étaient obnubilés
@@ -68,7 +68,7 @@ Et les ont avertis qu'il fallait tout stopper
 Mais ils n'ont pas compris cette sage prophétie
 Ces gens-là ne parlaient qu'en termes de profits
 
-{guitar_comment: Pattern 3 : [Dm][B&][F][C]}
+{guitar_comment: Pattern 3 : [Dm Bb F C]}
 
 C'est des années plus tard qu'ils ont vu le non-sens
 Dans la panique ont déclaré l'état d'urgence
@@ -85,7 +85,7 @@ Décimés par millions par d'atroces maladies
 Puis les autres sont morts par la soif ou la faim
 Comme tombent les mouches
 
-{guitar_comment: Pattern 2 : [Dm][Gm][C][B&][A7]}
+{guitar_comment: Pattern 2 : [Dm Gm C Bb A7]}
 
 
 Mon frère est mort hier au milieu du désert
@@ -93,7 +93,7 @@ Je suis maintenant le dernier humain de la terre
 Au fond l'intelligence qu'on nous avait donné
 N'aura été qu'un beau cadeau empoisonné
 
-{guitar_comment: Pattern 1 : [Dm][F][C][Gm][B&][C][Dm]}
+{guitar_comment: Pattern 1 : [Dm F C Gm Bb C Dm]}
 
 Car il ne reste que quelques minutes à la vie
 Tout au plus quelques heures, je sens que je faiblis

@@ -19,7 +19,7 @@
 {define: D frets 2 2 2 0}
 {define: B base-fret 2 frets 2 1 0 0}
 
-{guitar_comment: Intro : [C/Am][Em/D]{repeat: 2}}
+{guitar_comment: Intro : [C/A Em/D]{repeat: 2}}
 
 
 Je vole[Em]tais dans les ténèbres à l'allure d'un convoi funèbre
@@ -33,8 +33,8 @@ Ne t'ap[G]proche pas de ces globes qui mettront le feu à ta robe
 Les pa[Em]pillons insomniaques y trouvent [Bm]un aphrodi[C]siaque
 La mort [Am]est au rendez-[Em]vous, au mieux [D]tu deviendras [B]fou»
 
-{guitar_comment:  [Em][Em][G][G] }
-{guitar_comment:  [Em][Bm][C][Am][Em][D][Bm] }
+{guitar_comment:  [Em Em G G] }
+{guitar_comment:  [Em Bm C Am Em D Bm] }
 
 
 «Ne va [Em]pas te consumer pour une de ces allumées»
@@ -54,6 +54,6 @@ Je goû[G]tais l'air de la nuit, je ramais sans faire de bruit
 Dans l'é[Em]paisseur du silence, j'ai vu [Bm]ma vie défi[C]ler
 Jusqu'au [Am]jour de ma nais[Em]sance lorsque [D]l'ampoule a gri[B]llé
 
-{guitar_comment:  [Em][Em][G][G] }
-{guitar_comment:  [Em][Bm][C][Am][Em][D][Bm] }
-{guitar_comment:  [C/Am][Em/D] ab lib. }
+{guitar_comment:  [Em Em G G] }
+{guitar_comment:  [Em Bm C Am Em D Bm] }
+{guitar_comment:  [C/A Em/D] ab lib. }

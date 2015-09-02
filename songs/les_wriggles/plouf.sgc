@@ -4,7 +4,7 @@
 {cover: partent-en-live}
 {language: french}
 {columns: 1}
-{define: D7M base-fret 5 frets X 0 2 1 2 0 special}
+{define: Dmaj7 base-fret 5 frets X 0 2 1 2 0 special}
 {define: C#7 base-fret 4 frets X 0 2 0 2 0}
 {define: B7 base-fret 6 frets 1 0 1 X 1 X special}
 {define: C#m/A base-fret 4 frets 1 X 2 2 1 0 special}
@@ -16,12 +16,12 @@
 {define: E6 frets 0 2 2 1 2 0 special}
 
 
-Le [D7M]petit Jordy a [C#7]très bien compris
+Le [Dmaj7]petit Jordy a [C#7]très bien compris
 Qu'[B7]à la piscine pour draguer les copines, faut faire...
 
 {start_of_chorus}
   [C#m/A]Plouf ! [C#m]Plouf !
-  La vie, parfois fait [F#m]plouf [F#m*][E][E7][E6][E]
+  La vie, parfois fait [F#m]plouf [F#m* E E7 E6 E]
 {end_of_chorus}
 
 

@@ -12,7 +12,7 @@
 {define: E frets 0 2 2 1 0 0}
 {define: C#m base-fret 4 frets X 0 2 2 1 0}
 
-{guitar_comment: Intro : [A][C]}
+{guitar_comment: Intro : [A C]}
 
 
 Quand [D]les ombres du soir chevauchent sur la lande
@@ -48,7 +48,7 @@ Dans [Bm]ces nuits tropicales où rugit le grand œuvre
 Quand [A]l'ange anthropophage nous guide sur la colline
 Pour [Bm]un nouveau festin de nos chairs androgynes
 
-{guitar_comment: instrumental : [C][Bm][C][Bm][A]}
+{guitar_comment: instrumental : [C Bm C Bm A]}
 
 
 Quand [D]les clochards opposent la classe et l'infini

@@ -11,7 +11,7 @@
 {define: G frets 3 2 0 0 0 3}
 {define: D frets X X 0 2 3 2}
 
-{guitar_comment: Intro:  [Bm][F#][A][E][G][D][Em][F#] {repeat: 2}}
+{guitar_comment: Intro:  [Bm F# A E G D Em F#] {repeat: 2}}
 
 
 [Bm] On a dark desert highway

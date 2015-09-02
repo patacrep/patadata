@@ -10,7 +10,7 @@
 {define: G frets 3 2 0 0 0 3}
 {define: Em frets 0 2 2 0 0 0}
 
-{guitar_comment: Intro:  [Am][C][G][Am][G][Em][Am][Am]}
+{guitar_comment: Intro:  [Am C G Am G Em Am Am]}
 
 {start_of_chorus}
   [Am]Jolene, [C]Jolene, [G]Jolene, [Am]Jolene

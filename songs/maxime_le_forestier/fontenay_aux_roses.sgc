@@ -11,7 +11,7 @@
 {define: B7 frets X 2 1 2 0 2}
 {define: D frets X X 0 2 3 2}
 
-{guitar_comment: Intro : [G][C][D7][G]}
+{guitar_comment: Intro : [G C D7 G]}
 
 
 [G]Vous êtes si jol[C]ies
@@ -61,5 +61,5 @@ Que vous fera-t-on croire ?
   Petites, écoutez-[Em]moi
   C'est la première [Am]fois
   Que je suis amou[D7]reux
-  De tout un pension[G]nat [C][D7][G]
+  De tout un pension[G]nat [C D7 G]
 {end_of_chorus}

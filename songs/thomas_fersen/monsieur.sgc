@@ -17,7 +17,7 @@
 {define: Fm frets 1 0 1 3}
 {define: B base-fret 2 frets 2 1 0 0}
 
-{guitar_comment:  Intro :  [Cm][B][Cm] {repeat: 2} }
+{guitar_comment:  Intro :  [Cm B Cm] {repeat: 2} }
 
 Les pa[Cm]ssants sur son chemin
 Sou[A#]lèvent leurs ga[D#]lures
@@ -97,7 +97,7 @@ Qui [A#]le trouve sympa[D#]thique
 Monsieur [A#]est un assas[D#]sin
 Je [G]suis son domes[Cm]tique
 
-{guitar_comment:  [Cm][A#][D#][A#][D#][G][Cm]}
+{guitar_comment:  [Cm A# D# A# D# G Cm]}
 
 {start_of_chorus}
   Vous al[Cm]lez pendre monsieur
@@ -117,5 +117,5 @@ Je suis [A#]un peu jardi[D#]nier
 Et [G]je fais la cui[Cm]sine
 
 {guitar_comment: Outro :}
-{guitar_comment:  [Cm][A#][D#][A#][D#][Fm][G]}
-{guitar_comment:  [Cm][A#][D#][A#][D#][G][Cm]}
+{guitar_comment:  [Cm A# D# A# D# Fm G]}
+{guitar_comment:  [Cm A# D# A# D# G Cm]}

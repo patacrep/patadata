@@ -13,7 +13,7 @@
 {define: C frets 0 0 0 3}
 {define: G frets 0 2 3 2}
 
-{guitar_comment: Intro :  [Am][Em] {repeat: 3} [C][G]}
+{guitar_comment: Intro :  [Am Em] {repeat: 3} [C G]}
 
 
 [Am]«Petit t'es en re[Em]tard !»
@@ -105,5 +105,5 @@ Et qu'une vague l'em[Am]porte
 {end_of_chorus}
 
 {start_of_chorus}
-  [Am]Hey ! [Em][Am][Em]
+  [Am]Hey ! [Em Am Em]
 {end_of_chorus}

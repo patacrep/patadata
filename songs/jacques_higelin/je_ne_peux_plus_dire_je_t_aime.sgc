@@ -10,7 +10,7 @@
 {define: D frets X X 0 2 3 2}
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 
-{guitar_comment: Intro : [G][C]}
+{guitar_comment: Intro : [G C]}
 
 
 [G] Je ne peux plus dire je [Em]t'aime [C]

@@ -11,7 +11,7 @@
 {define: D frets X X 0 2 3 2}
 {define: C frets X 3 2 0 1 0}
 
-{guitar_comment: Intro: [G][D4][Em][D][D4][G]}
+{guitar_comment: Intro: [G D4 Em D D4 G]}
 
 
 [G]Step one you say we [D4]need to talk

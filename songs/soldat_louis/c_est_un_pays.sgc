@@ -10,11 +10,11 @@
 {define: C frets X 3 2 0 1 0}
 {define: D frets X X 0 2 3 2}
 
-{guitar_comment: Intro : [Am][Am][G][F] {repeat: 2} }
+{guitar_comment: Intro : [Am Am G F] {repeat: 2} }
 
 {start_of_chorus}
-  [Am][Am][G][F] {repeat: 2}
-  [C][C][Dm][F] {repeat: 2}
+  [Am Am G F] {repeat: 2}
+  [C C Dm F] {repeat: 2}
   [G]
   {partition: C_est_un_pays.ly}
 {end_of_chorus}
@@ -48,7 +48,7 @@ Qu'elle [C]s'est pas trop gênée la France
 Pour [Dm]lui mettre les pieds [F]dans la crasse
 Des [C]fois qu'l'idée d'indépendance
 Ne [Dm]laisserait pas vrai[F]ment [G]de [Am]glace
-[Am][Am]
+[Am Am]
 
 
 Car [Am]ça n'aime pas les conquérants
@@ -59,7 +59,7 @@ Sa [C]liberté, c'est l'océan
 Qui [Dm]la nuit va rejoindre [F]les étoiles
 Et [C]sa terre qui a fait serment
 D'être [Dm]à jamais terre [F]na[G]tio[Am]nale
-[Am][Am]
+[Am Am]
 
 
 C'est [Am]aux cris des oiseaux de mer
@@ -70,7 +70,7 @@ Et [C]même quand chaque jour est une guerre
 Qui [Dm]n'se lit que sur [F]les visages
 I[C]ci on n'parle pas d'sa misère
 Et [Dm]encore moins de [F]son [G]cou[Am]rage
-[Am][Am]
+[Am Am]
 
 
 Si [Am]j'en rajoute un peu tant pis
@@ -81,6 +81,6 @@ J'ai [C]pas fini d'l'ouvrir pour lui
 Pour [Dm]lui j'filerai même [F]des châtaignes
 Au [C]premier salaud qui l'détruit
 Ou [Dm]qui voudrait lui re[F]mettre [G]des [Am]chaînes
-[Am][Am]
+[Am Am]
 
 {guitar_comment: Verse 1 {repeat: 2}}

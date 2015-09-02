@@ -14,7 +14,7 @@
 {define: Bm7 frets X 2 0 2 0 2}
 {define: Bm6 frets X 2 0 1 0 2}
 
-{guitar_comment: Intro:  [D][G][A][G]}
+{guitar_comment: Intro:  [D G A G]}
 
 
 [D]Where is the [G]moment when we need it the [A]most [G]
@@ -44,7 +44,7 @@ And I don't need no carrying [A]on
   You had a bad [D]day
 {end_of_chorus}
 
-{guitar_comment:  [D][G][A][G] {repeat: 2}}
+{guitar_comment:  [D G A G] {repeat: 2}}
 
 {start_of_bridge}
 Well you need a [A]blue sky holi[G]day
@@ -56,9 +56,9 @@ And I don't need no carrying [A]on
 
 {start_of_bridge}
 [F]Sometimes the system goes on the blink
-And the [B&]whole thing it turns out wrong
+And the [Bb]whole thing it turns out wrong
 You [F]might not make it back and you know
-That you could [B&]be well oh that strong
+That you could [Bb]be well oh that strong
 Well I'm not [A]wrong
 Yeah...
 {end_of_bridge}
@@ -83,4 +83,4 @@ Yeah...
   You had a bad [D]day
 {end_of_chorus}
 
-{guitar_comment: Outro:  [D][G][Em][A] {repeat: 4}}
+{guitar_comment: Outro:  [D G Em A] {repeat: 4}}

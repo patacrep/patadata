@@ -15,7 +15,7 @@
 {define: Am6 frets X 0 2 2 1 2}
 {define: B7 base-fret 2 frets X 0 2 0 2 0}
 
-{guitar_comment: Intro :  [Em][F][Em][F][Em]}
+{guitar_comment: Intro :  [Em F Em F Em]}
 
 
 [Em]Roselyne et moi nous regar[F]dons le plaf[Em]ond
@@ -35,7 +35,7 @@ Si [Am]nous avions des [F#]lits superpo[B]sés
   Quand [Am]ma moitié [F#]ronflait comme un griz[B]zly
 {end_of_chorus}
 
-{guitar_comment:   [Em][Am6][Em][Am][G][B7][Em][F][Em][Am][F#][B]}
+{guitar_comment:   [Em Am6 Em Am G B7 Em F Em Am F# B]}
 
 
 [Em]Tissus au mur et [F]mobilier anc[Em]ien
@@ -55,7 +55,7 @@ Si [Am]elle suçait des [F#]bonbons à la men[B]the
   À [Am]la fenêtre ou au [F#]bout du wa[B]gon
 {end_of_chorus}
 
-{guitar_comment:  [Em][Am6][Em][Am][G][B7][Em][F][Em][Am][F#][B]}
+{guitar_comment:  [Em Am6 Em Am G B7 Em F Em Am F# B]}
 
 
 [Em]Quoi qu'il en soit, elle [F]voudrait vivre se[Em]ule

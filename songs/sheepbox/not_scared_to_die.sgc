@@ -15,7 +15,7 @@
 {define: C frets X 3 2 0 1 0}
 {define: E7 frets 0 2 0 1 0 0}
 
-{guitar_comment: Intro: [C#m][Em][Bm][A] {repeat: 2}}
+{guitar_comment: Intro: [C#m Em Bm A] {repeat: 2}}
 
 
 [C#m]I let you drive[Em]... [Bm]Just for a while[A]

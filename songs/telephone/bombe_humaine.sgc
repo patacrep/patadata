@@ -5,7 +5,7 @@
 {language: french}
 {columns: 2}
 {define: A frets X 0 2 2 2 0}
-{define: A(aug) frets X 0 3 2 3 0}
+{define: Aaug frets X 0 3 2 3 0}
 {define: F#m frets 2 4 4 2 2 2}
 {define: A7 frets X 0 2 0 2 0}
 {define: D frets X X 0 2 3 2}
@@ -17,12 +17,12 @@
 {define: F# frets 2 4 4 3 2 2}
 
 
-Je [A]veux vous parler de l'arme [A(aug)]de demain
+Je [A]veux vous parler de l'arme [Aaug]de demain
 En[F#m]fantée du monde
 Elle en [A7]sera la fin
 Je veux vous [D]parler de [F]moi, de [A]vous
 
-Je [A]vois à l'intérieur des i[A(aug)]mages, des couleurs
+Je [A]vois à l'intérieur des i[Aaug]mages, des couleurs
 Qui [F#m]ne sont pas à moi
 Qui parfoi[A7]s me font peur
 Sen[D]sations [F]qui peuvent me rendre fou[A]
@@ -40,23 +40,23 @@ Nos [D7]sens sont le chemin qui mène [F7]à nos têtes
 {end_of_chorus}
 
 
-Mon [A]père ne dort plus sans prendre [A(aug)]ses calmants
+Mon [A]père ne dort plus sans prendre [Aaug]ses calmants
 Ma[F#m]man ne travaille plus sans ses [A7]excitants
 Quelqu'un [D]leur vend de quoi [F]tenir le [A]coup
 
-Je [A]suis un électron bombar[A(aug)]dé de protons
+Je [A]suis un électron bombar[Aaug]dé de protons
 Le [F#m]rythme de la ville c'est ça [A7]mon vrai patron
 Je suis [D]chargé [F]d'électricité[A]
 Si [B7]par malheur au cœur de l'accélérateur
 J'ren[D7]contre une particule qui m'mette de [F7]sale humeur
 
 
-[A]Oh [G][F#][F/A]
-Faudrait pas que j'me [A]laisse aller [G][F#][F/A]
-Faudrait pas que j'me [A]laisse aller [G][F#][F/A]
-Faudrait pas que j'me [A]laisse aller [G][F#][F/A]
-Faudrait pas que j'me [A]laisse aller [G][F#][F/A]
-Faudrait pas que j'me [A]laisse aller [G][F#][F/A]
+[A]Oh [G F# F/A]
+Faudrait pas que j'me [A]laisse aller [G F# F/A]
+Faudrait pas que j'me [A]laisse aller [G F# F/A]
+Faudrait pas que j'me [A]laisse aller [G F# F/A]
+Faudrait pas que j'me [A]laisse aller [G F# F/A]
+Faudrait pas que j'me [A]laisse aller [G F# F/A]
 
 {start_of_chorus}
   La [A]bombe humaine c'est l'arme [F]de demain

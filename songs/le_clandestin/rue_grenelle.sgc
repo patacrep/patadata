@@ -17,7 +17,7 @@
 {define: A frets 2 1 0 0}
 {define: B& base-fret 1 frets 2 1 0 0}
 
-{guitar_comment: Intro : [F][F][F][F] [Am][Am][Am][C] {repeat: 2}}
+{guitar_comment: Intro : [F F F F] [Am Am Am C] {repeat: 2}}
 
 
 [F] Et pour enfin changer d'échelle, changer le monde par en[Am]droit
@@ -37,7 +37,7 @@ Et pour le lire à la chandelle ou dans les couloirs du mé[Dm]tro
   S'il y a des pavés Rue Gre[C]nelle, crois-[A]tu que ça me plai[Dm]ra ?
 {end_of_chorus}
 
-{guitar_comment: Bridge :  [F][F][F][F] [Am][Am][Am][C]}
+{guitar_comment: Bridge :  [F F F F] [Am Am Am C]}
 
 
 [F] Je me laisserais même pousser les cheveux, j'aurais même l'air amou[Am]reux
@@ -71,9 +71,9 @@ Et puis on irait à Neuilly voir si le maire nous sou[Dm]rit
   Lancer des pavés Rue Gre[C]nelle, crois-[A]tu que ça me plai[Dm]ra ?
 {end_of_chorus}
 
-{guitar_comment: Outro :  [C][B&][A][Dm] {repeat: 4}}
+{guitar_comment: Outro :  [C Bb A Dm] {repeat: 4}}
 Les accords de Grenelle
 Et le prix de tes bretelles
 Et l'odeur des poubelles
 Strasbourg, Babylone, Ouais !
-{guitar_comment:  [C][Dm]}
+{guitar_comment:  [C Dm]}

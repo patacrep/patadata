@@ -16,12 +16,12 @@
 {define: G* frets 3 2 0 0 3 0 special}
 {define: Asus4 frets X 0 2 2 3 0 special}
 
-{guitar_comment: Intro:  [D][DM7][D7][DM7] {repeat: 2}}
+{guitar_comment: Intro:  [D Dmaj7 D7 Dmaj7] {repeat: 2}}
 
 
-[D]Kiss [DM7]me out of the bearded barley
-[D7]Nightly, [DM7]beside the green, green grass
-[D]Swing, swing[DM7], swing the spinning step
+[D]Kiss [Dmaj7]me out of the bearded barley
+[D7]Nightly, [Dmaj7]beside the green, green grass
+[D]Swing, swing[Dmaj7], swing the spinning step
 [D7]You wear those shoes and I wil[G]l wear that dress
 
 {start_of_chorus}

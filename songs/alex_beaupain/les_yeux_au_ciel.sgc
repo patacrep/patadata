@@ -6,12 +6,12 @@
 {columns: 2}
 {define: Am frets X 0 2 2 1 0}
 {define: Esus4 frets 0 2 0 2 0 0 special}
-{define: Bm7/5& frets X 2 3 2 3 X special}
+{define: Bm7b5 frets X 2 3 2 3 X special}
 {define: C6 frets X 3 2 2 1 0 special}
-{define: C7/6 frets X 3 2 2 0 0 special}
+{define: Cmaj7add6 frets X 3 2 2 0 0 special}
 {define: C7 frets X 3 2 0 0 0 special}
 
-{guitar_comment: Intro : [Am][E7sus4][C7/6][E7sus4] {repeat: 2}}
+{guitar_comment: Intro : [Am E7sus4 Cmaj7add6 E7sus4] {repeat: 2}}
 
 
 [Am]Les yeux [E7sus4]au [C6]ciel
@@ -25,9 +25,9 @@ Où chaque se[E7sus4]conde
 
 {start_of_chorus}
   [G] Où chaque [C7]minute
-  [F] Est un san[Bm7/5&]glot
+  [F] Est un san[Bm7b5]glot
   [E] Vois comme je [Am]lutte
-  Vois ce que je [Dm]perds en sang et en [Bm7/5&]eau
+  Vois ce que je [Dm]perds en sang et en [Bm7b5]eau
   En sang et en [E7sus4]eau [E]
 {end_of_chorus}
 

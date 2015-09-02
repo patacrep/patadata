@@ -12,7 +12,7 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: Am frets X 0 2 2 1 0}
 
-{guitar_comment: Intro :  [F][G#][G#][G][F#] [F][G#][G#][G][#][F] }
+{guitar_comment: Intro :  [F G# G# G F#] [F G# G# G# F] }
 
 
 [F]Je suis le fils d'une société
@@ -76,4 +76,4 @@ Mieux vaut s'arrêter là sinon
 Ça va se terminer en boudin
 Ouais, en boudin...
 
-{guitar_comment: Outro :  [G#][G#][G][F#][F] [G#][G#][G][F#][F][F] }
+{guitar_comment: Outro :  [G# G# G F# F] [G# G# G F# F F] }

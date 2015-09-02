@@ -6,7 +6,7 @@
 {columns: 2}
 {define: Am frets X 0 2 2 1 0}
 {define: Dm frets X X 0 2 3 1}
-{define: Bm7/5b frets X 2 3 2 3 X special}
+{define: Bm7b5 frets X 2 3 2 3 X special}
 {define: E7 frets 0 2 0 1 0 0 special}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: B base-fret 1 frets X 0 2 2 2 0}
@@ -17,19 +17,19 @@
 
 Il éc[Am]rase sa cigarette
 Puis re[Dm]pousse le cendrier
-Se di[Bm7/5&]rige vers les toi[E7]lettes
+Se di[Bm7b5]rige vers les toi[E7]lettes
 La dé[Am]marche mal assurée
 Il re[F]vient régler ses bières
 Le san[B]dwich et son café
-[Bm7/5&]Il ne rentre [E]pas ce [Am]soir
+[Bm7b5]Il ne rentre [E]pas ce [Am]soir
 
 Le grand [Am]chef du personnel
 L'a con[Dm]voqué à midi
-J'ai une [Bm7/5&]mauvaise nou[E7]velle
+J'ai une [Bm7b5]mauvaise nou[E7]velle
 Vous fi[Am]nissez vendredi
 Une [F]multinationale
 S'est of[B]fert notre société
-[Bm7/5&]Vous êtes dé[E]passé
+[Bm7b5]Vous êtes dé[E]passé
 
 {start_of_chorus}
   [Dm]Et du fait vous êtes remercié
@@ -43,19 +43,19 @@ S'est of[B]fert notre société
 
 Il se [Am]décide à traîner
 Car il a [Dm]peur d'annoncer
-À sa [Bm7/5&]femme et son [E7]banquier
+À sa [Bm7b5]femme et son [E7]banquier
 La si[Am]nistre vérité
 Être [F]chômeur à son âge
 C'est [B]pire qu'un mari trompé
-[Bm7/5&]Il ne rentre [E]pas ce [Am]soir
+[Bm7b5]Il ne rentre [E]pas ce [Am]soir
 
 Fini l[Am]e golf et le bridge
 Les vac[Dm]ances à St Tropez
-L'éd[Bm7/5&]ucation des [E7]enfants
+L'éd[Bm7b5]ucation des [E7]enfants
 Dans la [Am]grande école privée
 Il pl[F]eure sur lui, se prend
 Pour [B]un travailleur immigré
-[Bm7/5&]Il se sent dé[E]passé
+[Bm7b5]Il se sent dé[E]passé
 
 {start_of_chorus}
   [Dm]Et du fait il est remercié

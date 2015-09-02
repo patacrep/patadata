@@ -20,7 +20,7 @@
 {define: G frets 0 2 3 2}
 {define: C frets 0 0 0 3}
 
-{guitar_comment: Intro :  [Dm][Am][B][E] {repeat: 2} [E]}
+{guitar_comment: Intro :  [Dm Am B E] {repeat: 2} [E]}
 
 
 [Am]Regarde-toi
@@ -49,7 +49,7 @@ Pas [Dm]d'empathie mais [Am]du formol
 [B]Et une pincée [E]de mauvaise foi
 
 {start_of_chorus}
-  [F][C][Dm][G][C] {repeat: 2}
+  [F C Dm G C] {repeat: 2}
 {end_of_chorus}
 
 
@@ -65,7 +65,7 @@ Du [Dm]mauvais côté [Am]du comptoir
 En[Dm]terrant tes rê[Am]ves de gloire
 [B]De promotion, [E]de liberté
 
-{guitar_comment: Bridge :  [Dm][Am][B][E] {repeat: 2} [E]}
+{guitar_comment: Bridge :  [Dm Am B E] {repeat: 2} [E]}
 
 
 [Am]Regarde-moi

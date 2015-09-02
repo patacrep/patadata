@@ -12,7 +12,7 @@
 {define: B7 base-fret 2 frets 0 1 0 0}
 {define: Am frets 2 0 0 0}
 
-{guitar_comment: Intro :  [Em][B7][Em]}
+{guitar_comment: Intro :  [Em B7 Em]}
 
 
 Rien à foutre du [Em]monde, mon amour
@@ -70,7 +70,7 @@ J'pourrais presque les [Am]voir, les sentir, leur parler, les tenir
 
 {start_of_chorus}
   C'est un ...
-  [Em][Am][Em][B7] [Em][Am][Em][B7]
+  [Em Am Em B7] [Em Am Em B7]
 {end_of_chorus}
 
 Rien à foutre du [Em]monde, mon amour [B7]

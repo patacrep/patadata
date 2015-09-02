@@ -14,17 +14,17 @@
 {define: F#m base-fret 2 frets 0 2 2 0 0 0}
 
 {start_of_chorus}
-  [G][C][D][G]
-  [Em][D][Em][D]
-  [G][C][D][G]
-  [Em][D][C][D][G]
+  [G C D G]
+  [Em D Em D]
+  [G C D G]
+  [Em D C D G]
 {end_of_chorus}
 
 {start_of_chorus}
-  [C][G][C][G]
-  [C][G][Em][D]
-  [C][G][C][G]
-  [C][Em][C][D][G]
+  [C G C G]
+  [C G Em D]
+  [C G C G]
+  [C Em C D G]
 {end_of_chorus}
 
 
@@ -45,10 +45,10 @@
 {end_of_chorus}
 
 {start_of_chorus}
-  [G][C][D][G]
-  [Em][D][Em][D]
-  [G][C][D][G]
-  [Em][D][C][D][G]
+  [G C D G]
+  [Em D Em D]
+  [G C D G]
+  [Em D C D G]
 {end_of_chorus}
 
 
@@ -69,8 +69,8 @@ Un instant tout est balayé
 {end_of_chorus}
 
 {start_of_chorus}
-  [G][C][D][G]
-  [Em][D][D]
+  [G C D G]
+  [Em D D]
 {end_of_chorus}
 
 
@@ -91,22 +91,22 @@ Un instant tout est balayé
 {end_of_chorus}
 
 {start_of_chorus}
-  [A][D][E][A]
-  [F#m][E][F#m][E]
-  [A][D][E][A]
-  [F#m][E][D][E][A]
+  [A D E A]
+  [F#m E F#m E]
+  [A D E A]
+  [F#m E D E A]
 {end_of_chorus}
 
 {start_of_chorus}
-  [D][A][D][A]
-  [D][A][F#m][E]
-  [D][A][D][A]
-  [D][F#m][D][E][A]
+  [D A D A]
+  [D A F#m E]
+  [D A D A]
+  [D F#m D E A]
 {end_of_chorus}
 
 {start_of_chorus}
-  [A][D][E][A]
-  [F#m][E][F#m][E]
-  [A][D][E][A]
-  [F#m][E][D][E][A]
+  [A D E A]
+  [F#m E F#m E]
+  [A D E A]
+  [F#m E D E A]
 {end_of_chorus}

@@ -17,7 +17,7 @@
 
 {partition: Entre_deux_taxis.ly}
 
-{guitar_comment: Intro :  [Em] [C][G][D][Em] [C][G][B][Em]}
+{guitar_comment: Intro :  [Em] [C G D Em] [C G B Em]}
 
 
 [Em]Ils se sont embrassés tard [Bm]dans la nuit
@@ -56,8 +56,8 @@ Vient s'installer un bon ma[G]tin
 {end_of_chorus}
 
 {start_of_bridge}
-{guitar_comment:  [C][G][D][Em] [C][G][D][B]}
-{guitar_comment:  [C][G][D][Em] [C][G][B][B]}
+{guitar_comment:  [C G D Em] [C G D B]}
+{guitar_comment:  [C G D Em] [C G B B]}
 {end_of_bridge}
 
 
@@ -80,5 +80,5 @@ La quitter pour l'éterni[G]té
 {end_of_chorus}
 
 {guitar_comment: Outro}
-{guitar_comment:  [C][G][D][Em] [C][G][D][B]}
-{guitar_comment:  [C][G][D][Em] [C][G][B][B] [Em]}
+{guitar_comment:  [C G D Em] [C G D B]}
+{guitar_comment:  [C G D Em] [C G B B] [Em]}

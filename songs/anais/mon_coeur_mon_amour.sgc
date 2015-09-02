@@ -5,18 +5,18 @@
 {language: french}
 {columns: 2}
 {define: F# base-fret 2 frets 0 2 2 1 0 0}
-{define: F7/C7 base-fret 2 frets 0 0 2 1 2 0 special}
+{define: Bmaj7 base-fret 2 frets X 0 2 1 2 0 special}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: C# base-fret 4 frets X 0 2 2 2 0}
 
 
-Mon [F#]cœur, mon a[F7/C7]mour
+Mon [F#]cœur, mon a[Bmaj7]mour
 Mon amour, mon cœur
 Mon cœur, mon amour
 Mon amour, mon cœur
 
 
-Ça dégou[F#]line d'a[F7/C7]mour
+Ça dégou[F#]line d'a[Bmaj7]mour
 C'est beau mais c'est insupportable
 C'est un pudding bien lourd
 De mots doux à chaque phrase

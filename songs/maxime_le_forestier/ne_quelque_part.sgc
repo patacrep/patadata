@@ -11,7 +11,7 @@
 {define: Am frets X 0 2 2 1 0}
 {define: A frets X 0 2 2 2 0}
 
-{guitar_comment: Intro : [Em][C][D][Am] {repeat: 2}}
+{guitar_comment: Intro : [Em C D Am] {repeat: 2}}
 
 
 [Em]On choisit pas ses pa[C]rents

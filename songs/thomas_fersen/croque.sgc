@@ -15,7 +15,7 @@
 {define: E base-fret 2 frets 2 2 2 0}
 {define: A frets 2 1 0 0}
 
-{guitar_comment: Intro :  [C#m][F#m][F#m][C#m]}
+{guitar_comment: Intro :  [C#m F#m F#m C#m]}
 
 
 [C#m] Quand je rentre à la maison, elle me dit souvent
@@ -37,7 +37,7 @@ Digérer mon pot de bière et mon cro[C#m]que-monsieur
   [E]J'ai déjà la [G#]dent
   C'est mon [C#m]estomac qui [F#m]pleure
   [A] À chaque enterre[G#]ment
-  [C#m][F#m][F#m][C#m]
+  [C#m F#m F#m C#m]
 {end_of_chorus}
 
 
@@ -60,7 +60,7 @@ Voilà un coin épatant pour déjeu[C#m]ner sur l'herbe
   [E]Sur mon haut-de-[G#]forme
   C'est mon [C#m]ventre qui glou[F#m]gloute
   [A] Mon ventre qui [G#]grogne
-  [C#m][F#m][F#m][C#m]
+  [C#m F#m F#m C#m]
 {end_of_chorus}
 
 
@@ -86,10 +86,10 @@ Un bouton de ma jaquette et un pau[C#m]vre mulot
 {end_of_chorus}
 
 {start_of_chorus}
-  [C#m][F#m]
+  [C#m F#m]
   Ça fait [C#m]trop longtemps qu'ça [F#m]dure
   [E]Je m'allonge un [G#]peu
   Sur le [C#m]tapis de ver[F#m]dure
   [A] Et je ferme les [G#]yeux
-  [C#m][F#m][F#m][C#m]
+  [C#m F#m F#m C#m]
 {end_of_chorus}

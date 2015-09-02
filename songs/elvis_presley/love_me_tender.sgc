@@ -6,7 +6,7 @@
 {columns: 2}
 {define: G frets 3 2 0 0 0 3}
 {define: A7 frets X 0 2 0 2 0}
-{define: D7/4 frets X X 0 2 1 4 special}
+{define: D7sus4 frets X X 0 2 1 3 special}
 {define: D7 frets X X 0 2 1 2}
 {define: B7 frets X 2 1 2 0 2}
 {define: Em frets 0 2 2 0 0 0}
@@ -15,15 +15,15 @@
 
 
 [G]Love me tender, [A7]love me sweet
-[D7/4]Never [D7]let me [G]go
+[D7sus4]Never [D7]let me [G]go
 [G]You have made my [A7]life complete
-[D7/4]And he[D7]re I love you [G]so
+[D7sus4]And he[D7]re I love you [G]so
 
 {start_of_chorus}
   [G]Love me [B7]tender, [Em]love me [G7]true
   [C]All my dreams ful[G]fil
   [G]For my [E7]darlin' [A7]I love you
-  [D7/4]And I [D7]always [G]will
+  [D7sus4]And I [D7]always [G]will
 {end_of_chorus}
 
 
