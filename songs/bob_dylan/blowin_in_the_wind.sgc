@@ -8,7 +8,6 @@
 {define: G frets 3 2 0 0 0 3}
 {define: A frets X 0 2 2 2 0}
 
-
 [D]How many [G]roads must a [A]man walk [D]down
 Be[D]fore you [G]call him a [A]man?
 [D]How many [G]seas must a [A]white dove [D]sail
@@ -21,14 +20,12 @@ Be[D]fore they're [G]forever [A]banned?
   The [G]answer is [A]blowin' in the [D]wind
 {end_of_chorus}
 
-
 {echo: Yes and} how many years can a mountain exist
 Before it is washed to the seas?
 {echo: Yes and} how many years can some people exist
 Before they're allowed to be free?
 {echo: Yes and} how many times can a man turn his head
 And pretend that he just doesn't see?
-
 
 {echo: Yes and} how many times must a man look up
 Before he can see the sky?

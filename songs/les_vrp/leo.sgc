@@ -8,7 +8,6 @@
 {define: Dm base-fret 5 frets X 0 2 2 1 0}
 {define: E7 base-fret 5 frets X 2 1 2 0 X}
 
-
 Quand sa mère accoucha d'[Am]Léo
 C'était pour mourir aussi[Dm]tôt
 Dans les dé[Am]combres d'un bis[E7]trot
@@ -17,7 +16,7 @@ Il a [Am]grandi on n'sait comment
 En s'inven[Dm]tant plein de mamans
 Des prosti[Am]tuées, des sans-ar[E7]gent
 La vraie mi[Am]sère
-
+{newline}
 Comme [Dm]il avait de l'aisance
 Et n'[Am]était pas idiot
 À [E7]son adolescence
@@ -27,7 +26,6 @@ Il [Am]fît don de ses dons
 À [E7]vouloir trop de fric
 On finit en pri[Am]son
 
-
 Dans la pénombre d'un cachot
 On enferma le pauvre Léo
 Avec des brigands, des salauds
@@ -36,7 +34,7 @@ Paraît qu't'étais un prostitué
 Lui dit un gars de sa chambrée
 Tu vas pouvoir nous réchauffer
 Fût pas d'manières
-
+{newline}
 N'ayant plus le moral
 Et voulant en finir
 En ouvrant un journal, il lût :
@@ -46,7 +44,6 @@ Tu es prisonnier
 Si tu veux écris-moi
 Je s'rai ta liberté»
 
-
 Il a fallu bien des années
 Avant qu'Léo soit relâché
 Mais un beau jour c'est terminé
@@ -55,7 +52,7 @@ Il va pouvoir la rencontrer
 Celle qu'il appelle ma dulcinée
 Il va la couvrir de baisers
 Il fait le fier
-
+{newline}
 Il croise sur le trottoir
 Un cercueil de bois noir
 Salue les hommes en pleurs
@@ -65,7 +62,6 @@ Et frappe tout essoufflé
 Mais celle qu'il a aimée
 Il vient de la croiser
 
-
 Dans ce petit appartement
 Y'avait pas grand chose d'important
 Mais sur une table, deux instruments
@@ -74,7 +70,7 @@ Et une lettre
 Fais ça pour moi je t'en supplie
 Prend cet archer, cette scie
 Deviens honnête»
-
+{newline}
 Dans la rue il s'installe
 Joue d'la scie musicale
 Mais il joue tellement mal
@@ -84,7 +80,6 @@ Par tant d'bonne volonté
 Un jour furent obligés
 De l'chasser du quartier
 
-
 Un puis un jour dans les bistrots
 Y's'passait rien de très nouveau
 On a pu lire dans les journaux
@@ -93,7 +88,7 @@ On a r'trouvé sous un camion
 Le corps d'un pauvre vagabond
 Les bras sciés et un archer
 Un mystère
-
+{newline}
 Si encore de nos jours
 On entend ce refrain
 C'est que du fond de sa cour, un jour

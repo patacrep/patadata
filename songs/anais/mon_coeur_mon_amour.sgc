@@ -9,18 +9,16 @@
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: C# base-fret 4 frets X 0 2 2 2 0}
 
-
 Mon [F#]cœur, mon a[Bmaj7]mour
 Mon amour, mon cœur
 Mon cœur, mon amour
 Mon amour, mon cœur
 
-
 Ça dégou[F#]line d'a[Bmaj7]mour
 C'est beau mais c'est insupportable
 C'est un pudding bien lourd
 De mots doux à chaque phrase
-
+{newline}
 [B]Elle est belle ta [F#]quiche amour
 Mon cœur, passe-moi la salade
 Et ça se fait des mamours
@@ -37,19 +35,17 @@ Et finale[B]ment me donne la [C#]gerbe
   Je les hais tout court !
 {end_of_chorus}
 
-
 Mon cœur, mon amour
 Mon amour, mon cœur
 Mon cœur, mon amour
 Mon amour, mon cœur
 Toulou toulou tou tou ...
 
-
 C'est un épais coulis
 Ça me laisse le cul par terre
 Autant de mièvreries
 Nappées de crème pâtissière
-
+{newline}
 Coucou, qu'est-ce que tu fais mon cœur ?
 La même chose qu'y'a une demi-heure...
 J't'ai appelé y'a 5 minutes mon ange

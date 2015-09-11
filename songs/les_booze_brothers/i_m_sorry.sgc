@@ -11,7 +11,6 @@
 {define: D4 frets X X 0 2 3 3 special}
 {define: Em frets 0 2 2 0 0 0}
 
-
 The [G]acting [C]days are [D]over [D4]
 I [G]can't [C]deny [D]that [D4]
 I'm [G]tired of [C]playing [D]the same [D4]tune
@@ -27,7 +26,6 @@ In[G]side to [C]rot and [D]die [D4]
   I'm [Em]sorry [C G D4] {repeat: 3}
   [G C D D4] {repeat: 2}
 {end_of_chorus}
-
 
 Our [G]lying [C]days are [D]over [D4]
 Or, I'd [G]like [C]to be[D]lieve [D4]

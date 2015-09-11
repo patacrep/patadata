@@ -9,12 +9,11 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: E frets 0 2 2 1 0 0}
 
-
 Y'a eu [Am]Antoine avant moi
 Y'a eu [G]Dylan avant lui
 Après [F]moi qui viendra ?
 Après [E]moi c'est pas fini
-
+{newline}
 On les a récupérés
 Oui mais moi on m'aura pas
 Je tirerai le premier
@@ -29,34 +28,31 @@ Et j'vis'rai au bon endroit
   Tu m'auras [Am]pas [G F E]
 {end_of_chorus}
 
-
 J'ai marché sur bien des routes
 J'ai connu bien des pat'lins
 Partout on vit dans le doute
 Partout on attend la fin
-
+{newline}
 J'ai vu occuper ma ville
 Par des cons en uniformes
 Qu'étaient pas vraiment virils
 Mais qui s'prenaient pour des hommes
 
-
 J'ai vu pousser des barricades
 J'ai vu pleurer mes copains
 J'ai entendu les grenades
 Tonner au petit matin
-
+{newline}
 J'ai vu ce que tu faisais
 Du peuple qui vit pour toi
 J'ai connu l'absurdité
 De ta morale et de tes lois
 
-
 Demain, prends garde à ta peau
 À ton fric, à ton boulot
 Car la vérité vaincra
 La commune refleurira
-
+{newline}
 Mais en attendant, je chante
 Et je te crache à la gueule
 Cette petite chanson méchante

@@ -11,55 +11,51 @@
 {define: Dm base-fret 5 frets X 0 2 2 1 0}
 {define: E& base-fret 6 frets X 0 2 2 2 0}
 
-
 [Bb]Dans une rue de Pa[F]name
 Errant [Bb]au bord de l'[F]eau
 J'[Bb]fumais mon Amster[F]dam
 Pour fi[Bb]nir au bis[F]trot
-
+{newline}
 [Gm]Y'avait là deux-trois [Dm]femmes
 [Gm]Qui faisaient le ta[Dm]pin
 [Gm]Moi j'aiguisais ma [Dm]lame
 Pour plan[Eb]ter les ru[F]pins
 
-
 [Bb]Les gens de bon quar[F]tier
 Les tou[Bb]ristes, les viei[F]llards
 [Bb]Aiment bien se prome[F]ner
 Le long [Bb]des grands bou[F]levards
-
+{newline}
 [Gm]Ils achètent des sou[Dm]venirs
 [Gm]Des tours Eiffel en plas[Dm]tique
 [Gm]Les saltimbanques les font [Dm]rire
 Mais fau[Eb]drait qu'on leur ex[F]plique
 
-
 [Bb]Qu'il y a de la merde par[F]tout
 De la [Bb]drogue et sur[F]tout
 [Bb]Des jeunes en ga[F]lère
 Qui tra[Bb]fiquent la mi[F]sère
-
+{newline}
 [Gm]Mais, je dois bien avou[Dm]er
 [Gm]Que j'y passe toutes mes jour[Dm]nées
 [Gm]C'est que parfois à Pa[Dm]ris
 C'est la [Eb]joie et la fo[F]lie
-
+{newline}
 {guitar_comment: Accordéon}
 [Bb F Bb F Bb F Bb F]
 [Gm Dm Gm Dm Gm Dm Eb F]
 
 {partition: Rue_de_Paname_acc.ly}
 
-
 [Bb]Mais croyez-moi bien[F]tôt
 Les flics [Bb]auront du bou[F]lot
 [Bb]Car tous les vaga[F]bonds
 Parlent [Bb]de révolu[F]tion
-
+{newline}
 [Gm]Un jour toutes nos chan[Dm]sons
 [Gm]Ouais vous désarme[Dm]ront
 [Gm]Il n'y aura plus que la fo[Dm]lie
-
+{newline}
 La [Eb]joie, et l'anar[F]chie {repeat: 2}
 La [Eb]joie [F]dans Pa[Bb]ris ...
 

@@ -11,7 +11,6 @@
 {define: Am base-fret 5 frets 0 2 2 0 0 0}
 {define: Em base-fret 7 frets X 0 2 2 1 0}
 
-
 [Dm]Morte de sécheresse
 La fiancée de l'[Bb]eau
 A marié son sang
@@ -20,20 +19,17 @@ Prince range ton drap [Dm]blanc
 Prince range ton drap [Am]blanc
 Prince range ton drap [Em]blanc
 
-
 Prince range ton drap blanc
 Il ne sera jamais
 Le drapeau rougissant
 De sa virginité
 Regarde son honneur {repeat: 3}
 
-
 Regarde son honneur
 S'enfuir par la mort
 Regarde triste voleur
 L'absence dans son corps
 Tu peux creuser la terre {repeat: 3}
-
 
 Tu peux creuser la terre
 Avec tous tes remords
@@ -42,7 +38,6 @@ Creuser, creuser encore
 Non tu n'auras rien d'elle {repeat: 3}
 
 {partition: La_fiancee_de_l_eau.ly}
-
 
 Non tu n'auras rien d'elle
 Il n'y a plus rien à prendre

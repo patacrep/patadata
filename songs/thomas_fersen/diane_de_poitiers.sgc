@@ -20,7 +20,7 @@
 {define: Cm frets 0 3 3 3}
 
 {guitar_comment: Intro :  [Bb9 Bb7]}
-
+{newline}
 Que fait [Eb]donc en ce lieu
 [F]Parmi ces messieurs
 Cette [Gm]blonde aux bras nus
@@ -29,7 +29,7 @@ Dans ses [Eb]doigts, elle se mouche
 Et [F]pour s'rincer la bouche
 Elle [Gm]commande un cognac
 Puis [Bb]un autre co[Bb7]gnac
-
+{newline}
 Je lui [Eb]dis à l'oreille :
 «T'es belle [F]comme Diane de Poitiers
 Veux-tu [Gm]prendre la moitié
@@ -38,8 +38,7 @@ Elle me ré[Eb]pond, je cite :
 «Il [F]faut pas qu'tu t'excites
 Ce n'est [Gm]pas c'que tu penses
 Je [Bb]suis restée vieille [Bb7]France»
-
-
+{newline}
 C'est d'ac[Cm]cord, je t'accueille
 Moi je [F]dors dans le fauteuil
 En tout [Cm]bien, tout honneur
@@ -48,7 +47,7 @@ Toi le [Cm]lit, moi la banquette
 [F]À la bonne franquette
 C'est d'ac[Gm]cord pour ce soir
 Moi je [Bb]dors dans la baignoire
-
+{newline}
 Certes, je [Cm]ne suis pas un saint
 Et quand [F]la lumière s'éteint
 Je n'ai [Cm]pas toujours dit non
@@ -57,7 +56,7 @@ Pour nous [Cm]deux, c'est plus sage
 Vu [F]la différence d'âge
 Non ce [Gm]soir, pas d'folies
 [Bb]Chacun dans son lit
-
+{newline}
 Soit, je [Cm]ne suis pas un moine
 J'dis[F]sipe mon patrimoine
 Dans ce [Cm]bar un peu glauque
@@ -66,7 +65,7 @@ Ma [F]voix est devenue rauque
 Mais [F]ce soir j'ai rien bu
 Non ce [Gm]soir, je suis strict
 Le [Bb]devoir me le dicte
-
+{newline}
 J'ai rien [Cm]d'un ecclésiastique
 Ma cons[F]cience est élastique
 Et si [Cm]j'fais mon examen
@@ -80,7 +79,6 @@ J'pré[Bb]fère une petite bière
   [Cm F Cm F Cm F Gm Bb]
 {end_of_chorus}
 
-
 Certes, je [Cm]ne suis pas un prêtre
 Ce [F]s'rait mal me connaître
 Et les [Cm]soirs de pleine lune
@@ -89,7 +87,7 @@ Mais faut [Cm]pas rester dehors
 Avec [F]tous ces délinquants
 Sois tran[Gm]quille, moi je dors
 [Bb]Sur le lit de camp
-
+{newline}
 Soit, j'suis [Cm]pas un chérubin
 Fau[F]drait que j'prenne un bain
 Que je [Cm]rase sur mes joues
@@ -98,7 +96,7 @@ Et mon [Cm]linge n'est pas net
 En[F]fin, pour être honnête
 Ce ma[Gm]tin dans le bus
 J'ai [Bb]attrapé une puce
-
+{newline}
 Les [Cm]nuits d'hiver sont longues
 Dans [F]ma baignoire oblongue
 Elles sont [Cm]longues et frisquettes
@@ -107,7 +105,6 @@ Le di[Cm]van du séjour
 Le [F]canapé d'velours
 Le fau[Gm]teuil Louis-Philippe
 À [Bb]cheval sur les principes !
-
 
 Mais c'est d'ac[Cm]cord, je t'accueille
 Moi je [F]dors dans le fauteuil

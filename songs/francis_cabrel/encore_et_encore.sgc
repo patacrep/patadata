@@ -13,14 +13,13 @@
 {define: D frets X X 0 2 3 2}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 
-
 [Em]D'abord vos corps qui se séparent
 T'es seule dans la lumière des phares
 [G]T'entends à chaque fois que tu respires
 Comme un bout de tissu qui se déchire
 [C]Et ça continue encore et encore
 [Am]C'est que le début d'accord, d'accord [Em]
-
+{newline}
 [Em]L'instant d'après le vent se déchaîne
 Les heures s'allongent comme des semaines
 [G]Tu te retrouves seule assise par terre
@@ -35,7 +34,6 @@ A bondir à chaque bruit de portière
   [G]T'es toute seule au fond de l'espace
   [B]T'as personne devant [Am]
 {end_of_chorus}
-
 
 [Em]La même nuit que la nuit d'avant
 Les mêmes endroits deux fois trop grands
@@ -57,12 +55,11 @@ Les oiseaux qui s'en[D]volent
 Les oiseaux qui s'envolent
 {end_of_bridge}
 
-
 [Em]Tu comptes les chances qu'il te reste
 Un peu de son parfum sur ta veste
 [G]Tu avais dû confondre les lumières
 D'une étoile et d'un réverbère
-
+{newline}
 Et ça continue encore et encore
 C'est que le début d'accord, d'accord
 {repeat: 2}

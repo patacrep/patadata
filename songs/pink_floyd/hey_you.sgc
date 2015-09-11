@@ -21,8 +21,7 @@
 {partition: hey_you.ly}
 
 {guitar_comment: Intro: | [Em*] | [Dm*] |  {repeat: 2}}
-
-
+{newline}
 Hey [Em*]you! out there in the cold
 Getting lonely getting old, can you [Bm*]feel me
 Hey [Em*]you! Standing in the aisles
@@ -30,14 +29,13 @@ With itchy feet and fading smiles, can you [Bm*]feel me
 [D*] Hey you! don't help them to bury the l[G*][D*]i[C*]ght
 [Bm] Don't give in [Am] without a f[Em]ight
 
-
 Hey [Em]you! out there on your own
 Sitting naked by the phone would you [Bm]touch me
 Hey [Em]you! with your ear against the wall
 Waiting for someone to call out would you [Bm]touch me
 [D] Hey you! would you help me to carry the st[G][D]o[C]ne
 [Bm]Open your heart [Am] I'm coming [Em]home
-
+{newline}
 {guitar_comment:  | [Em] | [Em] | [Am] | [Am]|  {repeat: 4} | [Em] | [Em] | }
 
 {start_of_chorus}
@@ -46,7 +44,6 @@ Waiting for someone to call out would you [Bm]touch me
   No matter how he tr[D]ied he could [G]not [D]break [C]free
   And the worms ate [D*]into his [Em*]brain [Dm*]
 {end_of_chorus}
-
 
 Hey [Em*]you! out there on the road
 Always doing what you're told, can you [Bm*]help me

@@ -18,13 +18,12 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 
 {guitar_comment: Intro : [F F F F] [Am Am Am C] {repeat: 2}}
-
-
+{newline}
 [F] Et pour enfin changer d'échelle, changer le monde par en[Am]droit
 On irait vivre Rue Grenelle voir si tout s'y passe comme il se [F]doit
 On dormirait dans des poubelles, on se tiendrait chaud, toi et [Am]moi
 Loin du travail des lunes de miel, pour l'attendre au printemps dé[F]jà
-
+{newline}
 Et lui dire que la vie est belle et même que ce monde est [Am]beau
 Dès qu'on y enlève la Tour Eiffel, les 14 juillet, les dra[F]peaux
 On ferait pousser dans nos poubelles du soja et du Modia[Am]no
@@ -38,13 +37,12 @@ Et pour le lire à la chandelle ou dans les couloirs du mé[Dm]tro
 {end_of_chorus}
 
 {guitar_comment: Bridge :  [F F F F] [Am Am Am C]}
-
-
+{newline}
 [F] Je me laisserais même pousser les cheveux, j'aurais même l'air amou[Am]reux
 Car on serait bien plus heureux autour d'un dîner pour [F]deux
 Et fait de boîtes pas de poubelles, de ravioli végéta[Am]riennes
 Et puis de rêve américain, mais bien sûr sans améri[F]cains
-
+{newline}
 Car moi je préfère la Tour Eiffel, la Kronenbourg, le Breizh Co[Am]la
 Car à mourir de truc trop gras, on les préfère bien de chez [F]soi
 Et puis on irait à Neuilly voir si le maire nous sou[Am]rit

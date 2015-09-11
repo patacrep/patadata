@@ -15,12 +15,11 @@
 
 {partition: Le_jour_s_est_leve.ly}
 
-
 [C]Le jour [F]s'est le[G]vé
 [C]Sur une é[F]trange i[G]dée
 [C]Je crois [F]que j'ai rê[G]vé
 [C]Que ce soir [F]je mou[G]rais
-
+{newline}
 [C]Le jour [F]s'est le[G]vé
 [C]Plein de per[F]plexi[G]té
 [C]Si ce n'é[F]tait pas un [G]rêve
@@ -31,12 +30,11 @@
   {guitar_comment:  [Em F C G Am Em G4 G]}
 {end_of_chorus}
 
-
 [C]Comme le jour [F]avan[G]çait
 [C]En moi [F]je pen[G]sais
 [C]Si ce n'é[F]tait pas un [G]rêve
 [C]J'ai [F]tout à ai[G]mer
-
+{newline}
 [C]Quand le jour [F]s'est cou[G]ché
 [C]J'ai ré[F]ali[G]sé
 [C]Que ce n'é[F]tait qu'une [G]trêve
@@ -49,12 +47,11 @@
   Pour qui veux [G4]bien voir [G]
 {end_of_chorus}
 
-
 [C]Le voile [F]est le[G]vé
 [C]Sur ma [F]pauvre[G]té
 [C]Qu'ai-je [F]donc à gar[G]der
 [C]Qui ne se[F]ra souf[G]flé
-
+{newline}
 [C]Oui, le voile [F]est le[G]vé
 [C]Tout est si [F]colo[G]ré
 [C]Qu'ai-je [F]donc à don[G]ner
@@ -74,11 +71,10 @@
 À [Am7]toi de croire
 {end_of_bridge}
 
-
 [C]Le jour [F]s'est le[G]vé
 [C]Sur cette é[F]trange i[G]dée
 [C]La vie [F]n'est qu'une jour[G]née
 [C]Et la mort [F]qu'une [G]nuit
-
+{newline}
 [C]La vie [F]n'est ajour[G]née
 [F]Que si [G]la mort lui [C]nuit

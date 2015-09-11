@@ -7,12 +7,11 @@
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: F#7 base-fret 2 frets 0 2 2 1 0 0}
 
-
 Au pre[B]mier temps de la valse
 Toute seule, tu souris dé[F#7]jà
 Au pre[F#7]mier temps de la valse
 Je suis seul mais je t'aper[B]çois
-
+{newline}
 Et Paris qui bat la mesure
 Paris qui mesure notre émoi
 Et Paris qui bat la mesure
@@ -63,23 +62,21 @@ Me murmure, murmure tout bas
   De bâtir un roman
 {end_of_chorus}
 
-
 Au deuxième temps de la valse
 On est deux, tu es dans mes bras
 Au deuxième temps de la valse
 Nous comptons tous deux : «Une, deux, trois»
-
+{newline}
 Et Paris qui bat la mesure
 Paris qui mesure notre émoi
 Et Paris qui bat la mesure
 Nous fredonne déjà
 
-
 Au troisième temps de la valse
 Nous valsons enfin, tous les trois
 Au troisième temps de la valse
 Il y a toi, y'a l'amour et y'a moi
-
+{newline}
 Et Paris qui bat la mesure
 Paris qui mesure notre émoi
 Et Paris qui bat la mesure

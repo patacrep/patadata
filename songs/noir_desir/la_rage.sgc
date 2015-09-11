@@ -11,7 +11,6 @@
 {define: G frets 3 2 0 0 0 3}
 {define: A frets X 0 2 2 2 0}
 
-
 [Am] Dans les salons bleus de la [C]classe supérieure, [D]on sourit
 Tou[Am]cher du bout des doigts les rythmes [C]sensuels assa[D]gis
 [Am] Sans rien à se dire, les [C]futilités d'us[D]age
@@ -25,22 +24,20 @@ Et au [Am]dehors les chiens se frottent aux [C]herbes s[D]ages
   D'attraper la [Am]rage
 {end_of_chorus}
 
-
 Et les filles à l'âme romantique et ensorcelée
 Les lèvres refermées sur les pages de leurs cahiers
 Ah pouvoir partir et mourir avec El Desdichado
 Et oublier les mots des salons gris
 
-
 Dans les salons bleus de la classe supérieure, on sourit
 Toucher du bout des doigts les rythmes sensuels assagis
 Sans rien à se dire, les futilités d'usage
 Et au dehors les chiens se frottent aux herbes sages des jardins
-
+{newline}
 Où les filles à l'âme romantique et ensorcelée
 Les lèvres refermées sur les pages de leurs cahiers
 Ah pouvoir partir et mourir avec El Desdichado
 Et oublier les mots des salons gris
 Où la classe supérieure danse encore du bout des... [Am] [C] [G]
-
+{newline}
 [C] Sweet [G]honey [Am]sugar {repeat: 2}

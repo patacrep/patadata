@@ -10,12 +10,11 @@
 {define: G frets 3 2 0 0 0 3}
 {define: Em frets 0 2 2 0 0 0}
 
-
 Je [Am]suis accorte [G]damoise[Am]lle
 Un mollet souple, un sou[G]rire écla[Am]tant
 On peut me parler [G]baga[Am]telle
 Sans que je m'échappe [G]en hur[C G Am G]lant
-
+{newline}
 Mes cheveux d'or et mes grands yeux
 Ont tout pour charmer le manant
 Et mon miroir me répond quand il veut :
@@ -28,12 +27,11 @@ Et mon miroir me répond quand il veut :
   Avec des [C]sujets à ge[Em]noux ?
 {end_of_chorus}
 
-
 Mais voila qui je suis en vérité :
 Simple serveuse à l'auberge du donjon
 Aucun tourment ne m'est épargné
 Au milieu de tous ces pochtrons
-
+{newline}
 Des nains ivrognes, de piètres aventuriers
 Voila tout mon lot quotidien
 L'orque videur veille à ma sécurité
@@ -46,29 +44,26 @@ Mais il lorgne surtout son verre de vin
   Tant qu'on m'admire comme il me sied
 {end_of_chorus}
 
-
 [Em]Oncques ne [C]vis cheva[G]lier à mon [Em]bras
 [Em]Oncques ne [C]revêtis [G]robe de [Em]soie
 [Em]Oncques ne che[C]vauche ale[G]zan dans les [Em]bois
 [C]Oncques, [G]oncques, [Am]oncques
 
-
 Quand bientôt l'aube point à l'horizon
 Que le dernier poivrot s'est endormi
 Je ramasse les cruches et les litrons
 Balaie les restes de la nuit
-
+{newline}
 Ivre de fatigue bien plus que de bière
 Dans ma chambrette sous les toits
 Je m'étale sur ma couche solitaire
 Après avoir chassé les rats
 
-
 Et dans mes rêves je suis une princesse
 Et je n'astique aucun plateau
 Le fils d'un roi me fait promesse
 De m'offrir son nom, son château
-
+{newline}
 J'oublie un temps ma vie de rien
 Les cruches à bière et le graillon
 Un jour c'est sûr, un noble paladin

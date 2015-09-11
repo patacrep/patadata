@@ -13,8 +13,7 @@
 {define: Am frets X 0 2 2 1 0}
 
 {guitar_comment: Intro :  [F G# G# G F#] [F G# G# G# F] }
-
-
+{newline}
 [F]Je suis le fils d'une société
 [Gm]Fondamentalement épuisée
 Passe-moi ma pipe de marijane
@@ -28,7 +27,6 @@ Par un beau matin aux auro[Gm]res
 [Am]La guerre venait de se terminer
 On revendait les mirad[Gm]ors
 [F]Les miradors...
-
 
 Avec les germes de la guerre
 On ne fabrique que des tarés
@@ -44,7 +42,6 @@ Aujourd'hui j'ai l'air tellement con
 Qu'on veut pas de moi même dans l'armée
 Même dans l'armée...
 
-
 D'ailleurs je suis toujours mal foutu
 J'ai mal aux seins, j'ai mal au...
 Y'a guère que dans la naphtaline
@@ -59,12 +56,10 @@ Quand elles cartonnent pas MLF
 Elles vous allongent au karaté
 Au karaté...
 
-
 Arné sné connunu palome
 Massasné masna en Sodome
 Loukoum loukoum dé trougaga
 Aro snavi rutabaga
-
 
 Je suis le fils d'une société
 Fondamentalement épuisée
@@ -75,5 +70,5 @@ J'ai pas le courage d'aller plus loin
 Mieux vaut s'arrêter là sinon
 Ça va se terminer en boudin
 Ouais, en boudin...
-
+{newline}
 {guitar_comment: Outro :  [G# G# G F# F] [G# G# G F# F F] }

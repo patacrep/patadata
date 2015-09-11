@@ -10,14 +10,12 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: G frets 3 2 0 0 0 3}
 
-
 C'est l'his[C]toire du ménestrel
 Qui ai[F]mait la poé[G]sie
 Il vou[C]lait toujours chanter pour ses a[G]mis
 
-
 Quand un [C]jour dans les collines
 Un grand [F]troll s'est appro[G]ché
 Il a [C]sorti sa gui[G]tare et s'est fait [C]tuer
-
+{newline}
 [G]Et [C]splash !

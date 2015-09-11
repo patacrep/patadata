@@ -12,15 +12,14 @@
 {define: B7 frets X 2 1 2 0 2}
 
 {guitar_comment: Intro :  [Em C Em C]}
-
-
+{newline}
 [Em]Le jour se lève sur ma ban[C]lieue
 J'ai froid c'est pourtant pas l'hi[Em]ver
 Qu'est-ce que j'pourrais foutre nom de [C]Dieu
 J'ai pas un rond et j'ai pas [Em]l'air
 Sé[Am]rieux [D]
 Sé[Em]rieux
-
+{newline}
 [Em]J'suis un loubard parmi tant [C]d'autres
 Je crèche pas loin de la Dé[Em]fense
 J'ai l'air crado, c'est pas ma [C]faute
@@ -36,14 +35,13 @@ Mon [Em]pote
   Bor[Em]del
 {end_of_chorus}
 
-
 [Em]Un soir dans une rue dé[C]serte
 J'ai fauché une Honda [Em]500
 À un fils de bourgeois hon[C]nête
 Avec elle je fonce à [Em]200
 Ouais, c'est [Am]chouette [D]
 C'est [Em]chouette
-
+{newline}
 [Em]Mon copain Pierrot s'est plan[C]té
 Sur l'autoroute un jour de [Em]pluie
 Parfois, je l'entends rigo[C]ler
@@ -59,14 +57,13 @@ C't'en[Em]flé
   Ga[Em]vroche
 {end_of_chorus}
 
-
 [Em]J'suis un loubard périphé[C]rique
 J'en ai plein les bottes de ce [Em]bled
 Le France est une banlieue mer[C]dique
 Comme dit mon copain Moha[Em]med
 Aux [Am]flics [D]
 Aux [Em]flics
-
+{newline}
 [Em]Le jour se lève sur ma ban[C]lieue
 J'ai froid c'est pourtant pas l'hi[Em]ver
 C'est drôle le bitume est tout [C]bleu

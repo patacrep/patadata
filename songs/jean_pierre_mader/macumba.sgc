@@ -13,8 +13,7 @@
 
 {guitar_comment: Rythm : {partition: Macumba.ly}}
 {guitar_comment: Intro :  | [Dm] | [A7] | [Dm] | [A7] | }
-
-
+{newline}
 [Dm]Elle est v[A7]enue sans bag[Dm]age [A7]
 [Dm]Comme éch[A7]ouée d'un naufr[Dm]age [A7]
 [Em] Dans les cales d'un cargo
@@ -29,7 +28,6 @@ Loin des bidonv[Em]illes [A7]
   Pour d[Bb]es marins largués qui cherche[C]nt la bagarre
   Au Mac[Dm]umba [A7]
 {end_of_chorus}
-
 
 [Dm]Pour trouver[A7] la force d'att[Dm]endre [A7]
 [Dm]Elle s'inv[A7]ente des rêves t[Dm]endres [A7]

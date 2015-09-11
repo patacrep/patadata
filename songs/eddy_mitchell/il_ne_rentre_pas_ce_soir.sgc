@@ -14,7 +14,6 @@
 {define: B7 frets X 2 1 2 0 2}
 {define: A7 frets X 0 2 0 2 0}
 
-
 Il éc[Am]rase sa cigarette
 Puis re[Dm]pousse le cendrier
 Se di[Bm7b5]rige vers les toi[E7]lettes
@@ -22,7 +21,7 @@ La dé[Am]marche mal assurée
 Il re[F]vient régler ses bières
 Le san[B]dwich et son café
 [Bm7b5]Il ne rentre [E]pas ce [Am]soir
-
+{newline}
 Le grand [Am]chef du personnel
 L'a con[Dm]voqué à midi
 J'ai une [Bm7b5]mauvaise nou[E7]velle
@@ -40,7 +39,6 @@ S'est of[B]fert notre société
   [B7]Il ne rentre [E7]pas ce [Am]soir
 {end_of_chorus}
 
-
 Il se [Am]décide à traîner
 Car il a [Dm]peur d'annoncer
 À sa [Bm7b5]femme et son [E7]banquier
@@ -48,7 +46,7 @@ La si[Am]nistre vérité
 Être [F]chômeur à son âge
 C'est [B]pire qu'un mari trompé
 [Bm7b5]Il ne rentre [E]pas ce [Am]soir
-
+{newline}
 Fini l[Am]e golf et le bridge
 Les vac[Dm]ances à St Tropez
 L'éd[Bm7b5]ucation des [E7]enfants

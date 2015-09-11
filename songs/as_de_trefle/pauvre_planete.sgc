@@ -14,12 +14,11 @@
 {define: F#m frets 2 1 2 0}
 {define: Bm base-fret 2 frets 2 0 0 0}
 
-
 [G]Nous qui ne sommes que des [D]locataires
 De[F#m]puis la nuit des [Bm]temps
 [G]Prenons bien garde dès [D]à présent
 De [F#m]ne pas nous croire propriétaires
-
+{newline}
 [G]Si nos enfants et nos pe[D]tits-enfants
 Pou[F#m]vaient garder les [Bm]yeux ouverts
 [G]Laissons-leur au moins un [D]océan
@@ -36,30 +35,28 @@ Trois [F#m]arbres et deux rivières
   {partition: Pauvre_planete.ly}
 {end_of_chorus}
 
-
 [G]Quand on aura déména[D]gé sous terre
 À [F#m]l'appel du Bon [Bm]Dieu
 [G]Nos enfants risquent de [D]payer cher
 [F#m]Pour l'état des lieux
-
+{newline}
 [G]J'espère au moins que [D]nos ancêtres
 Ont [F#m]nettoyé le [Bm]paradis
 [G]Si par malheur c'est [D]en enfer
 [F#m]Que je suis conduit
 
-
 [G]Quand il n'y aura plus que [D]le Kärcher
 Pour [F#m]nettoyer la merde qu'on a [Bm]dans les yeux
 [G]Prenons bien garde qu'à [D]ne rien faire
 Nous [F#m]finissions comme eux
-
+{newline}
 [G D F#m Bm] [G D F#m F#m]
-
+{newline}
 [G]Quand il n'y aura plus que [D]le Kärcher
 Pour [F#m]nettoyer la merde qu'on a [Bm]dans les yeux
 [G]Quand même les quatre [D]mousquetaires
 Ne [F#m]seront plus que deux
-
+{newline}
 [G]Prenons bien garde qu'à [D]ne rien faire
 Nous [F#m]finissions par deve[Bm]nir comme eux
 [G]Éteindrons-nous la [D]poudrière

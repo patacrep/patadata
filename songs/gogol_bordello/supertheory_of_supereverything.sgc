@@ -9,12 +9,11 @@
 {define: E frets 0 2 2 1 0 0}
 {define: Dm frets X X 0 2 3 1}
 
-
 [Am]First time I had [E]read the Bible
 [E]It had struck me [Am]as unwitting
 [Am]I think it may [E]start a rumor
 [E]That the Lord ain't [Am]got no humor
-
+{newline}
 [Am]Put [E]me inside SS[Am]C
 [Am]Let's [E]test superstring [Am]theory
 [Am]Oh yo yo [Dm]yo, accelerate the [Am]protons
@@ -28,12 +27,11 @@
   {repeat: 2}
 {end_of_chorus}
 
-
 From the maelstrom of the knowledge
 Into labyrinth of doubt
 Frozen underground ocean
 Melting, nuking on my mind
-
+{newline}
 Give me Everything Theory
 Without Nazi uniformity
 My brothers are protons {echo: protons}

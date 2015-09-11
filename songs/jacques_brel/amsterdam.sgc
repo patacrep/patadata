@@ -11,7 +11,6 @@
 {define: C frets X 3 2 0 1 0}
 {define: G7 frets 3 2 0 0 0 1}
 
-
 Dans le [Am]port d'Amsterdam
 Y'a des [Em]marins qui chantent
 Les [F]rêves qui les hantent
@@ -20,7 +19,7 @@ Dans le [Am]port d'Amsterdam
 Y'a des [Em]marins qui dorment
 Comme [F]des ori[E7]flammes
 Le long [Am]des berges mornes
-
+{newline}
 Dans le [C]port d'Amsterdam
 Y'a des [G7]marins qui meurent
 Pleins de [Am]bière et de drames
@@ -30,7 +29,6 @@ Y'a des [Em]marins qui naissent
 Dans la [F]chaleur é[E7]paisse
 Des lan[Am]gueurs océanes
 
-
 Dans le port d'Amsterdam
 Y'a des marins qui mangent
 Sur des nappes trop blanches
@@ -39,7 +37,7 @@ Ils vous montrent des dents
 À croquer la fortune
 À décroisser la lune
 À bouffer des haubans
-
+{newline}
 Et ça sent la morue
 Jusque dans le cœur des frites
 Que leurs grosses mains invitent
@@ -49,7 +47,6 @@ Dans un bruit de tempête
 Referment leur braguette
 Et sortent en rotant
 
-
 Dans le port d'Amsterdam
 Y'a des marins qui dansent
 En se frottant la panse
@@ -58,7 +55,7 @@ Et ils tournent et ils dansent
 Comme des soleils crachés
 Dans le son déchiré
 D'un accordéon rance
-
+{newline}
 Ils se tordent le cou
 Pour mieux s'entendre rire
 Jusqu'à c'que tout à coup
@@ -68,7 +65,6 @@ Alors, le regard fier
 Ils ramènent leur batave
 Jusqu'en pleine lumière
 
-
 Dans le port d'Amsterdam
 Y'a des marins qui boivent
 Et qui boivent et reboivent
@@ -77,7 +73,7 @@ Ils boivent à la santé
 Des putains d'Amsterdam
 De Hambourg ou d'ailleurs
 Enfin, ils boivent aux dames
-
+{newline}
 Qui leur donnent leurs jolis corps
 Qui leur donnent leur vertu
 Pour une pièce en or

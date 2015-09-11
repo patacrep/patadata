@@ -10,12 +10,11 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: A7 frets X 0 2 0 2 0}
 
-
 [Em]Heure sonne matin
 Pleurs, [Gm]chagrins
 Et repasse le film hu[Bb]mide
 Du pa[F]ssé dans les [A7]yeux
-
+{newline}
 Court, bien trop court
 Notre amour
 Et les appels au secours
@@ -30,12 +29,10 @@ Savent qu'un sourd n'entend pas ce qu'il veut
   Vivre [A7]seul ou même à [Dm]deux
 {end_of_chorus}
 
-
 Mais vivre pour toujours, sans discours
 Sans velours
 Sans les phrases inutiles
 D'un vieux roman photo
-
 
 Fleurs fanées meurent
 Noir et blanc
@@ -52,12 +49,11 @@ D'un futur qui est déjà le passé pour nous
   {repeat: 2}
 {end_of_chorus}
 
-
 Mais vivre en silence
 En pensant aux souffrances
 De la terre et se dire
 Qu'on est pas les plus malheureux
-
+{newline}
 Quand dans l'amour
 Tout s'effondre
 Toute la misère d'un monde

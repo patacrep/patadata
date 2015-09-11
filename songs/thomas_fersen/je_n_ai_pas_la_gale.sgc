@@ -18,8 +18,7 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 
 {guitar_comment: Intro :  [Dm C Am G] [Dm C Am G]}
-
-
+{newline}
 [Dm]Son jardin don[C]ne des ronces
 [Am]Son chien montre les [G]dents
 Ne [Dm]réveillez pas [C]l'eau qui pionce
@@ -37,7 +36,6 @@ De [Am]Lanmeur à Lan[Dm]nion
   [C]M'invite à des[Am]cendre de che[Dm]val
   [Dm]
 {end_of_chorus}
-
 
 [Dm]Son cerveau est [C]un repaire
 De [Am]bandits et de scélé[G]rats
@@ -57,7 +55,6 @@ Dans [Am]un trou de sou[Dm]ris
   [Dm]
 {end_of_chorus}
 
-
 [Dm]Moi je veux un bai[C]ser baveux
 Et [Am]qu'on me dise que l'on [G]m'aime
 [Dm]Que la brute [C]sans cheveux
@@ -66,7 +63,7 @@ Me [Am]récite un po[G]ème
 Près [C]du calori[Dm]fère
 [Dm]Et boire ton ca[C]fé foireux
 Dans [Am]une tasse en [Dm]fer
-
+{newline}
 {guitar_comment:  [F Am Bb F C]}
 
 {start_of_chorus}
@@ -88,7 +85,6 @@ Dans [Am]une tasse en [Dm]fer
   [C]M'invite à tom[Am]ber le [Dm]slip
   [Dm]
 {end_of_chorus}
-
 
 [Dm]Son jardin don[C]ne des ronces
 Et [Am]des fruits qui sont [G]aigres

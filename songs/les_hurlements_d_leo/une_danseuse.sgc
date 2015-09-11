@@ -11,23 +11,21 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: C base-fret 3 frets X 0 2 2 2 0}
 
-
 [Dm]Elle martèle un putain d'[Bb]rythme
 [Dm]Avec ses [A]pieds
 [Dm]Comme cette pluie qui m'bat la [Bb]tête
 Pour [Dm]mieux y voir en [A]elle
-
+{newline}
 Une dan[Gm]seuse anda[A]louse
 Qui en [Bb]fait bien des ja[A]louses
 Quand elle [Bb]danse et se [A]lance
 Sur des [Bb]accords de ja[A]va
 
-
 Quand elle a fini d'danser
 Elle retourne s'asseoir
 Et y'a l'bellâtre du comptoir
 Qui lui offre une rose, c'est tard
-
+{newline}
 Tiens la musique, elle s'éteint
 Sur des accords de java
 
@@ -40,19 +38,17 @@ Sur des accords de java
   À ta [C]santé, mon [Dm]amant !
 {end_of_chorus}
 
-
 « !` Oy, me voy !»
 ?` [Dm]A d'onde va, y va, y [Bb]va
 A d'onde [A]va, mi gita[Dm]na ?
 [Dm]Todas las noches, me achi[Bb]ca
 Porque se [A]va mi gita[Dm]na {repeat: 2}
 
-
 Après plusieurs verres de bière
 Ça y est, elle s'réveille
 Elle reprend son regard fier
 Pour danser jusqu'aux vestiaires
-
+{newline}
 Elle récupère ses affaires
 Nous sourit, nous dit au revoir
 Claque la porte et puis s'en va

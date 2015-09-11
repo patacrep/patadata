@@ -13,7 +13,6 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: C frets X 3 2 0 1 0}
 
-
 [Am]J'aimerais écrire des mots [G]d'amour
 Parce que [Dm]parler, c'est [E]pas mon fort
 [Am]J'aimerais écrire des mots [G]d'amour
@@ -29,7 +28,6 @@ Mon [Dm]cafard me lâche moins souvent [E]qu'autrefois
   [F]Ialata ialata [C]ialata ta
   [E]Ta
 {end_of_chorus}
-
 
 J'aimerais écrire des mots d'amour
 Parce que le reste, c'est pas grand-chose
@@ -48,7 +46,6 @@ Ce bon vieux réflexe, moi j'en garde pour demain
 {end_of_chorus}
 
 #todo : lilypond
-
 
 Quel était le refrain du jour ?
 Si je l'oublie, je cède encore

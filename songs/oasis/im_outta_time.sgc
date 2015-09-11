@@ -11,12 +11,10 @@
 {define: G frets 3 2 0 0 0 3}
 {define: D frets X X 0 2 3 2}
 
-
 [Em]Here's a song
 It reminds me of when [Esus4]we were young
 Looking back at all the [Am]things we'd done
 Gotta keep on [C]keeping on
-
 
 Out to sea
 It's the only place I honestly
@@ -32,7 +30,6 @@ You know it's getting hard to fly
   And that's where you be[G]long
   {repeat: 2}
 {end_of_chorus}
-
 
 [G]Guess I'm outta time
 I'm outta time

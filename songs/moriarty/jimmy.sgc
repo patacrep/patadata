@@ -10,14 +10,12 @@
 {define: G frets 3 2 0 0 0 3}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
-
 [Am]Jimmy won't you [C]please come home
 Where the [G]grass is green and the [F]buffaloes roam
 Come see Jimmy your uncle Jim
 Your auntie Jimmie and your cousin Jim
 Come home Jimmy because you need a bath
 And your grandpa Jimmy is still gone daft
-
 
 Now there's buffalo Jim and buffalo Jim
 And Jim buffalo now didn't you know
@@ -37,7 +35,6 @@ All roads lead to roam with the buffaloes
   Do what you do
 {end_of_chorus}
 
-
 Well you've gotta have a wash but you can't clean your name
 You're now called Jimmy you'll be Jimmy just the same
 The keys are in a bag in a chest by the door
@@ -46,6 +43,6 @@ Jimmy won't you please come home
 Where the grass is green and the buffaloes roam
 Dear old Jimmy you've forgotten you're young
 But you can't ignore the buffalo song
-
+{newline}
 If you remember you're unknown
 Buffaloland will be your home

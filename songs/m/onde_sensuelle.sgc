@@ -9,13 +9,12 @@
 {define: D#7 base-fret 6 frets X 0 2 0 2 0}
 {define: Gm7 base-fret 3 frets 0 2 0 0 0 0}
 
-
 [C#7]J'entends encore l'Onde [G#7 G7]Sensuelle
 [C#7]De ta bouche sur la mienne[G#7 G7]
 [C#7]C'était si fort, c'était si beau[G#7 G7]
 [C#7]La philosophie de ton [D#7]souffle
 Entre mes mo[G#7]ts[G7]
-
+{newline}
 Les plumes volent encerclées par tes ondes
 Mes habits collent, faut qu'j'm'innonde
 Mais je n'sais plus où donner du crâne
@@ -34,8 +33,7 @@ Mais comment t'atteindre...
 {end_of_chorus}
 
 {guitar_comment: [C#7 G#7 G7] {repeat: 2} }
-
-
+{newline}
 Tes doubles sens si romantiques
 M'ont troublé, Onde magique
 Y'a-t-il un sens à ta venue

@@ -18,8 +18,7 @@
 {define: B base-fret 2 frets 2 1 0 0}
 
 {guitar_comment: Intro :  [Em C D G] [Am B Em Em]}
-
-
+{newline}
 [Em]Toi que j'ai connu à l'é[C]cole
 Chevalier, cow-boy, justi[D]cier
 Bonhomme qui joue et qui ri[B]gole
@@ -32,12 +31,11 @@ Dans son bien-être journa[Em]lier
   [B]Devenir ce que tu es deve[Em]nu ?
 {end_of_chorus}
 
-
 [Em]Y'a eu ce coup de vent sur ton [C]crâne
 Qu'a emporté tous tes che[D]veux
 Ce nouveau copain en termi[B]nale
 Puis ces deux flingues au fond de tes [Em]yeux
-
+{newline}
 Deux ou trois échecs en a[C]mour
 Une sacrée bonne dose d'en[D]nui
 Plus d'ignorance de jour en [B]jour
@@ -64,12 +62,11 @@ Et puis ces livres inter[Em]dits
   Qui paralysent la pen[Em]sée
 {end_of_chorus}
 
-
 [Em]Et puis tu as suivi la [C]horde
 Les chiens, les grenades, les ca[D]nifs
 Ont attisé ta notion de [B]l'ordre
 Et ton goût pour le puni[Em]tif
-
+{newline}
 Le désir d'élimi[C]ner
 Tout ce qui ne te ressemble [D]pas
 Mais, ignorant ce que tu [B]es
@@ -96,12 +93,11 @@ Tu as buté n'importe [Em]quoi
   Qui effacent une identi[Em]té
 {end_of_chorus}
 
-
 [Em]À vivre ta vie à pile ou [C]face
 Ta pièce t'a rendu sa mon[D]naie
 C'est l'heure d'écrire ton épi[B]taphe
 Sous une croix qui n'est pas gam[Em]mée
-
+{newline}
 Y'a personne d'autre que moi sur [C]Terre
 Le jour de ton enterre[D]ment
 À franchir la grille du cime[B]tière

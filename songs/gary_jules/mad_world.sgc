@@ -15,13 +15,12 @@
 {define: D frets 2 2 2 0}
 
 {guitar_comment: Intro:  [Em A Em A]}
-
-
+{newline}
 [Em] All around me are fa[G]miliar faces
 [D]Worn out places, [A]worn out faces
 [Em] Bright and early for their [G]daily races
 [D]Going nowhere, [A]going nowhere
-
+{newline}
 [Em] Their tears are filling [G]up their glasses
 [D]No expression, [A]no expression
 [Em] Hide my head I want to [G]drown my sorrow
@@ -36,12 +35,11 @@
   [Em] Mad [A]world
 {end_of_chorus}
 
-
 [Em] Children waiting for the [G]day they feel good
 [D]Happy birthday, [A]happy birthday
 [Em] Made to feel the way that [G]every child should
 [D]Sit and listen, [A]sit and listen
-
+{newline}
 [Em] Went to school and I was [G]very nervous
 [D]No one knew me, [A]no one knew me
 [Em] Hello teacher tell me [G]what's my lesson

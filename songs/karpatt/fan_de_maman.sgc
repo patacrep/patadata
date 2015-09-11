@@ -12,23 +12,21 @@
 {define: C base-fret 3 frets X 0 2 2 2 0}
 {define: B7 base-fret 7 frets 0 2 0 1 0 0}
 
-
 [Em]Le jour où j'suis né
 Je savais pas bien où j'en étais, ni [Am]qui j'étais
 [D]Y'avait dans la chambre
 Des dames, des messieurs qui discu[G]taient
-
+{newline}
 [C]Moi j'étais peinard au pieu
 Avec une belle fille qui m'embra[Am]ssait
 [B7]Ça impressionne toujours un peu
 La première fois qu'on tombe amoureux
 
-
 Tout le monde est sorti de la chambre
 À part un p'tit barbu que je n'connaissais pas
 Qu'est-ce que j'fous dans ses bras
 Heureusement qu'la fille est toujours là
-
+{newline}
 J'ai pleuré un peu
 Alors elle m'a collé sur ses seins
 Ça impressionne toujours un brin
@@ -48,12 +46,11 @@ La première fois qu'on fait un câlin
   Un vrai tétin'ager
 {end_of_chorus}
 
-
 Une vrai vie de pacha
 À part le p'tit barbu qu'était toujours là
 J'en ai pas parlé
 Maman avait l'air de beaucoup l'aimer
-
+{newline}
 Et j'les ai même surpris
 Qui s'faisaient des câlins dans mon lit
 Ça impressionne toujours un peu

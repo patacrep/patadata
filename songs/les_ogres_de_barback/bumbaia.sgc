@@ -9,12 +9,11 @@
 {define: A frets X 0 2 2 2 0}
 {define: F# base-fret 2 frets 0 2 2 1 0 0}
 
-
 [Bm]Le cœur plein de joie
 [A]Sous les é[F#]toiles en fête
 [Bm]Danse Pitt Ocha
 [A]En chantant [F#]à tue-tête
-
+{newline}
 [Bm]L'avenir est évident
 [F#]Dans les yeux de nos enfants
 [A]La liberté nous sourit
@@ -25,12 +24,11 @@
   Bumbaïa [F#]plein de [Bm]joie
 {end_of_chorus}
 
-
 Danse Pitt Ocha
 Sous les étoiles en fête
 Le cœur plein de joie
 Et plus rien ne l'arrête
-
+{newline}
 Les enfants font la musique
 Le vent souffle la rythmique
 Lune et Soleil le refrain

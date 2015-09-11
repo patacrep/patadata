@@ -8,7 +8,6 @@
 {define: F#m base-fret 2 frets 0 2 2 0 0 0}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 
-
 [A]Un jour, j'irai a [F#m]New York avec toi
 [A]Toutes les nuits décon[B]ner
 [A]Et voir aucun film en ent[F#m]ier, ça va d'soi
@@ -27,7 +26,6 @@ Oui, saig[D]ner
   Emmène-moi ! [A] [B] [D]
 {end_of_chorus}
 
-
 Un jour, j'aurai New York au bout des doigts
 On y jouera, tu verras
 Dans les clubs, il fait noir, mais il ne fait pas froid
@@ -38,7 +36,7 @@ La couleur des sons que tu bois
 Et puis c'est tellement grand que vite on oubliera
 Que nulle part c'est chez moi, chez toi
 Chez nous quoi !
-
+{newline}
 Un jour, j'irai la-bas
 Un jour Chat, un autre Rat
 Voir si le cœur de la ville bat en toi

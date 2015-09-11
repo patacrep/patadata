@@ -14,8 +14,7 @@
 {define: G frets 0 2 3 2}
 
 {guitar_comment: Intro :  [Am Em] {repeat: 3} [C G]}
-
-
+{newline}
 [Am]«Petit t'es en re[Em]tard !»
 «Non, monsieur je suis né comme [Am]ça !»
 J'ai cru aux faux dé[Em]parts
@@ -24,7 +23,7 @@ Semé dès la nais[Em]sance
 J'ai voulu crier au scan[C]dale
 Inégalité des [G]chances
 Moi qui courais en san[Am]dales
-
+{newline}
 Décidé à ru[Em]ser
 J'ai changé de trajec[Am]toire
 J'ai enjambé l'océ[Em]an
@@ -50,7 +49,6 @@ Ou bien perdus dans le brouil[Am]lard
   Hey hey [Em]hey [Am]
 {end_of_chorus}
 
-
 Petit, le [Em]soir
 Je rêvais d'aven[Am]ture
 J'attendais qu'il fasse [Em]noir
@@ -59,7 +57,7 @@ Les autres à s'y mé[Em]prendre
 Ont cru que je fuyais la mai[C]son
 Sans ne jamais ne vouloir com[G]prendre
 Que je courais vers l'hori[Am]zon
-
+{newline}
 Mon père sur le qui-[Em]vive
 Me rattrapait au coin de la [Am]rue
 Où vivait cet homme qui [Em]ivre
@@ -69,7 +67,6 @@ Confortable et sans la[C]cune
 Contre un bateau gon[G]flable
 Ou une barque de for[Am]tune
 
-
 J'ai tenté la [Em]fuite
 Par les chemins de tra[Am]verse
 Resté bloqué au pé[Em]age
@@ -78,7 +75,7 @@ J'me suis fabriqué des [Em]ailes
 Pour voler sous les ra[C]dars
 Mais ma technique était cra[G]mée
 Par un grec nommé I[Am]care
-
+{newline}
 Après mûre réfle[Em]xion
 Tout ce qu'il me reste à [Am]faire
 C'est m'habituer aux pois[Em]sons

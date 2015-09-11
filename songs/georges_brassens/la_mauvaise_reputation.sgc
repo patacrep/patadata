@@ -11,12 +11,11 @@
 {define: Em6 base-fret 3 frets X X 2 1 2 X special}
 {define: F4 frets X 2 3 2 3 X special}
 
-
 [Bm]Au village sans prétention
 J'ai mau[F#7]vaise réputa[Bm]tion
 Qu'je m'démène ou qu'je reste coi
 Je passe pour [F#7]un je-ne-sais-[Bm]quoi
-
+{newline}
 [G]Je ne fais pourtant de tort [F#]à personne
 [G]En suivant mon ch'min de pe[F#]tit [Em6]bon[F4]hom[F#]me
 
@@ -31,7 +30,6 @@ Je passe pour [F#7]un je-ne-sais-[Bm]quoi
   [G]Tout le monde médit de [Bm]moi
   Sauf les mu[F#]ets, ça va de [Bm]soi
 {end_of_chorus}
-
 
 Le jour du 14 juillet
 Je reste dans mon lit douillet
@@ -52,12 +50,11 @@ En n'écoutant pas le clairon qui sonne
   Sauf les manchots, ça va de soi
 {end_of_chorus}
 
-
 Quand j'croise un voleur malchanceux
 Poursuivi par un cul-terreux
 J'lance la patte et pourquoi le taire
 Le cul-terreux se r'trouve par terre
-
+{newline}
 Je ne fais pourtant de tort à personne
 En laissant courir les voleurs de pommes
 
@@ -73,12 +70,11 @@ En laissant courir les voleurs de pommes
   Sauf les culs-de-jatte, ça va de soi
 {end_of_chorus}
 
-
 Pas besoin d'être Jérémy
 Pour d'viner l'sort qui m'est promis
 S'ils trouvent une corde à leur goût
 Ils me la passeront au cou
-
+{newline}
 Je ne fais pourtant de tort à personne
 En suivant les ch'mins qui n'mènent pas à Rome
 

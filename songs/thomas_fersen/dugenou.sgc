@@ -16,8 +16,7 @@
 {define: G frets 0 2 3 2}
 
 {guitar_comment: Intro : [Em B B Em]}
-
-
+{newline}
 Dans la [Em]cour de l'école
 On m'appe[Am]lait pot de colle
 Dans la [D]cour du bahut
@@ -26,7 +25,7 @@ On m'appe[Em]lait «la sangsue»
 On m'appe[B]lait «le morpion»
 Enfin [B]bref, on m'donnait
 De jo[Em]lis petits noms
-
+{newline}
 Pour se [Em]faire un blason
 Fallait [Am]s'battre dans la rue
 Sous les [D]acclamations
@@ -43,7 +42,6 @@ Et ap[Em]peler «Tartempion»
   Mon lou[B]koum ou ma [Em]fève»
 {end_of_chorus}
 
-
 Dans la [Em]cour de l'immeuble
 Je re[Am]gardais les filles
 Je faisais [D]partie des meubles
@@ -52,7 +50,7 @@ J'était [Em]l'frère de ma sœur
 Et mal[B]gré ma douceur
 Quand je [B]m'approchais d'elles
 Je te[Em]nais la chandelle
-
+{newline}
 Elles vou[Em]laient des boxeurs
 Et des [Am]déménageurs
 Et des [D]maîtres nageurs
@@ -71,7 +69,6 @@ Et j'a[Em]vais des boutons
   Mon lou[B]koum ou ma [Em]fève»
 {end_of_chorus}
 
-
 Dans les [Em]allées du parc
 On m'appe[Am]lait «cuisse de mouche»
 J'atti[D]rais les maniaques
@@ -88,7 +85,6 @@ Me tor[Em]dait le poignet
   Mon lou[B]koum ou ma [Em]fève»
 {end_of_chorus}
 
-
 On me [Em]tape dans le dos
 On m'ap[Am]pelle «mon vieux»
 On sou[D]lève son chapeau
@@ -104,7 +100,6 @@ Dont les [Em]rues sont fécondes
   Ma co[Em]lombe, mon jé[B]sus
   Mon lou[B]koum ou ma [Em]fève»
 {end_of_chorus}
-
 
 Quand mon [Em]cerveau est mou
 On m'ap[Am]pelle «Dugenou»

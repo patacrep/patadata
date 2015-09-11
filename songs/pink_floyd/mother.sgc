@@ -9,12 +9,10 @@
 {define: D frets X X 0 2 3 2}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
-
 [G]Mother do you think they'll drop the [C]bomb? [G]
 [G]Mother do you think they'll like this [C]song? [G]
 [C]Mother do you think they'll try to break my [G]balls?
 [D]Ohhh... [C]Ahhh... Mother should I build the [G]wall?
-
 
 [G]Mother should I run for presi[C]dent? [G]
 [G]Mother should I trust the govern[C]ment? [G]
@@ -32,7 +30,6 @@
   [D]Oh... babe of [C]course mama's gonna help build the [G]wall
   {guitar_comment:  | [C] | [G] | [C] | [G] | [C] | [D] | [C] | [G] }
 {end_of_chorus}
-
 
 [G]Mother do you think she's good en[C]ough... for [G]me?
 [G]Mother do you think she's danger[C]ous... to [G]me?

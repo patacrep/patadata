@@ -14,12 +14,11 @@
 {define: Am frets X 0 2 2 1 0}
 {define: Dm frets X X 0 2 3 1}
 
-
 [Am7]Toi qui sais ce qu'est un rempart
 Tu avances sous les regards [G]courrou[F]cés
 [G]Tu écris mais sur le buvard
 Tous les mots se sont inver[F]sés
-
+{newline}
 [Am7]Si tu parles il te faut savoir
 Que ceux qui lancent des regards [G]courrou[F]cés
 [G]Ne voudront voir dans leur miroir
@@ -38,7 +37,6 @@ Ou les faux, ou les [G7]vrais
   Oh et [C]face à tous ceux qui te [Am]dévorent
   Ai[F]mer est plus fort [Dm]que d'être ai[G]mé
 {end_of_chorus}
-
 
 [Am7]Toi qui sais ce qu'est le blasphème
 On ne récolte pas toujours [G]ce qu'on [F]sème

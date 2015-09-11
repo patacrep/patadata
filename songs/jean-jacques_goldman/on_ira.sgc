@@ -12,7 +12,6 @@
 {define: D frets X X 0 2 3 2}
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 
-
 [A]On partira de nuit, l'heure où l'on doute
 Que dem[E]ain revienne encore
 Loin des v[D/F#]illes soumises, on suivra l'autoroute
@@ -31,7 +30,6 @@ Et [D/F#]qui se font surpr[E]endre au soir
   Oh [A]belle, on i[E]ra, on suivra les [F#m]étoiles et [D]les chercheurs d'or
   [A]Si on en trouve, [E]on cherchera [D]encore
 {end_of_chorus}
-
 
 [A]On n'échappe à rien pas même à ses fuites
 Quand on [E]se pose on est mort

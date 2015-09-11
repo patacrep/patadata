@@ -19,12 +19,11 @@
 {define: Fm7 base-fret 1 frets 0 2 0 2}
 {define: G frets 0 2 3 2}
 
-
 [Eb]Il dormait dans une mare
 [Ab]Où des insectes patinent
 [Fm]Il était grand calamar
 [Bb]Au fond d'un abîme
-
+{newline}
 [Eb]Il rêvait dans sa corbeille
 [Ab]En bavant sur l'édredon
 [Fm]La pleine lune le réveille
@@ -43,12 +42,11 @@
   [Cm]Mais il est visqueux
 {end_of_chorus}
 
-
 [Eb]Il fume des petits cigares
 [Ab]D'une sorte bon marché
 [Fm]On entrouvre les cadavres
 [Bb]Où il a marché
-
+{newline}
 [Eb]Et comme c'est bientôt Noël
 [Ab]On entonne des cantiques
 [Fm]On allume des chandelles
@@ -67,12 +65,11 @@
   [Cm]Mais il est visqueux
 {end_of_chorus}
 
-
 [Eb]Ce n'est pas pour la vitrine
 [Ab]Des plus grands maroquiniers
 [Fm]Que le serpent se dandine
 [Bb]Hors de son panier
-
+{newline}
 [Eb]Derrière ses lunettes d'écailles
 [Ab]Et sa froideur dans le ton
 [Fm]La démence le travaille
@@ -91,12 +88,11 @@
   [Cm]Mais il est visqueux
 {end_of_chorus}
 
-
 [Eb]Voilà sa raison qui rampe
 [Ab]Dans les pensées anormales
 [Fm]Alors que la pluie détrempe
 [Bb]Son imperméable
-
+{newline}
 [Eb]Il lui faut les souliers plats
 [Ab]Et la jupe bleu marine
 [Fm]La barrette, les gros bas

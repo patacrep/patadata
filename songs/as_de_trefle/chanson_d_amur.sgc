@@ -13,13 +13,12 @@
 {define: Gm frets 0 2 3 1}
 
 {guitar_comment: Intro :  [Cm Dm Gm Gm] {repeat: 6}}
-
-
+{newline}
 [Cm]Moi j'croyais [Dm]au grand a[Gm]mur
 [Cm]Sans voir que [Dm]j'fonçais dans l'[Gm]mour
 [Cm]Mais quand j'ai vou[Dm]lu te faire l'a[Gm]mur
 [Cm]J'ai bien vu qu'j'é[Dm]tais pas encore [Gm]mour
-
+{newline}
 [Cm]Comme j'aime bien les [Dm]grandes aven[Gm]toures
 [Cm]J'ai décidé [Dm]de te faire l'a[Gm]mur
 [Cm]Sur le siège ar[Dm]rière de la voi[Gm]toure
@@ -34,12 +33,11 @@
   {partition: Chanson_d_amur.ly}
 {end_of_chorus}
 
-
 [Cm]Tu m'as dit : «je [Dm]t'aime, je t'as[Gm]soure»
 [Cm]C'est pas tombé [Dm]dans l'oreille d'un [Gm]surd
 [Cm]Je m'suis dit : «j'vais [Dm]aller faire une [Gm]coure»
 [Cm]Pour mieux ap[Dm]prendre a faire la [Gm]cur
-
+{newline}
 [Cm]Tu m'as dit : «tu [Dm]veux faire un truc [Gm]pour ?»
 [Cm]Ma réponse [Dm]fut : «je suis [Gm]pur»
 [Cm]Mais tes deux belles [Dm]fesses cramées [Gm]fourent

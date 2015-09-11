@@ -13,7 +13,6 @@
 {define: A frets X 0 2 2 2 0}
 {define: A7 frets X 0 2 0 2 0}
 
-
 [Dm] Et quand je [C7]ne serai plus [F]là
 [Dm] Quand j'aurai [C7]quitté l'ici-[F]bas
 Pourras-tu [Bb]poser sur ma [C]tombe
@@ -22,7 +21,7 @@ Juste pour [A]moi ? [A7]
 Pour pas qu'elles [Bb]puissent rentrer chez elles
 Il faudra [Gm]leur couper les ailes
 C'est comme [A]ça
-
+{newline}
 Attends encore une seconde
 Deux mille oiseaux, ça fait du monde
 Vu le prix du mètre au cimetière
@@ -31,7 +30,7 @@ Tout en hauteur
 Mais les colombes, quand c'est malade
 Comme les pigeons, c'est super crade
 C'est une horreur ...
-
+{newline}
 Bon, mets des [Dm]fleurs
 
 {start_of_chorus}
@@ -42,7 +41,6 @@ Bon, mets des [Dm]fleurs
   Ceci est [Bb]mon testament, [Gm]mon testament [A7]
 {end_of_chorus}
 
-
 Le jour où je serai parti
 Qu'j'aurai une piaule au paradis
 Pourrai-je avoir pour mon cortège
@@ -51,7 +49,7 @@ Tous mes amis ?
 Ils pourraient faire une chorale
 À part Florent, qui chante trop mal
 Non, non, pas lui !
-
+{newline}
 Et dans cette longue marche funèbre
 Pour m'emmener vers les ténèbres
 Combien seront là au final ?
@@ -60,9 +58,8 @@ S'ils viennent vraiment
 Si juste derrière le corbillard
 T'es toute seule, ça va faire bizarre
 Ça craint, attends ...
-
+{newline}
 Rappelle Florent
-
 
 Vois-tu, avant de m'en aller
 J'ai pris le soin de te laisser
@@ -72,5 +69,5 @@ Trop endettée
 Et pour multiplier cette somme
 J'ai joué au poker, mais en somme
 J'ai pas gagné ...
-
+{newline}
 Tu dois du blé

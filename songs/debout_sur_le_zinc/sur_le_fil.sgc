@@ -23,15 +23,14 @@
 {define: C frets 0 0 0 3}
 
 {guitar_comment: Intro :  [F]}
-
-
+{newline}
 [F] Mais qu'est-ce qui les fait cou[Am]rir
 Les fait avan[F]cer
 Les oblige à tous se [Am]suivre
 À se rassu[Dm]rer
 Dans un tourbillon effra[B7]yant
 Vers lequel ils vont en chan[E7]tant ?
-
+{newline}
 [F] Moi, j'me noie dans un verre [Am]d'eau
 J'ai surement ra[F]té
 Un truc, un très gros pan[Am]neau
@@ -48,14 +47,13 @@ Pour moi c'est la chute assu[E7]rée
   Un musi[G]cien, un éga[C]ré [E7]
 {end_of_chorus}
 
-
 [F] Je n'ai pas de mode d'em[Am]ploi
 Je n'les lis ja[F]mais
 Je crois que je n'y crois [Am]pas
 Et que je me [Dm]fais
 Jour après jour aux alé[B7]as
 Et aux incidents de par[E7]cours
-
+{newline}
 [F] Toi, tu voulais être in[Am]dien
 Lui, un poli[F]cier
 Elle, un ingénieur mar[Am]tien
@@ -76,7 +74,6 @@ Bien souvent sur nos cana[E7]pés
 [F F Am Am] [F F Am Am]
 [A Dm Am Dm] [Am G F F]
 {end_of_bridge}
-
 
 [F] La vie c'est de la bri[Am]cole
 Deux, trois bouts de fi[F]celle

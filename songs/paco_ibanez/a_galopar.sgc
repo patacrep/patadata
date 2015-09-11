@@ -8,7 +8,6 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: E frets 0 2 2 1 0 0}
 
-
 [Am]Las tierras, las tierras, las tierras de España
 Las grandes, las solas desiertas llanuras
 Ga[F]lopa caballo, cuatralbo
@@ -20,12 +19,10 @@ Jinete del pueblo, que la tierra es [E]tuya
   {repeat: 2}
 {end_of_chorus}
 
-
 A corazón suenan, suenan, resuenan
 Las tierras de España en las herraduras
 Galopa caballo cuatralbo
 Jinete del pueblo, caballo de espuma
-
 
 Nadie, nadie, nadie que enfrente no hay nadie
 Que es nadie la muerte si va en tu montura

@@ -15,8 +15,7 @@
 
 {guitar_comment: Intro: | [G#m] [E] | [C#m] [E] | [G#m] [E] | [C#m] }
 {guitar_comment:  | [G#m] [E] | [C#m] [E] [F#]| [G#m] [E] | [C#m] | [G#m] | }
-
-
+{newline}
 These [F#]mist-covered [E]mountain[F#]s
 Are a home now for [B]me [B4] [B]
 But my [D#m]home is the [G#m]lowlan[D#m]ds
@@ -25,9 +24,8 @@ Some [F#]day you'll retu[G#m]rn to [D#m]
 Your valleys and your far[E]ms [C#m] [F#4]
 And you'll [F#]no longer [G#m]burn
 To be [E]brothers in [F#4]arms [F#]
-
+{newline}
 {guitar_comment:  | [G#m] [E] | [C#m] [E] | [G#m] [E] | [C#m] | [G#m] | }
-
 
 Through these [F#]fields of des[E]truction [F#]
 Baptisms of fir[B]e [B4] [B]
@@ -37,7 +35,7 @@ And [F#]though they hurt [G#m]me so [D#m]bad
 In the fear and a[E]larm [C#m] [F#4]
 You [F#]did not de[G#m]sert me
 My [E]brothers in [F#4]arms [F#]
-
+{newline}
 {guitar_comment:  | [G#m] [E] | [C#m] [E] | [G#m] [E] | [C#m] | [G#m] | }
 
 {start_of_bridge}
@@ -48,8 +46,7 @@ And [F#]we have just one [G#m]world
 {end_of_bridge}
 
 {guitar_comment: Instrumental = Intro }
-
-
+{newline}
 Now the [F#]sun's gone to [E]hell [F#]
 And the moon's riding [B]high [B4] [B]
 Let me [D#m]bid you farewe[G#m]ll [D#m]
@@ -58,5 +55,5 @@ But it's [F#]written in the [G#m]star[D#m]light
 And every line on your [E]palm [C#m] [F#4]
 We're [F#]fools to make [G#m]war
 On our [E]brothers in [F#4]arms [F#]
-
+{newline}
 {guitar_comment: Outro = Intro {repeat: 4} }

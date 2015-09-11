@@ -10,11 +10,10 @@
 {define: G7 frets 3 2 0 0 0 1}
 
 {guitar_comment: Intro : [C E7 F G7]}
-
-
+{newline}
 J'avais dessi[C]né, sur le [E7]sable
 Son doux vi[F]sage qui me souri[G7]ait
-
+{newline}
 Puis il a [C]plu, sur cette [E7]plage
 Dans cet o[F]rage, elle a dispa[G7]ru
 
@@ -25,13 +24,11 @@ Dans cet o[F]rage, elle a dispa[G7]ru
   Oh [F]j'avais trop de [G7]peine
 {end_of_chorus}
 
-
 Je me suis assis, auprès de son âme
 Mais la belle dame s'était enfuie
-
+{newline}
 Je l'ai cherchée, sans plus y croire
 Et sans un espoir pour me guider
-
 
 Je n'ai gardé, que ce doux visage
 Comme une épave sur le sable mouillé

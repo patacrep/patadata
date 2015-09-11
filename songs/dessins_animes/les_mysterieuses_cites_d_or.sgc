@@ -10,12 +10,11 @@
 {define: Dm frets X X 0 2 3 1}
 {define: G frets 3 2 0 0 0 3}
 
-
 Enfant [C]du soleil
 Tu parcours la terre le ciel
 Cherche [Am]ton chemin
 C'est ta [E]vie, c'est ton des[Am]tin
-
+{newline}
 Et le jour, la nuit
 Avec tes deux meilleurs amis
 À bord du Grand Condor
@@ -29,7 +28,6 @@ Tu recherches les Cités d'Or
   [G]Tou-dou dou-dou dou, [Am]ah ah ah
   [G]Tou-dou dou-dou dou, les Cités d'[Am]Or
 {end_of_chorus}
-
 
 Enfant du soleil
 Ton destin est sans pareil

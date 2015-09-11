@@ -16,19 +16,18 @@
 {define: D& base-fret 1 frets 0 0 0 1}
 {define: G& base-fret 1 frets 2 0 1 0}
 
-
 [Bbm]Quoi que tu dises
 Ou [Ab]quoi que tu fasses
 [Ebm] Ce sera la révolution
-
+{newline}
 [Bbm]Quoiqu'on en dise
 Quelles [Ab]que soient les menaces
 [Ebm] C'est la dernière solution
-
+{newline}
 Que [Bbm]ça te défrise
 Que [Ab]tu aies des angoisses
 [Ebm] Si je baisse mon pantalon
-
+{newline}
 [Bbm]Quoi que tu dises
 Ou [Ab]quoi que tu fasses
 [Ebm] C'est pour la grosse commission
@@ -39,17 +38,16 @@ Ou [Ab]quoi que tu fasses
   {partition: La_revolution.ly}
 {end_of_chorus}
 
-
 [Db]Prends-toi en main
 Laisse-[Ab]les pas dans tes poches
 [Bbm]Serre les poings
 Re[Gb]lève la caboche
-
+{newline}
 [Db]Mets des cailloux
 [Ab]Dans ta sacoche
 [Bbm]Fais le voyou
 [Gb]Ou bien raccroche
-
+{newline}
 [Db]Toi, le fripon
 La [Ab]vraie tête de pioche
 [Bbm]Fais pas le con

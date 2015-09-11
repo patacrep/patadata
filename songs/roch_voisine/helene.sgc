@@ -10,7 +10,6 @@
 {define: D frets X X 0 2 3 2}
 {define: Am frets X 0 2 2 1 0}
 
-
 [Em]Seul sur le sa[G]ble
 Les yeux dans [C]l'eau
 [D]Mon rêve était trop [Em]beau
@@ -18,7 +17,7 @@ L'été qui s'achè[G]ve tu parti[C]ras
 À [D]cent mille lieux de [Em]moi
 Comment oubli[G]er ton sou[C]rire
 Et [D]tellement de souve[Em]nirs [G C D]
-
+{newline}
 [Em]Nos jeux dans les va[G]gues
 Près du [C]quai
 Je [D]n'ai vu le temps pas[Em]ser
@@ -49,7 +48,6 @@ Dans [D]ton pays loin là-[Em]bas [G C D]
   [Am]Reste encore juste une [D]nuit
 {end_of_chorus}
 
-
 [Em]Seul sur le sa[G]ble
 Les yeux dans [C]l'eau
 [D]Mon rêve était trop [Em]beau
@@ -58,5 +56,5 @@ L'été qui s'achè[G]ve tu parti[C]ras
 Comment t'ai[G]mer si tu t'en [C]vas
 Dans [D]ton pays loin là-[Em]bas [G C D]
 Dans [D]ton pays loin là-[Em]bas [G C D]
-
+{newline}
 Dans [D]ton pays loin de [Em]moi

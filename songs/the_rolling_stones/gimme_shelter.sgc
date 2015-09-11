@@ -12,8 +12,7 @@
 {partition: gimme_shelter_rythm.ly}
 
 [B]Ooh [A]Ooh [G]Ooh {repeat: 4}
-
-
+{newline}
 [B] Oh, a storm is threat'ning
 My very life today
 If I don't get some shelter
@@ -24,7 +23,6 @@ Oh yeah, I'm gonna fade away
   It's just a shot [A]away
   {repeat: 2}
 {end_of_chorus}
-
 
 [B] Ooh, see the fire is sweepin'
 Our very street today
@@ -42,7 +40,6 @@ Mad bull lost its way
   It's just a shot [A]away
   {repeat: 3}
 {end_of_chorus}
-
 
 [B] Mmm the flood is threat'ning
 My very life today

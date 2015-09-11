@@ -14,8 +14,7 @@
 {define: Em* frets 0 2 2 0 0 3 special}
 
 {guitar_comment: Intro :  | [D] [D] [D4] [D] | [A] | [Em] [Em] [Emadd9] [Em*] | [G] |  {repeat: 2}}
-
-
+{newline}
 B[D]ébé, faudrait rentr[A]er tu vois
 Je s[Bm]uis en mal d'être [G]avec toi
 La m[D]achine à café est d[A]étraquée
@@ -33,7 +32,6 @@ Où tu peux b[G]ien aller
   J'suis pas si fort que tu [Em]crois {echo: [Emadd9]ouh [Em*]ouh [G]ouh}
   Pas si fort que ç[D]a
 {end_of_chorus}
-
 
 B[D]ébé, un d[A]oute en moi s'est [Bm]figé [G]
 Tu n'vas pl[D]us rentrer

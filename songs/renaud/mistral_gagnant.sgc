@@ -12,8 +12,7 @@
 {define: F# base-fret 2 frets 0 2 2 1 0 0}
 
 {guitar_comment:  Intro :  [Bm] [Em] [A] [G] [Bm] [Em] [F#] [Bm] }
-
-
+{newline}
 Ah... m'as[Bm]seoir sur un banc
 Cinq minutes avec toi
 Et regarder les gens tant qu'y en [Em]a
@@ -26,7 +25,7 @@ Leur filer des coups de pied pour de faux
 Et entendre ton rire
 Qui lézarde les murs
 Qui sait surtout guérir mes blessures
-
+{newline}
 Te ra[G]conter un peu
 Comment j'étais mi[F#]no
 Les bonbecs fabu[Bm]leux
@@ -34,7 +33,6 @@ Les bonbecs fabu[Bm]leux
 Car en sac et min[F#]tho
 Caramels à un [Bm]franc
 [A]Et les mistrals ga[G]gnants
-
 
 Ah... m'asseoir sous la pluie
 Cinq minutes avec toi
@@ -48,7 +46,7 @@ Bousiller nos godasses et s'marrer
 Et entendre ton rire
 Comme on entend la mer
 S'arrêter, repartir en arrière
-
+{newline}
 Te raconter surtout
 Les carambars d'antan
 Et les coco-boërs
@@ -56,9 +54,8 @@ Et les vrais roudoudous
 Qui nous coupaient les lèvres
 Et nous niquaient les dents
 Et les mistrals gagnants
-
+{newline}
 {guitar_comment:  [Bm] [Em] [A] [G] [Bm] [Em] [F#] [Bm] }
-
 
 Ah... m'asseoir sur un banc
 Cinq minutes avec toi
@@ -72,7 +69,7 @@ Car ils ont l'avantage d'être deux
 Et entendre ton rire
 S'envoler aussi haut
 Que s'envolent les cris des oiseaux
-
+{newline}
 Te raconter enfin
 Qu'il faut aimer la vie
 Et l'aimer même si

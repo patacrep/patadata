@@ -9,7 +9,6 @@
 {define: D base-fret 5 frets X 0 2 2 2 0}
 {define: C base-fret 3 frets X 0 2 2 2 0}
 
-
 T'es [Em]parti en tournée
 T'as laissé ton gosse, ton aimée
 Tu m'as d'man[D]dé pourquoi ?
@@ -18,7 +17,7 @@ Ta [C]femme j'l'aimais bien
 On s'est trouvé des points communs
 Après tu [D]connais l'refrain
 Pas besoin d'te faire un dessin
-
+{newline}
 Jojo pour moi t'es l'roi des rois
 T'es l'plus grand des plus grands
 T'es la star à l'instar
@@ -27,7 +26,7 @@ J'ai croisé son regard
 Je m'suis dit pas d'lézard
 Toi qui m'a toujours conseillé
 D'profiter des instants volés
-
+{newline}
 Tu m'dis la vie ça va ça vient
 C'est du copié collé
 Prends l'amour comme le tien
@@ -55,7 +54,6 @@ Pas de raisons d'être amoureux
   Moins on [C]écrit d'chansons [D]
 {end_of_chorus}
 
-
 On s'est suivis depuis l'enfance
 J'étais derrière, t'étais devant
 On n'a pas toujours la même chance
@@ -64,7 +62,7 @@ Au football, aux récrés
 Quand on faisait les 400 coups
 C'est toujours moi qui les prenais
 Évidemment ça fait beaucoup
-
+{newline}
 Les râteaux, les gadins
 Les genoux écorchés
 C'était mon pain quotidien
@@ -73,7 +71,7 @@ Un destin malsain
 Et ce truc dégueulasse
 Qui fait toujours qu'en maillot de bain
 Moi j'ai la gaule et toi la classe
-
+{newline}
 La première fois qu't'as fait l'mur
 T'as rencontré l'amour
 Bien sûr celui qui dure
@@ -83,7 +81,6 @@ Et qui s'est fait serrer ?
 J'avais beau leur expliquer
 Qu'c'était toi qu'en avais eu l'idée
 
-
 Ton gosse est très mignon
 Il a ton nez, tes yeux
 Il m'pose plein d'questions
@@ -92,7 +89,7 @@ En tout cas beaucoup plus que moi
 Ta femme est très sympa
 Mais depuis quelques mois
 Elle s'fâche pour n'importe quoi
-
+{newline}
 J'lui dis qu'elle te méritait pas
 Elle est d'accord avec moi
 J'sais pas si c'est un compliment
@@ -101,7 +98,7 @@ Toi qui pour moi es l'roi des rois
 Le plus grand des plus grands
 Je ferais n'importe quoi
 Pour que tout revienne comme avant
-
+{newline}
 Si tu veux on oublie tout
 Je retourne dans ton ombre
 Comme cette histoire de fous

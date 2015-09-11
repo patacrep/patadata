@@ -10,7 +10,6 @@
 {define: G7 base-fret 3 frets 0 2 0 1 0 0}
 {define: Am base-fret 5 frets 0 2 2 0 0 0}
 
-
 Y'a Pa[C]ris, la capi[Dm]tale
 Qui re[G7]nifle son trou de [C]balle
 Intra-[Am]muros c'est bril[Dm]lant
@@ -26,7 +25,6 @@ Et préten[G7]tieuse, comme il se [C]doit
   Les che[Dm]villes en évi[G7]dence
   Le nomb[G7]ril insatis[C]fait !
 {end_of_chorus}
-
 
 À Rennes où il fait bon vivre
 J'y ai vu -- pardonnez-moi
@@ -44,7 +42,6 @@ D'un cadavre sur le toit
   Des poumons dans le regret
 {end_of_chorus}
 
-
 Puis y'a Bordeaux la bourgeoise
 Avec son grand cru classé
 Que l'on déguste dans l'extase
@@ -60,7 +57,6 @@ Le Girondin, c'est un succès
   Des trouillards de gauche en transe
   Ou des cons de droite muets
 {end_of_chorus}
-
 
 À Toulouse, la ville rose
 Peut-être sont-ils un peu chauvins ?
@@ -78,7 +74,6 @@ D'une usine : «Plus jamais ça»
   Sur des rythmes afro-laids
 {end_of_chorus}
 
-
 Entre le Rhône et la Saône
 Il y a Lyon et ses reflets
 En banlieue, il y a sa zone
@@ -94,7 +89,6 @@ Tous ces scandales financiers
   Des bonnes bouffes en concurrence
   Des non-dits sur le palais
 {end_of_chorus}
-
 
 Lorsque j'ai connu Strasbourg
 Pour la toute première fois
@@ -112,7 +106,6 @@ D'Europe et de flamenkuche
   L'humanité qui s'essaie
 {end_of_chorus}
 
-
 Il y a Lille dans le nord
 Comme il y a le nord en Lille
 Des grands hommes gras et forts
@@ -129,7 +122,6 @@ Des petits enfants minés
   L'inégalité au sommet
 {end_of_chorus}
 
-
 Après cet air géographe
 Une petite explication
 Je ne cherche pas les baffes
@@ -138,7 +130,7 @@ Mais lorsque je vois au loin
 Qui agitent leurs drapeaux
 La grande race des chauvins
 Juste à côté des fachos
-
+{newline}
 Ben moi qui suis né en France
 Dans un bled incognito
 Je ne comprends pas la démence
@@ -147,7 +139,7 @@ De ceux qui pensent la naissance
 Comme une attache, un ghetto
 Pardonnez-moi cette offense
 Et traduisez-en ces mots :
-
+{newline}
 Issu de la poussière
 Je m'en retourne à la poussière
 Issu de la planète terre

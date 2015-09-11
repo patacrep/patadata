@@ -16,13 +16,12 @@
 {define: A& base-fret 3 frets 2 0 1 0}
 
 {guitar_comment: Intro :  [Fm Bbm C7 Fm]}
-
-
+{newline}
 [Fm]Tes lèvres, Louise
 Sont [Bbm]des portes d'église
 Où [C7]j'entre le matin
 Le [Fm]chapeau à la main
-
+{newline}
 [Fm]Tes lèvres, Louise
 Penses-[Bbm]tu ce qu'elles me disent ?
 Ou [C7]c'est du caraco
@@ -38,12 +37,11 @@ Le [Fm]rubis d'un mégot ?
   [C7 Fm Eb Ab]
 {end_of_chorus}
 
-
 Sur [Fm]tes lèvres, Louise
 Les [Bbm]miennes sont assises
 Je ne dé[C7]colle plus les fesses
 [Fm]De ce banc de messe
-
+{newline}
 [Fm]Tes lèvres, Louise
 Crois-[Bbm]tu ce qu'elles me disent ?
 Ou [C7]cette basilique
@@ -59,12 +57,11 @@ Est [Fm]un kiosque à musique ?
   [C7 Fm Eb Ab]
 {end_of_chorus}
 
-
 [Fm]Ta lettre, Louise
 Est [Bbm]arrivée tantôt
 De [C7]tes lèvres cerise
 [Fm]Elle porte le sceau
-
+{newline}
 [Fm]Tes lèvres, Louise
 [Bbm]Me donnent congé
 [C7]Ma rage s'épuise
@@ -80,7 +77,6 @@ Sur [Fm]mes ongles rongés
   [C7]Dis-moi quelque chose... [Fm]Rien
   [C7 Fm Eb Ab]
 {end_of_chorus}
-
 
 [Fm]Louise, je ne veux plus
 Que [Bbm]tu passes la nuit

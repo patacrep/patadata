@@ -14,13 +14,12 @@
 {define: C#m base-fret 1 frets 0 3 3 3}
 
 {guitar_comment: Intro :  [B G#m E B] {repeat: 2}}
-
-
+{newline}
 Quand [B]je bois une bière de Bohême
 [G#m]Moi qui suis un buveur d'eau
 Je [E]vois de roses pachydermes
 Mais [B]cette fois il y a du nouveau
-
+{newline}
 Quand [B]je bois une bière de Bohême
 [G#m]Pas le moindre éléphanteau
 Je [E]reçois mademoiselle Irène
@@ -34,12 +33,11 @@ Je [E]reçois mademoiselle Irène
   [B G#m E B]
 {end_of_chorus}
 
-
 Je [B]reçois mademoiselle Irène
 [G#m]Dans le réduit de mon cerveau
 Est-[E]elle, cette maison de reine
 [B]Dans votre annuaire des châteaux ?
-
+{newline}
 Si [B]je pouvais saisir les rênes
 Dé[G#m]tourner cette rame de métro
 Et [E]prendre la fuite à Varennes
@@ -53,12 +51,11 @@ Au [B]lieu de me rendre au bureau
   [B G#m E B]
 {end_of_chorus}
 
-
 Par[B]fois je m'endors sur la chaîne
 Et [G#m]j'entends qu'on dit dans mon dos
 [E]Qu'à 15 ans j'ai pas eu d'veine
 De [B]m'piquer avec le fuseau
-
+{newline}
 Si [B]j'avais une fée pour marraine
 Je [G#m]lui demanderais ce cadeau
 Me [E]donner les lèvres d'Irène
@@ -72,12 +69,11 @@ Plu[B]tôt qu'la brûlure d'un mégot
   [B G#m E B]
 {end_of_chorus}
 
-
 Et [B]quand vient la fin de semaine
 Que [G#m]faire de mes jours de repos ?
 J'ai[E]merais sortir avec Irène
 Mais [B]comme je n'ai pas de culot
-
+{newline}
 Je [B]vais seul à la fête foraine
 [G#m]Et j'me fais tirer les tarots
 [E]Par une cartomancienne

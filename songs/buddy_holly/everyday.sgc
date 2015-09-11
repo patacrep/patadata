@@ -13,11 +13,9 @@
 {define: B& base-fret 1 frets X 0 2 2 2 0}
 {define: A frets X 0 2 2 2 0}
 
-
 [D]Everyday, [G]it's a gettin' [A7]closer
 [D]Goin' faster [G]than a roller [A7]coaster
 [D]Love like yours will [G]surely come my [D]way, ([G]A-hey, [D]A-hey [A7]hey)
-
 
 [D]Everyday, [G]it's a gettin' [A7]faster
 [D]Everyone says [G]go ahead and [A7]ask her
@@ -29,11 +27,10 @@
   [D]Come that way, do you ever long for [Bb]true love from[A] m[A7]e
 {end_of_chorus}
 
-
 [D]Everyday, [G]it's a gettin' [A7]closer
 [D]Goin' faster [G]than a roller [A7]coaster
 [D]Love like yours will [G]surely come my [D]way, ([G]A-hey, [D]A-hey [A7]hey)
-
+{newline}
 {guitar_comment:  [D G A7] {repeat: 2}}
 {guitar_comment:  [D G A7 D G D A7]}
 {guitar_comment:  [D G A7] {repeat: 2}}
@@ -45,9 +42,8 @@
   [D]Come that way, do you ever long for [Bb]true love from [A] m[A7]e
 {end_of_chorus}
 
-
 [D]Everyday, [G]it's a gettin' [A7]closer
 [D]Goin' faster [G]than a roller [A7]coaster
 [D]Love like yours will [G]surely come my [D]way {echo: [G]A-hey, [D]A-hey [A7]hey}
-
+{newline}
 [D]Love like yours will [G]surely [A7]come my [D]way [G]

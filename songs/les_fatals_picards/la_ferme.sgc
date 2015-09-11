@@ -7,12 +7,11 @@
 {define: A frets X 0 2 2 2 0}
 {define: E frets 0 2 2 1 0 0}
 
-
 D'abord il y a Hec[A]tor, le castor
 Et E[E]douard, le canard
 Et José, le sanglier
 Et Char[A]lotte, [E]la mar[A]motte
-
+{newline}
 Et Mireille, l'abeille
 Et Léon, le frelon
 Et Fédor, le porc
@@ -24,12 +23,11 @@ Et Tonio, le blaireau
   Ils rencontrent ...
 {end_of_chorus}
 
-
 Ivan, le hareng
 Et Edgar, le couguar
 Et Fidèle, la sauterelle
 Et Firmin, le lémurien
-
+{newline}
 Et Ginette, la mouette
 Et Manon, l'espadon
 Et Yvon, le saumon
@@ -39,12 +37,11 @@ Et Mario, le bulot
   Et en chemin, ils rencontrent aussi plein d'autres amis !
 {end_of_chorus}
 
-
 Lulu, le zébu
 Et Idir, le tapir
 Et Dédé, la gallinette cendrée
 Et Salomon, le cochon
-
+{newline}
 Et Jean-Marc, la carpe
 Et Théo, le cabillot
 Et Pascal, le chacal
@@ -57,12 +54,11 @@ Et Sophie, le canari
   Mais quel hasard ! Il y a ...
 {end_of_chorus}
 
-
 Il y a Jean-Pascal, l'orignal
 Et Loïc, le lombric
 Et Nicolas, le koala
 Et Cauet, l'araignée
-
+{newline}
 Et Ani, le ouistiti
 Et Hector, l'alligator
 Et Hubert, le cocker
@@ -72,12 +68,11 @@ Et Raoul, le pitbull
   Mais il y a aussi ...
 {end_of_chorus}
 
-
 Armand, l'éléphant
 Et Bernard, le balbuzard
 Et Géraldine, le cygne
 Et Damien, le requin
-
+{newline}
 Et Arnaud, le chameau
 Et Cécile, la mandrille
 Et Éric, le porc-épic
@@ -94,12 +89,11 @@ Et Éric, le Nasique
   Et il y a ...
 {end_of_chorus}
 
-
 Et il y a Louis, le grizzly
 Et Augustin, le lamentin
 Et Sylvie, le koatile
 Et Virginie, le diable de Tasmanie
-
+{newline}
 Et Herbert, le dromadaire
 Et Aurélie, l'okapi
 Et Bertrand, le Fou de Bassan
@@ -111,12 +105,11 @@ Et Laurette, la vachette
   Il y a ...
 {end_of_chorus}
 
-
 Il y a Edith, le trilobite
 Et Noémie, la bactérie
 Et Hervé, le bousier
 Et Agathe, la blatte
-
+{newline}
 Et Fernand, le scolopendre
 Et Chantale, la mygale
 Et Annabelle, le bretelle
@@ -126,22 +119,21 @@ Et Le Pen, la hyène
   Mais peu importe, ils convainquent tous ces animaux de se rendre à leur rendez-vous commun et ils reprennent la route, et ils croisent à nouveau :
 {end_of_chorus}
 
-
 Pierrot, le manchot
 Et Nono, le bigorneau
 Et Alix, l'onyx
 Et Loïc, le basilic
-
+{newline}
 Et puis Flore, le butor
 Et Chantale, le narval
 Et Alexandre, la salamandre
 Et Donald, le canard
-
+{newline}
 Ainsi qu'Julie, la souris
 Et Zinedine, la sardine
 Esteban, le petit âne
 Et Vincent, le caïman
-
+{newline}
 Et Omar, le homard
 Et Ninon, l'esturgeon
 Et Sanson, le bison
@@ -151,12 +143,11 @@ Et Raymond, le gros con
   Y'a même ...
 {end_of_chorus}
 
-
 Anne, la banane
 Et Édith, la mite
 Et François, le ver à soie
 Et Maximilien, l'acarien
-
+{newline}
 Et Maurice, la génisse
 Et Felipe, la mouche tsé-tsé
 Et Dona, le boa
@@ -167,12 +158,11 @@ Et Rocky, le poisson-scie
   Mais nous nous égarons et nous oublions nos autres amis :
 {end_of_chorus}
 
-
 Véronica, l'anaconda
 Et Irène, la murène
 Et Milou, le hibou
 Et Paulo, le corbeau
-
+{newline}
 Et Murielle, l'hermine
 Et Bernard, l'ermite
 Et Anémone, l'anémone
@@ -183,12 +173,11 @@ Et Sergio, l'italien
   Cachés dans les fourrés, il y a aussi ...
 {end_of_chorus}
 
-
 Angèle, la tourterelle
 Et Arlette, la levrette
 Et Arthur, le silure
 Et Didier, le bourdon
-
+{newline}
 Et Alexis, l'otarie
 Et puis Roc, le phoque
 Et Annette, la crevette
@@ -199,12 +188,11 @@ Et le loup, c'est le loup. {echo: oui c'est moi !}
   Car il y a ...
 {end_of_chorus}
 
-
 Béa, l'aoûtat
 Et Alban, le poisson
 Et Richard, le lézard
 Et Alain, le pangolin
-
+{newline}
 Et René, le fourmilier
 Samantha Fox, le springbok
 Et Olaf, la girafe
@@ -215,12 +203,11 @@ Et Quentin, la pomme de pain
   Ah mais non, c'est parce que dessous il y a ...
 {end_of_chorus}
 
-
 Coralie, la fourmi
 Et Michael Shenker, le scorpion
 Et Yolande, la limande
 Et Camille, le gorille
-
+{newline}
 Et Conan, le barbare
 Et puis Suze, la méduse
 Et Colin, le colin
@@ -231,12 +218,11 @@ Et Bernard, l'oiseau
   Heureusement qu'il reste
 {end_of_chorus}
 
-
 Yvette, la belette
 Et Albin, le petit lapin
 Et puis Marthe, la martre
 Et Jean-Seb, le microcèbe
-
+{newline}
 Et Loana, le puma
 Et Isabelle, la coccinelle
 Et Mathieu, le lieu
@@ -251,12 +237,11 @@ Et Léo, l'escargot
   Non mais on va y aller parce qu'on doit passer chez ...
 {end_of_chorus}
 
-
 Aline, la zibeline
 Et puis Rose, le flamand rose
 Et Murielle, l'hirondelle
 Et Aglaé, le bélier
-
+{newline}
 Et Anouk, le bouc
 Et Canvade, la dorade
 Et Edmond, le plancton
@@ -268,12 +253,11 @@ Et Éric, le porc-épic
   --- Oui bon ça va, mais faut pas qu'on traîne parce qu'il faut qu'on aille voir aussi ...»
 {end_of_chorus}
 
-
 Marion, le hérisson
 Et Agnès, l'ânesse
 Et Babette, la chouette
 Et Claire, le renard polaire
-
+{newline}
 Et Gildas, la limace
 Et Anicet, le portugais
 Et Julien, le dalmatien
@@ -284,12 +268,11 @@ Et Flipper, le dauphin
   Il faudrait qu'on passe voir aussi ...
 {end_of_chorus}
 
-
 Bérengère, le protozoaire
 Et Carlos, l'albatros
 Et Abdul, la moule
 Et Barnabé, le scarabée
-
+{newline}
 Et Riton, le raton
 Et Théophile, la drosophile
 Et Caisse d'épargne, l'écureuil
@@ -312,12 +295,11 @@ Et Francis Huster, le mauvais acteur
   J'fais pas l'intro comme ça on gagne du temps
 {end_of_chorus}
 
-
 Y'a Hector, le castor
 Et Édouard, le canard
 Et José, le sanglier
 Et Charlotte, la marmotte
-
+{newline}
 Et Mireille l'abeille
 Et Léon, le frelon
 Et Fédor, le porc
@@ -331,12 +313,11 @@ Et Tonio, le blaireau
   Enfin bon, c'est pour les enfants, de toutes façon on s'en fout
 {end_of_chorus}
 
-
 Et Ivan, le hareng
 Et Edgar, le couguar
 Et Fidèle, la sauterelle
 Et Firmin, le lémurien
-
+{newline}
 Et Ginette, la mouette
 Et Manon, l'espadon
 Et Yvon, le saumon
@@ -346,12 +327,11 @@ Et Mario, le bulot
   Et en chemin, ils rencontrent encore plein de nouveaux amis, dis donc trop cool ...
 {end_of_chorus}
 
-
 Il y a Norbert, l'ours polaire
 Et Laurent, l'orang-outang
 Et Olivier, le fox-terrier
 Et Gaëtan, le flétan
-
+{newline}
 Et Herbert, le phacochère
 Et Hugo, l'asticot
 Et Hubert, la panthère
@@ -361,12 +341,11 @@ Et Loulou, le kangourou
   Mais c'est pas fini car ils rencontrent aussi ...
 {end_of_chorus}
 
-
 Lulu, le zébu
 Et Idir, le tapir
 Et Dédé, la gallinette cendrée
 Et Salomon, le cochon
-
+{newline}
 Et Jean-Marc, la carpe
 Et Théo, le cabillot
 Et Pascal, le chacal

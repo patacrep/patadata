@@ -8,15 +8,14 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: G7 frets 3 2 0 0 0 1}
 
-
 J'a[C]llais au clair de lune
 Au gré de ma fortune
 Porté par tous les vents de l'univers
-
+{newline}
 Comme [F]un lampion de fête
 Au-dessus de ma tête
 J'ai vu danser un point de lumière
-
+{newline}
 Oh oh [G7]oh, ma bonne é[C]toile
 
 {start_of_chorus}
@@ -33,15 +32,14 @@ Oh oh [G7]oh, ma bonne é[C]toile
   Dans le fond de mes yeux
 {end_of_chorus}
 
-
 Tu parles comme on chante
 Tu marches comme on danse
 Et tu me portes chance à chaque instant
-
+{newline}
 Et me voilà roi mage
 Au début d'un voyage
 Qui ne finira qu'à la fin des temps
-
+{newline}
 Oh oh oh, ma bonne étoile
 
 {start_of_chorus}

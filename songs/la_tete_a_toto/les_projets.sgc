@@ -13,11 +13,10 @@
 {define: Em frets 0 2 2 0 0 0}
 
 {guitar_comment: Intro : [Am F G] {repeat: 2}}
-
-
+{newline}
 [Am]Tous les soirs, assis sur mon arrosoir de whisky
 Je con[E]somme ainsi mon éner[Am]gie [F G]
-
+{newline}
 Tous les soirs, je regarde ma maison, comme un con
 Je recherche Mamour et mes marmots
 
@@ -27,17 +26,15 @@ Je recherche Mamour et mes marmots
   {repeat: 2}
 {end_of_chorus}
 
-
 Tous les jours, douze heures de taf. À y croire douze mille dollars
 Tous les mois, en cadence de la victoire
-
+{newline}
 À présent rien ne compte plus que l'argent de mes affaires
 Au foyer, je suis un père oublié
 
-
 Le dimanche, on enclenche la bonne morale de la conscience
 Cons vaincus, assis sur le banc d'une église
-
+{newline}
 On écoute le son des cloches qui nous parlent de grands discours
 Des discours, tout sauf de l'amour
 

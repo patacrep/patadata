@@ -14,7 +14,6 @@
 
 {partition: 10_sous_dans_ma_poche-1.ly}
 
-
 J'ai [Am]10 sous dans ma [G]poche
 J'ai [C]aucun ar[G]gent
 {repeat: 4}
@@ -28,18 +27,13 @@ J'ai [C]aucun ar[G]gent
   {repeat: 2}
 {end_of_chorus}
 
-
 J'ai 8 sous dans ma poche...
-
 
 J'ai 6 sous dans ma poche...
 
-
 J'ai 4 sous dans ma poche...
 
-
 J'ai 2 sous dans ma poche...
-
 
 J'ai pas d'sous dans ma poche
 J'ai aucun argent

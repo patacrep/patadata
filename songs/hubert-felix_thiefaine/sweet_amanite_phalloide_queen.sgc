@@ -12,8 +12,7 @@
 {define: B&m base-fret 6 frets 0 2 2 0 0 0}
 
 {guitar_comment: Intro: [F#]}
-
-
+{newline}
 Pi[F#]lote aux yeux de gélatine
 Dans [B]ce vieux satellite-usine
 [G#m] Manufacture de recyclage
@@ -24,27 +23,24 @@ Des mélancolies [C#]hors d'usage
 {end_of_chorus}
 
 {guitar_comment: [B F# B] {repeat: 2}}
-
-
+{newline}
 Je suis le [Bbm]Captain M'acchab [F# Bbm]
 Aux ordres d'une beau[F#]té na[Bbm]bab [F# Bbm]
 Pri[F#]ma bel[B]ladona made in
 Moloch-city destroy-ma[F#]chine
-
+{newline}
 {guitar_comment: Chorus, [B F# B]}
-
 
 A[F#]mour-amok and paradise
 Quand [B]elle fumivore ses king-size
 [G#m] Dans son antichambre d'azur
 Avant la séance [C#]de torture
-
+{newline}
 {guitar_comment: Chorus, [B B F# F#] {repeat: 2} [B B]}
-
 
 Je suis le [Bbm]rebelle éclaté [F# Bbm]
 Au service de Sa [F#]Majes[Bbm]té [F# Bbm]
 La [F#]reine aux [B]désirs écarlates
 Des galaxies d'amour-pi[F#]rate
-
+{newline}
 {guitar_comment: Chorus, [B F# B], Chorus ab lib.}

@@ -9,8 +9,7 @@
 {define: Dm frets X X 0 2 3 1}
 
 {partition: Toujours_etre_ailleurs_rythm.ly}
-
-
+{newline}
 [Dm] Oh chaque [F]nuit se ré[G]duire en [Dm]cendres
 Se laisser répandre
 Dans les la[F]vabos [G]blancs [Dm]
@@ -27,7 +26,6 @@ Quelles sont les raisons qui me [F]pou[G]ssent ? [Dm]
   J'veux toujours [F]être [G]aille[Dm]urs !
 {end_of_chorus}
 
-
 [Dm] J'ai la naus[F]ée quand je [G]reste ass[Dm]is
 Si je suis couché je n'joins pas [F]les deb[G]outs [Dm]
 Et je sour[F]is pour le [G]photogra[Dm]phe
@@ -36,7 +34,6 @@ Notez mon [F]épit[G]aphe [Dm]
 Notez !
 Je me sens s[F]i bien hi[G]er mat[Dm]in
 Que je voudrais être à d[F]ema[G]in [Dm]
-
 
 Oh j'ai jam[F]ais pu [G]oublier [Dm]
 L'odeur des [F]endroits [G]où j'ir[Dm]ai

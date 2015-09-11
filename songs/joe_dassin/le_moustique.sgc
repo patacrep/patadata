@@ -14,12 +14,11 @@
   Retourne chez [F]toi [C7 F]
 {end_of_chorus}
 
-
 Je fais la sieste moustique
 Arrête un peu ta musique
 Ne sois pas antipathique
 Ne me pique pas
-
+{newline}
 Moustique, mon vieux, tu vois trop petit
 Tu as des ailes, va voir du pays
 J'ai un patron plus large que moi
@@ -27,12 +26,11 @@ Vas-y de confiance, c'est moi qui t'envoie
 
 {partition: Le_moustique.ly}
 
-
 Tu me vois mélancolique
 De te troubler ton pique-nique
 Si tu me goûtes moustique
 Tu n'aimeras pas
-
+{newline}
 Y'a des pays pleins de volupté
 Pour un moustique de qualité
 À Saint-Tropez, à Honululu

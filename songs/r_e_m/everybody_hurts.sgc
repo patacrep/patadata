@@ -16,8 +16,7 @@
 {define: Am frets X 0 2 2 1 0}
 
 {guitar_comment: Intro: | [D] | [G] | [D] | [G] |  }
-
-
+{newline}
 [D]When your day is l[G]ong and the n[D]ight
 The night is you[G]rs al[D]one
 When you're sure you've ha[G]d enough of this lif[D*]e
@@ -28,7 +27,6 @@ Well hang [G]on
   Cause everybody cr[A]ies [Em]
   And [A]everybody hurts
 {end_of_chorus}
-
 
 Sometimes
 Sometimes everything is wrong
@@ -46,11 +44,9 @@ Well hang on
   Everybody hurts
 {end_of_chorus}
 
-
 [F#] Don't throw your han[Bm]d [F#]
 Whoa [Bm]now[F#] don't throw your h[Bm]and [C]
 If you feel like you're a[G]lone n[C]o no no you're no[C/B]t alon[Am]e
-
 
 If you're on your own in this life
 The days and nights are long
@@ -62,7 +58,6 @@ To hang on
   Everybody cries
   And everybody hurts
 {end_of_chorus}
-
 
 Sometimes
 But everybody hurts sometimes

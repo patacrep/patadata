@@ -11,12 +11,11 @@
 {define: B& base-fret 6 frets X 0 2 2 1 0}
 {define: A base-fret 5 frets X 0 2 2 1 0}
 
-
 [C]Une chanson douce
 [G7]Que me chantait ma mam[C]an [G7 C G]
 [C]En suçant mon pouce
 [G7]J'écoutais en m'endorm[C]ant
-
+{newline}
 Cette chanson douce
 Je veux la chanter pour toi
 Car ta peau est douce
@@ -34,12 +33,11 @@ Comme la mousse des bois
   La la la la
 {end_of_chorus}
 
-
 La petite biche
 Ce sera toi si tu veux
 Le loup on s'en fiche
 Contre lui nous serons deux
-
+{newline}
 Une chanson douce
 Pour tous les petits enfants
 Une chanson douce
@@ -57,12 +55,11 @@ Que me chantait ma maman
   À tout jamais
 {end_of_chorus}
 
-
 La belle princesse
 Avait de jolis cheveux
 La même caresse
 Se lit au fond de tes yeux
-
+{newline}
 Une chanson douce
 Que me chantait ma maman
 En suçant mon pouce

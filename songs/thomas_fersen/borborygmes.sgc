@@ -16,13 +16,12 @@
 {define: B7 base-fret 2 frets X 0 2 0 2 0}
 
 {guitar_comment: Intro :  [Em F Em F Em]}
-
-
+{newline}
 [Em]Roselyne et moi nous regar[F]dons le plaf[Em]ond
 Mon [G]estomac prod[Am]uit des borboryg[C]mes
 Mon [Am]oesophage fait [C]des bruit de si[Em]phon
 Je [Am]n'y peux rien, le [F#]ventre est une eni[B]gme
-
+{newline}
 [Em]Quoi qu'il en soit j'aime[F]rais filer [Em]d'ici
 D'au[G]tant que son ge[Am]nou appuie sur ma ve[C]ssie
 Je [Am]n'aurais pas [C]la jambe ankylo[Em]sée
@@ -36,13 +35,12 @@ Si [Am]nous avions des [F#]lits superpo[B]sés
 {end_of_chorus}
 
 {guitar_comment:   [Em Am6 Em Am G B7 Em F Em Am F# B]}
-
-
+{newline}
 [Em]Tissus au mur et [F]mobilier anc[Em]ien
 Il [G]est affreux ce [Am]masque vénit[C]ien
 J'ai [Am]vu les mêmes [C]hier à Mono[Em]prix
 Sont [Am]les pensées qui [F#]meublent mon esp[B]rit
-
+{newline}
 [Em]Quoi qu'il en soit, ça [F]manque d'aérat[Em]ion
 D'au[G]tant que son hal[Am]eine vient dans ma direct[C]ion
 Elle [Am]n'aurait pas la [C]bouche qui fer[Em]mente
@@ -56,8 +54,7 @@ Si [Am]elle suçait des [F#]bonbons à la men[B]the
 {end_of_chorus}
 
 {guitar_comment:  [Em Am6 Em Am G B7 Em F Em Am F# B]}
-
-
+{newline}
 [Em]Quoi qu'il en soit, elle [F]voudrait vivre se[Em]ule
 Tant [G]pis pour elle car [Am]même si on s'engue[C]ule
 C'est [Am]suffisant un [C]lit de camp pour [Em]deux

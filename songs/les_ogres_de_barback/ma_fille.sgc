@@ -10,7 +10,6 @@
 {define: D base-fret 5 frets X 0 2 2 2 0}
 {define: C base-fret 3 frets X 0 2 2 2 0}
 
-
 J'ai [Em]creusé la terre
 J'ai découpé la lune
 Puis gratté le soleil
@@ -21,17 +20,16 @@ En marchant sur l'espace
   Je n'y ai rien [D]trouvé de [Em]mieux !
 {end_of_chorus}
 
-
 J'ai [Em]foulé les poubelles
 Trempé dans les égouts
 J'ai fait les catacombes
-
+{newline}
 Pareilles aux [C]quatre [D]bouts
 De tous les [C]coins de [D]terre
 Des plaines [C]et du dé[D]sert
 Des mon[C]tagnes ou des [D]mers
 Tout près des [Em]continents
-
+{newline}
 J'y ai [Em]vu, ma fille
 L'été et [D]le prin[Em]temps
 L'automne et puis l'hiver
@@ -46,7 +44,6 @@ Des gouttes [D]d'eau, du [Em]vent
   Je n'ai rien [D]vu de [Em]mieux !
 {end_of_chorus}
 
-
 Y'a [Em]des âmes imbéciles
 Qui se [D]battent et pour [Em]peu
 Et d'autres plus tranquilles
@@ -55,13 +52,13 @@ J'en ai [G]gardé l'odeur
 D'une é[D]pice qui [Em]grille
 J'ai [G]goûté la saveur
 Lorsque le [C]feu pé[D]tille
-
+{newline}
 Lorsque le [C]feu di[D]vin
 Sous un [C]ciel qui [D]brille
 De mille é[C]toiles fi[D]lantes
 D'une [C]main dans ma [D]main
 Pour une nuit pétante
-
+{newline}
 Amène [Em]prétentieux
 L'envie [D]d'une autre [Em]vie
 La volonté discrète
@@ -74,11 +71,10 @@ Et fuir [D]le che[Em]min
   Je n'y ai rien [D]fait de [Em]mieux !
 {end_of_chorus}
 
-
 Et [Em]je suis reparti
 Continuer, sans arrêt
 À fouiller dans les trains
-
+{newline}
 À re[D]tourner la [Em]terre
 À per[D]dre des ma[Em]tins
 À boire [D]dans tous les [Em]verres
@@ -89,7 +85,7 @@ Quand l'ivresse s'enfuit
 Je me [D]suis retrou[Em]vé
 De situations drôles
 À d'au[D]tres plus vio[Em]lentes
-
+{newline}
 Prince et [D]puis po[Em]ète
 Clochard [D]et sans is[Em]sue
 Paumé, [D]analpha[Em]bète
@@ -104,7 +100,6 @@ D'une [D]vie malhon[Em]nête
   Je n'ai rien [D]dit de [Em]mieux !
 {end_of_chorus}
 
-
 J'ai [D]frôlé de mes doigts
 Les peaux les plus sen[Em]suelles
 J'ai [D]tenté au hasard
@@ -116,20 +111,19 @@ Qu'être [D]superfi[Em]ciel
 Qu'on vi[D]ve pour le [Em]cul
 Dans un dé[D]cor de [Em]miel
 Le savoir dans la soie
-
+{newline}
 Le luxe [C]et l'impor[D]tance
 Derrière [C]chacun pour [D]soi
 Cache en[C]core la souf[D]france
 Je les [C]ai sa[D]luées
 Et là en[C]core j'ai [D]fui
-
+{newline}
 [D]Je me suis réfugié
 Enfermé pour de bon
 Des pensées, des idées
 Délivré des leçons
 Le savoir au parfait
 La culture à foison
-
 
 J'en ai [Em]veillé des nuits
 À pas[D]ser en re[Em]vue
@@ -141,7 +135,7 @@ Que je parle dix langues
 J'ai sur [D]le bout des [Em]doigts
 La culture et les lois
 Et cette [D]main qui [Em]tangue
-
+{newline}
 À coucher au papier
 Tous ces [D]mots inu[Em]tiles
 Où je parle de moi

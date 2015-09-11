@@ -9,12 +9,10 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: C frets X 3 2 0 1 0}
 
-
 [Am]On l'appelle Lucky Luke
 [G]De l'Ouest au Far-Ouest
 [F]Il arrive au galop
 [C]Ce cow-boy héros
-
 
 [Am]Son tir est plus rapide
 [G]Plus rapide que son ombre
@@ -39,7 +37,6 @@ Oh [G]sacré Lucky [C]Luke !
   Même les Dalton, qui ne craignent personne
   Ont peur de Lucky Luke !
 {end_of_chorus}
-
 
 Les [F]hors-la-loi
 N'échapperont pas

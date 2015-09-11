@@ -12,15 +12,13 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 
 {guitar_comment: Intro:  [F]}
-
-
+{newline}
 There's a [Dm]voice, that keeps on calling [C]me
 Down the [Dm]road, that's where I'll always [C]be
 Every [F]stop I make, I make a new [Dm]friend
 Can't stay for [Bb]long, just turn a[C]round and I'm gone a[F]gain
 Maybe tomo[Dm]rrow, I'll [Bb]want to settle [F]down [Am7] [Dm]
 Until tomo[Gm]rrow, I'll [Bb]just keep movin' [F]on
-
 
 Down this road, that never seems to end
 Where new adventure, lies just around the bend
@@ -42,7 +40,6 @@ Until tomorrow, the whole world is my home
 Maybe tomo[Dm]rrow, I'll [Bb]want to settle [F]down [Am7] [Dm]
 Until tomo[Gm]rrow, I'll [Bb]just keep movin' [F]on
 {end_of_bridge}
-
 
 There's a world, that's waiting to unfold
 A brand new tale, no one has ever told

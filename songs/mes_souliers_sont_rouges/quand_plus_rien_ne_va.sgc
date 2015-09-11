@@ -9,12 +9,11 @@
 {define: C frets X 3 2 0 1 0}
 {define: Am frets X 0 2 2 1 0}
 
-
 [Dm]Quand plus rien ne [C]va
 Que tout ne [Am]va pas
 [Dm]Quand plus rien n'est [C]droit
 Que tout est de [Am]guingois
-
+{newline}
 On [Dm]peut essayer [C]de souf[Am]fler
 Dans [Dm]un joli ro[C]seau per[Am]cé
 [Dm]Jouer un petit [C]air de [Am]flûte
@@ -24,24 +23,22 @@ Dans [Dm]un joli ro[C]seau per[Am]cé
   Tur[Dm]lutte avant d'aller au lit fait passer bonne nuit {repeat: 2}
 {end_of_chorus}
 
-
 Quand plus rien ne va
 Que tout ne va pas
 Quand plus rien n'est droit
 Que tout est de guingois
-
+{newline}
 On peut aller dans la forêt
 Et avec des branches coupées
 Se construire une jolie cahute
 Jouer un petit air de flûte
 Ou bien faire une petite turlutte
 
-
 Quand plus rien ne va
 Que tout ne va pas
 Quand plus rien n'est droit
 Que tout est de guingois
-
+{newline}
 On peut comme faisaient les trouvères
 Sur quelques cordes jouer un air
 En se grattant la peau du luth
@@ -49,12 +46,11 @@ Se construire une jolie cahute
 Jouer un petit air de flûte
 Ou bien faire une petite turlutte
 
-
 Quand plus rien ne va
 Que tout ne va pas
 Quand plus rien n'est droit
 Que tout est de guingois
-
+{newline}
 On peut même s'asseoir n'importe où
 Sur des bouts de verre ou sur des clous
 Pour déchirer le fond de son calbute

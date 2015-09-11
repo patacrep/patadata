@@ -12,8 +12,7 @@
 {define: D frets X X 0 2 3 2}
 
 {guitar_comment: Intro : [G C D7 G]}
-
-
+{newline}
 [G]Vous êtes si jol[C]ies
 Quand vous passez le [D7]soir
 À l'angle de ma [G]rue
@@ -30,7 +29,6 @@ Toutes de bleu vêt[Em]ues
   Des serments murmu[D]rés
 {end_of_chorus}
 
-
 Le soir dans votre lit
 Je vous devine nues
 Un roman à la main
@@ -46,7 +44,6 @@ Vous êtes déjà loin
   Je guetterai fébrile
   Votre sortie du cours
 {end_of_chorus}
-
 
 Dimanche sera gris
 Je ne vous verrai pas

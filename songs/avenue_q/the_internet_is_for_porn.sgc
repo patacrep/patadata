@@ -11,7 +11,6 @@
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 {define: B base-fret 7 frets 0 2 2 1 0 0}
 
-
 [E]The Internet is [B7]really, really [E]great {echo: For porn!}
 [E]I've got a fast connection so [B7]I don't have to [E]wait {echo: For porn!}
 [F#m]There's always some new site {echo: For porn!}
@@ -32,8 +31,7 @@ It's [F#m]like I'm surfing [A]at the speed of [B]light {echo: For porn!}
 ``Well if you wouldn't mind please being quiet for a minute so I can finish?''
 ``Oki doki''
 ``Good''
-
-
+{newline}
 I'm glad we have this new technology {echo: For porn!}
 Which gives us untold opportunity {echo: For por... oops, sorry}
 Right from you own desktop {echo: For ...}

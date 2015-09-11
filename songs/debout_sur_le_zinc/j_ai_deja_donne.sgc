@@ -17,8 +17,7 @@
 {define: D frets 2 2 2 0}
 
 {guitar_comment: Intro :  [Em]}
-
-
+{newline}
 [Em]J'ai déjà don[C]né
 Les yeux [Am]rouges, le nez qui [B7]coule
 Les lar[Em]mes qui vont, [C]salées
@@ -26,7 +25,6 @@ Le coin [Am]de ta bouche quand [B7] tu t'écroules
 [Em]Je suis tom[C]bé tant de [D]fois, tam[Am]dadada
 [C] Que je ne les compte pas [B7]
 [C] Ne les compte [B7]pas
-
 
 [Em]Il faut pardon[C]ner
 Le monde [Am]est si dur, ne [B7]jetons pas
@@ -40,7 +38,6 @@ Quand dé[Am]jà je brûle à [B7]te parler
   [Em C Am B7] [Em C Am B7]
   [Em C D Am Am] [C B7 C B7 B7]
 {end_of_chorus}
-
 
 [Em]Le temps va pas[C]ser
 Je cède [Am]à l'usure, je [B7]tourne mes pas

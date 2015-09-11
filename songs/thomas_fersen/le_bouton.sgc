@@ -17,17 +17,16 @@
 {define: G# base-fret 3 frets 2 0 1 0}
 {define: A# base-fret 1 frets 2 1 0 0}
 
-
 [C] Ce matin, au [D]saut du lit
 [C] Je me regarde [D]le menton
 [C] Et je vois un [D]gros bouton
 [A]Bien gonflé, bien rempli
-
+{newline}
 [C] Et comme il é[D]tait bien mûr
 [C] Il gicle [D]sur le mur
 [C] Un vilain pe[D]tit jus blanc
 [A]Puis une gouttelette de sang
-
+{newline}
 [A]Et ne tenant plus de joie
 [A] Je presse une deuxième fois
 [A] Et comme il était à point
@@ -52,17 +51,16 @@
   Le jour de la photo
 {end_of_chorus}
 
-
 [C] Avant d'al[D]ler chez elle
 [C] Je vérifie [D]mes aisselles
 [C] Et dans u[D]ne vitrine
 [A] Je vérifie mes narines
-
+{newline}
 [C] J'ajuste [D]mon veston
 [C] Je consulte [D]mon bouton
 [C] Une croûte [D]le rebouche
 [A] Il ne faut plus que j'y touche
-
+{newline}
 [A] Mais c'est plus fort que moi
 [A] Il faut qu'j'y remette les doigts
 [A] Mais comme il en restait plein, oui

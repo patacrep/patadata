@@ -11,12 +11,11 @@
 {define: B& base-fret 6 frets 0 2 2 1 0 0}
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 
-
 [Dm]Il y a des fan[F]tômes dans ma ville
 [C]Que dérangent les [Dm]cris d'enfants
 [Dm]Qui trouvent le temps [F]inutile
 Si on le [C]passe en s'amu[Dm]sant
-
+{newline}
 Ils ont [C]vue sur mon jar[Dm]din
 Et ils [C]ont l'écho du [Dm]son
 [Dm]Des barbecues, [F]des copains
@@ -30,12 +29,11 @@ Si l'on [C]sort l'accor[Dm]déon
   [Dm] [C] [Bb] [C] {repeat: 2}
 {end_of_chorus}
 
-
 Je m'enfuis pour une vie nouvelle
 Où les marmots ne seront plus
 Le prétexte d'une ribambelle
 D'idées loufoques et corrompues
-
+{newline}
 Et si tu pries gentiment
 Tu nous juges et c'est méchant
 Toi qui nous avais appris pourtant
@@ -48,12 +46,11 @@ Toi qui nous avais appris pourtant
   Le paradis dans les cités
 {end_of_chorus}
 
-
 Pierre, oh, pierre, je ne jette pas la pierre
 Je constate le gâchis
 De petites maisons pas centenaires
 Recouvertes de crépis
-
+{newline}
 On fait du neuf avec du neuf
 Ni une ni deux, le neuf est vieux
 De ta loi qui marchande et qui bluffe
@@ -66,12 +63,11 @@ Nos âmes d'imbéciles heureux
   Quand tout te pendait au nez !
 {end_of_chorus}
 
-
 Pardonne-moi, ne prends pas tout cela
 Comme une attaque trop sévère
 Tu es un fantôme au cœur qui bat
 Bien plus vivant que tes frères
-
+{newline}
 Eux, qui ont tout dévoré
 Tes premières idées, tes dernières
 Sans jamais avoir su estimer

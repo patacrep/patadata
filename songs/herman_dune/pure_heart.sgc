@@ -9,17 +9,16 @@
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: A frets X 0 2 2 2 0}
 
-
 But I've got [E]pure hearts to give to you
 All they shine brighter than the stars a[B]bove
 I hope you [E]know what you [A]do
 When you're tur[E]ning your [B]back on my [E]love
-
+{newline}
 And in the garden down by the pond
 When the sun comes to an eclipse
 Well I hope you'll respond
 To the kisses that I lay on your lips
-
+{newline}
 {echo: And your sister says}
 ``Do it thunder when you were born
 sometimes around the fall of 1979?''
@@ -34,12 +33,11 @@ When you rest your sweet body on mine
   Than [E]me with a love like [B]yours if you [E]go
 {end_of_chorus}
 
-
 And my ennemies, they want me blind
 They want to slowly see me die of thirst
 Well, they should know that I don't mind
 If you're holding my arm when it hurts
-
+{newline}
 And I need you here to relieve me
 When there's demon to find
 And I'm helpless if you leave me

@@ -12,8 +12,7 @@
 {define: Am frets X 0 2 2 1 0}
 
 {guitar_comment: Intro: [Dm F C G] {repeat: 2}}
-
-
+{newline}
 [F]Look for me another [C]day
 I feel that I could [G]change
 I feel that I could [Dm]change
@@ -32,7 +31,6 @@ I thought I saw [Dm]it
   [F C G Dm]
 {end_of_chorus}
 
-
 Walking in the circle of
 A flashlight someone starts
 To sing, to join in
@@ -40,7 +38,6 @@ Talk of loneliness in quiet
 Voices I am shy
 But you can reach me
 Rowing on the lakes of Canada {repeat: 2}
-
 
 So [Dm]look for me another [C]time
 Give me another [Am]day

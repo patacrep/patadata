@@ -16,8 +16,7 @@
 {define: B&5 base-fret 6 frets 0 2 X X X X}
 
 {guitar_comment: Intro : | [C] | [Ab] | [Eb] | [Bb]  }
-
-
+{newline}
 Dix [Ab]neuf cent quatre v[Eb]ingt dix neuf
 Auc[Bb]une raison de f[Db]aire la [Ab]teuf
 Dans dix minutes c'est l'[Eb]an deux mille
@@ -33,7 +32,6 @@ L'ét[Ab]at va présent[Eb]er ses vœux
   [C] T'as cru [Ab] perdu...
   [Eb]Tout ça c'est d'la [Bb]politique...
 {end_of_chorus}
-
 
 [Ab]Pour le troisième [Eb]millénaire
 La d[Bb]émocratie [Db]est en [Ab]fer
@@ -54,7 +52,6 @@ Qu'[C5]les impôts sont [Ab5]quadruplés
 De [C5]toutes façons on n'[Ab5]a plus rien
 On [Eb5]a d'jà bouffé [Bb5]tous les chiens [Bb]
 {end_of_bridge}
-
 
 Tu v[Ab]ois et à part [Eb]ça ça va
 Je n'[Bb]fais plus qu'des conc[Db]erts pour [Ab]moi...

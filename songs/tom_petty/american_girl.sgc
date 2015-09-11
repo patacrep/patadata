@@ -11,12 +11,11 @@
 {define: Em frets 0 2 2 0 0 0}
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 
-
 [D] Well she was an A[E7]merican girl
 [G] Raised on [A]promises
 [D] She couldn't help [E7]thinking that there was
 A [G]little more to life [A]somewhere else
-
+{newline}
 After all it was a [D]great big world
 [G] With lots of places to [Em]run to
 [A]And if she had to die tryin' she had one little promise she was gonna keep
@@ -28,12 +27,11 @@ After all it was a [D]great big world
   [G] She was [A] an American [D]girl
 {end_of_chorus}
 
-
 [D] Well it was kinda [E7]cold that night
 [G]She stood alone on the [A]balcony
 [D] Yeah, she could hear the [E7]cars roll by
 Out on [G]four forty one like [A]waves crashing on the beach
-
+{newline}
 And for one desperate [D]moment there
 [G]He crept back in her [Em]memory
 [A]God it's so painful when something that's so close is still so far to reach

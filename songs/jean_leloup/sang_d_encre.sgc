@@ -11,12 +11,11 @@
 {define: G frets 3 2 0 0 0 3}
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
-
 Je me suis [Em]fait un sang d'encre pour [D]toi
 Comme une [Am]pieuvre dans un gros bac chi[Em]nois
 À voir ta [Em]gueule ce matin je te [D]crois
 J'ai bien fait [Am]de penser très fort à [Em]toi
-
+{newline}
 J'ai envo[C]yé des chansons dans les airs
 En espé[Am]rant qu'un pigeon voyageur
 Te les chan[G]terait par jour ou noirceur
@@ -31,12 +30,11 @@ Par i[G]ci, par i[F]ci, par i[Am]ci
   Dans le [C]noir [D Em]
 {end_of_chorus}
 
-
 Je me suis [Em]fait un sang d'encre pour [D]toi
 Comme une [Am]pieuvre dans un gros bac chi[Em]nois
 À voir c'ma[Em]tin les bobos sur tes [D]bras
 J'ai bien fait [Am]de penser très fort à [Em]toi
-
+{newline}
 Que nous so[C]yons amis ou amoureux
 Mais mainte[Am]nant nos cœurs battent à deux
 Je te com[G]prends beaucoup plus que tu crois
@@ -65,12 +63,10 @@ Appelle-[F]moi, appelle-[Am]moi
 
 # Note : « moins quart » n'est pas une erreur
 
-
 [Em]Le collier que tu m'a[G]vais fabriqué
 [Am]Hier à cinq heures moins [C]quart s'est brisé
 [Em]Que s'est-il passé à [G]cinq heures moins quart
 [Am]Probablement qu'on te [C]voulait du mal
-
 
 [Em]Je me suis fait un sang [G]d'encre pour toi
 [Am]Comme une pieuvre dans un [C]gros bac chinois

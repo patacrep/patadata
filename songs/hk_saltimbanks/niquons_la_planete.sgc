@@ -12,7 +12,6 @@
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 {define: Cm base-fret 3 frets X 0 2 2 1 0}
 
-
 Devant mon [Dm]poste de télé
 J'les vois m' ra[Am]conter des salades
 Ils disent que la [Dm]Terre est en danger
@@ -21,7 +20,7 @@ Ils font flip[Gm]per ces écolos
 À nous dire [Dm]qu'on va tous crever
 Faudrait qu'on [Bb]roule tous à vélo
 Et pourquoi [A]pas voter Bové ?
-
+{newline}
 Moi j'préfère [Dm]rouler en Hummer
 Manger des [Am]sandwichs OGM
 Clim à [Dm]fond, trois cent à l'heure
@@ -36,7 +35,6 @@ Profitons-[A]en
   Niquons la pla[Bb]nète [A]
 {end_of_chorus}
 
-
 I have a [Dm]dream, j'ai fait un rêve
 D'une guerre [Am]mondiale nucléaire
 Où les en[Dm]fants d'Adam et Ève
@@ -45,7 +43,7 @@ I have a [Gm]dream, oui j'ai rêvé
 D'un tsunami, [Dm]tremblement de terre
 Qui détrui[Bb]rait l'humanité
 Nous enver[A]rait tous en enfer
-
+{newline}
 Faisons [Dm]péter la couche d'ozone
 Rasons tout, [Am] faisons place nette
 Ne laissons [Dm]surtout pas à nos mômes

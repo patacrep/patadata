@@ -16,15 +16,14 @@
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: F# base-fret 2 frets 0 2 2 1 0 0}
 
-
 [Am]La terre en [Dm]vigne, la voi[F]là la jolie [Am]vi[E]gne {repeat: 2}
 Vigni vi[Am]gnons, vignons le [C]vin
 La [A7]jolie vigne au [E]vin {repeat: 2}
-
+{newline}
 La vigne en treille, la voilà la jolie treille {repeat: 2}
 Treilli treillons, treillons le vin
 La jolie treille au vin {repeat: 2}
-
+{newline}
 La treille en seille, la voilà la jolie seille {repeat: 2}
 Seilli seillons, seillons le vin
 La jolie seille au vin {repeat: 2}
@@ -47,15 +46,14 @@ La jolie seille au vin {repeat: 2}
   La jolie cruche au vin {repeat: 2}
 {end_of_chorus}
 
-
 La cruche en verre, le voilà le joli verre {repeat: 2}
 Verri verrons, verrons le vin
 Le joli verre au vin {repeat: 2}
-
+{newline}
 Du verre en bouche, la voilà la jolie bouche {repeat: 2}
 Bouchi bouchons, bouchons le vin
 La jolie bouche au vin {repeat: 2}
-
+{newline}
 La bouche en ventre, le voilà le joli ventre {repeat: 2}
 Ventri ventrons, ventrons le vin
 Le joli ventre au vin {repeat: 2}

@@ -9,17 +9,15 @@
 {define: A frets X 0 2 2 2 0}
 {define: Em frets 0 2 2 0 0 0}
 
-
 En[Bm]core un matin, un matin pour rien
 Une [G]argile au creux [A]de mes [Bm]mains
 En[Bm]core un matin sans raison ni fin
 Si [G]rien ne trace [A]son che[Bm]min
-
+{newline}
 Ma[Em]tin pour don[F#m]ner ou bien ma[Bm]tin pour prendre
 Pour [Em]oublier ou [F#m]pour ap[Bm]prendre
 Ma[Em]tin pour ai[F#m]mer, maudire [Bm]ou mépriser
 Lai[G]sser tomber ou résis[A]ter
-
 
 Encore un matin qui cherche et qui doute
 Matin perdu cherche une route
@@ -34,12 +32,11 @@ Encore un matin de pire ou de mieux
   Un rêve plus [Bm]loin
 {end_of_chorus}
 
-
 Encore un matin ou juge ou coupable
 Ou bien victime, ou bien capable
 Encore un matin ami, ennemi
 Entre la raison et l'envie
-
+{newline}
 Matin pour agir ou attendre la chance
 Ou bousculer les évidences
 Matin innocence, matin intelligence

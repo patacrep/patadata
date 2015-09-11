@@ -10,8 +10,7 @@
 {define: D frets X X 0 2 3 2}
 
 {guitar_comment: Intro : [Em G Em G Em A Em A G]}
-
-
+{newline}
 [C]So, so you think you can te[D]ll
 Heaven from He[Am]ll
 Blue Skies from pai[G]n
@@ -27,7 +26,7 @@ Cold comfort for [D]change
 Did you ex[C]change ?
 A walk on part in the [Am]war
 For a lead role in a [G]cage
-
+{newline}
 {guitar_comment: [Em G Em G Em A Em A G]}
 
 {start_of_chorus}

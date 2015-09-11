@@ -13,12 +13,11 @@
 {define: D* base-fret 5 frets X 0 2 2 2 0 special}
 {define: C* base-fret 3 frets X 0 2 2 2 0 special}
 
-
 When I [C]find myself in [G]times of trouble
 [Am]Mother Mary [F]comes to me
 [C]Speaking words of [G]wisdom
 Let it [F*]be [E* D* C*]
-
+{newline}
 And in my hour of darkness
 She is standing right in front of me
 Speaking words of wisdom
@@ -31,23 +30,21 @@ Let it be
   Let it [F*]be [E* D* C*]
 {end_of_chorus}
 
-
 And when the broken hearted people
 Living in the world agree
 There will be an answer
 Let it be
-
+{newline}
 For though they may be parted there is
 Still a chance that they will see
 There will be an answer
 Let it be
 
-
 And when the night is cloudy
 There is still a light, that shines on me
 Shine on till tomorrow
 Let it be
-
+{newline}
 I wake up to the sound of music
 Mother Mary comes to me
 Speaking words of wisdom

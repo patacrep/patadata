@@ -13,8 +13,7 @@
 {define: C frets X 3 2 0 1 0}
 
 {guitar_comment:  Intro:  [D] [D4] [Am] [A4] [G] [G4] [D]  }
-
-
+{newline}
 [D]And now the thoughts of you so [Am]fine
 Is rollin' through my [G]mind
 It's ruling all of my [D]time
@@ -29,7 +28,6 @@ And my dreams [D]begin
   But I [C]never want to cage [G]you
   I want to see you [D]fly
 {end_of_chorus}
-
 
 [D]And the picture of your perfect [Am]face
 Is so quick to re[G]place

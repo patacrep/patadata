@@ -26,8 +26,7 @@
 {define: C frets 0 0 0 3}
 
 {guitar_comment: Intro :  [Gm Dm A# Cm] {repeat: 2}}
-
-
+{newline}
 Il y a des [Gm]jours dans la vie
 Qu'on ne peut [Dm]pas oublier
 Pour moi le [A#]meilleur c'est le jour
@@ -36,7 +35,7 @@ Une jo[Gm]lie salle des fêtes
 Sur le par[Dm]king du Auchan
 L'arri[A#]vée en calèche
 Avec [Cm]Kévin dedans
-
+{newline}
 Tout avait [F]bien commencé
 Il n'a[Gm]vait plu qu'un peu
 La belle-[A#]famille c'était
@@ -45,7 +44,7 @@ Au vin [Gm]d'honneur l'Kévin
 A tout de [Dm]suite embrayé
 Sur son [A#]cabriolet
 Qu'on ve[Cm]nait de lui brûler
-
+{newline}
 «Ceux qui [Gm]mettent le bordel
 Il faut [Dm]les foutre dehors»
 J'ai dit «et [A#]s'ils sont nés ici
@@ -66,7 +65,6 @@ On va [F]pas être d'accord»
   Fast [D]and Furious 3
 {end_of_chorus}
 
-
 «Tout le monde [Gm]aime bien le sport
 À part [Dm]les femmes peut-être»
 A dit le [A#]cousin de Kévin
@@ -75,7 +73,7 @@ Celui qu'é[Cm]coute les Grosses Têtes
 Celles qui [Dm]bossent font qu'du tort
 Alors parle [A#]pas de féminisme
 On va [Cm]pas être d'accord
-
+{newline}
 Les femmes [F]fonctionnent un peu
 Comme des [Gm]sortes d'animaux
 Elles sont [A#]vives, elles s'emportent
@@ -89,7 +87,6 @@ C'est Bi[F]gard qui l'a dit»
   ...Ta[D]xi 43
 {end_of_chorus}
 
-
 «Un ma[Gm]lien immigré
 Il est [Dm]mieux au Mali»
 Belle maman [A#]aimait l'Afrique
@@ -98,7 +95,7 @@ Mais au temps [Cm]des colonies
 Il sera mieux [Dm]avec les siens
 Comme dit [A#]Brigitte Bardot
 Faut qu'on [Cm]soit plus humain
-
+{newline}
 Un im[F]migré en France
 Il nous [Gm]coûte bien trop cher
 Un im[A#]migré chez lui

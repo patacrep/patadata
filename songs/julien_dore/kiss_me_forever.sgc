@@ -13,8 +13,7 @@
 
 {guitar_comment: Rythm : {partition: Kiss_me_forever.ly} }
 {guitar_comment: Intro : | [Em] | [G] |  {repeat: 2} }
-
-
+{newline}
 [Em] Bébé comme un enfant qu'on [G]déguise
 [Em] Tu pleures et pleures en[G]core
 [Em] La rigueur est de [Bb]mise
@@ -31,7 +30,6 @@ Oh [Em]j'aime, j'aime [G]pas quand tu files
   [Em] Au rouge métal[G]lique
 {end_of_chorus}
 
-
 Toujours tu pars sans laisser de mot
 C'est comme une signature
 Agrafé dans le dos
@@ -40,6 +38,6 @@ Tiens les clefs de la punto
 L'amour est dans le coffre
 Y'a mon disque de Renaud
 Tiens d'ailleurs, je te l'offre
-
+{newline}
 Kiss me forever ...
 Kiss me forever ...

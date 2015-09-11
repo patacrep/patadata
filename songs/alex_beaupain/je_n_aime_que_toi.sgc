@@ -12,18 +12,17 @@
 {define: F#7 base-fret 2 frets 0 2 0 1 0 0}
 
 {guitar_comment: Intro : [D F#m Em A] {repeat: 2}}
-
-
+{newline}
 [D]Petit salaud, ton [F#m]jeu est clair
 [Em]Tu veux tout sans ranc[A]une
 [D]Le beurre, le cul de [F#m]la crémière
 [Em]Deux pour le [A]prix d'une
-
+{newline}
 [Bm]Petite garce que tu [F#7]es vulgaire
 [Bm]Que c'est laid dans ta [Em]bouche
 [Bm]Que cette jalousie [F#7]m'indiffère
 [Bm]Vois comme tu te [F#7]couches
-
+{newline}
 [Bm]Je suis le pont sur [F#7]la rivière
 [Bm]Qui va de toi [Em]à toi
 [Bm]Traversez-moi, [F#m]la belle affaire
@@ -31,17 +30,16 @@
 [A]Je n'aime que toi [D]hum hum [F#7]hum hum [Em]hum
 [A]Je n'aime que [D]toi
 
-
 Petit salaud, petit pervers
 Où as-tu mis les doigts ?
 D'où viennent ces odeurs étrangères
 Sûrement pas de moi
-
+{newline}
 Petite garce va donc te faire
 Tu n'es pas moins farouche
 Non tu n'es pas moins adultère
 Vois comme elle te touche
-
+{newline}
 Je suis le pont sur la rivière
 Qui va de toi à toi
 Me passer dessus, la bonne affaire
@@ -49,17 +47,16 @@ M'enjamber pourquoi pas hum hum hum hum
 Je n'aime que toi, toi toi, toi toi
 Je n'aime que toi
 
-
 Petit salaud qui tu préfères ?
 Qui tu veux fais ton choix ?
 Le bon vieux temps, la nouvelle ère
 C'est elle ou moi
-
+{newline}
 Petite garce qui je préfère
 Tu le sais mieux que moi
 Je préfère que tu sois légère
 À la guerre à trois
-
+{newline}
 Je suis le pont sur la rivière
 Vos guerres me laissent de bois
 Piétinez-moi, que puis-je y faire

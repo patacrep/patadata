@@ -21,20 +21,18 @@
 {define: C frets 0 0 0 3}
 
 {guitar_comment: Intro :  [Dm Am B E] {repeat: 2} [E]}
-
-
+{newline}
 [Am]Regarde-toi
 Tu [F]ressembles à un meuble
 [Dm]Et si l'on t'observait [B]bien
 On pourrait voir tes [Am]coins si saillants
 [F]Tellement peu seyants
 [Dm]Lorsque que l'on parle aux hu[E]mains
-
+{newline}
 Quand [Dm]ta tête fond sur [Am]ton écran
 [B]Je peux lire des [E]zéros et des uns
 Dans [Dm]le bleu de tes [Am]yeux éteints
 [B]Je me sens le [E]pire des crétins
-
 
 [Am]Si je panique
 [F]Au guichet mécanique
@@ -42,7 +40,7 @@ Dans [Dm]le bleu de tes [Am]yeux éteints
 À quel point je [Am]hais les salauds
 Qui [F]font de leur boulot
 Une [Dm]autre forme de pro[E]cès
-
+{newline}
 Si [Dm]je prends à peine [Am]la parole
 [B]C'est qu'il y a en[E]tre toi et moi
 Pas [Dm]d'empathie mais [Am]du formol
@@ -52,21 +50,19 @@ Pas [Dm]d'empathie mais [Am]du formol
   [F C Dm G C] {repeat: 2}
 {end_of_chorus}
 
-
 [Am]Tu te protèges
 De [F]nous comme de la neige
 [Dm]Une pensée te glace d'ef[B]froi
 Suffirait-il d'un [Am]pas de travers
 [F]D'un petit revers
 [Dm]Pour que tu termines comme [E]moi
-
+{newline}
 Du [Dm]mauvais côté [Am]du comptoir
 [B]Un peu perdu mais [E]numéroté
 En[Dm]terrant tes rê[Am]ves de gloire
 [B]De promotion, [E]de liberté
-
+{newline}
 {guitar_comment: Bridge :  [Dm Am B E] {repeat: 2} [E]}
-
 
 [Am]Regarde-moi
 Je [F]ressemble à un meuble
@@ -74,12 +70,12 @@ Je [F]ressemble à un meuble
 Tu pourras voir mes [Am]coins si saillants
 [F]Tellement peu seyants
 [Dm]Lorsque je parle d'hu[E]main
-
+{newline}
 Mais [Dm]je maudis [Am]l'usage qui
 [B]Érige aussi [E]sûrement qu'une loi
 Des [Dm]frontières entre [Am]toi, moi, lui
 [B]En préambule à [E]quoi que ce soit
-
+{newline}
 Si [Dm]je prends un peu [Am]la parole
 [B]C'est qu'il y a en[E]tre toi et moi
 Pas [Dm]d'empathie mais [Am]du formol

@@ -11,7 +11,6 @@
 {define: E7 base-fret 5 frets X 2 1 2 0 X}
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 
-
 Vois-[Dm]tu mon vieux Jean-Louis
 [Am] J'ai comme des langueurs
 C'est [Dm]semblable à des cris
@@ -20,7 +19,7 @@ C'est [Dm]semblable à des cris
 Jus[Dm]que dans les artères
 Comme [E7]ce vin trop vieux
 Qu't'au[A]rais laissé ouvert
-
+{newline}
 Ce [Dm]monde-là m'écœure
 [Am] Regarde-les, nos chefs
 Qui [Dm]font pousser des fleurs
@@ -29,7 +28,7 @@ On [Gm]les emmerde tous
 Sers-[Dm]moi n'importe quoi
 J'm'en [E7]fous, pourvu qu'ça mousse !
 Et toi ? [A] Qu'est ce que tu bois ?
-
+{newline}
 S'ils [Dm]nous prennent pour des cons
 [Am] Ne fait-on pas tout pour ?
 Y'a [Dm]plus d'révolutions mais
@@ -38,7 +37,7 @@ Ils [Gm]nous fliquent, ils nous guettent
 Nous [Dm]brident et nous contemplent
 Moi j'[E7]veux bien être honnête
 Mais [A]je manque d'exemple
-
+{newline}
 Ils [Dm]n'en ont pas fini
 [Am] De nous laisser pour dupes
 Pra[Dm]tiquant l'alchimie
@@ -55,7 +54,6 @@ Enfoi[A]ré, ils nous raquettent
 
 {transposition: 1}
 
-
 Ce [Dm]monde nous échappe
 On [Am]n'est plus que des cons
 À [Dm]passer à la trappe
@@ -64,7 +62,7 @@ Je [Gm]regarde mon ombre
 Elle ne [Dm]me ressemble pas
 Elle [E7]est plus grande que moi
 Tiendra-[A]t-elle dans ma tombe ?
-
+{newline}
 En [Dm]attendant ce jour
 Qui [Am]s'ra peut-être une nuit
 J'vou[Dm]drais un peu l'amour
@@ -73,7 +71,7 @@ Qui [Gm]oublierait mon âge
 Et [Dm]serait amoureuse
 En[E7]fin, même de passage
 Que je [A]rendrais heureuse
-
+{newline}
 Je [Dm]voudrais de son corps
 Par[Am]courir les silences
 Ne [Dm]faire en m'approchant
@@ -82,7 +80,7 @@ Qu'el[Gm]le m'ouvre les bras
 Et [Dm]accepte la danse
 D'un [E7]sourire éclairant
 Son vi[A]sage trop sombre
-
+{newline}
 Vois-[Dm]tu, j'ai mal aimé
 Tu [Am]vois, j'ai mal au corps
 Et [Dm]j'en ai mal encore
@@ -94,7 +92,6 @@ Que j'l'ai [A]cueillie, la rose
 
 {transposition: 1}
 
-
 Je [Dm]me sens tellement seul
 Que [Am]j'en ai le vertige
 Je [Dm]sais, je suis pas l'seul
@@ -103,7 +100,7 @@ De [Gm]cette solitude
 J'ai [Dm]fait mon ordinaire
 Pour [E7]prendre l'habitude
 J'ai lais[A]sé le temps faire
-
+{newline}
 Vois-[Dm]tu, mon vieux Jean-Louis
 Là-[Am]haut, la Lune est pleine
 Je [Dm]sens bien qu'moi aussi
@@ -112,7 +109,7 @@ Boire, [Gm]ça réchauffe le cœur
 Même [Dm]si ça nique le foie
 Pour [E7]sortir d'la torpeur
 Que veux-[A]tu ? Je bois
-
+{newline}
 Al[Dm]lez mon vieux Jean-Louis
 Sers [Am]m'en donc une dernière
 Je m'[Dm]sens un peu aigri

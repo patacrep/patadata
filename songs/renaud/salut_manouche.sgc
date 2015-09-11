@@ -10,7 +10,6 @@
 {define: C frets X 3 2 0 1 0}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 
-
 [Em]Quand tu t'es pointé sur la zone
 Qui pousse au pied d'mon HL[A]M
 Tu as garé ton vieux Saviem
@@ -19,7 +18,7 @@ Z'avez rangé vos caravanes
 Comme les chariots dans un wes[A]tern
 Soudain dans ma banlieue minable
 C'était moins [Em]terne
-
+{newline}
 Toi, ta fa[A]mille, tes chiens, tes mômes
 Tes cousins, [D]tes frangins, tes poules
 C'est comme une [C]grande bouffée d'ozone
@@ -33,7 +32,6 @@ Quand ça dé[B]bou[Em]le
   Moi j'ai tou[C]jours pas [B]mon cer[Em]tif'
 {end_of_chorus}
 
-
 Mario fait toujours le rémouleur ?
 Angelo fabrique ses paniers ?
 Moi j'sais bien qu'dans ces p'tits métiers
@@ -42,7 +40,7 @@ Il faut avoir des à-côtés
 Toi t'en as toujours eu un max
 Du genre qui font que quand t'es gaulé
 Et ben tu casques
-
+{newline}
 Tirer la bagnole à un cave
 J'appelle pourtant pas ça un crime
 C'est toujours aux bourgeois qui friment
@@ -56,7 +54,6 @@ Qu'tu les chouraves
   T'as bien toujours la même dégaine
 {end_of_chorus}
 
-
 T'as toujours ton sacré clébard
 Croisement d'bâtard avec bâtard
 Tu voulais m'le vendre un milliard
@@ -65,7 +62,7 @@ T'as encore un nouveau tatouage
 Moi j'ai qu'les trois points sur la main
 Mais j' me suis fait percer l'oreille
 Par un copain
-
+{newline}
 Mais ça plaisait pas au dirlo
 Alors y'm'a viré d'l'école
 Si je l'croise dans la rue c'mariole
@@ -79,7 +76,6 @@ J'lui fais la peau
   Moi j'me fous d'c'que les vieux racontent
 {end_of_chorus}
 
-
 Si tu r'tournes bientôt aux Baumettes
 Essaie d'dire bonjour à mon vieux
 Dis-lui qu'j'ai r'trouvé ses lunettes
@@ -88,7 +84,7 @@ Dis-lui qu'il s'inquiète pas pour moi
 Son fiston, c'est pas un gadjo
 Dès qu'j'ai quinze ans j'trouve un boulot
 Et j'fais comme toi
-
+{newline}
 J'me paye une vieille DS ruinée
 Une caravane et un clébard
 Je laisse les cons dans leur clapier

@@ -12,7 +12,6 @@
 {define: F#m base-fret 9 frets X 0 2 2 1 0}
 {define: C# base-fret 9 frets 0 2 2 1 0 0}
 
-
 Ce [Em]matin, en sor[D]tant chez moi
 Y'a[C]vait un [D]trou é[Em]norme
 Une [Em]planète était [D]tombée là
@@ -27,14 +26,12 @@ Qui venaient [B]envahir la [Em]Terre
   Qu'mon [B]ennui en plein [Em]jour
 {end_of_chorus}
 
-
 Fumant sa pipe sur le trottoir
 Assis au coin d'une rue
 Entre ses deux mains, une guitare
 Chantait un moustachu
 «J'm'appelle Georges et bon sang d'bois
 Qui veut bien jouer avec moi ?»
-
 
 Et provoquant ma destinée
 Dans une ruelle déserte
@@ -43,14 +40,12 @@ Paupières fermées, bouche ouverte
 C'était la Belle au Bois Dormant
 Qui voulait s'taper son amant
 
-
 Au plein cœur de l'après-midi
 J'ai croisé Spiderman
 Il m'a dit : «Viens, on a quelques soucis
 Faudrait aider Batman
 Le Joker est plus tout seul
 Il va lui en mettre plein la gueule !»
-
 
 Impressionné par le décor
 Je n'en crois pas mes yeux
@@ -59,7 +54,6 @@ Sous un soleil radieux
 C'est Paris qui s'fait du bien
 Les pieds dans l'océan Indien
 
-
 Traînant Boulevard des Capucines
 Rêveur et tête en l'air
 Intrigué je cherche l'origine
@@ -67,12 +61,11 @@ De cette foule en colère
 Je lève les yeux et j'aperçois {echo: wow}
 Les Ogres «complet» à l'Olympia
 
-
 Et [F#m]en attaquant [C#]la soirée
 Fat[C#]igué, un peu [F#m]las
 Au [F#m]loin, j'entends voler [C#]les pavés
 Qui [C#]brisent enfin la [F#m]glace
-
+{newline}
 Des gens dans la rue en colère
 Main dans la main et qui espèrent
 En criant d'une voix sensible

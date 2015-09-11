@@ -12,14 +12,13 @@
 {define: D frets X X 0 2 3 2}
 {define: A frets X 0 2 2 2 0}
 
-
 [Em] C'est une maison [G]bleue
 [Bm] Adossée à la co[C]lline
 On y vient à pied
 [G]On ne frappe pas
 [D]Ceux qui vivent là
 Ont jeté la [C]clé [Em]
-
+{newline}
 [Em] On se retrouve en[G]semble
 [Bm] Après des années de [C]route
 Et on vient s'assoir
@@ -36,14 +35,13 @@ Et on vient s'assoir
   [D]Attendez-[Em]moi
 {end_of_chorus}
 
-
 Nageant dans le brouillard
 Enlacés roulant dans l'herbe
 On écoutera
 Tom à la guitare
 Phil à la kéna
 Jusqu'à la nuit noire
-
+{newline}
 Un autre arrivera
 Pour nous dire des nouvelles
 D'un qui reviendra
@@ -55,14 +53,13 @@ On s'endormira
   Quand San Francisco se lève ...
 {end_of_chorus}
 
-
 C'est une maison bleue
 Accrochée à ma mémoire
 On y vient à pied
 On ne frappe pas
 Ceux qui vivent là
 Ont jeté la clé
-
+{newline}
 Peuplée de cheveux longs
 De grands lits et de musique
 Peuplée de lumière

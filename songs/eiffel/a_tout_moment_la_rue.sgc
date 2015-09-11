@@ -12,14 +12,13 @@
 {define: A& base-fret 4 frets 0 2 2 1 0 0}
 {define: E& base-fret 5 frets X 0 2 2 2 0}
 
-
 [Dbm]À chacun de nos souffles
 Au moindre murmure des bas fonds
 C'est dans l'air comme un [E]chant qui s'étr[B]angle
 Que d'un [Dbm]pavé de fortune
 Contre le tintamarre du pognon
 [A]A tout moment [E]la rue peut aussi dire [Db]non
-
+{newline}
 C'est un pincement de lèvres
 Et la peur qui perle d'un front
 La faune et la flore à cran en haillons
@@ -41,7 +40,6 @@ Dans l'ombre du marteau pilon
 {start_of_bridge}
 [Dbm][E][B]
 {end_of_bridge}
-
 
 Et si quelques points noirs
 En cols blancs poivrent nos cieux

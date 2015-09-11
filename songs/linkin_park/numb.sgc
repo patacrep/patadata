@@ -11,7 +11,6 @@
 {define: D frets X X 0 2 3 2}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 
-
 [Em]I'm tired of being what you [C]want me to be
 [G]Feeling so faithless lost [D]under the surface
 [Em]I don't know what you're expe[C]cting of me
@@ -27,7 +26,6 @@ Every s[Em]tep I take is a[G]nother mistake to [C]you [D]
   Is be more like [D]me and be less like [Em]you
 {end_of_chorus}
 
-
 Can't you see that you're smothering me
 Holding too tightly afraid to lose control
 Cause everything that you thought I would be
@@ -36,12 +34,12 @@ Has fallen apart right in front of you
 Every step that I take is another mistake to you
 {echo: Caught in the undertone just caught in the undertone}
 And every second I waste is more than I can take
-
+{newline}
 And I [D]know
 I may [Em]end [G]up [Em]fail[D]ing [C]too
 But I [D]know
 You were j[B]ust like me with someone disappointed in you
-
+{newline}
 I've become so numb I can't feel you there
 Is everything what you want me to be
 I've become so numb I can't feel you there

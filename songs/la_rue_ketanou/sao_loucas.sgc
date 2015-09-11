@@ -15,13 +15,12 @@
 {define: C frets 0 0 0 3}
 
 {guitar_comment: Intro :  [Gm Gm Dm F] {repeat: 2}}
-
-
+{newline}
 [Gm] Elle pleure son marin
 [Gm] Son marin n'est pas le sien
 [Dm] Elle dit que les vagues sont folles
 [F] Elle dit que les vagues sont folles
-
+{newline}
 [Gm] Quand elle chante le fado
 [Gm] Son chant est un oiseau
 [Dm] Un oiseau qui s'envole
@@ -31,45 +30,41 @@
   [Dm] São loucas,[C] são louca - [Gm]as {repeat: 2}
 {end_of_chorus}
 
-
 [Gm] L'oiseau emporte une prière
 [Gm] Vers une bouteille à la mer
 [Dm] Son adresse c'est le grand large
 [F] Son adresse c'est le grand large
-
+{newline}
 [Gm] Da Rua da Regueira
 [Gm] Au cœur d'Alfama
 [Dm] On dit que la vieille est barge
 [F] On dit que la vieille est [Gm]barge
 
-
 [Gm] Mais dès qu'elle porte le châle
 [Gm] Le silence s'installe
 [Dm] On écoute ses paroles
 [F] On écoute ses paroles
-
+{newline}
 [Gm] Elle pose sur ses reins
 [Gm] Les lignes de ses mains
 [Dm] Qui se remplissent d'alcool
 [F] Qui se remplissent d'al[Gm]cool
 
-
 [Gm] Alors elle ferme les yeux
 [Gm] Elle est seule devant Dieu
 [Dm] Elle n'a peur de personne
 [F] Elle n'a peur de personne
-
+{newline}
 [Gm] E diz que ela fecha os olhos
 [Gm] Sozinha em frente de Deus
 [Dm] A dizer que elas são loucas
 [F] A dizer que elas são lou[Gm]cas
 
-
 [Gm] Elle donne son chagrin
 [Gm] Son chagrin n'est plus le sien
 [Dm] C'est celui de Lisbonne
 [F] C'est celui de Lisbonne
-
+{newline}
 [Gm] Où des femmes portent le noir
 [Gm] Et dans les caisses des guitares
 [Dm] E a saudade qui résonne

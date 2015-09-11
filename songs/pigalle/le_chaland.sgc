@@ -10,11 +10,9 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
 {guitar_comment: Intro : [Am] [G] {repeat: 2}}
-
-
+{newline}
 [Am]À l'auberge du [G]chaland qui passe, il [Dm]boit du café [Am]tasse sur tasse
 [G]Il a des yeux cou[F]leur canal, c'est pas [Am]banal
-
 
 On ne sait pas depuis combien de temps, de jours, d'années exactement
 On sait seulement qu'il attend le chaland
@@ -24,19 +22,16 @@ On sait seulement qu'il attend le chaland
   [F]Pour ce client [G]qui attend le [Am]chaland
 {end_of_chorus}
 
-
 Y'en a qui disent qu'il a souffert au temps d'avant, une vie d'enfer
 Et c'est pour ça qu'il attend le chaland
 
-
 D'autres disent qu'il y croit vraiment, qu'il l'a même vu une nuit devant
 Y'en a plus pourtant depuis longtemps de chalands
-
+{newline}
 Bridge : | [Am] [G] | [Dm] [Am] | [G] [F] | [Am] | {repeat: 2}
-
 
 Un jour on va retrouver son corps dans le canal ou sur le port
 Alors lentement arrivera le chaland
-
+{newline}
 [F]Sur sa table y'aur[G]a plus de fleurs, la patronne aur[Am]a perdu son [G]cœur
 [F]Pour ce client qui [G]attendait le [Am]chaland

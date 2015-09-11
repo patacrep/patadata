@@ -12,7 +12,6 @@
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 {define: E7 frets 0 2 0 1 0 0}
 
-
 Dans son man[D]teau rouge et [A7]blanc
 Sur un traî[G]neau porté par le [A]vent
 Il descen[D]dra par la chemi[G]née
@@ -24,7 +23,6 @@ Petit gar[D]çon, il est l'heure d'[A7]aller se cou[D]cher
   Tout est [Bm]calme, reposé
   Entends-tu les clo[E7]chettes tintinab[A7]uler ?
 {end_of_chorus}
-
 
 Et demain matin, petit garçon
 Tu trouveras dans tes chaussons

@@ -7,20 +7,18 @@
 {define: Am frets X 0 2 2 1 0}
 {define: G frets 3 2 0 0 0 3}
 
-
 C'est dans dix [Am]ans, je m'en [G]i[Am]rai
 J'entends le loup et le renard [G]chan[Am]ter
-
+{newline}
 J'entends le loup, le renard et la be[G]lette
 J'entends le loup et le renard chan[Am]ter {repeat: 2}
 
-
 C'est dans neuf ans, je m'en irai
 La jument de Michao a passé dans le pré
-
+{newline}
 La jument de Michao et son petit poulain
 A passé dans le pré et mangé tout le foin {repeat: 2}
-
+{newline}
 L'hiver viendra, les gars, l'hiver viendra
 La jument de Michao, elle s'en repentira {repeat: 2}
 

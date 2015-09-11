@@ -18,8 +18,7 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 
 [Gm Cm Eb D7 Gm]
-
-
+{newline}
 [Gm]Mon oiseau est triste
 [Cm]Rien d'autre n'existe
 [Eb]Que sa trapéziste
@@ -39,7 +38,6 @@ Pour [Cm]sa petite gazelle
   Et c'est [F]lourd
   Quand on est fait de [Bb]plumes [D7]
 {end_of_chorus}
-
 
 Mon [Gm]ours se tient mal
 Mais c'est [Cm]pas un animal
@@ -62,8 +60,7 @@ Et [D7]la raie au mi[Gm]lieu
 {end_of_chorus}
 
 [Gm Cm Eb D7 Gm] {repeat: 2}
-
-
+{newline}
 [Gm]Mon cœur se déclenche
 Pour [Cm]une souris blanche
 [Eb]Le chat en vacances
@@ -83,7 +80,6 @@ Pour [Cm]une souris blanche
   Et c'est [F]lourd
   Quand on est fait de [Bb]plumes [D7]
 {end_of_chorus}
-
 
 [Gm]Le poisson frétille
 [Cm]Le ver se tortille
@@ -106,8 +102,7 @@ Et [D7]tombe dans la [Gm]rue
 {end_of_chorus}
 
 [Gm Cm Eb D7 Gm] {repeat: 2}
-
-
+{newline}
 [Gm]Quand l'amour est neuf
 [Cm]Quand il est dans l'œuf
 Il [Eb]fait un effet de bœuf

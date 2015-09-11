@@ -14,13 +14,12 @@
 {define: F#7 base-fret 2 frets 0 2 0 1 0 0 special}
 
 {guitar_comment: Intro : [A D G A] {repeat: 2}}
-
-
+{newline}
 [A]Petite rue de [D]Casbah
 Au mi[G]lieu de Ca[A]sa
 [A]Petite brune en[D]roulée d'un drap
 Court au[G]tour de moi[A]
-
+{newline}
 [A]Ses yeux remplis de [D]pourquoi
 Cherchent u[G]ne réponse en [A]moi
 [A]Elle veut vraiment que [D]rien ne soit sûr
@@ -38,13 +37,12 @@ Dans tout [G]ce qu'elle croit
 {end_of_chorus}
 
 {guitar_comment: Bridge : [A D G A]}
-
-
+{newline}
 [A]Et quand tu marches [D]le soir
 Ne [G]trembles pas [A]
 [A]Laisse glisser les [D]mauvais regards
 Qui [G]pèsent sur toi [A]
-
+{newline}
 L'Aziza [A]ton étoile jaune c'est [D]ta peau
 Tu n'as [G]pas le choix [A]
 [A]Ne la porte pas comme [D]on porte un fardeau

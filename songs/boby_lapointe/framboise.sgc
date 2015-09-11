@@ -10,13 +10,12 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: A7 base-fret 5 frets 0 2 0 1 0 0}
 
-
 [Dm]Elle s'appelait Françoise [A Dm]
 Mais on l'[D7]appelait Fram[Gm]boise ! [D7 Gm]
 Une idée de l'adju[A7]dant
 Qui en avait très peu, pour[Dm]tant
 {echo: Des idées} [A Dm]
-
+{newline}
 [Dm]Elle nous servait à boire [A Dm]
 Dans un [D7]bled du Maine-et-[Gm]Loire [D7 Gm]
 Mais ce n'était pas Made[Dm]lon
@@ -31,13 +30,12 @@ D'ailleurs elle était d'An[Dm]tibes !
   Sont les mamelles du Des[Dm]tin !
 {end_of_chorus}
 
-
 Pour sûr qu'elle était d'Antibes !
 C'est plus près que les Caraïbes
 C'est plus près que Caracas
 Est-ce plus loin que Pézenas ?
 Je n'sais pas
-
+{newline}
 Et tout en étant Française
 L'était tout d'même Antibaise
 Et bien qu'elle soit Française
@@ -47,13 +45,12 @@ De la savoir Antibaise
 Moi qui serais plutôt pour
 Quelle avanie !
 
-
 Elle avait peu d'avantages
 Pour en avoir davantage
 Elle s'en fit rajouter
 À l'institut de beauté
 {echo: Ah ah ah !}
-
+{newline}
 On peut, dans le Maine-et-Loire
 S'offrir de beaux seins en poire
 Il y a l'institut d'Angers
@@ -62,13 +59,13 @@ Des plus jeunes aux plus âgés
 On peut presque tout changer
 Excepté ce qu'on ne peut pas
 Quelle avanie !
-
+{newline}
 «Davantage d'avantages
 Avantagent davantage»
 Lui dis-je, quand elle revint
 Avec ses seins Angevins
 {echo: Deux fois dix !}
-
+{newline}
 «Permets donc que je lutine
 Cette poitrine angevine»
 Mais elle m'a échappé

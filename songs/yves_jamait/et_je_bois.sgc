@@ -10,7 +10,6 @@
 {define: B& base-fret 6 frets 0 2 2 1 0 0}
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 
-
 La petite [Dm]clope qui tue le spleen
 Vient de me [Gm]réveiller un air
 Quelques ac[Bb]cords que j'assassine
@@ -26,7 +25,6 @@ D'en avoir [A]apprécié le corps
   {repeat: 2}
 {end_of_chorus}
 
-
 Je divague, je me ratatine
 Je vois mon avenir en vin
 Toutes mes émotions s'avinent
@@ -35,7 +33,6 @@ Sur mes mots je pose mon prose
 Et propose un deal à la Lune
 Que Pierrot nous lâche les choses
 Et qu'il veuille nous laisser sa plume
-
 
 La première fois que je t'ai vue
 J'devais avoir la gueule dans l'cul
@@ -46,12 +43,11 @@ Je ne veux pas y penser
 Fallait-il que tu me baises
 Si bien que je suis resté
 
-
 Le cœur et le corps avachis
 Me voilà donc sans toi chez nous
 Dans des relents de Givenchy
 J'écris des trucs sur le dégoût
-
+{newline}
 Et ce soir si ma muse est brune
 Je voudrais la boire sur lie
 Ne garder d'elle que l'écume

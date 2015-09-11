@@ -13,15 +13,13 @@
 {define: E&dim frets X X 1 2 1 2 special}
 {define: Am/C frets X 3 2 2 1 0 special}
 
-
 {guitar_comment: Intro :  [Am E7 Am E7]}
-
 
 L'[Am]amour est une forte[E7]resse
 Dont [Am]les murs sont faits de pro[Dm]messes
 C'est [Fmaj7]là que dorment les [Ebdim]amants
 Ca[E7]chés de tout, cachés du temps
-
+{newline}
 Et quand leurs lèvres se rejoignent
 C'est tout l'univers qui s'éloigne
 Autour, le silence est parfait
@@ -32,23 +30,21 @@ Comme un instant d'éternité
   [Fmaj7]Tout autour [E7]des a[Am]mants
 {end_of_chorus}
 
-
 L'amour est une forteresse
 Dont les murs sont faits de tendresse
 Aussi fins qu'un papier de soie
 Mais qui ne se déchire pas
-
+{newline}
 La peau et la peau qui se touchent
 Les mots qui naissent sur la bouche
 Disent tout bas comme un secret
 Qu'on peut tout prendre et tout donner
 
-
 L'amour est une forteresse
 Qu'il faut réinventer sans cesse
 Pour qui oublie de la rêver
 Elle disparaît à tout jamais
-
+{newline}
 Si devant vous des amants passent
 Quoiqu'ils se disent ou quoiqu'ils fassent
 Ne vous posez pas de questions

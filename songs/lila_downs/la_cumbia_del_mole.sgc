@@ -9,7 +9,6 @@
 {define: D base-fret 5 frets X 0 2 2 2 0}
 {define: Am base-fret 5 frets 0 2 2 0 0 0}
 
-
 Cuentan que en Oa[Em]xaca, se [B]toma el mezcal con [Em]cafe {repeat: 2}
 Dicen que la [D]hierba, le cura la mala [Em]fe {repeat: 2}
 [Am]A mi me gusta el [Em]mole, mi so[B]ledad me va a mo[Em]ler {repeat: 2}
@@ -31,7 +30,7 @@ Se muele la canela
 Se muele pimienta y clavo
 Se muele la mole entera
 Se muele ...
-
+{newline}
 Se muele ese chocolate
 Se muele también el pan
 Se muele al almendra seca
@@ -40,8 +39,7 @@ Se muele ese chocolate
 Se muele la canela
 Se muele pimienta y clavo
 Se muele la mole entera {repeat: 3}
-
-
+{newline}
 Cuentan que en Oaxaca con agua es el chocolate {repeat: 2}
 Dicen que en la fiesta todito se ha de quemar {repeat: 2}
 Para que haga su manda por la pasión de soledad {repeat: 2}

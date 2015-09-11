@@ -16,8 +16,7 @@
 {define: Em frets 0 4 3 2}
 
 {guitar_comment: Intro : [Bm G Bm G] }
-
-
+{newline}
 Je suis par[Bm]ti gonflé à bloc
 J'ai crevé [G]au premier virage
 Le trou qui [Bm]a troué l'enveloppe
@@ -32,7 +31,6 @@ Punaise, j'é[D]tais gonflé à bloc
 Punaise, j'é[Bm]tais gonflé à bloc
 [Em] [A]
 
-
 Avec une [Bm]nouvelle chambre à air
 Je suis par[G]ti gonflé à bloc
 Je suis par[Bm]ti en marche arrière
@@ -45,11 +43,10 @@ Et pis j'ai [Em]rassemblé mes nerfs
 Punaise, j'é[A]tais gonflé à bloc
 Punaise, j'é[D]tais gonflé à bloc
 Punaise, j'é[Bm]tais gonflé à bloc
-
+{newline}
 [D] [G] [D]
 Punaise, j'é[G]tais gonflé à bloc
 [Em] [A]
-
 
 Je tirais [Bm]une gueule d'assassin
 Je suis par[G]ti gonflé à bloc
@@ -63,13 +60,12 @@ La porte est [Em]tombée sur le chemin
 Punaise, j'é[A]tais gonflé à bloc
 Punaise, j'é[D]tais gonflé à bloc
 Punaise, j'é[Bm]tais gonflé à bloc
-
+{newline}
 [D] [G] [D]
 Punaise j'é[G]tais gonflé à bloc
 [Em] [A] [D] [G]
 [D] [G] [Em] [A]
 [D] [G] [Em] [A]
-
 
 J'ai enten[Bm]du le chant du coq
 Punaise, ça [G]m'a ouvert les yeux
@@ -83,7 +79,7 @@ Et pis j'ai [Em]fait crisser les pneus
 Punaise, j'é[A]tais gonflé à bloc
 Punaise, j'é[D]tais gonflé à bloc
 Punaise, j'é[Bm]tais gonflé à bloc
-
+{newline}
 {guitar_comment: [D] [G] [D] [G]}
 {guitar_comment: [Em] [A] [D] [G]}
 {guitar_comment: [D] [G]}

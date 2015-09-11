@@ -9,70 +9,62 @@
 {define: Em frets 0 2 2 0 0 0}
 {define: D frets X X 0 2 3 2}
 
-
 C'est dans trois [Em]ans, qu'je sou[D]tien[Em]drai
 Une bourse m'a été a[D]ccor[Em]dée
-
+{newline}
 J'commence ma thèse, vive les joies de la re[D]cherche
 J'commence ma thèse et j'me mets à co[Em]der {repeat: 2}
 
-
 C'est dans deux ans, qu'je soutiendrai
 Et deux ou trois papiers va falloir rédiger
-
+{newline}
 Deux ou trois papiers et un petit journal
 De jolies expés et ce serait pas si mal {repeat: 2}
-
+{newline}
 Le temps viendra, les gars, le temps viendra
 Où cette thèse là sera loin derrière moi {repeat: 2}
-
 
 C'est dans un an, qu'je soutiendrai
 Tout n'est pas encore désespéré
-
+{newline}
 J'poursuis ma thèse, vive les joies de la recherche
 J'poursuis ma thèse et j'me mets à coder {repeat: 2}
 
-
 C'est dans six mois, qu'je soutiendrai
 Va falloir penser à rédiger
-
+{newline}
 Deux ou trois papiers et un petit journal
 De jolies expés et ce serait pas si mal {repeat: 2}
-
+{newline}
 Le temps viendra, les gars, le temps viendra
 Où cette thèse là sera loin derrière moi {repeat: 2}
-
 
 C'est dans trois mois, qu'je soutiendrai
 Ça y'est je crois qu'j'vais déprimer
-
+{newline}
 J'rédige ma thèse, vive les joies de la recherche
 J'rédige ma thèse et j'arrête de coder {repeat: 2}
 
-
 C'est dans un mois, qu'je soutiendrai
 Tous mes travaux ont été rejetés
-
+{newline}
 Mes deux ou trois papiers et mon petit journal
 Et mes jolies expés n'avaient rien d'original {repeat: 2}
-
+{newline}
 Le temps viendra, les gars, le temps viendra
 Où cette thèse là sera loin derrière moi {repeat: 2}
 
-
 C'est pas demain, qu'je soutiendrai
 Mais il faut bien persévérer
-
+{newline}
 J'corrige ma thèse, vive les joies de la recherche
 J'corrige ma thèse et j'reprends mes expés {repeat: 2}
 
-
 Je n'sais pas si je soutiendrai
 Mais au moins j'aurai essayé
-
+{newline}
 Avec deux ou trois papiers et un petit journal
 Et de jolies expés que j'trouvais pas si mal {repeat: 2}
-
+{newline}
 Un jour viendra, les gars, un jour viendra
 Où j'laisserai derrière moi ce fichu doctorat {repeat: 2}

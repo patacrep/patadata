@@ -12,8 +12,7 @@
 {define: C7 frets X 3 2 0 0 0 special}
 
 {guitar_comment: Intro : [Am E7sus4 Cmaj7add6 E7sus4] {repeat: 2}}
-
-
+{newline}
 [Am]Les yeux [E7sus4]au [C6]ciel
 Les nuages [E7sus4]blancs dans le bleu par[Am]fait
 Nulle trace de [E7sus4]Dieu au [C6]ciel
@@ -31,7 +30,6 @@ Où chaque se[E7sus4]conde
   En sang et en [E7sus4]eau [E]
 {end_of_chorus}
 
-
 Je jette au ciel
 Ces galets polis que tu peignais en vert
 Mais nulle réponse du ciel
@@ -48,7 +46,6 @@ Est une poignée de terre
   Vois ce que je perds en sang et en eau
   En sang et en eau
 {end_of_chorus}
-
 
 J'espère qu'au ciel
 Des diables malins coupent aux anges leurs ailes

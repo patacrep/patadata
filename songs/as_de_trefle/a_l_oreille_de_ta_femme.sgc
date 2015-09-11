@@ -14,10 +14,9 @@
 {define: C frets 0 0 0 3}
 {define: G frets 0 2 3 2}
 
-
 [Em]Je me présente j'suis l'nouveau [Bm]mec de ta copine
 [C]Elle est pas tendre tu sais quand [G]elle parle de toi
-
+{newline}
 [Em]Ta Playstation, ta caisse, tes [Bm]vacances au camping
 [C]Ta collection de DVD de [G]karaté chinois
 [Em]Tes trophées de pétanque, trô[Bm]nant dans la vitrine
@@ -33,7 +32,6 @@
   {repeat: 2}
 {end_of_chorus}
 
-
 [Em]Tous les vendredis soir au [Bm]milieu du parking
 [C]Assise sur le capot de [G]ton Opel Astra
 [Em]Elle observait lequel a [Bm]le plus beau jogging
@@ -42,9 +40,8 @@
 [C]Toi tu portais ton beau maillot de [G]David Ginola
 [Em]Elle s'endormait devant un [Bm]docu sur Chaplin
 [C]Toi tu zappais sur le très beau Grand [G]prix du Canada
-
+{newline}
 {guitar_comment:  [Em Bm C C] [Em Bm C G] {repeat: 2}}
-
 
 [Em]Elle qu'aimait la peinture, sur[Bm]tout Klimt et Soutine
 [C]Ce sculpteur norvégien à [G]la galerie d'en bas

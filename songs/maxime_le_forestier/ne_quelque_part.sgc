@@ -12,8 +12,7 @@
 {define: A frets X 0 2 2 2 0}
 
 {guitar_comment: Intro : [Em C D Am] {repeat: 2}}
-
-
+{newline}
 [Em]On choisit pas ses pa[C]rents
 On choisit pas sa fa[D]mille [Am]
 [Em]On choisit pas non [C]plus
@@ -21,12 +20,11 @@ Les trottoirs de Ma[D]nille
 De Paris ou d'Al[Am]ger
 Pour apprendre à mar[Em]cher [Am]
 Être né quelque [D]part [Am]
-
+{newline}
 [Em]Être né quelque [Am]part
 Pour celui qui est né
 [D]C'est toujours un ha[Am]sard
 [Em]Nom'inq[A]wando yes qwag iqwaha[Em]sa [A] {repeat: 2}
-
 
 [Em]Y'a des oiseaux de basse [C]cour
 Et des oiseaux de pas[D]sage [Am]
@@ -35,7 +33,7 @@ Qu'ils rentrent de vo[D]yage
 Ou qu'ils restent chez [Am]eux
 Ils savent où sont leur [Em]œufs [Am]
 Être né quelque [D]part [Am]
-
+{newline}
 [Em]Être né quelque [Am]part
 C'est partir quand on veut
 [D]Revenir quand on [Am]part
@@ -54,7 +52,6 @@ C'est partir quand on veut
   [C]Abantwana ba[Am]yagxu[D]ma, [C]becahse[Am]lana be[D]xoxa
 {end_of_chorus}
 
-
 [Em]On choisit pas ses pa[C]rents
 On choisit pas sa fa[D]mille [Am]
 [Em]On choisit pas non [C]plus
@@ -62,7 +59,7 @@ Les trottoirs de Ma[D]nille
 De Paris ou d'Al[Am]ger
 Pour apprendre à mar[Em]cher [Am]
 Je suis né quelque [D]part [Am]
-
+{newline}
 [Em]Je suis né quelque [Am]part
 Laissez moi ce repère
 [D]Ou je perds la mé[Am]moire

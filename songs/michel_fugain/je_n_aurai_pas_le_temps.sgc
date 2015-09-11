@@ -14,7 +14,6 @@
 {define: D frets X X 0 2 3 2}
 {define: A frets X 0 2 2 2 0}
 
-
 [C]Même [G]en cou[C]rant
 [C]Plus [G]vite que le [C]vent
 Plus vite que le [G]temps
@@ -24,7 +23,6 @@ Plus vite que le [G]temps
   Je n'au[G]rai pas le [C]temps
   [G]Pas le [C]temps
 {end_of_chorus}
-
 
 De visiter
 Toute l'immensité
@@ -43,8 +41,7 @@ Même en cent ans
 [A]Et tant de [D]pleurs
 Des mill[G]iers de [D]jours
 [A]C'est bien trop [D]court {repeat: 2}
-
-
+{newline}
 Et pour aimer
 Comme l'on doit aimer
 Quand on aime vraiment

@@ -13,8 +13,7 @@
 {define: A7/C# frets X 4 2 0 2 0 special}
 
 {guitar_comment: Intro:  [Em C Cm B Em C Cm Em] {repeat: 2}}
-
-
+{newline}
 Mon blues a déjan[Em]té sur ton corps anima[C]l
 Dans cette chambre où les [Am]nuits durent pas plus d'un quart d'heur[Em]e
 Juste après le péage assurer l'extra-bal[C]l
@@ -34,8 +33,7 @@ Tu m'dis reprends ton [Am]fric aujourd'hui c'est gratui[Em]t
 {end_of_chorus}
 
 {guitar_comment:  [Em C Cm B Em C Cm Em]}
-
-
+{newline}
 Tu m'arraches mon ar[Em]mure dans un geste un peu lour[C]d
 En me disant re[Am]viens maint'nant je te connai[Em]s
 Tu m'rappelles mes amants rue Barrée à Hambour[C]g
@@ -44,9 +42,8 @@ Tu m'rappelles mes a[Cm]mants perdus dans la tempêt[G]e
 Avec le cœur nau[A7/C#]frage au bout des bars de nui[C]t
 Et tu me dis re[A7/C#]viens je suis ton jour de fêt[C]e
 Reviens jouir mon a[Am]mour dans ma bouche agoni[Em]e
-
+{newline}
 {guitar_comment:  [Em C Cm B Em C Cm Em]}
-
 
 Le blues a dégra[Em]fé nos cœurs de cannibale[C]s
 Dans ce drame un peu [Am]triste où meurent tous les Shakespea[Em]re

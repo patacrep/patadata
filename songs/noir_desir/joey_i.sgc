@@ -9,8 +9,7 @@
 {define: A frets X 0 2 2 2 0}
 
 {guitar_comment: Intro : [Bm]}
-
-
+{newline}
 [Bm]Joey est affalé, tournant les mouches
 Le souffle du soir aime comme il tord la bouche
 Il y a trois déserts à traverser encore
@@ -19,7 +18,6 @@ Et une pendaison à réussir d'abord
 {start_of_chorus}
   [G]Quelle étrange pensée [A]a ... Joe[Bm]y ?
 {end_of_chorus}
-
 
 [Bm]Tu dormais Joey ou étais-tu éveillé ?
 Penses-tu quitter la vie sans t'en aller ?
@@ -33,7 +31,6 @@ Ou est-ce de la transe dont tu as besoin ?
 [Bm]Servir un Mezcal [A]
 Oh oublier son [G]nom [A]... Joe[Bm]y
 {end_of_bridge}
-
 
 [Bm]Joey a traversé tous les souterrains
 Les nymphes et la folie glissées sous ses reins

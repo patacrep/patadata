@@ -14,13 +14,12 @@
 {define: Gm frets 0 2 3 1}
 
 {guitar_comment: Intro :  [Dm Bb A Dm A Dm]}
-
-
+{newline}
 Une vieille deux chevaux qui [Dm]tousse
 Déversait des prospec[Bb]tus
 «Ce soir vingt heures, venez [A]tous
 Entrez au Lacrymal Cir[Dm]cus !» [A Dm]
-
+{newline}
 J'étais seul et je cher[A]chais
 Un abri contre la [Dm]bruine
 J'ai pris ma place au gui[A]chet
@@ -39,12 +38,11 @@ D'une roulotte qui tombe en [Dm]ruine [A Dm]
   Et j'ai [A]froid...
 {end_of_chorus}
 
-
 Un vieux lion à bout de [Dm]force
 A cligné trois fois des [Bb]yeux
 Il me disait, je crois, en [A]morse :
 «J'peux pas sauter j'ai peur du [Dm]feu !» [A Dm]
-
+{newline}
 Puis un clown neurasthé[A]nique
 A pleuré sur mon é[Dm]paule :
 «J'ai beau faire mes gags scé[A]niques

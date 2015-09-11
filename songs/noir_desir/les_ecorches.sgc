@@ -9,8 +9,7 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 
 {partition: les_ecorches.ly}
-
-
+{newline}
 [Am]Emmène-moi danser
 Dans les dessous
 Des villes en folie
@@ -28,7 +27,6 @@ Pourquoi nous entrelaçons-nous ?
   [F]Pour les écorchés vifs [G]
   On en a des sévices [Am]
 {end_of_chorus}
-
 
 [Am]Allez enfouis-moi
 Passe-moi par dessus tous les bords
@@ -53,7 +51,6 @@ On a enfoncé les vis ...
   [F]Nous les écorchés vifs [G]
   On en a des sévices [Am]
 {end_of_chorus}
-
 
 Oh [Am]mais non rien de grave
 Y'a nos hématomes crochus qui nous

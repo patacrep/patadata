@@ -12,7 +12,6 @@
 {define: G frets 3 2 0 0 0 3}
 {define: B& base-fret 1 frets X 0 2 2 2 0}
 
-
 [C]Malgré le blouson clouté
 Sur [C]mes épaules de velours
 [C]J'aimerais bien parfois chanter
@@ -28,7 +27,6 @@ Par[G]tage mon cassoulet
   Oh oh [C]oh
 {end_of_chorus}
 
-
 [C]Faut dire qu'elle mérite bien
 Qu'j'y [C]consacre une chanson
 [C]Vu que j'suis amoureux d'elle
@@ -37,7 +35,7 @@ Un [Dm]peu comme dans les films
 Quand [C]le héros y [Am]meurt
 [D]Dans les bras d'une infirmière
 Qu'est [G]très belle et qui pleure
-
+{newline}
 [C]Et puis elle est balancée
 Un [C]peu comme un Mayol
 [C]Tu sais bien les statues
@@ -47,7 +45,6 @@ Ex[C]hibent leurs gui[Am]bolles
 [D]Et se gèlent le cul
 [G]Et le reste aussi
 
-
 [C]Pis faut dire qu'elle a les yeux
 [C]Tellement qu'y sont beaux
 [C]On dirait bien qu'y sont bleus
@@ -56,7 +53,7 @@ On [Dm]dirait des calots
 J'i[C]magine des tas de [Am]choses
 [D]Que je réalise plus tard
 Quand [G]on se retrouve tout seul
-
+{newline}
 [C]Si tu dis qu'elle est moche
 Tu [C]y manques de respect
 [C]Je t'allonge une avoine
@@ -65,12 +62,11 @@ Ce [Dm]sera pas du cinoche
 Comme [C]je suis très ja[Am]loux
 [D]Je t'éclate la cervelle
 [G]Faut rien dire du tout
-
+{newline}
 {guitar_comment: Accordéon}
 [C C C Dm Fm C Am D G]
 
 {partition: Ma_gonzesse.ly}
-
 
 [C]J'aimerais bien un d'ces jours
 Y [C]coller un marmot

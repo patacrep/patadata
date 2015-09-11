@@ -19,31 +19,27 @@
 {define: D& base-fret 9 frets 0 2 2 1 0 0 special}
 
 {guitar_comment: Intro: | [Eb] [E] [F] | [Eb*] [E*] [F*] |  {repeat: 2}}
-
-
+{newline}
 [C]After all the [Bb]jacks are in their [F**]boxes
 [C]And the clowns have [Bb]all gone to [F**]bed
 [C]You can hear happiness [Bb]staggering on [F**]down the street
 [G]Footsteps [Bb*]dressed in [Eb]red[E][F]
 [G]And the [Bb*]wind whispers [Eb]Mary[E][F] [Eb*][E*][F*]
 
-
 A broom is drearily sweeping
 Up the broken pieces of yesterday's life
 Somewhere a queen is weeping
 Somewhere a king has no wife
 And the wind cries Mary
-
+{newline}
 | [F] [Eb] | [Bb*] [Ab] |  {repeat: 3}
 | [G] | [Bb*] | [Db] | [F] |
-
 
 The traffic lights turn blue tomorrow
 And shine the emptiness down on my bed
 The tiny island sags downstream
 Cause the life that lived is dead
 And the wind screams Mary
-
 
 Will the wind ever remember
 The names it has blown in the past

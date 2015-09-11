@@ -12,7 +12,6 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: C frets X 3 2 0 1 0}
 
-
 [F]On a placé la [G]France
 [Am]Sous vidéo survei[F]llance
 [Em]Kidnappée, l'[Am]insouciance
@@ -31,7 +30,6 @@
   Comme, comme, comme le ca[G]fard sous un é[Am]vier
 {end_of_chorus}
 
-
 On a plongé la France
 Dans la bêtise et l'ignorance
 Étouffée, l'intelligence
@@ -49,7 +47,6 @@ Qui va censurer la connerie ?
   Plutôt que d'être sans intérêt
   Comme, comme, comme un ciel triste et tempéré
 {end_of_chorus}
-
 
 On a connu en France
 L'insurrection, la résistance
@@ -73,7 +70,6 @@ Qui sème la haine, récolte le feu
   Je, je, je n'veux pas jaunir avant l'âge
 {end_of_chorus}
 
-
 spoken
 parlé
 Alors écoute ça !
@@ -81,12 +77,12 @@ Not' civilisation ne cesse de s'enfoncer
 Matériels uniquement, sont les progrès
 Les richesses humaines en bourse ne sont pas cotées
 Méprisées, gaspillées depuis tant d'années
-
+{newline}
 L'exemple Américain partout s'est imposé
 Mais sur la route du Paradis le diable peut-il nous guider ?
 Le monde qu'ils construisent n'sort pas des studios Disney
 Apocalypse Now serait plus approprié
-
+{newline}
 Espérer, me semble de plus en plus dur
 Tant j'ai l'impression qu'on fonce direct dans le mur
 Pour dire vrai, et pour conclure

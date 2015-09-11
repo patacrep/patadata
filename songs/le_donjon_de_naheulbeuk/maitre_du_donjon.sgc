@@ -14,12 +14,11 @@
 {define: Gm7 base-fret 3 frets 0 2 0 0 0 0 special}
 {define: Em frets 0 2 2 0 0 0}
 
-
 [Dm] Après de nombreuse aventures
 Qui s'étaient [C]très mal termi[Dm]nées [C Dm]
 [Dm] J'étais lassé de mon armure
 J'étais las[C]sé de voya[Dm]ger [C F]
-
+{newline}
 [F] On m'avait parlé d'un donjon
 Caché dans une sombre fo[C]rêt
 [Bb] Avec oubliette et pri[C]son
@@ -32,12 +31,11 @@ Salle de torture et jardi[Dm]net
   [Bb] Je serai maître [C] du don[Dm]jon
 {end_of_chorus}
 
-
 [Dm] C'était vraiment une bonne affaire
 Un donjon [C]garni clé en [Dm]main [C Dm]
 [Dm] Les pièges neufs de l'année dernière
 Des monstres [C]dans les souter[Dm]rains [C F]
-
+{newline}
 [F] Dans le salon un coffre-fort
 Sans plus attendre, t'as si[C]gné
 [Bb] Dans ton esprit, un seul re[C]mord
@@ -50,12 +48,11 @@ Tu n'avais pas tout visi[Dm]té
   [Bb] C'est moi le maître [C] du don[Dm]jon
 {end_of_chorus}
 
-
 [Dm] Enfin ce fut l'installation
 Je n'étais [C]plus aventu[Dm]rier [C Dm]
 [Dm] J'ai vite planqué tout mon pognon
 Dans le coffre [C]en acier trem[Dm]pé [C F]
-
+{newline}
 [F] J'actionnai les pièges à l'entrée
 Et m'allongeai sur des cous[C]sins
 [Bb] J'allais enfin dormir en [C]paix
@@ -68,7 +65,6 @@ C'était sans compter les [Dm]gobelins
   [Bb] C'est moi le maître [C] du don[Dm]jon
 {end_of_chorus}
 
-
 [Am] Tes pièces d'or avaient disparu
 Tu courus [G]prendre mon é[Am]pée
 [Am] {echo: Mes pièces d'or avaient disparu}
@@ -77,7 +73,7 @@ Tu courus [G]prendre mon é[Am]pée
 Hurlant de [G]rage et meurtri[Am]er
 [Am] {echo: Puis je sortis à moitié nu}
 {echo: Hurlant de [G]rage et meurtri[Am]er}
-
+{newline}
 [C] Les cuisines étaient dévastées
 Fallait voir l'état des pri[Gm7]sons
 {echo: Le personnel de nettoyage}
@@ -85,12 +81,11 @@ Fallait voir l'état des pri[Gm7]sons
 [Gm7] Ces peaux vertes allaient dégus[C]ter
 C'était sans compter les [Dm]scorpions
 
-
 [Am] Dans l'ombre de mes souterrains
 J'avais glis[Em]sé dans les scor[Am]pions [Em Am]
 [Am] Je sautillais comme crétin
 Pour qu'ils dé[Em]gagent de mon cale[Am]çon [Em C]
-
+{newline}
 [C] Reprenant ma course effrénée
 J'étais juste sur leurs ta[Gm7]lons
 [Gm7] J'allais enfin les rattra[C]per
@@ -103,12 +98,11 @@ C'était sans compter le [Dm]démon
   [Bb] C'est lui le maître [C] du don[Dm]jon
 {end_of_chorus}
 
-
 [Dm] Descendant plus bas dans les caves
 J'entendis [C]des gens psalmo[Dm]dier [C Dm]
 [Dm] Un démon la gueule pleine de bave
 Hurla que [C]je sois sacri[Dm]fié [C F]
-
+{newline}
 [F] Tant pis pour l'or et les gobelins
 Sans plus attendre, j'ai fi[C]lé
 [Bb] Je repartais sur les che[C]mins

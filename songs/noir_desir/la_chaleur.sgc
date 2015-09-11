@@ -8,7 +8,6 @@
 {define: C frets X 3 2 0 1 0}
 {define: D frets X X 0 2 3 2}
 
-
 [Em]C'est le soir et le vent s'est levé [C] [D]
 [Em]Dans les ruelles ou la poussière vole [C] [D]
 [Em]Ah, c'est l'heure où vont danser [C] [D]
@@ -17,7 +16,6 @@
 {start_of_chorus}
   C'est un [D]endroit où l'on voit courir dans les veines[C]... cette [Em]chaleur
 {end_of_chorus}
-
 
 [Em]Et Marie aiguise son regard [C] [D]
 [Em]Elle a vu ce qui vient de nulle part [C] [D]
@@ -28,7 +26,6 @@
   Oh mais [D]on n'sent pas la douleur, sinon dans les cœurs [C]... cette [Em]chaleur
 {end_of_chorus}
 
-
 [Em]C'est ce démon dans son [C]sang [D]à [Em]elle [C] [D]
 [Em]Qui a rongé lente[C]ment [D]ses [Em]ailes [C] [D]
 [Em]Ah, c'est dans le [C]ven[D]tre [Em]là [C] [D]
@@ -38,10 +35,9 @@
   Dans cet [D]endroit où on laisse aller [C]... elle se [Em]lève
 {end_of_chorus}
 
-
 Et prend son arme si blanche
 C'est pour
-
+{newline}
 [Em]Crever le corps de ce [C]fils [D]de [Em]pute
 [Em]Si blanc pendant [C]qu'il [D]en [Em]est
 [Em]Encore temps, allez [C]res[D]pire [Em]bien

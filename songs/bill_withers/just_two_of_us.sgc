@@ -13,8 +13,7 @@
 {define: G7 frets 3 2 0 0 0 1}
 
 {guitar_comment: Intro:  [C B7 G* A7 Cm G7 Em Em7] {repeat: 2}}
-
-
+{newline}
 [C]I see the [B7]crystal rain drops [Em]fall
 And the [G]beauty of it [C]all
 Is when the [B7]sun comes shining [Em]through[Em7]
@@ -33,7 +32,6 @@ And I want to [B7]spend some time with [Em]you
 [C][B7][G*][A7] [Cm] [G7] [Em][Em7]{repeat: 2}
 {end_of_bridge}
 
-
 We look for love
 No time for tears
 Wasted water's all that is
@@ -41,7 +39,6 @@ And it don't make no flowers grow
 Good things might come to those who wait
 But not for those who wait too late
 We've got to go for all we know
-
 
 I hear the crystal raindrops fall on the window down the hall
 And it becomes the morning dew

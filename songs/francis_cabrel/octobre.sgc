@@ -11,13 +11,12 @@
 {define: B base-fret 2 frets X 0 2 2 2 0}
 {define: F#m base-fret 2 frets 0 2 2 1 0 0}
 
-
 [E]Le vent fera craquer les [A]branches
 La brume [E]viendra dans sa robe [A]blanche
 Y'aura [C#m]des feuilles partout
 Couchées [F#7]sur les cailloux
 Oc[A]tobre tiendra sa revanche
-
+{newline}
 [E]Le soleil sortira à [A]peine
 Nos corps se [E]cacheront sous des bouts de [A]laines
 Perdue [C#m]dans tes foulards
@@ -33,7 +32,6 @@ Oc[A]tobre endormi aux fon[E]taines
   Et des [B]nappes en couleurs
   Pour ne [C#m]pas qu'Octobre [A]nous prenne [F#m]
 {end_of_chorus}
-
 
 [E]On ira tout en haut des col[A]lines
 Regarder [E]tout ce qu'Octobre illu[A]mine
@@ -54,13 +52,12 @@ De[A]vant le monde qui s'incline
   Pour ne [C#m]pas qu'Octobre [A]nous prenne [F#m]
 {end_of_chorus}
 
-
 [E]Et sans doute on verra appa[A]raître
 Quelques [E]dessins sur la buée des fe[A]nêtres
 Vous, vous [C#m]jouerez dehors
 Comme les [F#7]enfants du nord
 Oc[A]tobre restera peut-être
-
+{newline}
 [E A]
 [E A]
 Vous, vous [C#m]jouerez dehors

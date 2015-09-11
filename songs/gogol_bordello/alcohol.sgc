@@ -11,7 +11,6 @@
 {define: E frets 0 2 2 1 0 0}
 {define: C frets X 3 2 0 1 0}
 
-
 [Am]Yeah, oh [G]yeah, you [F]seen me [E]walk
 On burning [Am]bridges
 Yeah, oh yeah, you seen me fall
@@ -36,7 +35,6 @@ All of your lovely sieges
   For everything you've done
 {end_of_chorus}
 
-
 I am sorry some of us
 Given you bad name
 Yeah, oh yeah, cause without you
@@ -46,7 +44,6 @@ Every time we break up
 Just to hit a higher note
 Every time we make up
 
-
 Who is crawlin' up my spine
 {echo: Alcohol}
 I was waiting long long time
@@ -55,7 +52,7 @@ Now you teach me how to rhyme
 {echo: Alcohol}
 Just don't stab me in the back
 With a cortisol
-
+{newline}
 Now forever reunite
 {echo: Alcohol}
 Now you teach me how to rhyme

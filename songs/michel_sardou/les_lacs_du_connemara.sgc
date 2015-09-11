@@ -31,14 +31,13 @@
 {define: B&7 base-fret 1 frets X 0 2 0 2 0}
 {define: E&m frets 0 0 1 3 4 2}
 
-
 [F]Terre brûlée, au vent des [Bb]landes de [F]pierre
 Autour des lacs, c'est [C]pour les vi[Dm]vants
 Un peu d'enfer le Connema[C]ra
 [Gm]Des nuages noirs qui [D7]viennent du [Gm]nord
 Colorent la terre, les [D7]lacs les ri[Gm]vières
 C'est le décor du Connema[C]ra
-
+{newline}
 [F]Au printemps suivant le [Bb]ciel irlan[F]dais
 Était en paix Mau[C]reen a plon[Dm]gé
 Nue dans un lac du Connema[C]ra [D7]
@@ -63,14 +62,13 @@ Et de quoi boire trois jours et deux [Eb]nuits [B7]
   [C#m]Et que la fo[F#m]lie, ça se [E]dan[B7]se
 {end_of_chorus}
 
-
 [D]Terre brûlée, au vent des [G]landes de [D]pierre
 Autour des lacs, c'est [A]pour les vi[Bm]vants
 Un peu d'enfer le Connema[A]ra
 [Em]Des nuages noirs qui [B7]viennent du [Em]nord
 Colorent la terre, les [B7]lacs les ri[Em]vières
 C'est le décor du Connema[A]ra
-
+{newline}
 [D]On y vit encore au [G]temps des Ga[D]ëls
 Et de Cromwell, au [A]rythme des [Bm]pluies
 Et du soleil, au pas des che[A]vaux [B7]

@@ -15,7 +15,6 @@
 {define: C# base-fret 1 frets 0 0 0 3}
 {define: Cm frets 0 3 3 3}
 
-
 [Fm]On me dit que [D#]je suis pares[G#]seux
 [Fm]Que je ne fais [D#]que ce que je [G#]veux
 [Fm]C'est à dire, [D#]pas grand-chose
@@ -27,7 +26,6 @@
   [Fm]Je n'ai que deux [G#]pieds
   [D#]Franchement déso[Fm]lé
 {end_of_chorus}
-
 
 [Fm]La vaisselle [D#]envahit l'é[G#]vier
 [Fm]Et le linge dé[D#]borde du pa[G#]nier
@@ -42,8 +40,7 @@
 {end_of_chorus}
 
 [D# G# Cm Fm]
-
-
+{newline}
 [Fm]Dans la rue il [D#]y a des tra[G#]vaux
 [Fm]Et moi j'aime re[D#]garder les tra[G#]vaux
 [Fm]On me dit : «[D#]du balai
@@ -55,7 +52,6 @@
   [Fm]Je n'ai que deux [G#]pieds
   [D#]Franchement déso[Fm]lé
 {end_of_chorus}
-
 
 [Fm]Elle me dit que [D#]je suis en re[G#]tard
 [Fm]Que je me coiffe [D#]avec un pé[G#]tard

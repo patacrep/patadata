@@ -11,8 +11,7 @@
 {define: Em frets 0 2 2 0 0 0}
 
 {guitar_comment: Intro:  [G D C D] {repeat: 2}}
-
-
+{newline}
 [G] My name is [D]Luka
 [C] I live on the [D]second floor
 [G] I live ups[D]tairs from you
@@ -23,7 +22,6 @@
   [Em] Some kind of [D]trouble, some kind of fight
   [C] Just don't [D]ask me what it was {repeat: 3}
 {end_of_chorus}
-
 
 I think it's because I'm clumsy
 I try not to talk too loud
@@ -37,8 +35,7 @@ I try not to act too proud
 {end_of_chorus}
 
 {guitar_comment:  [G D C D] {repeat: 2}}
-
-
+{newline}
 Yes I think I'm okay
 I walked into the door again
 Well, if you ask that's what I'll say
@@ -49,7 +46,6 @@ And it's not your business anyway
   With nothing broken, nothing thrown
   Just don't ask me how I am {repeat: 3}
 {end_of_chorus}
-
 
 My name is Luka
 I live on the second floor

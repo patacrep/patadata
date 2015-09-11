@@ -20,12 +20,11 @@
 {define: Am7 frets X X 2 0 1 0 special}
 {define: Em7 frets X X X 0 3 0 special}
 
-
 Tomber du [Dm]ciel
 À travers les [Am]nuages
 Quel heureux pré[Bb]sage [Am]
 [Gm]Pour un aiguilleur [Am]du ciel
-
+{newline}
 Tomber du [Dm]lit
 Fauché en plein [Am]rêve
 Frappé par le [Bb]glaive [Am]
@@ -46,12 +45,11 @@ Frappé par le [Bb]glaive [Am]
   Com[Bb]ment peut-on tomber plus [A7]mal
 {end_of_chorus}
 
-
 Tomber du [Dm]ciel
 Rebelle aux lou[Am]anges
 Chassé par les [Bb]anges [Am]
 [Gm]Du paradis [Am]originel
-
+{newline}
 Tomber [Dm]d'sommeil
 Perdu connai[Am]ssance
 Retomber en en[Bb]fance [Am]
@@ -123,18 +121,17 @@ Retomber en en[Bb]fance [Am]
 
 [G4]Tomber sur un jour de chance [G4 Am7]
 [G4]Tomber par inadvertance, [Em7]amoureux
-
-
+{newline}
 Tomber à [Dm]terre
 Pour la fille qu'on [Am]aime
 Se relever in[Bb]demne [Am]
 [Gm]Et retomber [Am]amoureux
-
+{newline}
 Tomber sur [Dm]toi
 Tomber en pâ[Am]moison
 Avaler la [Bb]ciguë [Am]
 [Gm]Goûter le poi[C]son qui tue
-
+{newline}
 [F]L'amour [C Dm C Bb F Gm]
 [C]L'amour encore et [F]toujours
 [C Dm C Bb F Bb F Bb A7]

@@ -15,7 +15,6 @@
 
 {partition: Etoiles_filantes-1.ly}
 
-
 Si je m'[Am]arrête un instant
 Pour te [G]parler de ma vie
 Juste comme [Em]ça tranquillement
@@ -24,7 +23,7 @@ J'te ra[Am]conterai les souvenirs
 Bien gra[G]vés dans ma mémoire
 De cette é[Em]poque où vieillir
 Était en[F]core bien illusoire
-
+{newline}
 Quand j'aga[Am]çais les p'tites filles
 Pas loin [G]des balançoires
 Et que [Em]mon sac de billes
@@ -43,7 +42,6 @@ Juste à [F]temps pour Passe-Partout
 
 {partition: Etoiles_filantes-2.ly}
 
-
 Si je m'[Am]arrête un instant
 Pour te [G]parler de la vie
 Je cons[Em]tate que bien souvent
@@ -52,7 +50,7 @@ Et que [Am]les rêves des ti-culs
 S'évanou[G]issent ou se refoulent
 Dans cette [Em]réalité crue
 Qui nous em[F]barque dans le moule
-
+{newline}
 De la tren[Am]taine, la bedaine
 Les mor[G]veux, l'hypothèque
 Les bon[Em]heurs et les peines
@@ -69,7 +67,6 @@ Un peu [F]avant de mourir
   On s'di[Em]ra que l'on était finale[F]ment ... que des étoiles fi[Am]lantes
 {end_of_chorus}
 
-
 Si je m'[Am]arrête un instant
 Pour te [G]parler de la vie
 Juste comme [Em]ça tranquillement
@@ -78,7 +75,7 @@ C'est qu'a[Am]vec toi je suis bien
 Et que j'ai [G]plus l'goût de m'en faire
 Parce que [Em]t'sais voir trop loin
 C'pas mieux que [F]r'garder en arrière
-
+{newline}
 Malgré les [Am]vieilles amertumes
 Et les [G]amours qui passent
 Les chums [Em]qu'on perd dans l'brume

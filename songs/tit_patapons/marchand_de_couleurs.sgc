@@ -11,7 +11,6 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: C frets X 3 2 0 1 0}
 
-
 Sou[Am]viens-toi de moi, je suis ce[Asus4]lui
 Qui co[Asus2]lorait tes [Am]rêves
 Qui t'ap[Am]portait des [Am7]vagues
@@ -35,7 +34,6 @@ En légères brises
 
 {partition: Marchand_de_couleurs.ly}
 
-
 Moi tou[Am]jours, je t'emmène dans des [F]landes
 Aux [C]parfums su[Am]crés
 À jamais, je te guéris
@@ -44,7 +42,6 @@ Où la fumée des combats
 Reste encore à planer
 Et les braises des feux
 Encore à voler
-
 
 {echo: Souviens-toi de moi}
 Je colorais tes rêves

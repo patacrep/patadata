@@ -14,13 +14,11 @@
 {define: Am frets X 0 2 2 1 0}
 
 {guitar_comment:  Intro:  | [B] | [E] | [A] | [D] |  }
-
-
+{newline}
 [C] Every[G]body's got to l[C]ive tog[F]ether
 [C] All the p[G]eople got to [C]unders[F]tand
 [C] So love your n[G]eighbour like you l[C]ove your b[F]rother
 [G] Come on and join the band
-
 
 [C] Well all you [G]need is love and [C]unders[F]tanding
 [C] Ring the [G]bell and let the [C]people [F]know
@@ -35,7 +33,6 @@
   | [B] | [E] | [A] | [D] |
 {end_of_chorus}
 
-
 [C] Ain't you [G]happy that we're [C]all tog[F]ether
 [C] At the [G]ball in nature's [C]country[F]side
 [C] And alt[G]hough we're wearing [C]different [F]faces
@@ -48,7 +45,6 @@
   And [G]it's so [C]easy
   | [B] | [E] | [A] | [D] | {repeat: 4}
 {end_of_chorus}
-
 
 [C] Well all you [G]need is love and [C]unders[F]tanding
 [C] Ring the [G]bell and let the [C]people [F]know

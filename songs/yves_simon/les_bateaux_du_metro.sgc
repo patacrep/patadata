@@ -9,7 +9,6 @@
 {define: G frets 3 2 0 0 0 3}
 {define: D frets X X 0 2 3 2}
 
-
 [Em] Depuis les [C]balcons de la [Em]ville
 [Em] On voit des [G]grues se balan[D]cer
 [Em] Des fumées [C]des vieux maga[Em]zines
@@ -22,13 +21,11 @@ Des voi[C]tures automo[G]biles
   {repeat: 2}
 {end_of_chorus}
 
-
 [Em] Depuis les [C]balcons de la [Em]ville
 [Em] On entend [G]le bruit des si[D]rènes
 [Em] Des chansons [C]vieilles de la [Em]mer
 [Em] Qui sortent [G]des caves de la [D]Seine
 Des chan[C]sons de mate[G]lots
-
 
 [Em] Depuis les [C]balcons de la [Em]ville
 [Em] On voit des [G]amours se cher[D]cher

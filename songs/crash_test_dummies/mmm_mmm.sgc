@@ -15,8 +15,7 @@
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 
 {guitar_comment: Intro:  [Em Bm Em Bm F G F G] {repeat: 2}}
-
-
+{newline}
 [Am]Once [G]there was this kid[C] who
 [F]Got into an [C]accident and [G]couldn't come to [C]school
 But [F]when he finally [G]came [C]back
@@ -27,7 +26,6 @@ The [Ab]cars had smashed [C4]so [F]hard
 {start_of_chorus}
   [Em]Mmmm [Bm]mmmm [Em]mmmm [Bm]mmmm [F]mmmm [G]mmmm [F]mmmm [G]mmmm {repeat: 2}
 {end_of_chorus}
-
 
 Then there was this girl who
 Wouldn't go to change with the girls in the change room
@@ -40,7 +38,6 @@ They'd always just been there
 [Dm]Both girl and[C] boy were [G]glad
 [Dm]One kid had it [C]worse than [G]that
 {end_of_bridge}
-
 
 'Cause then there was a boy whose
 Parents made him come right home directly after school

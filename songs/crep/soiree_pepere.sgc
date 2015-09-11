@@ -12,7 +12,6 @@
 {define: G base-fret 3 frets 0 2 2 1 0 0}
 {define: E base-fret 5 frets X 2 1 2 X 0}
 
-
 [Am]Enfin une soirée pépère
 Canapé, pizza, une [Dm]bière
 Depuis quand tu vires au [C]bleu ?
@@ -24,45 +23,41 @@ Mon é[E]cran n'est pas si [Am]vieux !
   Tu verras [E] c'que tu ve[Am]rras
 {end_of_chorus}
 
-
 Pourquoi diable trois questions
 Et cinq confirmations ?
 Contente-toi de faire tourner
 Mon dernier DVD
-
+{newline}
 Une histoire de codec ?
 Arrête de m'prendre la tête
 Débrouille-toi tout seul mon vieux
 De toutes façons, je f'rai pas mieux
 
-
 Je farfouille sur internet
 Me faut juste un programme tout bête
 Non j'installerai pas ta toolbar
 Laisse-moi voir mon film peinard
-
+{newline}
 Ça y est cette fois c'est bon
 J'ai toutes les applications
 Double-clic, play, c'est parti
 Ah ben non, t'as pas fini
 
-
 Mise à jour importante
 Non mais est-ce que tu plaisantes ?
 Mais j'vais pas m'faire pirater
 Pendant ma séance ciné
-
+{newline}
 Validée, downloadée
 Confirmer, redémarrer
 Un quart d'heure d'publicité
 Mon film va peut-être commencer
 
-
 Scène d'horreur, même pas peur
 Quand une voix hurle dans mes hauts-parleurs
 «Antivirus mis-à-jour»
 Non mais sans déc, j'suis pas sourd
-
+{newline}
 Encore sous l'choc, j'éteins tout
 Tu m'as rendu complètement fou
 J'm'en vais voir chez les pingouins

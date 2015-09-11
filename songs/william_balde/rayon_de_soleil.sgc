@@ -11,14 +11,12 @@
 {define: A frets X 0 2 2 2 0}
 
 {guitar_comment: Intro : | [G] | [D] | {repeat: 2} }
-
-
+{newline}
 [G]Un rayon de so[D]leil
 Dort sur tes cheveux lo[G]ngs
 Sur nos corps de sei[D]gle
 Et nous joue du v[G]iolon
 {echo: Ouhouhou[D]h}
-
 
 [G]Un rayon de so[D]leil
 Sur le sommeil de pl[G]omb
@@ -31,7 +29,6 @@ Hey babe take a walk on a wil[D]d side
   [D]Ma main sur ton p'tit cul cherche le chemin
   {repeat: 2}
 {end_of_chorus}
-
 
 [G]Un rayon de sole[D]il
 J'embrasse tes pieds sal[G]es
@@ -48,7 +45,6 @@ Si p[D]âle d'émotions
 
 {comment: Chorus}
 
-
 [G]Un rayon de sole[D]il
 Sur ton si beau visa[G]ge
 [G]Aux abeilles se mèl[D]ent
@@ -61,7 +57,6 @@ Knock, knock, knockin' on h[D]eaven's door
   [G]Un matin suspendu aux fleurs de ton jardin
   [E]Ma main sur ton p'tit cul ...
 {end_of_chorus}
-
 
 [A]Un rayon de sole[E]il
 Tu t'rhabilles pour de bo[A]n

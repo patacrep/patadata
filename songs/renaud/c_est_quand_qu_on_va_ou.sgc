@@ -11,12 +11,11 @@
 {define: D frets X X 0 2 3 2}
 {define: B base-fret 2 frets X 0 2 2 2 0}
 
-
 [G]Je m'suis chopé 500 lignes :
 «Je n'dois pas parler en [C]classe»
 [G]Ras l'bol de la discipline
 Y'en a marre, c'est di[Am]goulasse !
-
+{newline}
 [D]C'est même pas moi qui parlais
 [G]Moi j'répondais à Arthur
 [C]Qui m'demandait, en anglais
@@ -29,23 +28,21 @@ Y'en a marre, c'est di[Am]goulasse !
   C'est quand qu'on va [G]où ?» [D]
 {end_of_chorus}
 
-
 C'est quand même un peu galère
 D'aller chaque jour au chagrin
 Quand t'as tellement d'gens sur Terre
 Qui vont pointer chez fout-rien
-
+{newline}
 Avec les d'voirs à la maison
 J'fais ma s'maine de soixante heures
 Non seul'ment pour pas un rond
 Mais en plus pour finir chômeur
 
-
 Veulent me gaver comme une oie
 Avec des matières indigestes
 J'aurai oublié tout ça
 Quand j'aurai appris tout l'reste
-
+{newline}
 Soulève un peu mon cartable
 Il est lourd comme un cheval mort
 Dix kilos d'indispensables
@@ -58,12 +55,11 @@ Théorèmes de Pythagore
   C'est quand qu'on va où ?»
 {end_of_chorus}
 
-
 L'essentiel à nous apprendre
 C'est l'amour des livres qui fait
 Qu'tu peux voyager d'ta chambre
 Autour de l'humanité
-
+{newline}
 C'est l'amour de ton prochain
 Même si c'est un beau salaud
 La haine ça n'apporte rien
@@ -76,12 +72,11 @@ Puis elle viendra bien assez tôt
   C'est quand qu'on va où ?»
 {end_of_chorus}
 
-
 Quand j's'rais grande, j'veux être heureuse
 Savoir dessiner un peu
 Savoir m'servir d'une perceuse
 Savoir allumer un feu
-
+{newline}
 Jouer peut-être du violoncelle
 Avoir une belle écriture
 Pour écrire des mots rebelles
@@ -94,12 +89,11 @@ Pour écrire des mots rebelles
   C'est quand qu'on va où ?»
 {end_of_chorus}
 
-
 Tu dis que si les élections
 Ça changeait vraiment la vie
 Y'a un bout d'temps, mon colon
 Qu'voter ça s'rait interdit
-
+{newline}
 Ben si l'école ça rendait
 Les hommes libres et égaux
 L'gouvernement déciderait

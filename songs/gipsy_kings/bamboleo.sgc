@@ -12,13 +12,12 @@
 {define: D7 frets X X 0 2 1 2}
 {define: Gmaj7 frets 3 2 0 0 0 2 special}
 
-
 [Em]Este amor llega [B7]asi esta ma[Em]nera
 No tiene la [B7]culpa
 Caballo le ven sabana
 Porque muy depreciado
 Por eso no te per[Em]dón de llorar
-
+{newline}
 Este amor llega así esta manera
 No tiene la culpa
 Amor de comprementa
@@ -31,13 +30,12 @@ Bebele, bembele, bembele
   {repeat: 2}
 {end_of_chorus}
 
-
 No tiene pardon de [Am7]dios
 Tu eres mi [D7]vida, la fortuna del des[Gmaj7]tino
 Pero el des[C]tino tendressa [Am]para dos
 Lo mismo yo que [B7]ayer
 Lo mismo soy [Em]yo
-
+{newline}
 No te encuentro al abandon
 Es imposible no te encuentro de verdad
 Por eso un día no cuentro si de nada

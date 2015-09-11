@@ -14,30 +14,27 @@
   {repeat: 2}
 {end_of_chorus}
 
-
 C'est un hérisson, qui piquait, qui piquait
 Et qui voulait qu'on l'caresse-resse-resse
 On l'caressait pas pas-pas-pas-pas
 Non pas parce qu'il piquait pas
 Mais parce qu'il piquait
-
+{newline}
 C'est un hérisson, qui piquait, qui piquait
 Et qui voulait qu'on l'caresse-resse-resse
 On l'caressait pas-pas-pas-pas-pas
 Non pas parce qu'il piquait pas
 Mais parce qu'il piquait
 
-
 Quelle est la fée dans ce livre
 Qui me donnera l'envie d'vivre ?
 Quelle est la petite fille aux yeux bleus
 Qui va m'rendre heureux ?
-
+{newline}
 Quelle est la fée dans ce livre
 Qui lui donnera l'envie d'vivre ?
 Quelle est la petite fille aux yeux bleus
 Qui l'rendra heureux ?
-
 
 Moi, je ne vois que moi
 Il n'y a que moi, dans ce livre là
@@ -45,11 +42,10 @@ Moi, je ne vois que moi
 Il n'y a que moi, dans ce livre la la la la
 La-la-la-la-la-la
 La la-la-la-la-la-la-la-la-la-la-la ...
-
+{newline}
 spoken
 parlé
 Émilie est allée caresser le hérisson
-
 
 Elle n'est plus triste cette chanson
 J'ai caressé le hérisson

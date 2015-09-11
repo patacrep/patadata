@@ -9,12 +9,11 @@
 {define: F base-fret 1 frets 0 2 2 1 0 0}
 {define: E frets 0 2 2 1 0 0}
 
-
 Ce soir [Am]
 Tu t'es couché à neuf heures [G]
 Dans ton p'tit cœur, c'est le bonheur [F]
 Les draps légers te caressent la raie des cheveux [E]
-
+{newline}
 L'immeuble avec toi s'est endormi [Am]
 Seule au troisième, une lueur luit [G]
 Pauvre espagnol sans soleil [F]
@@ -27,34 +26,31 @@ Ramón Pérez n'a pas sommeil [E]
   {repeat: 2}
 {end_of_chorus}
 
-
 Tu [Am]es blonde, il est brun
 Ton corps est [G]beau, il est vilain
 Tu [F]aimes les hommes à fric
 Il gagne sa [E]vie à la fabrique
-
+{newline}
 Quand [Am]tu rentres le soir
 Ramón est [G]là dans l'escalier
 Il [F]est là pour te voir
 Mais tu ne veux [E]pas le regarder
 
-
 Un jour comme tous les jours
 Tu l'as croisé dans l'escalier
 Le regard plein de braises
 Il t'as proposé une bonne bouffe
-
+{newline}
 Chez lui les tentures rouges
 Rivalisaient de saleté
 Les madones dans ce bouge
 Avaient des airs de prostituées
 
-
 Il t'a mise à genoux
 T'a demandé d'faire le taureau
 Il avait l'air d'un fou
 Quand il a mis son sombrero
-
+{newline}
 À coup de banderilles
 Ton petit corps, il mutila
 Que c'est triste pour une fille

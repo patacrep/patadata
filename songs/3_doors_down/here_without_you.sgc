@@ -10,8 +10,7 @@
 {define: G frets 3 2 0 0 0 3}
 
 {guitar_comment: Intro:  [Am F G]}
-
-
+{newline}
 A hundred [Am]days have made me older
 Since the last[G] time that I saw your pretty face [Am F G]
 A thousand [Am]lies have made me colder
@@ -33,8 +32,7 @@ And I [G]don't think I can look at this the same[Am F G]
 {end_of_chorus}
 
 {guitar_comment:  [Am G Am F G]}
-
-
+{newline}
 The [Am]miles just keep rollin'
 As the [G]people leave their way to say he[Am]llo [F G]
 I've heard this [Am]life is overrated
@@ -52,7 +50,6 @@ But I [G]hope that it gets better as we [Am]go [F G]
   [G] But you're still with me in my d[Am]reams
   And t[F]onight, there's [G]only you and me
 {end_of_chorus}
-
 
 [Am] Everything I know,[C] and anywhere I go
 [G] It gets hard but it won't [F]take away my love

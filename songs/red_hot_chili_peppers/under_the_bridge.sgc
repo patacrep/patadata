@@ -16,12 +16,10 @@
 {define: FM7 base-fret 1 frets X 2 1 1 0 X special}
 {define: C frets X 3 2 0 1 0}
 
-
 [E] Sometimes [B]I feel like I [C#m]don't have a [G#m]part[A]ner
 [E] Sometimes [B]I feel like [C#m]my only [A]friend
 Is the [E]city I [B]live in, the city of angels, the [C#m]city of [G#m]an[A]gels
 [E]Lonely as [B]I am [C#m]together we [A]cry [Emaj7]
-
 
 I drive on her streets 'cause she's my companion
 I walk through her hills cause she knows who I am
@@ -36,25 +34,23 @@ I never worried, now that is a lie
   {repeat: 2}
 {end_of_chorus}
 
-
 It's hard to believe that there's nobody out there
 It's hard to believe that I'm all alone
 At least I have her love, the city she loves me
 Lonely as I am together we cry
 
-
 [A]Oh [Am7]no no no, [G6]yeah, [Fmaj7]yeah {repeat: 3}
-
+{newline}
 [A]Under the bridge [C]down-town
 [G6]is where I[Fmaj7] drew some blood
-
+{newline}
 Under the bridge down-town
 I could not get enough
-
+{newline}
 Under the bridge down-town
 Forgot about my love
-
+{newline}
 Under the bridge down-town
 I gave my life away
-
+{newline}
 Oh no no no, yeah, yeah {repeat: 4}

@@ -10,13 +10,12 @@
 {define: A frets X 0 2 2 2 0}
 
 {guitar_comment: Intro : [G E] {repeat: 3} [A B C D C B A]}
-
-
+{newline}
 [G]Quand je te revois Mama [E]Sam [F F#]
 [G]Je retrouve les vraies va[E]leurs [F F#]
 [G]Un si grand cœur une si belle [E]âme [F F#]
 [G]Qui ne se soucie jamais de l'[E]heure [F F#]
-
+{newline}
 [G]Quand je pense qu'elle était comme [E]moi [F F#]
 [G]Issue de ce pays gla[E]cial [F F#]
 [G]Maintenant qu'elle vit au Ken[E]ya
@@ -32,19 +31,17 @@ C'est l'[A B C]africaine [D C B A]occidentale
   Où [E]les [Em E]affreux [Em]n'ont [E]pas [Em E]d'afro[Em]
 {end_of_chorus}
 
-
 Tous ces jeunes américanisés
 Nickés de la tête aux pieds
 Génération très très marquée
 Mama Sam est consternée
-
+{newline}
 A cette époque où faire l'amour
 Est un danger pour l'humanité
 Il est honteux d'afficher Nike
 Sur nos vêtements dégénérés
 
 {guitar_comment: Chorus}
-
 
 Mama Sam cette fois c'est décidé
 M'éloigner de Paname me f'rait le plus grand bien

@@ -13,8 +13,7 @@
 {define: C frets X 3 2 0 1 0}
 
 {guitar_comment: Intro :  [Dm E7 A7 Dm]}
-
-
+{newline}
 [Dm]Chiffon imbibé d'ess[E7]ence
 [A7]Un enfant meurt en si[Dm]lence
 [Bb]Sur le trottoir de Bo[Gm]gotá
@@ -30,7 +29,6 @@
   [Dm]Imbéciles et graba[Gm]taires
   [Bb]Se parta[A7]gent l'Univers
 {end_of_chorus}
-
 
 [Dm]Morts les enfants de Bho[E7]pal
 [A7]D'industrie occiden[Dm]tale
@@ -48,7 +46,6 @@
   [Bb]Se parta[A7]gent l'Univers
 {end_of_chorus}
 
-
 [Dm]Morts les enfants du Sa[E7]hel
 [A7]On accuse le so[Dm]leil
 [Bb]Morts les enfants de Se[Gm]veso
@@ -64,7 +61,6 @@
   [Dm]Imbéciles et tortion[Gm]naires
   [Bb]Se parta[A7]gent l'univers
 {end_of_chorus}
-
 
 [Dm]Mort l'enfant qui vivait [E7]en moi
 [A7]Qui voyait en ce mon[Dm]de-là

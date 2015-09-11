@@ -20,26 +20,24 @@
 {define: G6 frets 0 2 0 2 special}
 
 {guitar_comment: Intro :  [Am Em C C] {repeat: 2} [Am Am Am Am]}
-
-
+{newline}
 [Am] Icitte à soir, y [Em]mouille à siot
 [F] On a donné un [C]pas pire show
 [F] Le motel est pas [C]vraiment swell
 [G] Une chance t'es là pis [C]qu'j'te trouve belle
-
+{newline}
 [Am] J'te regarde dormir comme [Em]un bébé
 [F] C'est platte j'avais en[C]vie d'jaser
 [F] C'pas grave chu habi[C]tué, chérie
 [G] De m'parler tout seul [C]ces temps-ci
-
+{newline}
 {guitar_comment: Bridge :  [Am Em C C]}
-
 
 [Am] Depuis quelqu' semaines j'dors [Em]pu d'mes nuits
 [F] J'ai la tête remplie [C]de bibites
 [F] C'est vrai que j'mène une [C]drôle de vie
 [G] Des fois j'me dis qu'c'est [C]d'la bullshit
-
+{newline}
 [Am]J'aimerais ça pouvoir [Em]me retrouver
 [F] Parce qu'chu mêlé comme [C]ça s'peut pas
 [F] Le monde entier pour[C]rait crever
@@ -57,13 +55,12 @@
 {end_of_chorus}
 
 {guitar_comment: Bridge :  [Am Em C C]}
-
-
+{newline}
 [Am] T'es heureuse ici [Em]qu'tu m'disais
 [F] Loin des gens stressés [C]de Montréal
 [F] Pis y'a ton chum qui est [C]dans l'portrait
 [G] C'est moi l'perdant si [C]j'fais l'total
-
+{newline}
 [Am] Mais fais-toi z'en pas [Em]trop pour moi
 [F] J'en ai vu d'autres, chu un [C]grand garçon
 [F] C'fait longtemps qu'je me fais [C]pu d'fausses joies
@@ -81,13 +78,12 @@
 {end_of_chorus}
 
 {guitar_comment: Bridge :  [Am Em C C Am Am Am Am]}
-
-
+{newline}
 [Am] Sais-tu au moins qu'tu [Em]m'as fais croire
 [F] Qu'il est encore possible [C]d'être heureux ?
 [F] Pis ça c'est c'qu'on ap[C]pelle d'l'espoir
 [G] C'toujours ça de pris quand [C]t'as pas mieux
-
+{newline}
 [Am] T'étais sûrement pas [Em]rien qu'un kik
 [F] Mais là c'pas mal trop [C]compliqué
 [F] Si dans vie y faut [C]prendre des risques

@@ -12,7 +12,6 @@
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 {define: B& base-fret 6 frets 0 2 2 1 0 0}
 
-
 De bon ma[Dm]tin, je suis parti
 Direction [A7]le conserva[Dm]toire
 J'avais [Dm]rendez-vous à la demi
@@ -28,7 +27,6 @@ Ont eu lieu au fond d'un tro[A7]quet
   C'est la pa[Dm]tronne des musicos
   J'vais mettre un [Bb]cierge à [A7]Sainte Cé[Dm]cile {repeat: 2}
 {end_of_chorus}
-
 
 De bon matin, je redémarre
 Cette fois direction le studio
@@ -48,7 +46,6 @@ Alors on s'est rincé la glotte
 
 {partition: Sainte_Cecile.ly}
 
-
 De bon matin me v'là r'parti
 Direction la salle de concert
 J'avais rendez-vous à midi
@@ -65,7 +62,6 @@ On s'est immergé dans l'whisky
   J'vais mettre un cierge à Sainte Cécile
 {end_of_chorus}
 
-
 De bon matin ça recommence
 Rendez-vous chez le producteur
 Pour une fois je suis en avance
@@ -81,7 +77,6 @@ J'étais à cheval sur un nuaze
   C'est la patronne des ménestrels
   J'vais mettre un cierge à Sainte Cécile
 {end_of_chorus}
-
 
 De bon matin je reste au lit
 On n'attaque pas avant ce soir

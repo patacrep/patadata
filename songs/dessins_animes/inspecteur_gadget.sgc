@@ -16,12 +16,11 @@
 {define: G frets 3 2 0 0 0 3}
 {define: C frets X 3 2 0 1 0}
 
-
 [Am]Eh la qui va là ? {echo: In[B7]specteur [E7]Gadget}
 [Am]Eh la ça va pas ? {echo: Ouh [E7]ouh}
 [Am]Oh la je suis là {echo: In[B7]specteur [E7]Gadget}
 [Am G#m Gm F#m F E7 Am]
-
+{newline}
 C'est moi que voilà {echo: Inspecteur Gadget}
 Ça va être la joie {echo: Ouh ouh}
 Au nom de la loi {echo: Moi je vous arrête}
@@ -34,12 +33,20 @@ Je vous arrête là
   {echo: [B7]Oh la} [E7]Élastico-Gadget
 {end_of_chorus}
 
-
 Les bandits sont là {echo: Inspecteur Gadget}
 Ils m'échapperont pas {echo: Ouh ouh}
 Si l'inspecteur fait gaffe {echo: Fait gaffe aux gadgets}
 Qui marchent ou marchent pas
 
+Et puis patatrac {echo: Inspecteur Gadget}
+V'la le chef qu'est là {echo: Ouh ouh}
+Salut chef c'est moi {echo: Inspecteur Gadget}
+Ça n'en finit pas
+{newline}
+Eh la qui va là ? {echo: Inspecteur Gadget}
+Eh la ça va pas ? {echo: Ouh ouh}
+Oh la je suis là {echo: Inspecteur Gadget}
+Oh la oh la loi
 
 Et puis patatrac {echo: Inspecteur Gadget}
 V'la le chef qu'est là {echo: Ouh ouh}
@@ -50,19 +57,7 @@ Eh la qui va là ? {echo: Inspecteur Gadget}
 Eh la ça va pas ? {echo: Ouh ouh}
 Oh la je suis là {echo: Inspecteur Gadget}
 Oh la oh la loi
-
-
-Et puis patatrac {echo: Inspecteur Gadget}
-V'la le chef qu'est là {echo: Ouh ouh}
-Salut chef c'est moi {echo: Inspecteur Gadget}
-Ça n'en finit pas
-
-
-Eh la qui va là ? {echo: Inspecteur Gadget}
-Eh la ça va pas ? {echo: Ouh ouh}
-Oh la je suis là {echo: Inspecteur Gadget}
-Oh la oh la loi
-
+{newline}
 C'est moi que voilà {echo: Inspecteur Gadget}
 Ah ça va être la joie {echo: Ouh ouh}
 Au nom de la loi {echo: Inspecteur Gadget}

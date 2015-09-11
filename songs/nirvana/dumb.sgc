@@ -14,12 +14,11 @@
 {define: B* frets X X 2 4 4 X special}
 {define: C* frets X X 3 5 5 X special}
 
-
 [Em] [Am]I'm not like the[G]m
 But [C]I can prete[Em]nd
 [Am]The sun is go[G]ne
 But [C]I have a lig[Em]ht
-
+{newline}
 [Am]The day is do[G]ne
 But [C]I'm having fu[Em]n
 [Am]I think I'm du[G]mb
@@ -31,12 +30,11 @@ Or [C]maybe just [Em]happy
   [G] Think I'm just [E]happy [G B]
 {end_of_chorus}
 
-
 [Em] [Am]My heart is bro[G]ke
 But [C]I have some glu[Em]e
 [Am]Help me inha[G]le
 And [C]mend it with yo[Em]u
-
+{newline}
 [Am]We'll float arou[G]nd
 And [C]hang out on clou[Em]ds
 [Am]Then we'll come do[G]wn
@@ -58,8 +56,7 @@ Soothe the burn[C*]
 Wake me up
 
 {guitar_comment: Verse & Chorus 1}
-
-
+{newline}
 [Em] [Am]I think I'm du[G]mb
 [C]I think I'm du[Em]mb
 {guitar_comment: ab lib.}

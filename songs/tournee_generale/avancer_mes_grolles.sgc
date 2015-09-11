@@ -11,12 +11,11 @@
 {define: A base-fret 5 frets 0 2 2 1 0 0}
 {define: Gm base-fret 3 frets 0 2 2 0 0 0}
 
-
 [Dm]Fille de choix, loin des bonnes manières
 Autour de [Bb]toi, mon [C]cœur, bri[F]cole
 Des arti[A]fices qui foutent tout en [Dm]l'air
 Pour t'emmener [Bb]dans ma [A]faran[Dm]dole
-
+{newline}
 [Dm]Tu te résignes, persistes et signes
 Que je ne [Bb]suis qu'un [C]pot de [F]colle
 Mais ça n'colle [A]pas, je passe à la [Dm]ligne
@@ -28,34 +27,31 @@ Pour faire [Bb]avan[A]cer mes [Dm]grolles
   {repeat: 2}
 {end_of_chorus}
 
-
 [Dm]Dans mon CV, y'a pas grand chose
 Pour m'faire te[Bb]nir sur [C]mes gui[F]bolles
 Officielle[A]ment, moi, j'ai eu ma [Dm]dose
 De passer [Bb]par les [A]proto[Dm]coles
-
+{newline}
 [Dm]Dans mon histoire, y'a beaucoup d'blancs
 Des idées [Bb]noires posées [C]sur le [F]sol
 Je les re[A]lève constam[Dm]ment
 Pour faire [Bb]avan[A]cer mes [Dm]grolles
 
-
 [Dm]Et même du plus haut des grattes-ciels
 On n'me pren[Bb]dra pas [C]par le [F]col
 Je me suis [A]vu pousser du [Dm]zèle
 De mon âme [Bb]j'ai le [A]mono[Dm]pole
-
+{newline}
 [Dm]Et si je tombe du dernier étage
 Avant l'bi[Bb]tume, je prends [C]mon en[F]vol
 Pour rejoindre [A]le prochain cou[Dm]rage
 Qui fera [Bb]avan[A]cer mes [Dm]grolles
 
-
 [Dm]Oh je te vois, noble bourgeois
 Protéger [Bb]le fond [C]de ton [F]bol
 En me ser[A]vant un sourire nar[Dm]quois
 Ta soupe au [Bb]lait, moi [A]j'en ri[Dm]gole
-
+{newline}
 [Dm]Car le pain qui rempli mon ventre
 Je l'ai chez [Bb]ceux dont [C]je raf[F]fole
 En remet[A]tant la balle au [Dm]centre

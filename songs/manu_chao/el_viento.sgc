@@ -8,15 +8,14 @@
 {define: F# base-fret 2 frets 0 2 2 1 0 0}
 
 {guitar_comment: Intro  [G#m] [F#] [G#m] [F#]}
-
-
+{newline}
 El [G#m]viento viene
 El [F#]viento se va
 [G#m]Por la fron[F#]tera
 El [G#m]viento viene
 El [F#]viento se va
 [G#m] [F#]
-
+{newline}
 El [G#m]hombre viene
 El [F#]hombre se va
 [G#m]Sin más ra[F#]zon
@@ -28,14 +27,13 @@ El [F#]hombre se va
   [G#m]Por la carretera {repeat: 2}
 {end_of_chorus}
 
-
 La [G#m]suerte viene
 La [F#]suerte se va
 [G#m]Por la fron[F#]tera
 La [G#m]suerte viene
 La [F#]suerte se va
 [G#m] [F#]
-
+{newline}
 El [G#m]hombre viene
 El [F#]hombre se va
 [G#m]Sin más ra[F#]zon

@@ -13,12 +13,10 @@
 {define: G frets 3 2 0 0 0 3}
 {define: G7 frets 3 2 0 0 0 1}
 
-
 [Am] Cinq mètres carrés, plus de télé
 [Dm] L'eau qui fuit dans les WC
 [F] Encore un bol de Ricoré
 [E] Un seul rève, avoir la clé
-
 
 [Am] Nous les voleurs, les meurtriers
 [Dm] Même en prison, faut exister
@@ -31,16 +29,14 @@
   Go[G7]es do[Am]wn [G7] [Am]
 {end_of_chorus}
 
-
 [Am] Sur un coin de mur, lézardé
 [Dm] Une photo trop abîmée
 [F] D'une femme au regard désenchanté
 [E] Celui de celle qui m'a aimé
 
-
 [Am] Cinq mètres carrés, de liberté
 [Dm] Et la même gueule à qui parler
 [F] Et cette fenêtre grillagée
 [E] Mon seul espace pour m'évader
-
+{newline}
 {guitar_comment: Instr. [F] [Am] [F] [Am] [G]  }

@@ -10,12 +10,11 @@
 {define: D frets X X 0 2 3 2}
 {define: Em frets 0 2 2 0 0 0}
 
-
 [G]Écoutez-moi, vous les ringards
 Écologistes du samedi [Am]soir
 Cette chanson-là vaut pas un [D]clou
 Mais je la chante rien que pour [G]vous
-
+{newline}
 Vous qui voulez du beau gazon
 Des belles pelouses, des p'tits moutons
 Des feuilles de vigne et des p'tites fleurs
@@ -29,23 +28,21 @@ Faudrait remettre vos montres à l'heure
   Le bitume c'est mon pay[G]sage
 {end_of_chorus}
 
-
 Écoutez-moi, vous les ringards
 Écologistes des boul'vards
 Vos beaux discours, y'en a plein l'dos
 Y'a du soleil dans les ruisseaux
-
+{newline}
 La tour Montparnasse, elle est belle
 Et moi j'adore la tour Eiffel
 Y'a plein d'amour dans les ruelles
 Et d'poésie dans les gratte-ciel
 
-
 Écoutez-moi, vous les ringards
 Écologistes des grands soirs
 La pollution n'est pas dans l'air
 Elle est sur vos visages blêmes
-
+{newline}
 Moi j'aime encore les pissotières
 J'aime encore l'odeur des poubelles
 J'me parfume pas à l'oxygène

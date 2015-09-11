@@ -22,23 +22,21 @@
 {define: B& base-fret 1 frets 2 1 0 0}
 {define: A7 frets 0 1 0 0}
 
-
 [Dm] Elle m'a dit : «[C]L'amour ou la [A]vie !»
 [Dm] Et de son [C]petit air Scyl[A]la
 [Dm] Caressait [C]la mélanco[A]lie
 [Dm]Celle que j'ai [C]tout au fond de [A]moi
 [Dm] Elle m'a dit «[C]on n'a que deux [A]vies
 [Dm]Celle d'aujour[C]d'hui, celle qu'on n'a [A]pas
-
+{newline}
 [Dm] Sonne l'heure [E]du choix mon a[F]mi
 [G]Dépose à mes [Bb]pieds ce que tu [A7]étais jusque [Dm]là»
-
 
 [Dm] Cloué au [C]démon de mi[A]di
 [Dm] Les bras de[C]vant, le cœur en [A]croix
 [Dm] Je crois que [C]je lui ai dit [A]oui
 [Dm]Oui, on va [C]parfois jusque [A]là
-
+{newline}
 [Dm] Quand elle m'a [E]dit «serre moi plus [F]fort»
 Mon [G]cœur s'est arrê[Bb]té je suis [A7]tombé raide [Dm]mort
 
@@ -51,7 +49,6 @@ Mon [G]cœur s'est arrê[Bb]té je suis [A7]tombé raide [Dm]mort
   [Bb A Bb A]
 {end_of_chorus}
 
-
 [Dm] Il m'a dit «[C]toi, tu n'entends [A]pas
 [Dm] Les promesses [C]murmurées [A]qui
 [Dm] Attisent aus[C]si fort les pour[A]quoi
@@ -60,7 +57,7 @@ Mon [G]cœur s'est arrê[Bb]té je suis [A7]tombé raide [Dm]mort
 [Dm] Malhabile [C]à jongler, je [A]pleure
 [Dm] Je sais que [C]j'y laisserai des [A]plumes
 [Dm]Mais comment re[C]noncer au bon[A]heur
-
+{newline}
 [Dm] Au pied de [E]murailles je chan[F]celle
 Bien [G]petite à ses [Bb]pieds, toujours on [A7]se manque à l'ap[Dm]pel
 

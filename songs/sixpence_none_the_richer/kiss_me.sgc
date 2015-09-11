@@ -17,8 +17,7 @@
 {define: Asus4 frets X 0 2 2 3 0 special}
 
 {guitar_comment: Intro:  [D Dmaj7 D7 Dmaj7] {repeat: 2}}
-
-
+{newline}
 [D]Kiss [Dmaj7]me out of the bearded barley
 [D7]Nightly, [Dmaj7]beside the green, green grass
 [D]Swing, swing[Dmaj7], swing the spinning step
@@ -31,7 +30,6 @@
   [D]Strike up the band [D/C#]and make the [D/B]fireflies dance, [D/C#]silver moon's [G*]sparkling
   [A] [Asus4] [A]So kiss me
 {end_of_chorus}
-
 
 Kiss me down by the broken tree house
 Swing me upon its hanging tire

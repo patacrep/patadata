@@ -9,12 +9,11 @@
 {define: G frets 3 2 0 0 0 3}
 {define: A frets X 0 2 2 2 0}
 
-
 He was [D]born in International Falls
 A [G]long, long time ago
 He [A]moved to Tucumcari
 When the [G]ironwork got [D]slow
-
+{newline}
 He was [D]cornbread and hard scrabble
 And [G]scratching for every dime
 'til he [A]threw it in and he hit the road
@@ -28,12 +27,11 @@ To [G]walk that endless [D]line
   {repeat: 2}
 {end_of_chorus}
 
-
 He [D]tried his hands at lots of jobs
 And he [G]did them all with pride
 From [A]shoeing mules to driving trucks
 He [G]mastered what he [D]tried
-
+{newline}
 It [D]must have been Ramona
 She was [G]all he cared about
 When she [A]ran away and left him
@@ -46,12 +44,11 @@ He'd [G]ask about Ramona
 Then he'd say that he was only passing [A]through
 {end_of_bridge}
 
-
 Now [D]he knows every railroad bull
 A[G]long the right of way
 And [A]every hobo jungle
 From [G]New York to Santa [D]Fe
-
+{newline}
 He's [D]looked for his Ramona
 On the [G]far side of the hill
 Now his [A]sun is sinking lower

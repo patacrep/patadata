@@ -13,7 +13,6 @@
 {define: Dm frets X X 0 2 3 1}
 {define: Dm9 frets X X 3 2 1 0 special}
 
-
 As-tu déjà aim[C]é
 Pour la beauté du g[G]este ?
 As-tu déjà croqu[C]é
@@ -21,7 +20,7 @@ La pomme à pleines d[F]ents ?
 Pour la saveur du fr[C]uit
 Sa douceur et son z[G]este
 T'es-tu perdu souv[F]ent ?[C]
-
+{newline}
 Oui, j'ai déjà ai[C]mé
 Pour la beauté du g[G]este
 Mais la pomme était [C]dure
@@ -41,7 +40,6 @@ M'ont écœuré souv[F]ent [C]
   Nous [E]écorchent les [Gsus4]lèvres
 {end_of_chorus}
 
-
 Car à vouloir s'ai[C]mer
 Pour la beauté du g[G]este
 Le ver dans la [C]pomme
@@ -49,7 +47,7 @@ Nous glisse entre les d[F]ents
 Il nous ronge le [C]cœur
 Le cerveau et le [G]reste
 Nous vide lente[F]ment [C]
-
+{newline}
 Et lorsqu'on ose ai[C]mer
 Pour la beauté du g[G]este
 Ce ver dans la [C]pomme

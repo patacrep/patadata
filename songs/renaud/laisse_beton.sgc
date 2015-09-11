@@ -7,7 +7,6 @@
 {define: Bm base-fret 2 frets X 0 2 2 1 0}
 {define: A frets X 0 2 2 2 0}
 
-
 J'étais tran[Bm]quille, j'étais peinard
 Accoudé au flipper
 Le type est [A]entré dans le bar
@@ -16,7 +15,7 @@ Puis il s'est approché de moi
 Puis il m'a regardé comme ça :
 «T'as des bottes, mon pote
 Elles me bottent»
-
+{newline}
 J'parie qu'c'est des San[A]tiags
 Viens faire un tour dans l'terrain [Bm]vague
 J'vais t'apprendre un jeu rigo[A]lo
@@ -31,7 +30,6 @@ Moi j'lui ai dit : «Laisse bé[Bm]ton !»
   J'lui ai filé mes [Bm]grolles
 {end_of_chorus}
 
-
 J'étais tranquille, j'étais peinard
 Accoudé au comptoir
 Le type est entré dans le bar
@@ -40,7 +38,7 @@ Puis il m'a tapé sur l'épaule
 Et m'a regardé d'un air drôle :
 «T'as un blouson mecton
 L'est pas bidon»
-
+{newline}
 Moi j'me les gèle sur mon scooter
 Avec ça j's'rai un vrai rocker
 Viens faire un tour dans la ruelle
@@ -55,7 +53,6 @@ Moi j'lui ai dit : «Laisse béton !»
   J'ai filé mon blouson
 {end_of_chorus}
 
-
 J'étais tranquille, j'étais peinard
 Je réparais ma mobylette
 Le type a surgi sur l'boul'vard
@@ -64,7 +61,7 @@ S'est arrêté l'long du trottoir
 Et m'a regardé d'un air bête :
 «T'as l'même blue jean que James Dean
 T'arrête ta frime»
-
+{newline}
 J'parie qu'c'est un vrai Levy-Strauss
 Il est carrément pas craignos
 Viens faire un tour derrière l'église
@@ -78,7 +75,6 @@ Moi j'lui ai dit : «Laisse béton !»
   M'a filé une châtaigne
   J'ai filé mon futal
 {end_of_chorus}
-
 
 La morale de c'te pauvre histoire
 C'est qu'quand t'es tranquille et peinard

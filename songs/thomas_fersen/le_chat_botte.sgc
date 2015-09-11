@@ -18,8 +18,7 @@
 {define: G frets 0 2 3 2}
 
 {guitar_comment: Intro :  [Em C Am D] {repeat: 2} }
-
-
+{newline}
 [Em]Je travaille au [C]Chat Botté
 [B7]Dans le centre [Em]ville
 [Em]Je vends l'hiver [C]et l'été
@@ -28,7 +27,7 @@
 [C]J'ai 15 ans d'mai[B7]son
 [Em]Ça sent pas tou[C]jours la rose
 [B7]C'est le reblo[Em]chon
-
+{newline}
 [Em]Dans le cas de [C]cette fillette
 [B7]Qui tend son pied [Em]droit
 [Em]Son prénom doit [C]être Berthe
@@ -46,7 +45,6 @@
   [Em C Am D] {repeat: 2}
 {end_of_chorus}
 
-
 [Em]Je surveille le [C]Chat Botté
 [B7]Derrière mes len[Em]tilles
 [Em]Au rayon des [C]nouveautés
@@ -55,7 +53,7 @@
 [C]Et puis finale[B7]ment
 [Em]Elle me dit [C]qu'elle convoite
 [B7]Les mules en ser[Em]pent
-
+{newline}
 [Em]Elle me confie [C]son pied nu
 [B7]Comme à une [Em]sœur
 [Em]Il est fin, pe[C]tit, menu
@@ -84,7 +82,6 @@ La mule à la main
 Passe son chemin
 {end_of_bridge}
 
-
 [Em]J'me faufile dans [C]la réserve
 [B7]J'entrouvre la [Em]boîte
 [Em]Tout le parfum [C]que conserve
@@ -93,7 +90,7 @@ Passe son chemin
 [C]Dilate mon [B7]cœur
 [Em]Me réchauffe [C]la poitrine
 [B7]Comme une li[Em]queur
-
+{newline}
 [Em]Moi qui avais [C]le bourdon
 [B7]J'ai la chair de [Em]poule
 [Em]Et même la chair [C]de dindon

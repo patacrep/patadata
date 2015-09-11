@@ -11,8 +11,7 @@
 {define: D frets X X 0 2 3 2}
 
 {guitar_comment: Intro : [Em][C][Em] {repeat: 2}}
-
-
+{newline}
 [Em]J'ai reçu une lettre
 [C]Il y a un mois peut-être
 [Am]Arrivée par erreur
@@ -29,7 +28,6 @@
   [Am]Alphonse ou [D]Fred, c'est comme [C]elle veut
   [C] [Em]C'est comme elle veut[C][Em]
 {end_of_chorus}
-
 
 Des jolies marguerites
 Sur le haut de ses i
@@ -48,7 +46,6 @@ Et en guise de paraphe
   Amoureux
 {end_of_chorus}
 
-
 Elle écrit que dimanche
 Elle s'ra sur la falaise
 Où j'l'ai prise par les hanches
@@ -66,7 +63,6 @@ Trente mètres plus bas
   Amoureux
 {end_of_chorus}
 
-
 Grâce au cachet de La Poste
 D'une ville sur la Manche
 J'étais à l'avant-poste
@@ -83,7 +79,6 @@ Il n'y en a pas cent
   Car j'en suis tombé amoureux
   Amoureux
 {end_of_chorus}
-
 
 Elle surplombait la Manche
 Quand je l'ai reconnue

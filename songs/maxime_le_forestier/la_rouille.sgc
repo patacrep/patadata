@@ -12,14 +12,13 @@
 {define: D7 frets X X 0 2 1 2}
 {define: E4 frets 0 2 2 2 0 0 special}
 
-
 [F] L'habi[C]tude nous joue des [G]tours
 Nous qui pen[E]sions que notre a[Am]mour
 Avait u[F]ne san[G]té de [C]fer
 [F] Dès que [C]séchera la ro[G]sée
 Regarde [E]la rouille [Am]posée
 Sur la mé[F]daille et [G]son re[C]vers
-
+{newline}
 [D7]Elle teinte bien
 Les [C]feuilles d'au[E]tomne
 [Am]Elle vient à bout
@@ -36,14 +35,13 @@ S'il n'y venait per[E4]sonne [E]
   Si elle ne s'[Dm]attaquait qu'aux [G]gril[C]les
 {end_of_chorus}
 
-
 Avec le temps tout se dénoue
 Que s'est-il passé entre nous
 De petit jour en petit jour
 À la première larme séchée
 La rouille s'était déposée
 Sur nous et sur nos mots d'amour
-
+{newline}
 Si les fusils s'inventent des guerres
 Et si les feuilles attendent le printemps
 Ne luttons pas comme eux contre le temps
@@ -55,7 +53,6 @@ Contre la rouille il n'y a rien a faire
   Notre histoire va s'arrêter là
   Ce fut une belle aventure
 {end_of_chorus}
-
 
 [F] Nous ne nous [C]verrons plus et [G]puis
 Mais ne crois [E]pas ce que je [Am]dis

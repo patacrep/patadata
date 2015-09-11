@@ -10,12 +10,11 @@
 {define: F#m base-fret 2 frets 0 2 2 0 0 0}
 {define: E frets 0 2 2 1 0 0}
 
-
 [Em]Il vit sa vie au bord de l'eau
 Cocos et coquil[B]lages
 Un dollar pour prendre en photo
 Son plus beau tatou[Em]age
-
+{newline}
 [Am]Il vit sa vie comme [B]un Vendredi
 [Am]Robinson est par[B]ti
 [Am]Tu l'verras toujours [B]bien dans sa peau
@@ -43,12 +42,11 @@ Son plus beau tatou[Em]age
   Et ça va, ça [Em]vient
 {end_of_chorus}
 
-
 Il connaît le nom des bateaux
 L'prénom du capitaine
 Il te refile en stéréo
 La chanson des sirènes
-
+{newline}
 Il trafique un peu dans tous les ports
 La marine est d'accord
 Y'a aucun malaise dans sa combine

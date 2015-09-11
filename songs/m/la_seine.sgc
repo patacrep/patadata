@@ -13,13 +13,11 @@
 {partition: La_seine_rythm.ly}
 
 {guitar_comment:  Intro : {partition: La_seine_riff1.ly} | [Am] | [F] | [C] [E] | [Am] |}
-
-
+{newline}
 [Am]Elle sort de son lit [F]tellement sure d'elle
 [C]La Seine, [E]la Seine, [Am]la Seine
 [Am]Tellement jolie, [F]elle m'ensorcelle
 [C]La Seine, [E]la Seine, [Am]la Seine
-
 
 [Am]Extralucide, la [F]Lune est sure
 [C]La Seine, [E]la Seine, [Am]la Seine
@@ -32,7 +30,6 @@
   [Am]Je ne sais, ne sais, ne sais [F]pas pourquoi
   On s'aime comme [C]ça, la [E]Seine et [Am]moi
 {end_of_chorus}
-
 
 Extralucide quand tu es sur
 La Seine, la Seine, la Seine
