@@ -1,7 +1,7 @@
 \selectlanguage{italian}
 \songcolumns{1}
 \beginsong{Coda di lupo}
-  [by={Fabrizio\ De\ André},cover={rimini},album={Rimini}]
+  [by={Fabrizio~De~André},cover={rimini},album={Rimini}]
 
   \cover
   \gtab*{C}{8:022100}
