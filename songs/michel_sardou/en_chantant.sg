@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{En chantant}
-  [by={Michel Sardou},cov={en-chantant},album={En chantant},%
+  [by={Michel Sardou},cover={en-chantant},album={En chantant},%
   url={http://michelsardou.artiste.universalmusic.fr/site/}]
 
   \cover

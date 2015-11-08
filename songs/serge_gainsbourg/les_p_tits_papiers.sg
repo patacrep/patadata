@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Les p'tits papiers}
-  [by={Serge Gainsbourg},album={Les lampions (Régine)},cov={regine-les-lampions}]
+  [by={Serge Gainsbourg},album={Les lampions (Régine)},cover={regine-les-lampions}]
 
   \cover
   \gtab{Dm}{XX0231}
