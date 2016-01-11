@@ -1,0 +1,55 @@
+{title: Losing my religion}
+{artist: R.E.M}
+{album: Out of time}
+{cover: out-of-time}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+{partition: Losing_my_religion_intro.ly}
+
+Oh l[Am]ife is bigger [Em] it's bigger than you
+And you are [Am]not me the lengths that I will [Em]go to
+The distance in your [Am]eyes
+[Em] Oh no I've said too [Dm]much I've said en[G]ough
+
+That's me in the cor[Am]ner that's me in the [Em]spot light
+Losing my religi[Am]on trying to [Am]keep up with you
+And I [Am]don't know if I can do it
+[Em] Oh no I've said too [Dm]much I haven't said en[G]ough
+
+{start_of_chorus}
+  I thought that I heard you [F]laughing
+  I thought that I [G]heard you [Am]sing
+  I [F]think I thought I saw [G]you [Am]try [G]
+{end_of_chorus}
+
+Every whisper [Am]
+Every waking [Em]hour I'm choosing my conf[Am]essions
+Trying to [Em]keep eye on you
+Like a [Am]hurt lost and blinded fool fool
+[Em] Oh no I've said too m[Dm]uch I said en[G]ough
+
+Consider th[Am]is consider this [Em]hint of the century
+Consider th[Am]is the slip that [Em]brought me to my knees pale
+[Am]What if all these fantasies come [Em] flaming aground
+Now I've s[Dm]aid too m[G]uch
+
+{start_of_bridge}
+{partition: Losing_my_religion_bridge.ly}
+[C]That was just a [Am]dream {repeat: 2}
+{end_of_bridge}
+
+That's me in the cor[Am]ner
+That's me in the [Em]spot light losing my rel[Am]igion
+Trying to k[Em]eep up with you and I d[Am]on't know if I can do it
+[Em] Oh no I've said too m[Dm]uch
+I haven't said en[G]ough
+{newline}
+But [F]that was just a dream [G] [Am]try cry why try
+[F]That was just a dream [G]just a [Am]dream just a [G]dream dream

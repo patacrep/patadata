@@ -1,0 +1,71 @@
+{title: L'Aziza}
+{artist: Daniel Balavoine}
+{album: Sauver l'amour}
+{cover: sauver-l-amour}
+{language: french}
+{columns: 2}
+{capo: 1}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: Em7 frets 0 2 2 0 3 0 special}
+{define: F#7 base-fret 2 frets 0 2 0 1 0 0 special}
+
+{guitar_comment: Intro : [A D G A] {repeat: 2}}
+{newline}
+[A]Petite rue de [D]Casbah
+Au mi[G]lieu de Ca[A]sa
+[A]Petite brune en[D]roulée d'un drap
+Court au[G]tour de moi[A]
+{newline}
+[A]Ses yeux remplis de [D]pourquoi
+Cherchent u[G]ne réponse en [A]moi
+[A]Elle veut vraiment que [D]rien ne soit sûr
+Dans tout [G]ce qu'elle croit
+
+{start_of_chorus}
+  {echo: [A]Oh oh oh oh oh}
+  [A]Ta couleur et tes mots tout me [Bm]va
+  Que tu [G]vives ici ou là-[A]bas
+  [G A]
+  [A]Danse avec [Bm]moi
+  Si tu [G]crois que ta vie est [A]là
+  Ce n'est [E]pas un problème pour [Em7]moi, [F#7]oh oh
+  L'Azi[Bm]za, je te [G]veux si tu veux de [A]moi
+{end_of_chorus}
+
+{guitar_comment: Bridge : [A D G A]}
+{newline}
+[A]Et quand tu marches [D]le soir
+Ne [G]trembles pas [A]
+[A]Laisse glisser les [D]mauvais regards
+Qui [G]pèsent sur toi [A]
+{newline}
+L'Aziza [A]ton étoile jaune c'est [D]ta peau
+Tu n'as [G]pas le choix [A]
+[A]Ne la porte pas comme [D]on porte un fardeau
+Ta [G]force c'est ton [A]droit
+
+{guitar_comment: Chorus}
+
+{guitar_comment: Bridge : [A D G A] {repeat: 2}}
+
+{guitar_comment: Solo}
+
+{start_of_bridge}
+[A]L'Azi[Bm]za, ta cou[G]leur tes mots tout me [A]va
+[G A]
+[A]Danse avec [Bm]moi
+Que tu [G]vives ici ou là-[A]bas
+Ce n'est [E]pas un problème pour [Em7]moi, [F#7]oh oh
+L'Azi[Bm]za, je te [G]veux si tu veux de [A]moi
+L'Azi[Bm]za, si tu [G]crois que ta vie est [A]là
+Il n'y [E]a pas de loi contre [Em7]ça, [F#7]oh oh
+L'Azi[Bm]za, fille en[G]fant du prophète [A]roi
+{end_of_bridge}
+
+{guitar_comment: Bridge : [A D G A]}
+
+{guitar_comment: Chorus}

@@ -1,0 +1,93 @@
+{title: Les étoiles filantes}
+{artist: Les Cowboys Fringants}
+{album: La grand messe}
+{cover: la-grand-messe}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Am frets 2 0 0 0}
+{define: G frets 0 2 3 2}
+{define: Em frets 0 4 3 2}
+{define: F frets 2 0 1 0}
+
+{partition: Etoiles_filantes-1.ly}
+
+Si je m'[Am]arrête un instant
+Pour te [G]parler de ma vie
+Juste comme [Em]ça tranquillement
+Dans un [F]bar rue St-Denis
+J'te ra[Am]conterai les souvenirs
+Bien gra[G]vés dans ma mémoire
+De cette é[Em]poque où vieillir
+Était en[F]core bien illusoire
+{newline}
+Quand j'aga[Am]çais les p'tites filles
+Pas loin [G]des balançoires
+Et que [Em]mon sac de billes
+Deve[F]nait un vrai trésor
+Et ces hi[Am]vers enneigés
+À cons[G]truire des igloos
+Et ren[Em]trer les pieds g'lés
+Juste à [F]temps pour Passe-Partout
+
+{start_of_chorus}
+  Mais au [Am]bout du ch'min, dis-moi c'qui va res[G]ter
+  De la p'[Em]tite école et d'la cour de ré[F]cré ?
+  Quand les av[Am]ions en papier ne partent plus au [G]vent
+  On se [Em]dit que l'bon temps passe finale[F]ment ... comme une étoile fi[Am]lante
+{end_of_chorus}
+
+{partition: Etoiles_filantes-2.ly}
+
+Si je m'[Am]arrête un instant
+Pour te [G]parler de la vie
+Je cons[Em]tate que bien souvent
+On choisit [F]pas mais on subit
+Et que [Am]les rêves des ti-culs
+S'évanou[G]issent ou se refoulent
+Dans cette [Em]réalité crue
+Qui nous em[F]barque dans le moule
+{newline}
+De la tren[Am]taine, la bedaine
+Les mor[G]veux, l'hypothèque
+Les bon[Em]heurs et les peines
+Les bons [F]coups et les échecs
+Travai[Am]ller, faire d'son mieux
+En arra[G]cher, s'en sortir
+Et es[Em]pérer être heureux
+Un peu [F]avant de mourir
+
+{start_of_chorus}
+  Mais au [Am]bout du ch'min, dis-moi c'qui va res[G]ter
+  De notre p'[Em]tit passage dans ce monde effré[F]né ?
+  Après a[Am]voir existé pour gagner du [G]temps
+  On s'di[Em]ra que l'on était finale[F]ment ... que des étoiles fi[Am]lantes
+{end_of_chorus}
+
+Si je m'[Am]arrête un instant
+Pour te [G]parler de la vie
+Juste comme [Em]ça tranquillement
+Pas loin [F]du carré St-Louis
+C'est qu'a[Am]vec toi je suis bien
+Et que j'ai [G]plus l'goût de m'en faire
+Parce que [Em]t'sais voir trop loin
+C'pas mieux que [F]r'garder en arrière
+{newline}
+Malgré les [Am]vieilles amertumes
+Et les [G]amours qui passent
+Les chums [Em]qu'on perd dans l'brume
+Et les id[F]éaux qui se cassent
+La vie s'ac[Am]croche et renaît
+Comme les [G]printemps reviennent
+Dans une [Em]bouffée d'air frais
+Qui a[F]paise les cœurs en peine
+
+{start_of_chorus}
+  Ça fait que [Am]si un soir t'as envie de res[G]ter
+  Avec [Em]moi, la nuit est douce on peut mar[F]cher
+  Et même si [Am]on sait ben que tout dure rien qu'un [G]temps
+  J'aimerais [Em]ça que tu sois pour un mo[F]ment ... mon étoile fi[Am]lante
+{end_of_chorus}

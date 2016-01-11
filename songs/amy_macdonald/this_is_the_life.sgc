@@ -1,0 +1,34 @@
+{title: This is the life}
+{artist: Amy MacDonald}
+{album: This is the life}
+{cover: this-is-the-life}
+{language: english}
+{columns: 1}
+{capo: 4}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: Em frets 0 2 2 0 0 0}
+
+Oh the [Am]wind whistles down
+The [F]cold dark street tonight
+And the [C]people they were dancing [Em]to the music vibe
+{newline}
+And the [Am]boys chase the girls with the curls in their hair
+While the [F]shocked too many just sit way over there
+And the [C]songs they get louder each one better than be[Em]fore
+
+{start_of_chorus}
+  And you're singing the [Am]songs thinking this is the life
+  And you wake up in the [F]morning and your head feels twice the size
+  Where you gonna go, [C]where you gonna go, where you gonna sleep [Em]tonight?
+  {repeat: 2}
+{end_of_chorus}
+
+So you're [Am]heading down the road in your taxi for four
+And you're [F]waiting outside Jimmy's front door
+But [C]nobody's in and nobody's home till [Em]four
+{newline}
+So you're [Am]sitting there with nothing to do
+Talking a[F]bout Robert Ragger and his motley crew
+And [C]where you gonna go, and where you gonna sleep to[Em]night?

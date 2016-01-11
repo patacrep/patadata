@@ -1,0 +1,31 @@
+{title: Dirty old town}
+{artist: The Pogues}
+{album: Best of the Pogues}
+{cover: best-of-the-pogues}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+[Am] I met my [C]love by the gas works wall
+Dreamed a [F]dream by the old ca[C]nal
+Kissed a girl by the factory wall
+Dirty old [G]town
+Dirty old [Am]town
+
+Clouds a drifting across the moon
+Cats a prowling on their beat
+Spring's a girl in the street at night
+Dirty old town {repeat: 2}
+
+Heard a siren from the docks
+Saw a train set the night on fire
+Smelled the spring of the smoky wind
+Dirty old town {repeat: 2}
+
+I'm going to make a good sharp axe
+Shining steel tempered in the fire
+Will chop you down like an old dead tree
+Dirty old town {repeat: 2}

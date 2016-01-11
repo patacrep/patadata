@@ -1,0 +1,33 @@
+{title: Keep on the sunny side}
+{artist: Carter Family}
+{album: O brother}
+{cover: o-brother}
+{language: english}
+{columns: 2}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+{partition: Keep_on_the_sunny_side.ly}
+
+There's a [Bb]dark and a [Eb]troubled side of [Bb]life
+But there's a [Bb]bright and a sunny side [F]too
+Though you [F]meet with the darkness and [Bb]strife
+The [F]sunny side you also may [Bb]view
+
+{start_of_chorus}
+  [Bb]Keep on the sunny side, [Eb]always on the [Bb]sunny side
+  [Bb]Keep on the sunny side of [F]life
+  It will [Bb]help us every day, it will [Eb]brighten all the [Bb]way
+  If we'll [Bb]keep [Eb]on the [Bb]sunny [F]side of [Bb]life
+{end_of_chorus}
+
+Though the storm and its furies rage today
+Crushing hope that we cherish so dear
+The cloud and storm will in time pass away
+And the sun again will shine bright and clear
+
+Let us greet with a song of hope each day
+Though the moment be cloudy or fair
+And let us trust in our Saviour always
+He'll keep us everyone in His care

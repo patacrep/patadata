@@ -1,0 +1,29 @@
+{title: Roulette}
+{artist: System of a Down}
+{album: Steal this album}
+{cover: steal-this-album}
+{language: english}
+{columns: 1}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: D# base-fret 6 frets X 0 2 2 2 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: A# base-fret 6 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+
+[Cm]I have a [D#]problem that [Bb]I cannot e[C#]xplain
+[C#]I have no [G#]reason why it [A#]should have been so [Cm]plain
+[Cm]Have no qu[D#]estions but [Bb]I sure have e[C#]xcuse
+[C#]I lack the r[G#]eason why I s[A#]hould be so c[Cm]onfused
+
+{start_of_chorus}
+  [Cm]I [G]know, [A#]how I [A#]feel when [G#]I'm a[A#]round [Cm]you
+  [Cm]I, don't [G]know, [A#]how I [A#]feel when [G#]I'm [G#]around [Cm]you
+  Around you
+{end_of_chorus}
+
+Left a message but it ain't a bit of use
+I have some pictures, the wild might be the deuce
+Today you saw, you saw me, you explained
+Playing the show and running down the plane

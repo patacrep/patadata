@@ -1,0 +1,93 @@
+{title: Bad Bili}
+{artist: Vincent Malone}
+{album: Le roi des Papas}
+{cover: le-roi-des-papas}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: F7 base-fret 1 frets 0 2 0 1 0 0}
+{define: G7 base-fret 3 frets 0 2 0 1 0 0}
+{define: D7 base-fret 3 frets X 2 1 2 0 X}
+
+[Am]C'était par un beau jour de septembre
+Ils étaient tranquillement assis à jouer aux cubes dans leur [G]chambre avec leur petite sœur ché[Am]rie
+[Am]Elle serrait bien fort sa poupée, tendrement, dans ses jolis bras
+«Au fond, me dis-je, quelle belle journée», quand soudain on frappa [G]
+
+{echo: Mais qu'est-ce que c'est ?}
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Victor, lui, galope devant
+  Mais Fé[D7]lix est juste der[G7]rière
+{end_of_chorus}
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Et Bad Bili, le bandit, le méchant
+  Qui [G]entre sans ma[C]nières
+{end_of_chorus}
+
+«Ah, ah, cornebidouille ! [Am] dit Bad Bili
+En entrant dans la chambre
+Voila deux garçons bien gentils
+Et une petite [G]fille qui m'a l'air [Am]tendre»
+Puis, sans plus de manières, il s'enfuit
+Emportant les cubes, la poupée, en enlevant leur petite sœur chérie
+Alors Félix a [G]dit :
+{newline}
+«En voilà assez, tu vas [Am]voir et [G]na»
+Il peut faire [Am]sa prière [G]
+D'un coup de [Am]revolver [G]
+En plein dans [Am]le derrière [G]
+{newline}
+«Je vais te transformer en gru[G]yère»
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Victor, lui, galope devant
+  Mais Fé[D7]lix est juste der[G7]rière
+{end_of_chorus}
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Et Bad Bili qui les attend
+  Ta[G]pi dans sa ta[C]nière
+{end_of_chorus}
+
+«Ah, ah, je vous attends, tapi dans ma tanière»
+Ouais, bon, voyons la suite
+[Am]Après une longue course dans la prairie
+Ils allèrent en rampant comme des scolopendres
+Encercler le repère de Bili, sans faire de [G]bruit, pour le sur[Am]prendre
+Patiemment, ils attendirent la nuit et puis Félix passa par la cheminée
+Pendant que Victor, lui, criait au bandit :
+{newline}
+«Sors d'i[G]ci si tu l'oses ! Es[Am]pèce de pue-des-pieds !» [G]
+Bili é[Am]teint la lumière [G]
+Félix lui [Am]tombe dessus par derrière [G]
+Victor le [Am]cogne sur la cafetière [G]
+{newline}
+Et Bili tombe par [G]terre
+«Te voilà libre petite sœur chérie !
+--- Oh merci, que vous êtes bons et généreux !»
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Victor, lui, galope devant
+  Mais Fé[D7]lix est juste der[G7]rière
+{end_of_chorus}
+
+{start_of_chorus}
+  [C]Victor et son cheval blanc
+  [F7]Félix et son revol[C]ver
+  [C]Et Bad Bili, tout tremblant
+  Qui [G]se frotte le derr[C]ière
+{end_of_chorus}

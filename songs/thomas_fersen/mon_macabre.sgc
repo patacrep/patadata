@@ -1,0 +1,94 @@
+{title: Mon macabre}
+{artist: Thomas Fersen}
+{album: Le pavillon des fous}
+{cover: le-pavillon-des-fous}
+{language: french}
+{columns: 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: D frets X X 0 2 3 2}
+{define: Em frets 0 4 3 2}
+{define: G frets 0 2 3 2}
+{define: Am frets 2 0 0 0}
+{define: B7 base-fret 2 frets 0 1 0 0}
+{define: Bm base-fret 2 frets 2 0 0 0}
+{define: D frets 2 2 2 0}
+
+{guitar_comment: Intro :  [Em G Am B7] {repeat: 6}}
+{newline}
+De[G]puis que je me suis co[Em]gné la tête
+De[G]puis que je suis tom[Em]bé de l'arbre
+J'en[G]tends le pas de [Em]mon squelette
+J'en[G]tends son clique[Em]tis de sabre
+{newline}
+Sque[Am]lette, mon ami
+Veux-[Bm]tu du salami ?
+Sque[Em]lette, mon garçon
+Veux-[Bm]tu du saucis[Em]son ?
+Je [Am]comprends ton mal-être
+Dans [D]l'armure de l'ancêtre
+Tes [Em]soirées sont mortelles
+Dans [Bm]l'armoire à den[Em]telles
+
+{start_of_chorus}
+  A[Am]lors il se débine
+  Par la fe[D]nêtre à guillotine
+  La [Bm]Lune, astre obscène
+  [Em]Éclaire la scène
+{end_of_chorus}
+
+{guitar_comment: [Am D Em Bm Em]}
+{newline}
+Je [G]le retrouve [Em]dans mon lit
+En [G]proie à la mé[Em]lancolie
+Je [G]le surprends dans [Em]mon fauteuil
+En [G]train de fumer des [Em]clous de cercueil
+{newline}
+Sque[Am]lette, mon petit
+Veux-[Bm]tu des spaghettis ?
+Sque[Em]lette, mon cousin
+Veux-[Bm]tu du jus de rai[Em]sins ?
+L'or[Am]dinaire est ingrat
+Dans [D]ton vieux débarras
+L'or[Em]dinaire est chagrin
+Dans [Bm]l'armoire en sa[Em]pin
+{newline}
+{guitar_comment:  [Am D Am Bm Em]}
+{guitar_comment:  [Em G Am B7] {repeat: 6}}
+
+Mon [G]squelette est un [Em]tendre
+Ca[G]ché sous la cui[Em]rasse
+Il [G]ne veut plus at[Em]tendre
+[G]Il veut qu'on l'em[Em]brasse
+{newline}
+Sque[Am]lette, mon chéri
+Tu es lo[Bm]gé, tu es nourri
+Sque[Em]lette, tu es blanchi
+Oui mais le [Bm]lit n'est pas gar[Em]ni
+Trouve-[Am]toi une amoureuse
+Mais [D]pas trop chatouilleuse
+Pour [Em]jouer aux osselets
+Dans le [Bm]placard à ba[Em]lais
+
+Et [G]sur l'épave d'une [Em]mobylette
+Le [G]voilà parti [Em]dans la nuit
+Il [G]roule comme un pou[Em]let sans tête
+Et [G]tout finit dans [Em]un grand bruit
+{newline}
+{guitar_comment:  [Am D Am Bm Em] {repeat: 2}}
+{newline}
+Sque[Am]lette, mon macabre
+T'es [Bm]rentré dans un arbre
+Tu [Em]conduis comme un manche
+Moi [Bm]je suis tombé de ma [Em]branche
+Mes [Am]soirées sont chagrines
+Dans [D]la maison en ruine
+Le [Em]puits me désespère
+Dans [Bm]son manteau de [Em]lierre
+{newline}
+{guitar_comment:  [Am D Am Bm Em]}
+{newline}
+{guitar_comment: Outro :  [Em G Am Bm] {repeat: 4}}

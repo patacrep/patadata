@@ -1,0 +1,53 @@
+{title: Je n'aurai pas le temps}
+{artist: Michel Fugain}
+{album: Live}
+{cover: live}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+
+[C]Même [G]en cou[C]rant
+[C]Plus [G]vite que le [C]vent
+Plus vite que le [G]temps
+[E]Même en vo[F]lant
+
+{start_of_chorus}
+  Je n'au[G]rai pas le [C]temps
+  [G]Pas le [C]temps
+{end_of_chorus}
+
+De visiter
+Toute l'immensité
+D'un si grand univers
+Même en cent ans
+
+{start_of_chorus}
+  Je n'aurai pas le temps
+  De tout faire
+{end_of_chorus}
+
+[E]J'ou[B7]vre tout grand mon [C#m]cœur
+[A]J'ai[E]me de tout mes [F#m]yeux
+[D]C'est trop [F#m]peu
+[G]Pour tant de [D]cœurs
+[A]Et tant de [D]pleurs
+Des mill[G]iers de [D]jours
+[A]C'est bien trop [D]court {repeat: 2}
+{newline}
+Et pour aimer
+Comme l'on doit aimer
+Quand on aime vraiment
+Même en cent ans
+
+{start_of_chorus}
+  Je n'aurai pas le temps
+  Pas le temps
+{end_of_chorus}

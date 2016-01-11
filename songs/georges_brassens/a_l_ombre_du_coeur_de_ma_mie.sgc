@@ -1,0 +1,45 @@
+{title: À l'ombre du cœur de ma mie}
+{artist: Georges Brassens}
+{album: Le pornographe}
+{cover: le-pornographe}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: D frets X X 0 2 3 2}
+
+[Bm]À l'ombre du cœur de ma [Em]mie
+À l'ombre [Bm]du cœur [F#]de ma [Bm]mie
+[Bm]Un oiseau s'était endor[Em]mi
+Un oiseau [Bm]s'était [F#]endor[Bm]mi
+Un [Em]jour qu'elle faisait semblant
+[A7]D'être la [D]belle au [F#]bois dorm[Bm]ant
+
+{start_of_chorus}
+  Et moi me mettant à genoux {repeat: 2}
+  Bonnes fées sauvegardez nous ! {repeat: 2}
+  Sur ce cœur j'ai voulu poser
+  Une manière de baiser
+{end_of_chorus}
+
+Alors cet oiseau de malheur {repeat: 2}
+Se mit à crier : «Au voleur !» {repeat: 2}
+«Au voleur et à l'assassin !»
+Comme si j'en voulais à son sein
+
+Aux appels de cet étourneau {repeat: 2}
+Grand branle-bas dans Landernau {repeat: 2}
+Tout le monde et son père accourt
+Aussitôt lui porter secours
+
+Tant de rumeurs, de grondements {repeat: 2}
+Ont fait peur aux enchantements {repeat: 2}
+Et la belle désabusée
+Ferma son cœur à mon baiser
+
+Et c'est depuis ce temps, ma sœur {repeat: 2}
+Que je suis devenu chasseur {repeat: 2}
+Que, mon arbalète à la main
+Je cours les voies et les che[Bm]mins [A Bm]

@@ -1,0 +1,78 @@
+{title: Le bouton}
+{artist: Thomas Fersen et Bumcello}
+{album: Tôt ou tard (plutôt tard)}
+{cover: tot-ou-tard}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: A# base-fret 1 frets X 0 2 2 2 0}
+{define: C frets 0 0 0 3}
+{define: D frets 2 2 2 0}
+{define: A frets 2 1 0 0}
+{define: B base-fret 2 frets 2 1 0 0}
+{define: G# base-fret 3 frets 2 0 1 0}
+{define: A# base-fret 1 frets 2 1 0 0}
+
+[C] Ce matin, au [D]saut du lit
+[C] Je me regarde [D]le menton
+[C] Et je vois un [D]gros bouton
+[A]Bien gonflé, bien rempli
+{newline}
+[C] Et comme il é[D]tait bien mûr
+[C] Il gicle [D]sur le mur
+[C] Un vilain pe[D]tit jus blanc
+[A]Puis une gouttelette de sang
+{newline}
+[A]Et ne tenant plus de joie
+[A] Je presse une deuxième fois
+[A] Et comme il était à point
+[A] Il gicle encore plus loin
+
+{start_of_chorus}
+  [B] J'exulte, je jubile
+  Je ris comme un débile
+  [G#] Je charcute, je triture
+  Enfin j'me défigure
+  [B] Et je fais un massacre
+  De ce bouton de nacre
+  [G#] Je le pince, il explose
+  C'est le miroir que j'arrose
+  [B] J'suis d'accord, c'est abject
+  Moi aussi ça m'débecte
+  [G#] Je le cure, je le vide
+  De l'ignoble liquide
+  [A#] Enfin il se libère
+  Et me laisse un cratère
+  [A#] Le jour de la photo
+  Le jour de la photo
+{end_of_chorus}
+
+[C] Avant d'al[D]ler chez elle
+[C] Je vérifie [D]mes aisselles
+[C] Et dans u[D]ne vitrine
+[A] Je vérifie mes narines
+{newline}
+[C] J'ajuste [D]mon veston
+[C] Je consulte [D]mon bouton
+[C] Une croûte [D]le rebouche
+[A] Il ne faut plus que j'y touche
+{newline}
+[A] Mais c'est plus fort que moi
+[A] Il faut qu'j'y remette les doigts
+[A] Mais comme il en restait plein, oui
+[A] Il gicle encore plus loin
+
+{start_of_chorus}
+  ...Avec Anne, avec Anne, avec Anne
+{end_of_chorus}
+
+{guitar_comment: Outro : }
+[C] [D]
+«Bonjour Anne
+--- Bonjour
+--- Tu vas bien Anne ?
+Tu m'fais pas la bise ?»

@@ -1,0 +1,15 @@
+{title: Les chaussettes du nain}
+{artist: Le Donjon de Naheulbeuk}
+{album: Grimoire audio}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: grimoire-audio}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+Les [C]chaussettes du nain
+Les [F]chaussettes du [C]nain
+[C]Elles sont tellement bien
+Qu'la chanson [G]est déjà fi[C]nie

@@ -1,0 +1,64 @@
+{title: Sad robot}
+{artist: Pornophonique}
+{album: 8 bit lagerfeuer}
+{cover: 8-bit-lagerfeuer}
+{language: english}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+{partition: Sad_robot.ly}
+
+His [Dm]steely skin is covered
+By [F]centuries of dust
+[C]Once he was a great one
+[Dm]Now he's dull and rust
+{newline}
+An oily tear he's crying
+Can you feel the pain
+Of the sad, sad robot
+And it's driving him insane
+{newline}
+He can't turn back time nor history
+So his life became a misery
+He has to face the destiny
+Nobody cares anymore
+
+{start_of_chorus}
+  Sad, sad robot
+  Sad, sad robot
+  Sad, sad robot
+  All alone
+{end_of_chorus}
+
+{start_of_chorus}
+  He's a sad, sad robot {repeat: 3}
+  He's so alone
+{end_of_chorus}
+
+Me steely skin is covered
+By centuries of dust
+Once me was a great one
+But now I'm dull and rust
+{newline}
+An oily tear I'm crying
+Can you feel me pain
+I'm the sad, sad robot
+Driving me insane
+{newline}
+I can't turn back time nor history
+So me life became a misery
+I have to face me destiny
+That I'm all on me own
+
+{start_of_chorus}
+  Red, red robot
+  I'm a red, red robot {repeat: 2}
+  And so I shall return
+{end_of_chorus}
+
+{start_of_chorus}
+  I'm a red, red robot {repeat: 3}
+  So I shall return
+{end_of_chorus}

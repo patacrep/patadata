@@ -1,0 +1,61 @@
+{title: Toi, toi, toi}
+{artist: As de Trêfle}
+{album: Sans les mains}
+{url: http://www.as-de-trefle.com}
+{cover: sans-les-mains}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: D frets 2 2 2 0}
+{define: A frets 2 1 0 0}
+{define: C frets 0 0 0 3}
+{define: G frets 0 2 3 2}
+{define: B& base-fret 1 frets 2 1 0 0}
+{define: F frets 2 0 1 0}
+{define: Dm frets 2 2 1 0}
+
+[D]J'ai couru après [A]toi
+[C]Comme on court après la for[G]tune
+[D]Je ferais tout et n'importe [A]quoi
+[C]Pour égayer ta vie noc[G]turne
+{newline}
+[D]Chacun devant, ça va de [A]soi
+[C]Retrouver un jour sa cha[G]cune
+[D]Faisons le deuil du céli[A]bat
+[C]Profitons de la vie com[G]mune
+
+{start_of_chorus}
+  [Bb]Toi, toi, [F]toi, [C]tu ressembles à [Dm]celle
+  [Bb]Qu'à la craie, [F]j'avais dessi[C]née
+  Sur [Bb]mon ar[F]doise, [C]à la mater[Dm]nelle
+  [Bb]Du haut de [F]mes quelques an[C]nées
+  {guitar_comment: Violon}
+  [D A C G] {repeat: 2}
+  {partition: Toi_toi_toi.ly}
+{end_of_chorus}
+
+[D]Il faudra bien que tu [A]sois
+[C]Ma compagne d'infor[G]tune
+[D]Quand je rentrerai chez [A]toi
+[C]Saoul à des heures inoppor[G]tunes
+{newline}
+[D]Si je sors de l'anony[A]mat
+[C]Et que demain je fais la [G]une
+[D]Si dans les stades, je suis le [A]roi
+[C]Moi je te veux dans la tri[G]bune
+
+[D]Si sous le feu des caméras
+[C]Un soir je t'oublie sur une [G]dune
+[D]Oh je t'en prie, pardonne-[A]moi
+[C]J'irai te décrocher la [G]lune
+{newline}
+[D]Si un jour il me pleut des [A]thunes
+[C]Et qu'il m'en tombe plein les [G]bras
+[D]Moi je m'enfuirai sur Nep[A]tune
+[C]Et t'emmènerai sous mon [G]bras

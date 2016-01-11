@@ -1,0 +1,63 @@
+{title: By the way}
+{artist: Red Hot Chili Peppers}
+{album: By the way}
+{cover: by-the-way}
+{language: english}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+
+{start_of_chorus}
+  [F]Standing in line
+  To see the [C]show tonight
+  And there's a [Am]light on
+  Heavy glow
+{end_of_chorus}
+
+{start_of_chorus}
+  By the way
+  I tried to say
+  I'd be there
+  Waiting for
+{end_of_chorus}
+
+{start_of_chorus}
+  Dani the girl
+  Is singing songs to me
+  Beneath the marquee
+  Overload
+{end_of_chorus}
+
+[Dm]Steak Knife Card Shark
+Con Job Boot Cut
+{newline}
+Skin that flick
+She's such a little DJ
+Get there quick
+By street but not the freeway
+Turn that trick
+To make a little leeway
+Beat that nic
+But not the way that we play
+{newline}
+Dog Town Blood Bath
+Rib Cage Soft Tail
+
+Black Jack Dope Dick
+Pawn Shop Quick Pick
+{newline}
+Kiss that Dyke
+I know you want to hold one
+Not on strike
+But I'm about to bowl one
+Bite that mic
+I know you never stole one
+Girls that like
+A story so I told one
+{newline}
+Song Bird Main Line
+Cash Back Hard top
+{newline}
+Oh ah, guess you never meant it {repeat: 8}

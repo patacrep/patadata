@@ -1,0 +1,56 @@
+{title: Under the bridge}
+{artist: Red Hot Chili Peppers}
+{album: Blood sugar sex magik}
+{cover: blood-sugar-sex-magik}
+{language: english}
+{columns: 2}
+{define: E frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+{define: EM7 frets 0 2 1 1 0 0 special}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Am7 frets X 0 2 0 1 0}
+{define: G6 base-fret 7 frets X 0 2 0 1 0 special}
+{define: FM7 base-fret 1 frets X 2 1 1 0 X special}
+{define: C frets X 3 2 0 1 0}
+
+[E] Sometimes [B]I feel like I [C#m]don't have a [G#m]part[A]ner
+[E] Sometimes [B]I feel like [C#m]my only [A]friend
+Is the [E]city I [B]live in, the city of angels, the [C#m]city of [G#m]an[A]gels
+[E]Lonely as [B]I am [C#m]together we [A]cry [Emaj7]
+
+I drive on her streets 'cause she's my companion
+I walk through her hills cause she knows who I am
+She sees my good deeds and she kisses the winded
+I never worried, now that is a lie
+
+{start_of_chorus}
+  [F#m]I don't ever want to [E]feel
+  [B] Like I [F#m]did that day
+  [F#m]Take me to the place I [E]love
+  [B] Take me [F#m]all the way
+  {repeat: 2}
+{end_of_chorus}
+
+It's hard to believe that there's nobody out there
+It's hard to believe that I'm all alone
+At least I have her love, the city she loves me
+Lonely as I am together we cry
+
+[A]Oh [Am7]no no no, [G6]yeah, [Fmaj7]yeah {repeat: 3}
+{newline}
+[A]Under the bridge [C]down-town
+[G6]is where I[Fmaj7] drew some blood
+{newline}
+Under the bridge down-town
+I could not get enough
+{newline}
+Under the bridge down-town
+Forgot about my love
+{newline}
+Under the bridge down-town
+I gave my life away
+{newline}
+Oh no no no, yeah, yeah {repeat: 4}

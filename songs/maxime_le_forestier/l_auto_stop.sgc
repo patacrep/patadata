@@ -1,0 +1,85 @@
+{title: L'auto-stop}
+{artist: Maxime Le Forestier}
+{album: Saltimbanque}
+{cover: saltimbanque}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: D7 frets X X 0 2 1 2}
+{define: G7 frets 3 2 0 0 0 1}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: E7 frets 0 2 0 1 0 0}
+
+[C]On est arri[Am]vés
+Sac au [F]dos, [D7]à huit heu[G7]res
+[C]Avec Olivier[Am]
+Et Marg[F]ot [D7]et Pe[G7]ter
+{newline}
+[Am]C'était le [Em]grand départ
+Vers le [F]sud et vers les va[G7]cances
+[C]On trouvera, je pe[Am]nse
+Une au[F]to av[G]ant ce [C]soir
+
+Porte d'Orléans
+Résignés, un peu pâles
+Près de quatre cents
+En Juillet, c'est normal
+{newline}
+Quatre cents comme nous
+Pouce en l'air avec des guitares
+La nuit tombe tard
+Mais quand même, installons-nous
+
+{start_of_chorus}
+  A[F]lors, on a mon[D7]té la tente
+  Sur [C]le bord [E7]du trot[Am]toir
+  En [F]se disant : «Dé[D7]jà qu'il vente
+  Il [C]pourrait [G]bien pleu[C]voir»
+{end_of_chorus}
+
+Quatre jours plus tard
+On était toujours là
+Avec des guitares
+Abrités, pourquoi pas ?
+{newline}
+Avec un verre de vin
+Chaque fois que quelqu'un s'arrête
+C'était pas la fête
+Mais enfin, on était bien
+
+C'est, je crois, le treize
+Au matin qu'une auto
+A pris deux Anglaises
+Un marin et Margot
+{newline}
+Nous, on est restés là
+Heureusement que nos deux voisines
+Ont fait la cuisine
+Dans le fond, c'est mieux comme ça
+
+{start_of_chorus}
+  Et on a remonté la tente
+  Plus loin, sur le trottoir
+  En se disant : «Déjà qu'il vente
+  Il pourrait bien pleuvoir»
+{end_of_chorus}
+
+Quinze jours plus tard
+On était toujours là
+Presqu'à bout d'espoir
+Quand un car s'arrêta
+{newline}
+Quinze jours pour partir
+Quand on a qu'un mois de vacances
+On n'aura, je pense
+Pas le temps de revenir
+
+{start_of_chorus}
+  Et on a fini nos vacances
+  Sur le bord d'un trottoir
+  Quand on a dit : «C'est ça la France»
+  Il s'est mis à pleuvoir
+{end_of_chorus}

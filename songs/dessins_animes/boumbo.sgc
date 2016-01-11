@@ -1,0 +1,41 @@
+{title: Boumbo}
+{artist: Dessins Animés}
+{album: Boumbo}
+{cover: boumbo}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+[C]Boumbo, Boumbo
+Petite automo[Am]bile {echo: bile}
+Tu parais si fra[F]gile {echo: gile}
+Sous ton drôle de ca[G]pot
+Bou-bou-bou Boumbo
+
+Boumbo, Boumbo
+Tes deux amis fidèles {echo: dèles}
+Se raccrochent à tes ailes {echo: ailes}
+Pour pas tomber de haut
+Bou-bou-bou Boumbo
+
+{start_of_chorus}
+  [F]Quand tu respires une fleur
+  [C]Ça fait boum-boum dans ton cœur
+  [F]Tu affoles tes mécaniques
+  Et tu de[G]viens Boumbo magique
+{end_of_chorus}
+
+Boumbo, Boumbo
+De campagnes en collines {echo: lines}
+Tu roules et te dandines {echo: dines}
+Sans jouer les héros
+Bou-bou-bou Boumbo
+
+Boumbo, Boumbo
+T'es la petite nouvelle {echo: velle}
+Le tout dernier modèle {echo: dèle}
+La plus belle des autos
+Bou-bou-bou Boumbo {repeat: 2}

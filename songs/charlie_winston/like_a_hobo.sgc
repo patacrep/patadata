@@ -1,0 +1,46 @@
+{title: Like a hobo}
+{artist: Charlie Winston}
+{album: Hobo}
+{cover: hobo}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: FM7 frets 0 0 3 2 1 X}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: G13 frets 3 0 3 2 1 0 special}
+{define: G14 frets 3 2 3 0 1 0 special}
+{define: B7&9 frets 0 2 0 2 1 0 special}
+
+{guitar_comment: Intro: [Am Fmaj7 Am Am Fmaj7 Am G F E]}
+{newline}
+I've always [Am]known [Fmaj7]since I was a young boy [Am Fmaj7]
+In this [Am]world, [Fmaj7]everything's as good as [Am]bad
+Now my [Am]father told me [Fmaj7]always speak a true word [Am Fmaj7]
+And I [Am]have to say that is the [Fmaj7]best advice I've [Am]had
+{newline}
+Because [Dm]something burns inside of [Am]me
+It's [Dm]everything I long to [Am]be
+And [Dm]lies they only [C]stop me from feeling [E]free
+
+{start_of_chorus}
+  [Am]Like a hobo from a [Fmaj7]broken home
+  [G13]Nothing's gonna stop me [G14]
+  [Dm]Like a hobo from a [Am]broken home
+  [B7b9]Nothing's gonna stop me [E]
+{end_of_chorus}
+
+{start_of_chorus}
+  [Am]Ah ahah ahah[Fmaj7]ah, ahah ah [Am Fmaj7]
+  [Am]Ah ahah ahah[Fmaj7]ah, ahah ah [Am G F E]
+{end_of_chorus}
+
+I've never [Am]yearned for [Fmaj7]anybody's fortune [Am Fmaj7]
+The less I [Am]have the [Fmaj7]more I am a happy [Am]man
+Now my [Am]mother told me [Fmaj7]always keep your head on [Am Fmaj7]
+Because [Am]some may praise you [Fmaj7]just to get what they [Am]want
+{newline}
+And I said, ``[Dm]Mama, I am not a[Am]fraid
+[Dm]They will take what they will [Am]take
+And [Dm]what would life be [C]like without a few mis[E]takes''

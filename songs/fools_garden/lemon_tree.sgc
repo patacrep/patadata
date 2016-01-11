@@ -1,0 +1,53 @@
+{title: Lemon tree}
+{artist: Fool's Garden}
+{album: Dish of the day}
+{cover: dish-of-the-day}
+{language: english}
+{columns: 2}
+{define: Em base-fret 7 frets X 0 2 2 1 0}
+{define: Bm base-fret 7 frets 0 2 2 0 0 0}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: B base-fret 7 frets 0 2 2 1 0 0}
+
+I'm [Em]sitting here in the [Bm]boring room
+It's [Em]just another rainy Sunday [Bm]afternoon
+I'm [Em]wasting my time, I got [Bm]nothing to do
+I'm [Em]hanging around, I'm [Bm]waiting for you
+But [Am]nothing ever happens [Bm] and I [Em]wonder
+
+I'm driving around in my car
+I'm driving too fast, I'm driving too far
+I'd like to change my point of view
+I feel so lonely, I'm waiting for you
+But nothing ever happens and I wonder
+
+{start_of_chorus}
+  I [G]wonder how, I [D]wonder why
+  [Em]Yesterday you told me 'bout the [Bm]blue blue sky
+  And [C]all that I can [D]see
+  Is just a yellow [G]lemon-tree [D]
+{end_of_chorus}
+
+{start_of_chorus}
+  I'm turning my head up and down
+  I'm turning turning turning turning turning around
+  And all that I can see
+  Is just another lemon-tree
+{end_of_chorus}
+
+I'm sitting here, I miss the power
+I'd like to go out taking a shower
+But there's a heavy cloud inside my head
+I feel so tired, put myself into bed
+Well, nothing ever happens and I wonder
+
+[B]Isolation [Em]is not good for me
+[D]Isolation [G]I don't want to
+Sit on the [B]lemon-tree
+{newline}
+I'm steppin' around in the desert of joy
+Baby anyhow I'll get another toy
+And everything will happen and you wonder

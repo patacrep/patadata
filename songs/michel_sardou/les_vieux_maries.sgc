@@ -1,0 +1,66 @@
+{title: Les vieux mariés}
+{artist: Michel Sardou}
+{album: Les vieux mariés}
+{url: http://michelsardou.artiste.universalmusic.fr/site/}
+{cover: les-vieux-maries}
+{language: french}
+{columns: 2}
+{define: E frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: A frets X 0 2 2 2 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: G#7 base-fret 4 frets 0 2 0 1 0 0 special}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#7 base-fret 2 frets 0 2 0 1 0 0 special}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: C#7 base-fret 4 frets X 0 2 0 2 0 special}
+{define: F#m7 base-fret 2 frets 0 2 0 0 0 0 special}
+{define: B7 base-fret 2 frets X 0 2 0 2 0 special}
+
+[E]On vient de [B]marier le der[E]nier [B]
+[E]Tous nos en[A]fants sont désor[E]mais heureux sans [B]nous
+[F#m]Ce soir il [G#7]me vient une i[C#m]dée
+Si l'on pen[A]sait un peu à [E]nous
+[F#7]Un peu à [B]nous
+{newline}
+[E]On s'est tou[B]jours beaucoup ai[E]mé [B]
+[E]Mais sans un [A]jour pour vraiment [E]s'occuper de [B]nous
+[F#m]Alors il [G#7]me vient une i[C#m]dée
+Si l'on par[A]tait comme deux vieux [E]fous
+[B]Comme deux vieux [E]fous
+
+{start_of_chorus}
+  [E]On habiterait à l'hô[A]tel
+  On prendrait le café au [G#m]lit
+  [C#7]On choisirait un petit hô[F#m7]tel
+  Dans un jo[B7]li coin du mi[G#7]di
+  Ce soir il me vient des i[C#m]dées
+  Ce soir il [F#7]me vient des i[B]dées
+{end_of_chorus}
+
+[E]On a tou[B]jours bien travai[E]llé [B]
+[E]On a sou[A]vent eu peur de [E]n'pas y arri[B]ver
+[F#m]Maintenant [G#7]qu'on est tous les [C#m]deux
+Si l'on pen[A]sait à être heu[E]reux
+[F#7]À être heu[B]reux
+{newline}
+[E]Tu m'as do[B]nné de beaux en[E]fants [B]
+[E]Tu as le [A]droit de te re[E]poser mainte[B]nant
+[F#m]Alors il [G#7]me vient une i[C#m]dée
+Comme eux j'ai[A]merais voya[E]ger
+[B]Hum... voya[E]ger
+
+{start_of_chorus}
+  [E]Mais on irait beaucoup moins [A]loin
+  On n'partirait que quelques [G#m]jours
+  [C#7]Et si tu me tiens bien la [F#m7]main
+  Je te re[B7]parlerai d'a[G#7]mour
+  Ce soir il me vient des i[C#m]dées
+  Ce soir il [F#7]me vient des i[B]dées
+{end_of_chorus}
+
+[E]Nous revi[B]vrons nos jours heu[E]reux [B]
+[E]Et jusqu'au [A]bout moi je ne [E]verrai plus que [B]toi
+[F#m]Le temps qui [G#7]nous a rendu [C#m]vieux
+N'a pas chan[A]gé mon cœur pour [E]ça
+[B7]Mon cœur pour [E]ça

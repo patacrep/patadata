@@ -1,0 +1,44 @@
+{title: Temporary one}
+{artist: Fleetwood Mac}
+{album: The Dance}
+{cover: the-dance}
+{language: english}
+{columns: 2}
+{define: G5 frets X X X 0 3 3 special}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: Asus4 frets X 0 2 2 3 0 special}
+
+{guitar_comment: Intro: [G5]}
+{newline}
+[A]Where are [D]you [G]darling
+When m[D A]y moon [D]is [G]rising
+And y[D A]our sun is shining d[D G]own?
+[D G A]
+
+[A]What are [D]you [G]doing?
+Are y[D A]ou miss[D]ing [G]me in [D]a [A]way
+That I'm missing you n[D G]ow?
+[D G]
+
+{start_of_chorus}
+  [D] The river goes [G]on and on and the
+  [D] The sea that div[G]ides us is a
+  [D] A temporary o[G]ne and a
+  [D] Bridge will [Bm]bring us back to[Asus4]gether
+{end_of_chorus}
+
+[G5]
+{newline}
+[A]What are [D]you [G]doing?
+Goi[D A]ng down in[D]to [G]Soho
+Once [D]I [A]get my rest to[D G]night
+
+[A]What are [D]you [G]doing?
+Are y[D A]ou bu[D]sy [G]with your wor[D A]ld?
+Well, I wish you were busy [D]with [G]mine
+{newline}
+{guitar_comment: Chorus, Solo, Chorus {repeat: 3}}
+{guitar_comment: Outro: [D G] {repeat: 4} [D]}

@@ -1,0 +1,28 @@
+{title: Don't worry, be happy}
+{artist: Bobby McFerrin}
+{album: Don't worry be happy}
+{cover: dont-worry-be-happy}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+
+[C]Here's a little song I wrote
+[G]You might want to sing it note for note
+Don't [F]worry,[Fm G] be [C]happy [G]
+
+In every life we have some trouble
+When you worry you make it double
+Don't worry, be happy {echo: be happy now}
+
+{start_of_chorus}
+  [C]Uh uh uh uh uh
+  Uh uh uh uh [G]uh uh uh
+  Don't worry
+  Uh uh uh uh uh uh uh
+  Be happy
+  Uh uh uh uh [C]uh
+  Don't worry, be happy
+{end_of_chorus}

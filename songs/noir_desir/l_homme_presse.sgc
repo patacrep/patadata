@@ -1,0 +1,137 @@
+{title: L'homme pressé}
+{artist: Noir Désir}
+{album: 666.667 Club}
+{cover: 666-667-club}
+{language: french}
+{columns: 3}
+{define: Am frets X 0 2 2 X X special}
+{define: D frets X 0 0 2 X X special}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+
+J'suis un [Am]mannequin glacé
+Avec un teint de soleil
+Ravalé, homme pressé
+Mes conneries proférées
+Sont le destin du monde
+Je n'ai pas le temps, je file
+Ma carrière est en jeu
+Je suis l'homme médiatique
+Je suis plus que politique
+Je vais vite, très vite
+J'suis une comète humaine universelle
+{newline}
+Je tra[D]verse le temps
+Je suis une référence
+Je suis omniprésent
+Je deviens omniscient
+{newline}
+J'ai en[Am]vahi le monde
+Que je ne connais pas
+Peu importe j'en parle
+Peu importe je sais
+J'ai les hommes à mes pieds
+Huit milliards potentiels
+Des crétins asservis
+À part certains de mes amis
+Du même [G]monde que moi
+Vous n'ima[F]ginez pas
+Ce qu'ils sont [Am]gais
+
+{start_of_chorus}
+  [Am]Qui veut de [C]moi
+  Et des mi[G]ettes de mon cer[Am]veau
+{end_of_chorus}
+
+{start_of_chorus}
+  Qui veut entrer
+  Dans la toile de mon réseau
+{end_of_chorus}
+
+Mili[Am]tant quotidien
+De l'inhumanité
+Des profits immédiats
+Des faveurs des médias
+Moi je suis riche, très riche
+J'fais dans l'immobilier
+Je sais faire des affaires
+Y'en a qui peuvent payer
+{newline}
+J'connais [D]le tout Paris
+Et puis le reste aussi
+Mes connaissances uniques
+Et leurs femmes que je ...
+[Am]Fréquente évidemment
+{newline}
+Les [Am]cordons de la bourse
+Se relâchent pour moi
+Il n'y a plus de secrets
+Je suis le roi des rois
+Exploser l'audimat
+Pulvériser l'audience
+Et qu'est-ce que vous croyez ?
+C'est ma voie, c'est ma chance
+{newline}
+J'a[D]dore les émissions
+À la télévision
+Pas le temps d'regarder
+Mais c'est moi qui les fais
+On [Am]crache la nourriture
+À ces yeux affamés
+Vous voyez qu'ils demandent
+Nous les savons avides
+De notre [G]pourriture
+Mieux que [F]d'la confiture
+À des co[Am]chons
+
+{start_of_chorus}
+  Qui veut de moi
+  Et des miettes de mon cerveau
+  Qui veut entrer
+  Dans la toile de mon réseau
+{end_of_chorus}
+
+{start_of_chorus}
+  Vous savez que je suis
+  Un homme pressé {repeat: 3}
+{end_of_chorus}
+
+{start_of_chorus}
+  Je suis
+  Un homme pressé {repeat: 3}
+{end_of_chorus}
+
+Je suis un [Am]militant quotidien
+De l'inhumanité
+Et des [C]profits immédiats
+Et puis des faveurs des médias
+Moi je suis [G]riche, très riche
+J'fais dans l'immobilier
+Je [Am]sais faire des affaires
+Y'en a qui peuvent payer
+{newline}
+Et puis je traverse le temps
+Je suis devenu omniprésent
+Je suis une super référence
+Je peux toujours ramener ma science
+Moi je vais vite, très vite
+Ma carrière est en jeu
+Je suis l'homme médiatique
+Moi je suis plus que politique
+
+{start_of_chorus}
+  Car je suis
+  Un homme pressé {repeat: 3}
+{end_of_chorus}
+
+{start_of_chorus}
+  Un homme pressé {repeat: 3}
+{end_of_chorus}
+
+«Love, love, love»
+Dit-on en Amérique
+«Lioubov»
+Russie ex-soviétique
+«Amour»
+Aux quatre coins de France

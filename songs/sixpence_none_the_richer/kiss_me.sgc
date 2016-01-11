@@ -1,0 +1,37 @@
+{title: Kiss me}
+{artist: Sixpence None the Richer}
+{album: Sixpence None the Richer}
+{cover: sixpence-none-the-richer}
+{language: english}
+{columns: 2}
+{capo: 1}
+{define: D frets X X 0 2 3 2}
+{define: DM7 frets X X 0 2 2 2 special}
+{define: D7 frets X X 0 2 1 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D/C# frets X 4 0 2 3 2 special}
+{define: D/B frets X 2 0 2 3 2 special}
+{define: G* frets 3 2 0 0 3 0 special}
+{define: Asus4 frets X 0 2 2 3 0 special}
+
+{guitar_comment: Intro:  [D Dmaj7 D7 Dmaj7] {repeat: 2}}
+{newline}
+[D]Kiss [Dmaj7]me out of the bearded barley
+[D7]Nightly, [Dmaj7]beside the green, green grass
+[D]Swing, swing[Dmaj7], swing the spinning step
+[D7]You wear those shoes and I wil[G]l wear that dress
+
+{start_of_chorus}
+  Oh, [Em]kiss [A]me [D]beneath the milky twilight
+  [Em]Lead [A]me [D]out on the moon[D7]lit floor
+  Lift[Em] your op[A]en hand
+  [D]Strike up the band [D/C#]and make the [D/B]fireflies dance, [D/C#]silver moon's [G*]sparkling
+  [A] [Asus4] [A]So kiss me
+{end_of_chorus}
+
+Kiss me down by the broken tree house
+Swing me upon its hanging tire
+Bring, bring, bring your flowered hat
+We'll take the trail marked on your father's map

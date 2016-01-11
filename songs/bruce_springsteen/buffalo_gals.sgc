@@ -1,0 +1,25 @@
+{title: Buffalo gals}
+{artist: Bruce Springsteen}
+{album: We shall overcome}
+{cover: we-shall-overcome}
+{language: english}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C7 frets 0 3 2 3 1 0}
+
+[F]As I was walking down the street
+[C7]Down the street, [F]down the street
+[F]A pretty girl I chanced to meet
+And we [C7]danced by the light of the [F]moon
+
+{start_of_chorus}
+  [F]Buffalo gals won't you come out tonight
+  [C7]Come out tonight, [F]come out tonight
+  [F]Buffalo gals won't you come out tonight
+  And we'll [C7]dance by the light of the [F]moon
+{end_of_chorus}
+
+I [F]danced with a gal with a hole in her stocking
+And he [C7]knees was a-knockin' and her [F]shoes was a'rockin'
+I [F]danced with a gal with a hole in her stocking
+And we [C7]danced by the light of the [F]moon

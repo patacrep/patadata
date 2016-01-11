@@ -1,0 +1,39 @@
+{title: Les chevaliers du zodiaque}
+{artist: Dessins Animés}
+{album: Les chevaliers du zodiaque}
+{cover: zodiaque}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+[A]Des quatre coins de [E]l'Uni[A]vers
+[A]Quand triomphe le [E]Mal
+[A]Sans hésiter ils [E]partent en [A]guerre
+[A]Pour un monde idé[E]al
+
+{start_of_chorus}
+  [A]Les che[F#]valiers du zo[Bm]diaque
+  [E]S'en vont toujours à l'a[A]ttaque
+  [F#]En chantant une chan[Bm]son bien haut
+  C'est la [E]chanson des hé[A]ros
+{end_of_chorus}
+
+{start_of_chorus}
+  Les chevaliers du zodiaque
+  Contre les forces démoniaques
+  Gardent toujours au fond de leur cœur
+  Le courage des vainqueurs
+{end_of_chorus}
+
+Ils n'ont jamais peur de personne
+Et rien ne les effraie
+Et lorsque l'heure du combat sonne
+Tous, ils sont toujours prêts
+
+Et quand un jour viendra enfin
+L'heure de la victoire
+Au royaume de tous les Saints
+On chantera leur gloire

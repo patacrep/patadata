@@ -6,13 +6,13 @@
   \cover
   \gtab{Am}{X02210}
   \gtab*{Esus4}{020200}
-  \gtab*{Bm7/5&}{X2323X}
+  \gtab*{Bm7b5}{X2323X}
   \gtab*{C6}{X32210}
-  \gtab*{C7/6}{X32200}
+  \gtab*{Cmaj7add6}{X32200}
   \gtab*{C7}{X32000}
 
   \begin{verse*}
-    \musicnote{\Intro : \nolyrics{\[Am E7sus4 C7/6 E7sus4]} \rep{2}}
+    \musicnote{\Intro : \nolyrics{\[Am E7sus4 Cmaj7add6 E7sus4]} \rep{2}}
   \end{verse*}
 
   \begin{verse}
@@ -28,9 +28,9 @@
 
   \begin{chorus}
     \[G] Où chaque \[C7]minute
-    \[F] Est un san\[Bm7/5&]glot
+    \[F] Est un san\[Bm7b5]glot
     \[E] Vois comme je \[Am]lutte
-    Vois ce que je \[Dm]perds en sang et en \[Bm7/5&]eau
+    Vois ce que je \[Dm]perds en sang et en \[Bm7b5]eau
     En sang et en \[E7sus4]eau \[E]
   \end{chorus}
 

@@ -1,0 +1,88 @@
+{title: Irène}
+{artist: Thomas Fersen}
+{album: Qu4tre}
+{cover: qu4tre}
+{language: french}
+{columns: 2}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: B base-fret 2 frets 2 1 0 0}
+{define: G#m base-fret 1 frets 0 2 3 1}
+{define: E base-fret 2 frets 2 2 2 0}
+{define: C#m base-fret 1 frets 0 3 3 3}
+
+{guitar_comment: Intro :  [B G#m E B] {repeat: 2}}
+{newline}
+Quand [B]je bois une bière de Bohême
+[G#m]Moi qui suis un buveur d'eau
+Je [E]vois de roses pachydermes
+Mais [B]cette fois il y a du nouveau
+{newline}
+Quand [B]je bois une bière de Bohême
+[G#m]Pas le moindre éléphanteau
+Je [E]reçois mademoiselle Irène
+[B]Dans le réduit de mon cerveau
+
+{start_of_chorus}
+  Elle [B]illumine ma lanterne
+  Cer[C#m]tains prénoms sont si beaux
+  Je [C#m]reçois mademoiselle Irène
+  [B]Comme une colombe dans mon chapeau
+  [B G#m E B]
+{end_of_chorus}
+
+Je [B]reçois mademoiselle Irène
+[G#m]Dans le réduit de mon cerveau
+Est-[E]elle, cette maison de reine
+[B]Dans votre annuaire des châteaux ?
+{newline}
+Si [B]je pouvais saisir les rênes
+Dé[G#m]tourner cette rame de métro
+Et [E]prendre la fuite à Varennes
+Au [B]lieu de me rendre au bureau
+
+{start_of_chorus}
+  De [B]poste ou je trie des centaines
+  [C#m]Des milliers de colis postaux
+  Je [C#m]confonds reine avec Irène
+  [B]Dans le réduit de mon cerveau
+  [B G#m E B]
+{end_of_chorus}
+
+Par[B]fois je m'endors sur la chaîne
+Et [G#m]j'entends qu'on dit dans mon dos
+[E]Qu'à 15 ans j'ai pas eu d'veine
+De [B]m'piquer avec le fuseau
+{newline}
+Si [B]j'avais une fée pour marraine
+Je [G#m]lui demanderais ce cadeau
+Me [E]donner les lèvres d'Irène
+Plu[B]tôt qu'la brûlure d'un mégot
+
+{start_of_chorus}
+  Et [B]comme dans les livres d'étrennes
+  On [C#m]s'enfuirait dans un traîneau
+  [C#m]Emmené par quatre rennes
+  A[B]vec le tintement des grelots
+  [B G#m E B]
+{end_of_chorus}
+
+Et [B]quand vient la fin de semaine
+Que [G#m]faire de mes jours de repos ?
+J'ai[E]merais sortir avec Irène
+Mais [B]comme je n'ai pas de culot
+{newline}
+Je [B]vais seul à la fête foraine
+[G#m]Et j'me fais tirer les tarots
+[E]Par une cartomancienne
+Pour [B]savoir quel sera mon lot
+
+{start_of_chorus}
+  Et [B]selon cette bohémienne
+  Mon [C#m]avenir est clair comme de l'eau
+  [C#m]Elle voit de roses pachydermes
+  [B]Et une solitude sans défaut...
+  [B G#m E B]
+{end_of_chorus}

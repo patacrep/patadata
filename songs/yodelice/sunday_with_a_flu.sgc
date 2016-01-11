@@ -1,0 +1,42 @@
+{title: Sunday with a flu}
+{artist: Yodelice}
+{album: Tree of life}
+{cover: tree-of-life}
+{language: english}
+{columns: 2}
+{capo: 3}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+
+{guitar_comment: Intro: [Bm G D Bm]}
+{newline}
+[Bm]Closed my door, forgot my key
+Missed my bus in the pouring rain
+It's [G]been the usual Su[D]nday with a flu [Bm]
+[G]And I just can't [D]get over you [Bm]
+
+Burnt my toast and lost your number
+Cut my finger, spilled my beer
+It's been the usual Sunday with a flu
+And I just can't get over you
+
+{start_of_chorus}
+  I [G]put your stockings
+  [D]In my purple boots [Bm]
+  [G]What if I do[D]n't get over you? [Bm]
+{end_of_chorus}
+
+Had a chat and left my hat
+Ate my dog and walked my cat
+It's been the usual Sunday with a flu
+And I just can't get over you
+
+{guitar_comment: Chorus; whistled verse; Chorus}
+
+Called a cabbage, threw the garbage
+Asked for help and got some kelp
+It's been the usual Sunday with a flu
+And I just can't get over you
+
+{guitar_comment: Chorus}

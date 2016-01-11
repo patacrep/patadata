@@ -1,0 +1,46 @@
+{title: L'histoire d'Actarus}
+{artist: Dessins Animés}
+{album: Goldorak}
+{cover: actarus}
+{language: french}
+{columns: 2}
+{capo: 5}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+Là-[Cm]haut, là-haut
+[Bb]Très loin dans l'espace
+[G]Entre la Terre [Cm]et Vénus
+[Bb]Le ciel garde encore la trace
+[G#]Du Prince Acta[G]rus
+[Fm]Il rêvait [Cm]de notre Terre
+[Bb]La Planète [G]Bleue
+[Fm]Dont il voyait [Cm]la lumière
+[G]À cent mille [Cm]lieux
+
+Là-haut, là-haut
+Loin dans les étoiles
+La Grande Guerre éclata
+Et ce fut l'assaut final
+De ceux de Véga
+Actarus alors s'enfuit
+Vaincu, solitaire
+À travers les galaxies
+De notre univers
+
+{start_of_chorus}
+  [C]Dans son mervei[G]lleux robot
+  [Am]De lumière et d'a[G]cier
+  [Dm]Ce chevalier [C]des temps nouveaux
+  [G]Se bat pour l'humani[C]té
+  [G]Actarus à bord de Goldorak
+  [C]Voici la lé[F]gende
+  [G]Que l'on va vous racon[C]ter
+{end_of_chorus}

@@ -1,0 +1,74 @@
+{title: Ma petite chérie}
+{artist: Debout sur le Zinc}
+{album: Debout sur le zinc}
+{url: http://www.dslz.org}
+{cover: debout-sur-le-zinc}
+{language: french}
+{columns: 2}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: G7 base-fret 3 frets 0 2 0 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+[C]Ma petite chérie
+Souviens-toi, je t'ai dit
+Après la guerre, on se [G7]marie
+On f'ra une maison
+Et plein de petits poltrons
+Qui nous emmerderons
+Mais nous les [C]aimerons
+{newline}
+Devant sur le trottoir
+Une belle voiture noire
+Attirera tous les regards
+Elle sera la nôtre
+Même, on en aura plein d'autres
+On plantera dans l'Midi notre étendard
+
+{start_of_chorus}
+  [F]J't'écris cette lettre avant l'com[C]bat
+  Pour gar[G7]der un peu de [C]joie
+  [F]Prépare tes valises pour de[C]main
+  Car c'est [G7]demain que je re[C]viens
+{end_of_chorus}
+
+Samedi soir au bar
+Pour fêter notre départ
+On boira jusqu'au plus tard
+Je veux que tout le monde soit saoul
+Qu'on ne tienne plus debout
+Qu'on prenne les hiboux pour des canards
+{newline}
+Puis on partira vers le Sud cette fois
+Vers le soleil, ma belle
+On n' regrettera pas d'avoir laissé là
+La guerre, la cruelle {echo: allez}
+
+Ma petite chérie
+C'est de là-haut que je t'écris
+La guerre m'a tué, fini la vie
+On f'ra pas de maison
+Encore moins de poltrons
+J'ai presque envie de te demander pardon
+{newline}
+J'ai goûté au trépas
+D'où je n'reviendrai pas
+Pourtant tu vois, je n'aime pas ça
+Dépose sur ma tombe
+Deux ou trois colombes
+Parce que les fleurs
+Je n'aime plus ça
+{newline}
+Surtout j'voulais te dire
+Que toi, tu respires
+Qu'il faut qu'tu penses à te marier
+À faire des mômes
+Qui ne me ressembleront pas
+Mais qui seront tellement beaux
+Qu'tu n'y pens'ras pas
+
+{start_of_chorus}
+  J't'écris cette lettre du paradis
+  D'où je n'reviendrai pas
+  Mais pense qu'un jour ma p'tite chérie
+  Il faudra bien qu'on se revoie !
+{end_of_chorus}

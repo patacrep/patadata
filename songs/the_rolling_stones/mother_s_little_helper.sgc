@@ -1,0 +1,53 @@
+{title: Mother's little helper}
+{artist: The Rolling Stones}
+{album: Aftermath}
+{url: http://www.rollingstones.com/}
+{cover: aftermath}
+{language: english}
+{columns: 1}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+{partition: mothers_little_helper.ly}
+
+Wh[Am]at a dr[C]ag it i[D]s getting [Em]old
+{newline}
+[Em]Kids are different today I hear every mother say
+Mother needs something today to calm her [F]down [D]
+And though [G]she's not really ill there's a [C]little yellow [Am]pill
+She goes running for the shelt[D]er of her mother's little helper
+And it [Em]helps her on her way gets her through her busy day
+
+[Em]Things are different today I hear every mother say
+Cooking fresh food for a husband's just a [F]drag [D]
+So she [G]buys an instant cake and she [C]burns a frozen [Am]steak
+And goes running for the shelt[D]er of her mother's little helper
+And to [Em]helps her on her way get her through her busy day
+
+{start_of_chorus}
+  [C]Doctor please some [D]more of these
+  Outside the [G]door she took four [C]more
+  [Am]What a d[C]rag it i[D]s getting [Em]old
+{end_of_chorus}
+
+[Em]Men just aren't the same today I hear every mother say
+They just don't appreciate that you get [F]tired [D]
+They're so [G]hard to satisfy you can [C]tranquilize your [Am]mind
+So go running for the shelt[D]er of your mother's little helper
+And for to [Em]help you through the night help to minimise your plight
+
+{start_of_chorus}
+  [C]Doctor please some [D]more of these
+  Outside the [G]door she took four [C]more
+  [Am]What a d[C]rag it i[D]s getting [Em]old
+{end_of_chorus}
+
+[Em]Life's just much too hard today I hear every mother say
+The pursuit of happiness just seems a [F]bore [D]
+And if [G]you take more of those you will [C]get an over[Am]dose
+No more running for the shelter [D]of a mother's little helper
+They just [Em]helped you on your way through your busy dying day

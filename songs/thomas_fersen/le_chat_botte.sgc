@@ -1,0 +1,101 @@
+{title: Le Chat Botté}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: D frets X X 0 2 3 2}
+{define: B7 frets X 2 1 2 0 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 4 3 2}
+{define: C frets 0 0 0 3}
+{define: Am frets 2 0 0 0}
+{define: D frets 2 2 2 0}
+{define: B7 base-fret 2 frets 0 1 0 0}
+{define: G frets 0 2 3 2}
+
+{guitar_comment: Intro :  [Em C Am D] {repeat: 2} }
+{newline}
+[Em]Je travaille au [C]Chat Botté
+[B7]Dans le centre [Em]ville
+[Em]Je vends l'hiver [C]et l'été
+[B7]Des mules en rep[Em]tile
+[G]C'est mon destin [D]je suppose
+[C]J'ai 15 ans d'mai[B7]son
+[Em]Ça sent pas tou[C]jours la rose
+[B7]C'est le reblo[Em]chon
+{newline}
+[Em]Dans le cas de [C]cette fillette
+[B7]Qui tend son pied [Em]droit
+[Em]Son prénom doit [C]être Berthe
+[B7]Pointure 4[Em]3
+[G]Il est l'heure de [D]mon sandwiche
+[C]Mais je n'ai plus [B7]faim
+[Em]Asphyxié par [C]les péniches
+[B7]Telle sera ma [Em]fin
+
+{start_of_chorus}
+  [Em]On ne veut plus [C]les quitter
+  [Am]Quand on les en[D]file
+  [Em]Essayer c'est [C]adopter
+  [Am]Les mules en rep[D]tile
+  [Em C Am D] {repeat: 2}
+{end_of_chorus}
+
+[Em]Je surveille le [C]Chat Botté
+[B7]Derrière mes len[Em]tilles
+[Em]Au rayon des [C]nouveautés
+[B7]Une longue [Em]fille
+[G]Elle regarde [D]les savates
+[C]Et puis finale[B7]ment
+[Em]Elle me dit [C]qu'elle convoite
+[B7]Les mules en ser[Em]pent
+{newline}
+[Em]Elle me confie [C]son pied nu
+[B7]Comme à une [Em]sœur
+[Em]Il est fin, pe[C]tit, menu
+[B7]Bref sans épais[Em]seur
+[G]Je le respire, [D]je le flaire
+[C]Enfin, je le [B7]hume
+[Em]Je voudrais met[C]tre sous verre
+[B7]Ce qui le par[Em]fume
+
+{start_of_bridge}
+[Em]Jamais eu au [C]Chat Botté
+[Am]Cette démangeai[D]son
+[Em]Cette envie de [C]bécoter
+[Am]En 15 ans d'mai[D]son
+[Em]Je repousse [C]l'idée sotte
+[Am]L'idée saugre[D]nue
+[Em]L'idée d'propo[C]ser la botte
+[Am]À cette incon[D]nue
+[B7]Quand soudain le carillon
+Annonce la nuit
+[Em]Et pareille à Cendrillon
+La fille s'enfuit
+[C]Me laissant désappointé
+La mule à la main
+[Am]Elle s'enfuit du Chat Botté
+Passe son chemin
+{end_of_bridge}
+
+[Em]J'me faufile dans [C]la réserve
+[B7]J'entrouvre la [Em]boîte
+[Em]Tout le parfum [C]que conserve
+[B7]La pantoufle [Em]droite
+[G]Me traverse [D]les narines
+[C]Dilate mon [B7]cœur
+[Em]Me réchauffe [C]la poitrine
+[B7]Comme une li[Em]queur
+{newline}
+[Em]Moi qui avais [C]le bourdon
+[B7]J'ai la chair de [Em]poule
+[Em]Et même la chair [C]de dindon
+[B7]Quand j'éteins l'am[Em]poule
+[G]Il me semble être [D]avec elle
+[C]Elle à mes cô[B7]tés
+[Em]Je rêve d'une [C]vie nouvelle
+[B7]Loin du Chat Bot[Em]té

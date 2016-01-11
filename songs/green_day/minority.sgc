@@ -1,0 +1,35 @@
+{title: Minority}
+{artist: Green Day}
+{album: Warning}
+{url: http://www.greenday.com}
+{cover: greenday-warning}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+
+{start_of_chorus}
+  [C]I wanna [F]be the mi[G]nori[F]ty
+  [C]I don't [F]need your au[G]thori[F]ty
+  [C]Down with the [F]moral ma[G]jori[F]ty
+  'cause [C]I wanna [F]be the mi[G]nori[C]ty
+{end_of_chorus}
+
+I [C]pledge a[G]llegiance [F]to the under[C]world
+One [C]nation under [G]dog there of [F]which I stand a[G]lone
+A [C]face in the [G]crowd, un[F]sung, against the [C]mob
+Wi[C]thout a doubt, [F]singled out, the [G]only way I [C]know
+
+{start_of_bridge}
+[Am]Stepped out of the [F]line[C]
+[Am]Like a sheep runs [F]from the [G]herd
+[Am]Marching out of [F]time[C]
+[Am]To my own [F]beat [G]now
+{end_of_bridge}
+
+One light, one mind, flashing in the dark
+Blinded by the silence of a thousand broken hearts
+``For crying out loud'', she screamed unto me
+A free for all, fuck 'em all, you are your own sight

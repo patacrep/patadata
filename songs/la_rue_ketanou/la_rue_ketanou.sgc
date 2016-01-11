@@ -1,0 +1,59 @@
+{title: La Rue Kétanou}
+{artist: La Rue Kétanou}
+{album: En attendant les caravanes}
+{url: http://www.larueketanou.com}
+{cover: en-attendant-les-caravanes}
+{language: french}
+{columns: 2}
+{define: Fm base-fret 8 frets X 0 2 2 1 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: B&m base-fret 6 frets 0 2 2 0 0 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: D# base-fret 6 frets X 0 2 2 2 0}
+
+{start_of_chorus}
+  [Fm]C'est pas nous qui sommes à la rue
+  C'est la rue qu'est à [Ab]nous
+  [Bbm]Nao son en que son da rua
+  É a rua que é nossa [C# D#]
+{end_of_chorus}
+
+[Fm]Crevons la sourde oreille[Ab]
+En a[Bbm]vant la mu[Fm]sique
+Chauffe, [Fm]chauffe, chauffe le so[Ab]leil
+Souffle [Bbm]un vent de pa[Fm]nique
+{newline}
+Ga[Fm]gnons les causes per[Ab]dues
+Déplo[Bbm]yons notre jeu[Fm]nesse
+Sa [Fm]fougue et son cha[Ab]hut
+Sa [Bbm]rage et sa ten[Fm]dresse
+
+A[Fm]bracadabra le [Ab]miracle
+On va [Bbm]transformer cette [Fm]salle
+En [Fm]grande scène de spec[Ab]tacle
+Mesdames et messieurs, on [Bbm]joue pour vous ce [Fm]soir
+{newline}
+Entrée [Fm]libre pour tout le [Ab]monde
+Cha[Bbm]cun aura sa [Fm]place
+Là, dans [Fm]la dernière [Ab]ronde
+Sans pre[Bbm]mière ni deuxième [Fm]classe
+
+Les [Fm]gosses sur les é[Ab]paules
+Les [Bbm]filles par la [Fm]main
+On s'ra [Fm]triste, on s'ra [Ab]drôle
+Parta[Bbm]gez notre che[Fm]min
+{newline}
+Et [Fm]vive la bo[Ab]hème
+Et [Bbm]vive les vo[Fm]yages
+Leurs ré[Fm]ponses, leurs pro[Ab]blèmes
+Peut-[Bbm]être leurs déra[Fm]pages
+
+Nous [Fm]couchons si sou[Ab]vent
+A[Bbm]vec la belle é[Fm]toile
+Son a[Fm]mour est vi[Ab]vant
+Gon[Bbm]fle notre grande [Fm]voile
+{newline}
+Et [Fm]grave dans notre [Ab]voix
+L'em[Bbm]preinte des gouttes de [Fm]pluie
+La [Fm]chaleur et le [Ab]froid
+L'en[Bbm]fer, le para[Fm]dis

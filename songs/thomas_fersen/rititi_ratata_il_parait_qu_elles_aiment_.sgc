@@ -1,0 +1,96 @@
+{title: Rititi, ratata (il paraît qu'elles aiment)}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: E&m base-fret 6 frets X 0 2 2 1 0}
+{define: B base-fret 2 frets X 0 2 2 1 0}
+{define: A&m base-fret 4 frets 0 2 2 0 0 0}
+{define: G& base-fret 2 frets 0 2 2 1 0 0}
+{define: B&7 base-fret 1 frets X 0 2 0 2 0}
+{define: E&m base-fret 1 frets 2 2 1 0}
+{define: B base-fret 2 frets 2 1 0 0}
+{define: A&m frets 2 1 0 0}
+{define: G& base-fret 3 frets 2 0 1 0}
+{define: B&7 base-fret 1 frets 0 1 0 0}
+
+{guitar_comment: Intro :  [Ebm Bb7]}
+{newline}
+[Ebm]Dans mon harmonium
+Y'a une [B]araignée énorme
+Je lui [Abm]joue de la musique
+[Gb]Y paraît qu'ça [Bb7]pique
+{newline}
+Elle est [Ebm]venue faire son toit
+Dans [B]la robe de bois
+[Abm]De mon harmonium
+[Gb]Comme elle est mi[Bb7]gnonne
+
+{start_of_chorus}
+  Riti[Ebm]ti, rata[Bb7]ta {repeat: 2}
+{end_of_chorus}
+
+[Ebm]Dans mon harmonium
+Y'a une [B]araignée énorme
+Je lui [Abm]joue des requiem
+[Gb]Y paraît qu'elles [Bb7]aiment
+{newline}
+[Ebm]Elle est très gentille
+[B]Mais j'suis comme les filles
+[Abm]Ça me fout la trouille
+[Gb]Paraît qu'ça cha[Bb7]touille
+
+[B]Dans mon harmonium
+Y'a une [Abm]araignée qui lorgne
+Du cô[Gb]té de ma personne
+Pa[Bb7]raît qu'ça saucissonne
+{newline}
+Que ça [B]mange son époux
+[Abm]Comme un vulgaire pou
+Après [Gb]la marche nup[Bb7]tiale
+[Gb]Paraît qu'c'est nor[Bb7]mal
+{newline}
+[B]Moi dans mon délire
+[Abm]Ça m'fait défaillir
+[Gb]Et quand elle promène
+[Bb7]Son gros abdomen
+{newline}
+[B]J'me vois à la morgue
+[Abm]Alors sur mon orgue
+[Gb]Je joue pour la [Bb7]veuve
+[Gb]Paraît qu'elles s'é[Bb7]meuvent
+
+[Ebm]Dans mon harmonium
+Y'a une [B]araignée énorme
+Y'a une [Abm]araignée géante
+[Gb]Est-ce qu'elle est vi[Bb7]vante ?
+{newline}
+[Ebm]Elle ne bouge plus
+[B]Comme elle est velue !
+[Abm]Moi, ça m'horripile
+[Gb]Faudrait qu'elle s'é[Bb7]pile
+
+[B]Paraît qu'ça les berce
+[Abm]D'entendre la messe
+[Gb]Trop tard je l'assomme
+[Bb7]Que Dieu me pardonne
+{newline}
+[B]Avec mon missel
+De com[Abm]munion solennelle
+[Gb]Ma femme s'impa[Bb7]tiente
+[Gb]Elle n'est pas con[Bb7]tente
+{newline}
+[B]On dirait, Simone
+[Abm]On dirait qu'tu lorgnes
+Du cô[Gb]té de ma personne
+Comme une [Bb7]araignée énorme
+{newline}
+Celle qui [B]mange son époux
+[Abm]Comme un vulgaire pou
+Après [Gb]la marche nup[Bb7]tiale
+[Gb]Ce n'est pas nor[Bb7]mal
+{newline}
+{guitar_comment: Outro :}
+{guitar_comment:  [Ebm B Abm Gb Bb7] {repeat: 2}}
+{guitar_comment:  [Ebm Bb7] {repeat: 2} ab lib.}

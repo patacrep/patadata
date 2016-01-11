@@ -1,0 +1,45 @@
+{title: Ces idées là}
+{artist: Louis Bertignac}
+{album: Louis Bertignac et les visiteurs}
+{cover: louis-bertignac-et-les-visiteurs}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: D4 frets X X 0 2 3 3 special}
+{define: A frets X 0 2 2 2 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: Emadd9 frets 0 2 2 0 0 2 special}
+{define: Em* frets 0 2 2 0 0 3 special}
+
+{guitar_comment: Intro :  | [D] [D] [D4] [D] | [A] | [Em] [Em] [Emadd9] [Em*] | [G] |  {repeat: 2}}
+{newline}
+B[D]ébé, faudrait rentr[A]er tu vois
+Je s[Bm]uis en mal d'être [G]avec toi
+La m[D]achine à café est d[A]étraquée
+Les c[Bm]endriers tous r[G]enversés
+D[D]es heures et des h[A]eures passées
+Dev[Bm]ant la mire de m[G]a télé
+Des nuits s[D]ans dormir
+À me d[A]emander
+Où tu peux b[G]ien aller
+
+{start_of_chorus}
+  B[D]ébé {echo: [D4]ouh [D]ouh [A]ouh}
+  Faut pas m'laisser traîner [Em]là {echo: [Emadd9]ouh [Em*]ouh [G]ouh}
+  Seul avec ces [D]idées là {echo: [D4]ouh [D]ouh [A]ouh}
+  J'suis pas si fort que tu [Em]crois {echo: [Emadd9]ouh [Em*]ouh [G]ouh}
+  Pas si fort que ç[D]a
+{end_of_chorus}
+
+B[D]ébé, un d[A]oute en moi s'est [Bm]figé [G]
+Tu n'vas pl[D]us rentrer
+Je peux f[A]aire une croix sur t[G]oi
+C[D]omment ne pas m'im[A]aginer
+Ta [Bm]petite gueule entr[G]e ses bras
+Comment ne p[D]as crier
+Comment ne p[A]as pleurer
+Je suis f[G]atigué
+
+{comment: Chorus}

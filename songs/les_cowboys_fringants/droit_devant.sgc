@@ -1,0 +1,69 @@
+{title: Droit devant}
+{artist: Les Cowboys Fringants}
+{album: L'expédition}
+{cover: l-expedition}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Dm frets X X 0 2 3 1}
+{define: Am frets X 0 2 2 1 0}
+
+{start_of_chorus}
+  Prépare-[C]toi, petit gar[Gm]çon
+  Elle s'ra [Dm]longue l'expédi[C]tion
+  Et même [G]si on n'en revient jamais vi[Bb]vant
+  Il faut [C]marcher droit de[Dm]vant
+{end_of_chorus}
+
+{partition: Droit_devant-1.ly}
+
+[Dm]Quand il était haut comme 3 pommes
+Et qu'il n'était qu'un tout petit bon[C]homme[Am]
+On le poussa hors du berceau
+Lui mettant un baluchon sur le dos
+Le bagage vide d'expérience
+Il posera le pied dans son existence
+On n'est pas sitôt arrivé
+Que l'on doit faire face à sa destinée
+
+D'abord il faut franchir ce fleuve
+Qui est l'enfance de toutes les épreuves
+{partition: Droit_devant-2.ly}
+Là où même sa propre famille
+Risque de le couler par la torpille
+Déjà on saura si sa coque
+Et son bateau travers'ront les époques
+Ou bien s'il ramera à la dure
+Dans une chaloupe remplie de fissures
+
+Puis vient ce passage obligé
+Dans cette forêt parfois agitée
+Là où en plus d'chercher sa voie
+On est souvent perdu au fond de soi
+C'est en sortant de cette allée
+Qu'il pourra prendre les routes pavées
+Ou se contenter d'une avenue
+Précaire en dehors des sentiers battus
+
+Enfin vient la montagne hostile
+Et son ascension aux mille périls
+Où les victoires sont triomphales
+Mais où les chutes sont souvent brutales
+Seuls quelques-uns se hissent en haut
+Et réussissent à planter leur drapeau
+La plupart stoppent à mi-trajet
+Et se résignent bien à court du sommet
+
+Quand viendra l'âge du bilan
+L'important sera que tu sois content
+Car on fait c'qu'on peut dans la vie
+Tout dépend de ce qu'on a comme outils
+On voudrait tous être aux commandes
+Mais l'offre est plus petite que la demande
+Que l'on soit minus ou géant
+Il faut être fort pour traverser le temps
+{newline}
+Bonne chance

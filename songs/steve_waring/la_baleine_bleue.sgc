@@ -1,0 +1,43 @@
+{title: La baleine bleue}
+{artist: Steve Waring}
+{album: La baleine bleue}
+{cover: la-baleine-bleue}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+
+{start_of_chorus}
+  [G]La baleine bleue cherche de l'eau
+  Pour débou[D]cher tous ses tu[G]yaux
+  La baleine bleue cherche de l'eau
+  Pour débou[D]cher tous ses tu[G]yaux
+  Eau, eau, [D]eau, eau H2[G]O {repeat: 2}
+{end_of_chorus}
+
+[G]Elle a trouvé beaucoup de choses
+Elle a trou[D]vé beaucoup de [G]choses
+Beaucoup de choses {repeat: 2}
+Mais pas de l'eau {repeat: 2}
+Eau H20
+
+Elle a trouvé du détergent {repeat: 2}
+Du détergent {repeat: 2}
+Beaucoup de choses {repeat: 2}
+Mais pas de l'eau {repeat: 2}
+Eau H20
+
+Elle a trouvé un pétrolier {repeat: 2}
+Un pétrolier {repeat: 2}
+Du détergent {repeat: 2}
+Beaucoup de choses {repeat: 2}
+Mais pas de l'eau {repeat: 2}
+Eau H20
+
+Elle a trouvé du DDT {repeat: 2}
+Du DDT {repeat: 2}
+Un pétrolier {repeat: 2}
+Du détergent {repeat: 2}
+Beaucoup de choses {repeat: 2}
+Mais pas de l'eau {repeat: 2}
+Eau H20

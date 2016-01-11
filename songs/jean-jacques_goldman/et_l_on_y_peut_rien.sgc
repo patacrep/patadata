@@ -1,0 +1,109 @@
+{title: Et l'on y peut rien}
+{artist: Jean-Jacques Goldman}
+{album: Chansons pour les pieds}
+{cover: pieds}
+{language: french}
+{columns: 2}
+{capo: 1}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+
+{start_of_chorus}
+  [G C D G]
+  [Em D Em D]
+  [G C D G]
+  [Em D C D G]
+{end_of_chorus}
+
+{start_of_chorus}
+  [C G C G]
+  [C G Em D]
+  [C G C G]
+  [C Em C D G]
+{end_of_chorus}
+
+[G]Comme un [C]fil ent[D]re l'autre et [G]l'un
+[Em]Invi[D]sible il [Em]pose [D]ses liens
+[G]Dans les [C]méandres des [D]des inc[G]onscients
+[Em]Il se [D]promène im[C]puné[G]ment
+
+{start_of_chorus}
+  Et [C]tout un peu [G]tremble
+  Et le [C]reste s'é[G]teint
+  Jus[C]te dans nos [G]ventres
+  Un [Em]nœud, une [D]faim
+  Il [C]fait roi l'es[G]clave
+  Et peut [C]damner les [G]saints
+  L'honn[C]ête ou le [Em]sage
+  Et l'on [C]n'y [D]peut [G]rien
+{end_of_chorus}
+
+{start_of_chorus}
+  [G C D G]
+  [Em D Em D]
+  [G C D G]
+  [Em D C D G]
+{end_of_chorus}
+
+Et l'on résiste on bâtit des murs
+Des bonheurs, photos bien rangées
+Terroriste, il fend les armures
+Un instant tout est balayé
+
+{start_of_chorus}
+  Tu rampes et tu guettes
+  Et tu mendies des mots
+  Tu lis ses poètes
+  Aimes ses tableaux
+  Et tu cherches à la croiser
+  T'as quinze ans soudain
+  Tout change de base
+  Et l'on n'y peut rien
+{end_of_chorus}
+
+{start_of_chorus}
+  [G C D G]
+  [Em D D]
+{end_of_chorus}
+
+[A] Il s'in[D]vite quand on [E]ne l'att[A]end pas
+[F#m] Quand on [E]y croit, il [F#m] s'enfuit [E]déjà
+[A]Frère [D]qui un [E]jour y goû[A]ta
+[F#m]Jamais [E]plus tu ne [D]guéri[A]ras
+
+{start_of_chorus}
+  Il [D]nous laisse [A]vide
+  Et plus [D]mort que [A]vivant
+  C'est [D]lui qui [A]décide
+  On ne [F#m]fait que sem[E]blant
+  Lui, [D]choisit ses [A]tours
+  Et ses [D]va et ses [A]vient
+  Ain[D]si fait l'a[F#m]mour
+  Et l'on [D]n'y [E]peut [A]rien
+{end_of_chorus}
+
+{start_of_chorus}
+  [A D E A]
+  [F#m E F#m E]
+  [A D E A]
+  [F#m E D E A]
+{end_of_chorus}
+
+{start_of_chorus}
+  [D A D A]
+  [D A F#m E]
+  [D A D A]
+  [D F#m D E A]
+{end_of_chorus}
+
+{start_of_chorus}
+  [A D E A]
+  [F#m E F#m E]
+  [A D E A]
+  [F#m E D E A]
+{end_of_chorus}

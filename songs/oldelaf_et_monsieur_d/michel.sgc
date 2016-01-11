@@ -1,0 +1,59 @@
+{title: Michel}
+{artist: Oldelaf}
+{album: Bête et méchant}
+{cover: bete-et-mechant}
+{language: french}
+{columns: 2}
+{capo: 4}
+{define: C frets X 3 2 0 1 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+[C]Michel est un petit garçon
+Qui n'aime pas écouter les chansons
+Qui n'ai[G]me pas les repas de famille
+Qui n'aime pas tenir la main des filles
+{newline}
+[C]Michel est un petit bonhomme
+Qui n'aime pas croquer dans une pomme
+Qui n'ai[G]me pas regarder les étoiles
+Et surtout pas faire du bateau à voile
+
+{start_of_chorus}
+  [Am]Michel, y'a qu'un truc qui l'amuse
+  C'est d'inventer deux ou trois mille ruses
+  Pour ex[G]ploser les petits animaux
+  Les dé[Am]gommer, il trouve [G]ça rigolo
+{end_of_chorus}
+
+{start_of_chorus}
+  [Am]Michel, le passe-temps qu'il préfère
+  C'est d'en[F]voyer les bestioles au cimetière
+  Leur [G]faire subir toutes les tortures
+  Il trouve qu'les bêtes sont bêtes c'est sûr
+{end_of_chorus}
+
+Michel est un petit garçon
+Qui n'aime pas regarder les avions
+Qui n'aime pas faire la course en vélo
+Même pas dormir parmi les coquelicots
+{newline}
+Michel est un petit bonhomme
+Qui n'aime pas faire des bulles de chewing-gum
+Qui n'aime pas les vacances à la mer
+Et surtout pas les gâteaux de grand-mère
+
+{start_of_chorus}
+  Michel, y'a qu'un truc qui l'éclate
+  C'est d'arracher les mille pieds des mille pattes
+  De faire bouillir le bocal des poissons
+  Et de donner des coups d'pied aux pigeons
+{end_of_chorus}
+
+{start_of_chorus}
+  Michel, le jeu dont il raffole
+  C'est de chasser la modo des bestioles
+  Leur faire subir toutes les tortures
+  Michel n'aime pas les bêtes c'est sûr
+{end_of_chorus}

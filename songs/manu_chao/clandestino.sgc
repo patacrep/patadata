@@ -1,0 +1,45 @@
+{title: Clandestino}
+{artist: Manu Chao}
+{album: Clandestino}
+{cover: clandestino}
+{language: spanish}
+{columns: 2}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: C#7 frets X 3 2 3 1 X}
+
+{start_of_chorus}
+  So[F#m]lo voy con mi pena
+  Sola va mi con[Bm]dena
+  Correr es mi des[C#7]tino
+  Para burlar la [F#m]ley
+  Perdido en el corazón
+  De la grande Babylon
+  Me dicen: ``El clandestino''
+  Por no llevar papel
+{end_of_chorus}
+
+Pa una ciudad del norte
+Yo me fui a trabajar
+Mi vida la deje
+Entre Ceuta y Gibraltar
+Soy una raya en el mar
+Fantasma en la ciudad
+Mi vida va prohibida
+Dice la autoridad
+
+{start_of_chorus}
+  Solo voy con mi pena
+  Sola va mi condena
+  Correr es mi destino
+  Para burlar la ley
+  Perdido en el corazón
+  De la grande Babylon
+  Me dicen: ``El clandestino''
+  Yo soy el quiebra ley
+{end_of_chorus}
+
+Mano [Bm]negra clandes[F#m]tina
+Peru[Bm]ano clandes[F#m]tino
+Afri[Bm]cano clandes[F#m]tino
+Mari[C#7]huana ile[F#m]gal

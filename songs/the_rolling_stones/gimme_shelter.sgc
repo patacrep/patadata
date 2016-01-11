@@ -1,0 +1,61 @@
+{title: Gimme shelter}
+{artist: The Rolling Stones}
+{album: Let it bleed}
+{cover: let-it-bleed}
+{language: english}
+{columns: 2}
+{capo: 2}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+
+{partition: gimme_shelter_rythm.ly}
+
+[B]Ooh [A]Ooh [G]Ooh {repeat: 4}
+{newline}
+[B] Oh, a storm is threat'ning
+My very life today
+If I don't get some shelter
+Oh yeah, I'm gonna fade away
+
+{start_of_chorus}
+  [B] War, chil[A]dren, [G]it's just a shot away
+  It's just a shot [A]away
+  {repeat: 2}
+{end_of_chorus}
+
+[B] Ooh, see the fire is sweepin'
+Our very street today
+Burns like a red coal carpet
+Mad bull lost its way
+
+{start_of_chorus}
+  [B] War, chil[A]dren, [G]it's just a shot away
+  It's just a shot away
+  {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  [B] Rape, [A]murder! [G]It's just a shot away
+  It's just a shot [A]away
+  {repeat: 3}
+{end_of_chorus}
+
+[B] Mmm the flood is threat'ning
+My very life today
+Gimme, gimme shelter
+Or I'm gonna fade away
+
+{start_of_chorus}
+  [B] War, chil[A]dren, [G]it's just a shot away
+  It's just a shot [A]away
+  [B] It's just a shot away
+  [B] It's just a shot away
+  [A] It's just a shot away [A]I tell you
+  [B] Love, sis[A]ter, [G]it's just a kiss away
+  It's just a kiss [A]away
+  [B] It's just a kiss away
+  [A] It's just a kiss away
+  [G] It's just a kiss away
+  Kiss away, kiss [A]away
+{end_of_chorus}

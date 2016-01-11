@@ -1,0 +1,51 @@
+{title: Let it be}
+{artist: The Beatles}
+{album: Let it be}
+{cover: let-it-be}
+{language: english}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: F* base-fret 8 frets X 0 2 2 2 0 special}
+{define: E* base-fret 7 frets X 0 2 2 2 0 special}
+{define: D* base-fret 5 frets X 0 2 2 2 0 special}
+{define: C* base-fret 3 frets X 0 2 2 2 0 special}
+
+When I [C]find myself in [G]times of trouble
+[Am]Mother Mary [F]comes to me
+[C]Speaking words of [G]wisdom
+Let it [F*]be [E* D* C*]
+{newline}
+And in my hour of darkness
+She is standing right in front of me
+Speaking words of wisdom
+Let it be
+
+{start_of_chorus}
+  Let it [Am]be, let it [G]be
+  Let it [F]be, let it [C]be
+  [C]Whisper words of [G]wisdom
+  Let it [F*]be [E* D* C*]
+{end_of_chorus}
+
+And when the broken hearted people
+Living in the world agree
+There will be an answer
+Let it be
+{newline}
+For though they may be parted there is
+Still a chance that they will see
+There will be an answer
+Let it be
+
+And when the night is cloudy
+There is still a light, that shines on me
+Shine on till tomorrow
+Let it be
+{newline}
+I wake up to the sound of music
+Mother Mary comes to me
+Speaking words of wisdom
+Let it be

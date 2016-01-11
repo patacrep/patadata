@@ -1,0 +1,43 @@
+{title: Long is the road}
+{artist: Jean-Jacques Goldman}
+{album: Singulier}
+{cover: singulier}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 2 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+
+Au-de[Bb]là de nos [F]vents, passée [C]notre fron[Dm]tière [Bb F C Dm]
+Dans ces [Bb]pays so[F]leil de [C]sable et de [Dm]pierre [Bb F C Dm]
+Là où [Bb]malgré les [F]croix et mal[C]gré les pri[Dm]ères [Bb F C Dm]
+Les dieux [Bb]ont oubli[F]é ces [C]maudites [Dm]terres [Bb F C Dm]
+
+Dans sa pauvre valise, ses maigres affaires
+Une histoire banale d'homme et de misère
+Il tient dans sa chemise ses ultimes richesses
+Ses deux bras courageux, sa rude jeunesse
+
+Et tout contre sa peau, comme un trésor inca
+Son nom sur un visa pour les USA
+
+{start_of_chorus}
+  But long [C]is the [Dm]road
+  Hard is the [G]way
+  Heavy my [Bb]load
+  But deep is my [Gm]faith [A]
+  Long is the [Dm]road
+{end_of_chorus}
+
+Sur des highway sixty-one, l'ombre d'un Zimmerman
+Dix trains de losers pour un Rockfeller
+Brûler sa peau pour être un Battling Joe
+Quand chaque espoir se décline en dollars
+
+Jusqu'aux bannières où les stars s'affichent
+Sous les lumières, tout est blanc, propre et riche
+Du Jeudi Noir jusqu'au bleu de John Ford
+Dans chaque histoire se cache un chercheur d'or

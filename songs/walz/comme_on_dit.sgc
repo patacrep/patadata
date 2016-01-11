@@ -1,0 +1,43 @@
+{title: Comme on dit}
+{artist: Walz}
+{album: Marie-Claire}
+{url: http://www.lecolporteur.org}
+{cover: marie_claire}
+{language: french}
+{columns: 2}
+{define: G#m base-fret 4 frets 0 2 2 0 0 0}
+{define: E base-fret 7 frets X 0 2 2 2 0}
+{define: D# base-fret 6 frets X 0 2 2 2 0}
+
+[G#m]J'ai de la [E]chance
+De [D#]t'avoir rencon[G#m]tré
+J'ai com[G#m]mis quand j'y [E]pense
+Quelques erreurs [D#]avant d'arri[G#m]ver
+
+{start_of_chorus}
+  Je suis parti, comme on dit
+  La fleur au fusil
+  Mais je n'ai pas d'arme
+  Et je suis sous le charme
+  Du chemin des dames
+  D'où je suis arrivé
+{end_of_chorus}
+
+{start_of_chorus}
+  Tu me dis que tu m'aimes
+  Mais qui t'es, toi ?
+  Mais où vont tes rêves
+  Quand tu n'es pas là ?
+  Où vont tes rêves
+  Quand tu n'es pas là ?
+{end_of_chorus}
+
+J'ai quelques dépenses
+Qu'on pourra éviter
+Et quelques carences
+Qu'il faudra bien me pardonner
+
+J'ai de la chance
+De t'avoir rencontré
+J'ai fait par inadvertance
+Quelques erreurs avant d'arriver

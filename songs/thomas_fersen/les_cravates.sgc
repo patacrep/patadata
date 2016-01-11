@@ -1,0 +1,82 @@
+{title: Les cravates}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: B7 base-fret 2 frets X 0 2 0 2 0}
+{define: C#m base-fret 1 frets 0 3 3 3}
+{define: F#m frets 2 1 2 0}
+{define: Bm base-fret 2 frets 2 0 0 0}
+{define: E base-fret 2 frets 2 2 2 0}
+{define: B7 base-fret 2 frets 0 1 0 0}
+
+{guitar_comment: Intro : [C#m F#m Bm E]}
+{newline}
+[C#m] Je devrais être heureux comme un [F#m]pape
+J'ai un nœud pap', j'suis invi[Bm]té
+Moi qui aime traîner la sa[E]vate
+Les belles cravates et l'oisive[C#m]té
+{newline}
+Et discuter du grand a[F#m]mour
+Cravate de velours, pour toute la [Bm]vie
+Même si la vie, ça fait beau[E]coup
+Cravate au cou, à mon a[C#m]vis
+{newline}
+Je suis sapé comme un no[F#m]taire
+Cravate, blazer, et nous dan[B7]sons
+Hélas, il commence à m'en [E]cuire
+Cravate de cuir, et je me mor[C#m]fonds
+
+{start_of_chorus}
+  [F#m] Cravate à [Bm]pois, cravate de [E]soie [C#m] {repeat: 2}
+{end_of_chorus}
+
+J'en ai ras-le-bol, à la Cou[F#m]pole
+Cravate au col, de boire du [Bm]thé
+Quand je préfère aller jou[E]er
+Cravate dénouée, ma chance aux [C#m]dés
+{newline}
+Le mariage n'est plus à la [F#m]mode
+Cravate en solde, en cette sai[Bm]son
+Et jamais je ne moisi[E]rai
+Cravate à raies, dans une pri[C#m]son
+{newline}
+Alors, au lieu de mor[F#m]fondre
+Cravate de Londres, je file à l'an[B7]glaise
+Avec ça j'emporte vos [E]ronds
+Cravate marron, pour être à [C#m]l'aise
+
+D'abord, vous vous laisserez a[F#m]battre
+Cravate verdâtre, vous me regret[Bm]terez
+Et puis vous serez écar[E]late
+Comme ma cravate quand vous pi[C#m]gerez
+{newline}
+Mais moi j'aurai pris les de[F#m]vants
+Cravate au vent, ainsi que le [Bm]soin
+Dans votre Triumph décapo[E]tée
+Cravate mouchetée, de changer de [C#m]coin
+{newline}
+Avant que la colère ne [F#m]darde
+Cravate moutarde, son aiguil[B7]lon
+Et que l'on songe à m'arrê[E]ter
+Me cravater au portil[C#m]lon
+
+Avant que cette histoire se ter[F#m]mine
+Cravate d'hermine, par un pro[Bm]cès
+Qu'on me confisque tout, cein[E]ture
+Cravate bien sûr, et mes la[C#m]cets
+{newline}
+Adieu et j'emporte l'argen[F#m]terie
+Cravate rubis, et vos bi[Bm]joux
+Pour m'offrir les cravates que [E]j'aime
+C'est-à-dire crème, merci mon [C#m]chou
+{newline}
+Je m'en vais ailleurs me faire [F#m]pendre
+Cravate de chanvre, adieu beau[B7]té
+Et puis m'en jeter un der[E]rière
+La lavallière, à votre san[C#m]té

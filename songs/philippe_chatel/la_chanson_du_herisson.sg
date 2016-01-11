@@ -64,8 +64,9 @@
     J'ai caressé le hérisson
     Il n'est plus triste le hérisson
     Elle a caressé la chanson
-    \echo{Mais non ! Le hérisson ! \rep{2}
-    Pom pom}
+    Mais non ! Le hérisson !
+    \echo{Mais non ! Le hérisson !}
+    \echo{Pom pom}
   \end{verse}
 
 \endsong

@@ -1,0 +1,107 @@
+{title: En chantant}
+{artist: Michel Sardou}
+{album: En chantant}
+{url: http://michelsardou.artiste.universalmusic.fr/site/}
+{cover: en-chantant}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+
+[D]Quand j'étais petit garçon
+Je repassais mes leçons
+En [Em]chantant
+Et bien des années plus [A7]tard
+Je chassais mes idées noires
+En [D]chantant
+{newline}
+C'est beaucoup moins inquiétant
+De parler du mauvais temps
+En [Em]chantant
+Et c'est tellement plus mi[A7]gnon
+De se faire traiter de [F#]con
+En [Bm]chanson
+
+{start_of_chorus}
+  [G]La vie c'est plus mar[D]rant
+  C'est moins dé[A7]sespérant
+  En [D]chantant
+{end_of_chorus}
+
+La première fille de ma vie
+Dans la rue je l'ai suivie
+En [Em]chantant
+Quand elle s'est déshabi[A7]llée
+J'ai joué le vieil habitué
+En [D]chantant
+{newline}
+J'étais si content de moi
+Que j'ai fait l'amour dix fois
+En [Em]chantant
+Mais je n'peux pas m'expli[A7]quer
+Qu'au matin elle m'ait qui[F#]tté
+En[Bm]chantée
+
+{start_of_chorus}
+  [G]L'amour c'est plus mar[D]rant
+  C'est moins dé[A7]sespérant
+  En [D]chantant
+{end_of_chorus}
+
+Tous les hommes vont en galère
+À la pêche ou à la guerre
+En [Em]chantant
+La fleur au bout du fu[A7]sil
+La victoire se gagne aussi
+En [D]chantant
+{newline}
+On ne parle à Jéhovah
+À Jupiter, à Bouddha
+Qu'en [Em]chantant
+Qu'elles que soient nos opi[A7]nions
+On fait sa révolu[F#]tion
+En [Bm]chanson
+
+{start_of_chorus}
+  [G]Le monde est plus marrant
+  C'est moins dé[A7]sespérant
+  En [D]chantant
+{end_of_chorus}
+
+Puisqu'il faut mourir enfin
+Que ce soit côté jardin
+En [Em]chantant
+Si ma femme a de la [A7]peine
+Que mes enfants la soutiennent
+En [D]chantant
+{newline}
+Quand j'irai revoir mon père
+Qui m'attend les bras ouverts
+En [Em]chantant
+J'aimerais que sur la [A7]terre
+Tous mes bons copains m'en[F#]terrent
+En [Bm]chantant
+
+{start_of_chorus}
+  [G]La mort c'est plus mar[D]rant
+  C'est moins dé[A7]sespérant
+  En [D]chantant
+{end_of_chorus}
+
+Quand j'étais petit garçon
+Je repassais mes leçons
+En [Em]chantant
+Et bien des années plus [A7]tard
+Je chassais mes idées noires
+En [D]chantant
+{newline}
+C'est beaucoup moins inquiétant
+De parler du mauvais temps
+En [Em]chantant
+Et c'est tellement plus mi[A7]gnon
+De se faire traiter de [F#]con
+En [Bm]chanson

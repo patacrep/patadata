@@ -1,0 +1,84 @@
+{title: Bad day}
+{artist: Daniel Powter}
+{album: Daniel Powter}
+{cover: daniel-powter}
+{language: english}
+{columns: 2}
+{capo: 1}
+{define: D frets X X 0 2 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Bm7 frets X 2 0 2 0 2}
+{define: Bm6 frets X 2 0 1 0 2}
+
+{guitar_comment: Intro:  [D G A G]}
+{newline}
+[D]Where is the [G]moment when we need it the [A]most [G]
+[D]You kick up the [G]leaves and the magic is [A]lost [G]
+[Bm]They tell me your [A]blue sky's faded to [G]grey
+They tell me your [D]passion's gone a[Em]way
+And I don't need no carrying [A]on [G] [A]
+
+[D]Stand in the [G]line just ahead of the [A]law [G]
+[D]You're faking a [G]smile with the coffee you [A]go [G]
+[Bm]You tell me your [A]life's been way off [G]line
+You're falling to [D]pieces every[Em]time
+And I don't need no carrying [A]on
+
+{start_of_chorus}
+  'Cause you had a bad [D]day
+  You're taking one [G]down
+  You sing a sad [Em]song just to turn it a[A]round
+  You say you don't [D]know
+  You tell me don't [G]lie
+  You work at a [Em]smile and you go for a [A]ride
+  You had a bad [Bm]day
+  The camera don't [A]lie
+  You're coming back [G]down and you really don't [D]mind
+  You had a bad [Em]day [A]
+  You had a bad [D]day
+{end_of_chorus}
+
+{guitar_comment:  [D G A G] {repeat: 2}}
+
+{start_of_bridge}
+Well you need a [A]blue sky holi[G]day
+The point is they [D]laugh at what you [Em]say
+And I don't need no carrying [A]on
+{end_of_bridge}
+
+{guitar_comment: Chorus}
+
+{start_of_bridge}
+[F]Sometimes the system goes on the blink
+And the [Bb]whole thing it turns out wrong
+You [F]might not make it back and you know
+That you could [Bb]be well oh that strong
+Well I'm not [A]wrong
+Yeah...
+{end_of_bridge}
+
+{start_of_bridge}
+[D]So where is the [G]passion when you need it the [A]most
+[G]Oh you and I
+[D]You kick up the [G]leaves and the magic is [A]lost
+{end_of_bridge}
+
+{start_of_chorus}
+  Cause you had a bad [D]day
+  You're taking one [G]down
+  You sing a sad [Em]song just to turn it a[A]round
+  You say you don't [D]know
+  You tell me don't [G]lie
+  You work at a [Em]smile and you go for a [A]ride
+  You had a bad [Bm]day
+  It seem what you [Bm]like
+  And how does it [Bm7]feel for one more [Bm6]time
+  You had a bad [A]day
+  You had a bad [D]day
+{end_of_chorus}
+
+{guitar_comment: Outro:  [D G Em A] {repeat: 4}}

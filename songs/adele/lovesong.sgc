@@ -1,0 +1,67 @@
+{title: Lovesong}
+{artist: Adele}
+{album: 21}
+{cover: 21}
+{language: english}
+{columns: 2}
+{define: Cm base-fret 3 frets X 0 3 3 2 0}
+{define: A# base-fret 5 frets 0 3 3 2 0 0}
+{define: G# base-fret 4 frets 0 3 3 2 0 0}
+{define: G base-fret 3 frets 0 3 3 2 0 0}
+{define: D# base-fret 6 frets X 0 3 3 3 0}
+
+{guitar_comment: Intro:  [Cm A# G# G]}
+{newline}
+[Cm]Whenever [A#]I'm alone [G#]with you [G]
+You make me feel like I am home again
+Whenever I'm alone with you
+You make me feel like I am whole again
+{newline}
+{guitar_comment:  [Cm A# G# G]}
+
+Whenever I'm alone with you
+You make me feel like I am young again
+Whenever I'm alone with you
+You make me feel like I am fun again
+
+{start_of_chorus}
+  [G#] However [A#]far aw[Cm]ay,
+  I will [D#]always love you
+  [G#] However [A#]long I [Cm]stay,
+  I will [D#]always love you
+  [G#] Whatever [A#]words I [Cm]say,
+  [D#]I will always love [G#]you
+  I will [A#]always love you
+{end_of_chorus}
+
+{guitar_comment:  [Cm A# G# G]}
+{newline}
+Whenever I'm alone with you
+You make me feel like I am free again
+Whenever I'm alone with you
+You make me feel like I am clean again
+
+{start_of_chorus}
+  [G#] However [A#]far aw[Cm]ay,
+  I will [D#]always love you
+  [G#] However [A#]long I [Cm]stay,
+  I will [D#]always love you
+  [G#] Whatever [A#]words I [Cm]say,
+  [D#]I will always love [G#]you
+  I will [A#]always love you
+{end_of_chorus}
+
+{start_of_chorus}
+  [G#] However [A#]far aw[Cm]ay,
+  I will [D#]always love you
+  [G#] However [A#]long I [Cm]stay,
+  I will [D#]always love you
+  [G#] Whatever [A#]words I [Cm]say,
+  [D#]I will always love [G#]you
+  I will [A#]always love you
+{end_of_chorus}
+
+{start_of_bridge}
+[Cm]  'Cause I love you [A#] [G#] [G]
+Ad Libitum sur les accords du couplet
+{end_of_bridge}

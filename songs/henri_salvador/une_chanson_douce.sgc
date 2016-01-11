@@ -1,0 +1,66 @@
+{title: Une chanson douce}
+{artist: Henri Salvador}
+{album: Ses plus grands succès}
+{cover: succes}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: G frets 3 2 0 0 0 3}
+{define: A& base-fret 4 frets X 0 2 2 1 0}
+{define: B& base-fret 6 frets X 0 2 2 1 0}
+{define: A base-fret 5 frets X 0 2 2 1 0}
+
+[C]Une chanson douce
+[G7]Que me chantait ma mam[C]an [G7 C G]
+[C]En suçant mon pouce
+[G7]J'écoutais en m'endorm[C]ant
+{newline}
+Cette chanson douce
+Je veux la chanter pour toi
+Car ta peau est douce
+Comme la mousse des bois
+
+{start_of_chorus}
+  [Ab]La petite biche est aux abois
+  Dans le bois se cache le [G]loup
+  [Bb]Hou [A]hou [Ab]hou [G]hou
+{end_of_chorus}
+
+{start_of_chorus}
+  Mais le brave chevalier passa
+  Et prit la biche dans ses bras
+  La la la la
+{end_of_chorus}
+
+La petite biche
+Ce sera toi si tu veux
+Le loup on s'en fiche
+Contre lui nous serons deux
+{newline}
+Une chanson douce
+Pour tous les petits enfants
+Une chanson douce
+Que me chantait ma maman
+
+{start_of_chorus}
+  Oh le joli conte que voilà
+  La biche en femme se changea
+  La la la la
+{end_of_chorus}
+
+{start_of_chorus}
+  Et dans les bras du beau chevalier
+  Belle princesse, elle est restée
+  À tout jamais
+{end_of_chorus}
+
+La belle princesse
+Avait de jolis cheveux
+La même caresse
+Se lit au fond de tes yeux
+{newline}
+Une chanson douce
+Que me chantait ma maman
+En suçant mon pouce
+J'écoutais en m'endormant

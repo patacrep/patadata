@@ -1,0 +1,79 @@
+{title: Le cycle du vin}
+{artist: Mes souliers sont rouges}
+{album: 5}
+{url: http://www.messoulierssontrouges.com}
+{cover: 5}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: C frets 3 3 2 0 1 0}
+{define: A7 frets X 0 2 2 2 3}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+
+[Am]La terre en [Dm]vigne, la voi[F]là la jolie [Am]vi[E]gne {repeat: 2}
+Vigni vi[Am]gnons, vignons le [C]vin
+La [A7]jolie vigne au [E]vin {repeat: 2}
+{newline}
+La vigne en treille, la voilà la jolie treille {repeat: 2}
+Treilli treillons, treillons le vin
+La jolie treille au vin {repeat: 2}
+{newline}
+La treille en seille, la voilà la jolie seille {repeat: 2}
+Seilli seillons, seillons le vin
+La jolie seille au vin {repeat: 2}
+
+{start_of_chorus}
+  [A]La seille en [E]huche, la voi[D]là la jolie [E]huche {repeat: 2}
+  Huchi hu[A]chons, huchons le [E]vin
+  La [D]jolie [E]huche au [A]vin {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  La huche en cuve, la voilà la jolie cuve {repeat: 2}
+  Cuvi cuvons, cuvons le vin
+  La jolie cuve au vin {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  La cuve en cruche, la voilà la jolie cruche {repeat: 2}
+  Cruchi cruchons, cruchons le vin
+  La jolie cruche au vin {repeat: 2}
+{end_of_chorus}
+
+La cruche en verre, le voilà le joli verre {repeat: 2}
+Verri verrons, verrons le vin
+Le joli verre au vin {repeat: 2}
+{newline}
+Du verre en bouche, la voilà la jolie bouche {repeat: 2}
+Bouchi bouchons, bouchons le vin
+La jolie bouche au vin {repeat: 2}
+{newline}
+La bouche en ventre, le voilà le joli ventre {repeat: 2}
+Ventri ventrons, ventrons le vin
+Le joli ventre au vin {repeat: 2}
+
+{start_of_chorus}
+  Du ventre en pisse, la voilà la jolie pisse {repeat: 2}
+  Pissi pissons, pissons le vin
+  La jolie pisse au vin {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  La pisse en terre, la voilà la jolie terre {repeat: 2}
+  Terri terrons, terrons le vin
+  La jolie terre au vin {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  [B]La terre en [F#]vigne, la voi[E]là la jolie [F#]vigne {repeat: 2}
+  Vigni vi[B]gnons, vignons le [F#]vin
+  La [E]jolie [F#]vigne au [B]vin
+  Vigni vi[B]gnons, vignons le [F#]vin
+  La [E]jolie [F#]vigne au [E]vin ... [B]
+{end_of_chorus}

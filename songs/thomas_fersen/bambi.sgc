@@ -1,0 +1,63 @@
+{title: Bambi}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: B& base-fret 2 frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: Dm frets 2 2 1 0}
+{define: F frets 2 0 1 0}
+{define: B& base-fret 1 frets 2 1 0 0}
+{define: G frets 0 2 3 2}
+{define: Am frets 2 0 0 0}
+{define: C frets 0 0 0 3}
+{define: A frets 2 1 0 0}
+
+{guitar_comment: Intro :}
+[Dm Dm F Bb] [Dm Dm G Bb]
+[Dm]Bambi
+{newline}
+Un [F]jésus de deux [Bb]mètres, [Dm]Bambi
+[G]Il faut le con[Bb]naître, [Dm]Bambi
+[Am]Quand j'le croise sur mon chemin [Dm]
+[Am]Bambi m'étrangle la main [Dm]
+
+{start_of_chorus}
+  [F]Pas casser les [Bb]jouets, [Dm]Bambi {repeat: 2}
+  [Dm Dm F Bb] [Dm Dm G Bb]
+  [Am Am Dm Dm] [Am Am Dm Dm]
+{end_of_chorus}
+
+[F]Et puis quand il [Bb]bâille, [Dm]Bambi
+[G]Putain ça sent [Bb]l'ail, [Dm]Bambi
+[Am]Depuis qu'il est gosse [Dm]
+[Am]Il ne connaît pas la brosse [Dm]
+
+{guitar_comment: Bridge}
+[F]Et quand il s'en[C]dort
+[Am]Bambi est un [Dm]ange
+[F]Tout le monde l'a[C]dore
+[Am]Personne ne le dé[A]range
+[Dm]Bambi
+
+Quand [F]il y a une ba[Bb]garre, [Dm]Bambi
+Moi [G]je suis le co[Bb]pain de [Dm]Bambi
+[Am]C'est moi qui balaie par terre [Dm]
+[Am]Trois molaires, un œil de verre [Dm]
+
+{guitar_comment: Bridge}
+[F]Et quand il s'en[C]dort
+[Am]Bambi est un [Dm]ange
+[F]Tout le monde l'a[C]dore
+[Am]Personne ne le dé[A]range
+[Dm]Bambi
+
+{start_of_chorus}
+  [Am]Pas casser les jouets...
+{end_of_chorus}

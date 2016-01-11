@@ -1,0 +1,62 @@
+{title: Astérix et Cléopâtre : Le pudding à l'arsenic}
+{artist: Dessins Animés}
+{album: Astérix et Cléopâtre}
+{cover: asterix}
+{language: french}
+{columns: 2}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+{define: E7 base-fret 5 frets X 2 1 2 0 X}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: AmM7 base-fret 5 frets 0 2 1 0 0 0 special}
+{define: Am7 base-fret 5 frets 0 2 0 0 0 0 special}
+{define: Am6 base-fret 5 frets 0 2 2 0 2 0 special}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: E&7 base-fret 4 frets X 2 1 2 0 X special}
+
+{guitar_comment: Intro : [Am E7 Am E7 Am E7 Am E7]}
+{newline}
+[Am]Dans un grand bol [E7]de strychnine
+[Am]Délayez de [E7]la morphine
+[G]Faites tiédir à [C]la casserole
+[B7]Un bon verre [E7]de pétrole
+{echo: Oh, je vais en mettre deux !}
+
+[Am]Quelques gouttes [E7]de ciguë
+[Am]De la bave [E7]de sangsue
+[G]Un scorpion cou[C]pé très fin
+«[G]Et un peu de poivre en grains
+--- Non !
+--- Ah ? Bon...»
+
+[Am]Émiettez votre [E7]arsenic
+[Am]Dans un verre de [E7]narcotique
+[G]Deux cuillères de [C]purgatif
+[B7]Qu'on fait bouillir [E7]à feu vif
+{echo: Oh, je vais en mettre trois}
+
+[Am]Dans un petit [E7]plat à part
+[Am]Tiédir du sang [E7]de lézard
+[G]La valeur d'un [C]dé à coudre
+«[G]Et un peu de sucre en poudre
+--- Non !
+--- Ah ? Bon...»
+
+[Am]Vous versez la [E7]mort aux rats
+[Am]Dans du venin [E7]de cobra
+[G]Pour adoucir [C]le mélange
+[B7]Pressez trois quar[E7]tiers d'orange
+{echo: Oh, je vais en mettre un seul}
+
+[Am]Décorez de [E7]fruits confits
+[Am]Moisis dans du [E7]vert de gris
+[G]Tant que votre [C]pâte est molle
+«[G]Et un peu de vitriol
+--- Non ! ... Oui !
+--- Ah, je savais bien que ça serait bon»
+
+[Am]Le pudding à [Ammaj7]l'arsenic
+[Am7]Nous permet ce [Am6]pronostic
+[Dm]Demain sur les [Am]bords du Nil
+[Eb7]Que mangeront les [E7]crocodiles ?
+[E7]Des [E7]Gau[Am]lois !

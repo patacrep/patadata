@@ -1,0 +1,72 @@
+{title: Les mots bleus}
+{artist: Christophe}
+{album: Les mots bleus}
+{cover: les-mots-bleus}
+{language: french}
+{columns: 2}
+{capo: 4}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: Em frets 0 2 2 0 0 0}
+
+[Am]Il est 6h au clocher de l'église
+Dans le square, les fleurs poétisent
+Une fille va sortir de la mai[G]rie
+Comme chaque soir je l'attends, elle me sou[C]rit
+Il faudrait que je lui parle à [B]tout prix
+
+{start_of_chorus}
+  [Em]Je lui dirai les mot bleus
+  Les mots qu'on dit avec les yeux
+  Parl[D]er me semble ridicule
+  Je m'élance et puis je recule
+  De[C]vant une phrase inutile
+  Qui briserait l'instant fragile
+  D'[B]une rencontre {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  Je lui dirai les mots bleus
+  Ceux qui rendent les gens heureux
+  Je l'appellerai sans la nommer
+  Je suis peut-être démodé
+  Le vent d'hiver souffle en avril
+  J'aime le silence immobile
+  D'une rencontre {repeat: 2}
+{end_of_chorus}
+
+Il n'y a plus d'horloge, plus de clocher
+Dans le square, les arbres sont couchés
+Je reviens par le train de nuit
+Sur le quai je la vois qui me sourit
+Il faudra bien qu'elle comprenne à tout prix
+
+{start_of_chorus}
+  Je lui dirai les mots bleus
+  Les mots qu'on dit avec les yeux
+  Toutes les excuses que l'on donne
+  Sont comme les baisers que l'on vole
+  Il reste une rancœur subtile
+  Qui gâcherait l'instant fragile
+  De nos retrouvailles {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  Je lui dirai les mots bleus
+  Ceux qui rendent les gens heureux
+  Une histoire d'amour sans paroles
+  N'a plus besoin du protocole
+  Et tous les longs discours futiles
+  Terniraient quelque peu le style
+  De nos retrouvailles {repeat: 2}
+{end_of_chorus}
+
+{start_of_chorus}
+  Je lui dirai les mots bleus
+  Les mots qu'on dit avec les yeux
+  Je lui dirai tous les mots bleus
+  Tous ceux qui rendent les gens heureux
+  Tous les mots bleus {repeat: 2}
+{end_of_chorus}

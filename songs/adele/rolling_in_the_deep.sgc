@@ -1,0 +1,46 @@
+{title: Rolling in the deep}
+{artist: Adele}
+{album: 21}
+{cover: 21}
+{language: english}
+{columns: 2}
+{capo: 3}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Em frets 0 2 2 0 0 0}
+
+[Am]There's a fire [E]starting in my heart
+[G]Reaching a fever pitch and it's [E]bringing me out the dark
+[Am]Finally, I can [E]see you crystal clear
+[G]Go ahead and sell me out and [E]I'll lay your ship bare
+{newline}
+[Am]See how I leave with [E]every piece of you
+[G]Don't underestimate the [E]things that I will do
+[Am]There's a fire [E]starting in my heart
+[G]Reaching a fever pitch and it's [E]bringing me out the dark
+
+{start_of_chorus}
+  [F] The scars of [G]your love, remind me [Em]of us
+  They keep me [F]thinking that we almost had it all
+  [F] The scars of [G]your love, they leave me [Em]breathless
+  I can't help [E]feeling
+{end_of_chorus}
+
+{start_of_chorus}
+  [E] We could have had it [Am]all[G]
+  Rolling in the [F]deep[G]
+  Your had my heart in[Am]side of your [G]hand
+  And you [F]played it to the [G]beat
+{end_of_chorus}
+
+[Am]Baby I have no [E]story to be told
+But [G]I've heard one of you and I'm [E]gonna make your head burn
+[Am]Think of me in the [E]depths of your despair
+[G]Making a home down there, as mine [E]sure won't be shared
+{newline}
+[Am]Throw your soul through [E]every open door
+[G]Count your blessings to [E]find what you look for
+[Am]Turn my sorrow [E]into treasured gold
+You'll [G]pay me back in kind and [E]reap just what you've sown

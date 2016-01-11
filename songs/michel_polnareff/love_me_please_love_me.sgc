@@ -1,0 +1,69 @@
+{title: Love me, please love me}
+{artist: Michel Polnareff}
+{album: Passé Présent}
+{cover: passe-present}
+{language: french}
+{columns: 1}
+{define: G frets 3 2 0 0 0 3}
+{define: B7 frets X 2 1 2 0 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets 3 3 2 0 1 0}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: Em/D frets 0 2 0 0 0 0}
+{define: Daug frets X X 0 3 3 2}
+{define: G7 frets 3 2 0 0 0 1}
+
+{start_of_chorus}
+  L[G]ove me, please [B7]love me
+  Je suis [Em]fou[Em/D] de [C]vous [Eb]
+  Pour[G]quoi vous mo[Em]quez-vous chaque jour
+  [C]De mon [D]pauvre a[G]mour ?[Em C D]
+{end_of_chorus}
+
+{start_of_chorus}
+  L[G]ove me, please [B7]love me
+  Je suis [Em]fou [Em/D]de [C]vous [Eb]
+  [G]Vraiment [Em]prenez-vous tant de plaisir
+  [C]A me [D]voir sou[G]ffrir ?[C G G7]
+{end_of_chorus}
+
+[C7]Si j'en crois votre silence
+[Bm7]Vos yeux pleins d'ennui
+[C]Nul es[D]poir n'est per[G]mis[G7]
+[C7]Pourtant, je veux jouer ma chance
+[Bm7]Même si, même si
+[C]Je devais y [D]brûler ma vie[Daug]
+
+{start_of_chorus}
+  Love me, please love me
+  Je suis fou de vous
+  Mais vous, vous moquerez-vous toujours
+  De mon pauvre amour ?
+{end_of_chorus}
+
+{guitar_comment: Solo de piano : Accords du 2ème refrain avec fin en G7}
+
+Devant tant d'indifférence
+Parfois j'ai envie
+De me fondre dans la nuit
+Au matin je reprends confiance
+Je me dis, je me dis
+Tout pourrait changer aujourd'hui
+
+{start_of_chorus}
+  Love me, please love me
+  Je suis fou de vous
+  Pourtant votre lointaine froideur
+  Déchire mon cœur
+{end_of_chorus}
+
+{start_of_chorus}
+  Love me, please love me
+  Je suis fou de vous
+  Mais vous, vous moquerez-vous toujours
+  De mes larmes d'amour ?
+{end_of_chorus}
+
+{start_of_bridge}
+[G Em C D]
+{end_of_bridge}

@@ -1,0 +1,81 @@
+{title: Léa}
+{artist: Louise Attaque}
+{album: Louise Attaque}
+{cover: louise-attaque}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: G7 frets 3 2 0 0 0 1}
+
+[Am]Léa, elle est [E]pas terro[Am]riste
+Elle est pas [E]anti-terro[Am]riste
+Elle est pas intégriste
+Elle est pas seule sur terre
+Elle est pas commode, non
+Elle est pas comme Aude
+Elle est pas froide
+Elle est pas chaude pour une nuit réaliste
+Elle est pas créditeur
+Elle est pas méchante
+Mais putain qu'est-ce qu'elle est chiante
+
+{partition: Lea.ly}
+
+Léa, elle est pas intérimaire
+Elle est pas comme ma mère
+Elle est passagère
+Elle est pacifiste
+Elle est pas d'accord
+Elle est passionnée
+Elle est pas fute-fute
+Elle est pathétique
+Elle aime pas tous mes tics
+Elle est pas solitaire
+Elle est pas solidaire
+Elle est paresseuse
+Elle est pas réciproque
+Elle est pas en cloque
+Elle est pas d'la région PACA
+Elle a quinze ans volés
+
+{start_of_chorus}
+  [F]Léa, elle est pari[C]sienne
+  Elle est pas pré[G]sentable
+  Elle est pas jo[C]lie
+  Elle est pas moche non [F]plus
+  Elle est pas à [C]gauche
+  Elle est pas à [G]droite
+  Elle est [G7]pas mala[Am]droite
+{end_of_chorus}
+
+Léa, elle est pas terroriste
+Elle est pas anti-terroriste
+Elle est pas jolie
+Elle est pas moche non plus
+Elle est pas toujours drôle
+Elle est pas libre
+Elle est pas tentée
+Elle est paternaliste
+Elle est pas inspirée
+Elle est patiente
+Elle est pasticheuse
+Elle est pas cible
+Elle fait pas la politique
+
+Elle l'a pas volé
+Elle passing-shot
+Elle est passe-temps
+Elle est passable
+Elle est pas stable
+Elle est pas partout
+Elle dit qu'elle partira
+Elle est même pas venue
+Elle est partisane
+Elle est pas pas pas sortable, et ça
+J'vous l'ai pas pas déjà dit
+Qu'elle est parisienne, elle est parisienne
+Elle est pas terroriste, elle est pas terroriste

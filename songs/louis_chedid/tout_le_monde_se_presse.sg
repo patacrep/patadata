@@ -5,7 +5,6 @@
 
   \cover
   \gtab*{C7/9}{3:X02000}
-  \gtab*{C7/9}{3:X2123X}
   \gtab{F}{1:022100}
   \gtab{F7}{1:020100}
   \gtab*{F7/9}{8:X02000}
@@ -14,7 +13,7 @@
   \gtab{C7}{X32310}
   \gtab*{C#dim}{XX2323}
   \gtab*{Gm7}{XX3333}
-  \gtab*{G7/5#}{XX3443}
+  \gtab*{G+7/F}{XX3443}
   \gtab*{C#7/9}{4:X2123X}
   \gtab*{Gdim}{XX2323}
   \gtab*{B&dim}{3:XX2323}
@@ -43,7 +42,7 @@
     \[D7/9]Pourquoi aller jusqu'en Asie
     \[G]Quand il suffit qu'on imagine
     \[C7]En longeant le rayon riz
-    Qu'on est\[C#dim] à la \[Gm7] muraille de \[G7/5#]Chine
+    Qu'on est\[C#dim] à la \[Gm7] muraille de \[G+7/F]Chine
   \end{verse}
 
   \begin{verse}
@@ -77,7 +76,7 @@
   \end{chorus}
 
   %_____________________________________________________________________________
-  %Le passage C7 - C#dim - Gm7 - G7/5# - (C7) assez rapide
+  %Le passage C7 - C#dim - Gm7 - G+7/F - (C7) assez rapide
   %peut être remplacé par des basses en octaves plus simples
   %
   %Guitare 1 |--0----3----3----3----|--3-

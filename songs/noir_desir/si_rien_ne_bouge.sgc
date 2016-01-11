@@ -1,0 +1,55 @@
+{title: Si rien ne bouge}
+{artist: Noir Désir}
+{album: Du ciment sous les plaines}
+{cover: du-ciment-sous-les-plaines}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+[Am]J't'écris toujours
+Quand la me[C]nace
+Du fond de la [Em]cour
+[G]Grimpe et me [Am]glace
+
+Regarde là-bas
+Au bout de mon doigt
+Si rien ne bouge
+le ciel devient rouge
+
+Est-ce que j't'ai dit
+L'histoire de cet homme
+Qui voulut tout
+Des femmes, de l'opium
+
+Moralité
+Il est mort alité
+Tout passe, tout casse
+Le joint, le cul lasse
+
+J'te dis encore
+Que l'hiver est mort
+Rallonge tes tresses
+Longue détresse
+
+Quand les amoureux
+S'ramassent à la pelle
+Toutes les feuilles mortes
+Se marrent entre elles
+
+{start_of_chorus}
+  [Am]Il y a des chances que [F]rien n'[G]bou[Am]ge {repeat: 4}
+{end_of_chorus}
+
+Où elle va cette ombre ?
+Se perdre au loin
+Sûr qu'un grand nombre
+N'y verra rien
+
+Mon petit feu
+J't'embrasse sur les yeux
+Je quitte l'enveloppe
+J't'aime plus qu'un peu

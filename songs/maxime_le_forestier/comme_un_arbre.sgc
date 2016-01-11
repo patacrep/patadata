@@ -1,0 +1,62 @@
+{title: Comme un arbre}
+{artist: Maxime Le Forestier}
+{album: Essentielles}
+{cover: essentielles}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: D7 frets X X 0 2 1 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: E frets 0 2 2 1 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: D frets X X 0 2 3 2}
+
+[C]Comme un arbre dans la [D7]ville
+[F]Je suis [G]né dans le bé[C]ton
+Coincé [Em]entre deux mai[Am]sons
+Sans [Dm]abri, sans domi[G Em]ci[Am]le
+Comme un [Dm]arbre dans la [E]vil[Am]le
+{newline}
+Comme un arbre dans la ville
+J'ai grandi loin des futaies
+Où mes frères des forêts
+Ont fondé une famille
+Comme un arbre dans la ville
+
+{start_of_chorus}
+  [E]Entre béton et bi[Am]tume
+  Pour [A7]pousser je me dé[Dm]bats
+  Et mes [D]branches volent [G]bas
+  [E]Si près des autos qui [Am]fument
+  Entre [Dm]béton et bi[E]tume[Am]
+{end_of_chorus}
+
+Comme un arbre dans la ville
+J'ai la fumée des usines
+Pour prison et mes racines
+On les recouvre de grilles
+Comme un arbre dans la ville
+{newline}
+Comme un arbre dans la ville
+J'ai des chansons sur mes feuilles
+Qui s'envoleront sous l'œil
+De vos fenêtres serviles
+Comme un arbre dans la ville
+
+{start_of_chorus}
+  Entre béton et bitume
+  On m'arrachera des rues
+  Pour bâtir où j'ai vécu
+  Des parking d'honneur posthume
+  Entre béton et bitume
+{end_of_chorus}
+
+Comme un arbre dans la ville
+Ami fais après ma mort
+Barricade de mon corps
+Et du feu de mes brindilles
+Comme un arbre dans la ville

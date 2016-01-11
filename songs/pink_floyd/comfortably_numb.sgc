@@ -1,0 +1,70 @@
+{title: Comfortably numb}
+{artist: Pink Floyd}
+{album: The Wall}
+{url: http://www.pinkfloyd.com/}
+{cover: the-wall}
+{language: english}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+
+{partition: comfortably_numb.ly}
+
+[Bm]Hello
+Is there anybody [A]in there?
+Just nod if you can [G]hear me [Em]
+Is there [Bm]anyone home?
+
+[Bm]Come on now
+I hear you're[A] feeling down
+Well [G]I can ease your [Em]pain
+And [Bm]get you on your feet again
+
+[Bm]Relax
+I'll need some inform[A]ation first
+[G]Just the basic f[Em]acts
+Can you [Bm]show me where it hurts?
+
+{start_of_chorus}
+  [D] There is no pain you are [A]receding
+  [D] A distant ship's smoke on the [A]horizon
+  [C] You are only coming through in [G]waves
+  Your [C]lips move but I can't hear what you're s[G]aying
+  When [D]I was a child I had a f[A]ever
+  My [D]hands felt just like two ball[A]oons
+  [C] Now I've got that feeling once ag[G]ain
+  I can't explain you would not [C]understand
+  This is not how I [G]am
+  [A]I [C] have bec[G]ome comfortably nu[D]mb
+  {guitar_comment:  | [D] | [A] | [D] | [A] | [C] | [G] | [C] | [G] |}
+  [A]I [C] have bec[G]ome comfortably nu[D]mb
+{end_of_chorus}
+
+[Bm]O.K
+Just a little [A]pinprick
+There'll be no more [G]Aaaaa[Em]h
+But you [Bm]may feel a little sick
+
+Can you st[Bm]and up?
+I do believe it's w[A]orking good
+That'll keep you g[G]oing through the sh[Em]ow
+Co[Bm]me on it's time to go
+
+{start_of_chorus}
+  [D] There is no pain you are [A]receding
+  [D] A distant ship's smoke on the [A]horizon
+  [C] You are only coming through in [G]waves
+  Your [C]lips move but I can't hear what you're s[G]aying
+  When [D]I was a child I caught a fl[A]eeting glimpse
+  [D] Out of the corner of my ey[A]e
+  [C] I turned to look but it was g[G]one
+  I cannot put my finger [C]on it now
+  The child is grown the dr[G]eam is gone
+  [A]I [C] have bec[G]ome comfortably nu[D]mb
+{end_of_chorus}
+
+{guitar_comment: [Bm] | [A] | [G] [Em] | [Bm]  {repeat: 8}}

@@ -1,0 +1,53 @@
+{title: La ballade des gens heureux}
+{artist: Gérard Lenorman}
+{album: Vos plus belles chansons}
+{cover: vos-plus-belles-chansons}
+{language: french}
+{columns: 2}
+{capo: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: D7 frets X X 0 2 1 2}
+{define: Em frets 0 2 2 0 0 0}
+
+Notre [G]vieille Terre est une étoile
+Où toi aussi tu [Am]brilles un [D7]peu
+
+{start_of_chorus}
+  Je viens te [Am]chanter [D7]la bal[G]lade
+  [Em]La bal[Am]lade des [D7]gens heu[G]reux
+  {repeat: 2}
+{end_of_chorus}
+
+Tu n'as pas de titre, ni de grade
+Mais tu dis «tu», quand tu parles à Dieu
+
+Journaliste, pour ta première page
+Tu peux écrire tout ce que tu veux
+
+{start_of_chorus}
+  Je t'offre un titre formidable
+  La ballade des gens heureux
+  {repeat: 2}
+{end_of_chorus}
+
+Toi qui as planté un arbre
+Dans ton petit jardin de banlieue
+
+Il s'endort et tu le regardes
+C'est un enfant, il te ressemble un peu
+
+Toi la star, du haut de ta vague
+Descends vers nous, tu nous verras mieux
+
+Roi de la drague, et de la rigolade
+Rouleur, flambeur ou gentil petit vieux
+
+Comme un chœur dans une cathédrale
+Comme un oiseau qui fait ce qu'il veut
+
+{start_of_chorus}
+  Tu viens de chanter la ballade
+  La ballade des gens heureux
+  {repeat: 2}
+{end_of_chorus}

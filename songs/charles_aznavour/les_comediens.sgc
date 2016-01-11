@@ -1,0 +1,51 @@
+{title: Les comédiens}
+{artist: Charles Aznavour}
+{album: 40 chansons d'or}
+{cover: 40-chansons-d-or}
+{language: french}
+{columns: 2}
+{capo: 3}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: E7 frets 0 2 0 1 3 0 special}
+{define: D7 frets X X 0 2 1 2}
+
+{start_of_chorus}
+  [C]Viens voir les comé[Am]diens, voir les musi[F]ciens
+  Voir les magi[G7]ciens, qui arrivent
+  [C]Viens voir les comé[Am]diens, voir les musi[F]ciens
+  Voir les magi[G7]ciens, qui arrivent
+  {repeat: 2}
+{end_of_chorus}
+
+[C]Les comédiens ont instal[Am]lé leurs tréteaux
+Ils ont dres[F]sé leur estrade et tendu [G7]des calicots
+[C]Les comédiens ont parcou[Am]ru les faubourgs
+Ils ont don[F]né la parade, à grand ren[G7]fort de tambour
+{newline}
+[C]Devant l'église une rou[E7]lotte peinte en vert
+A[Am]vec les [D7]chaises d'un thé[G7]âtre à ciel ouvert
+[C]Et derrière eux, comme un cor[Am]tège en folie
+Ils drainent [F]tout le pays [G7]les comé[C]diens
+
+Si vous voulez voir confondus les coquins
+Dans une histoire un peu triste, où tout s'arrange à la fin
+Si vous aimez voir trembler les amoureux
+Vous lamenter sur Baptiste, ou rire avec les heureux
+{newline}
+Poussez la toile et entrez donc vous installer
+Sous les étoiles, le rideau va se lever
+Quand les trois coups retentiront dans la nuit
+Ils vont renaître à la vie, les comédiens
+
+Les comédiens ont démonté leurs tréteaux
+Ils ont ôté leur estrade et plié les calicots
+Ils laisseront au fond du cœur de chacun
+Un peu de la sérénade et du bonheur d'Arlequin
+{newline}
+Demain matin, quand le soleil va se lever
+Ils seront loin, et nous croirons avoir rêvé
+Mais pour l'instant, ils traversent dans la nuit
+D'autres villages endormis, les comédiens

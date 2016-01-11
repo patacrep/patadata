@@ -1,0 +1,99 @@
+{title: Zaza}
+{artist: Thomas Fersen}
+{album: Le pavillon des fous}
+{cover: le-pavillon-des-fous}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: D frets X X 0 2 3 2}
+{define: B7 frets X 2 1 2 0 2}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: Em frets 0 4 3 2}
+{define: Am frets 2 0 0 0}
+{define: D frets 2 2 2 0}
+{define: B7 base-fret 2 frets 0 1 0 0}
+{define: B base-fret 2 frets 2 1 0 0}
+
+Zaza tu [Em]pues mais je t'aime quand même
+Zaza ma [Em]chienne, t'es une martienne
+Il te manque un [Am]œil, pis l'autre oreille
+T'en as fait le [D]deuil mais je t'aime pa[Em]reil
+{newline}
+Zaza tu [Em]ronfles, pis tu te dégonfles
+Zaza tu [Em]pètes, Zaza tu fouettes
+Mais je suis ton [Am]maître, je suis gros Thomas
+Viens me faire la [D]fête sur l'esto[Em]mac
+
+{start_of_chorus}
+  Zaza tu [D]pues
+  Mais je t'appré[Em]cie
+  Le chat aus[D]si
+  Couci cou[B7]ci [B]
+{end_of_chorus}
+
+Pis Zaza, [Em]c'est quoi ton problème ?
+Arrête d'in[Em]gérer tout ce qui traîne
+Croquer ma [Am]revue sur les gaines
+Ça va pas [D]te rafraîchir l'ha[Em]leine
+{newline}
+Arrête de [Em]me briser les noix
+Sinon je [Em]te donne au Chinois
+Zaza tu [Am]pleures, t'as un gros cœur
+Zaza je plai[D]sante, t'es fati[Em]gante
+
+{start_of_chorus}
+  Zaza t'es [D]belle
+  Mais t'as gros[Em]si
+  T'as pris des [D]fesses
+  T'es très se[B7]xy [B]
+{end_of_chorus}
+
+[Em] [Am] [D] [B7] [Em]
+
+{start_of_bridge}
+Ce qui te fau[Em]drait, c'est un ami
+Depuis que Ni[Em]na elle est partie
+Y'a pas de vi[Am]site
+De ces temps-[Em]ci
+Les gens ont [D]peur
+De mon fu[B7]sil [B]
+{end_of_bridge}
+
+Zaza tu [Em]fugues mais je t'aime quand même
+Tu mènes [Em]ta vie de bohème
+Tu dispa[Am]rais trois jours et moi
+Et moi je [D]me ronge le [Em]foie
+{newline}
+Paraît que tu [Em]ferais des kilomètres
+Pour venir [Em]retrouver ton maître
+Zaza t'es [Am]fine, je lève ma chopine
+À ta san[D]té, ma vieille co[Em]pine
+
+{start_of_chorus}
+  Zaza ma [D]chienne
+  T'es parfu[Em]mée
+  Mais je t'aime quand [D]même
+  Je suis enrhu[B7]mé [B]
+{end_of_chorus}
+
+Joli [Em]poil, jolie taille
+Le diable a [Em]fait du beau travail
+Sur ce grand [Am]roux qui t'accompagne
+Il te fait [D]battre la cam[Em]pagne
+{newline}
+Zaza se[Em]rais-tu amoureuse ?
+Zaza se[Em]rais-tu amoureuse
+Pour aller [Am]sauter la clôture
+Et mordre [D]les pneus des voi[Em]tures ?
+
+{start_of_chorus}
+  Zaza tu [D]pues
+  Mais je t'aime quand [Em]même
+  Zaza tu [D]pues
+  Mais je t'aime quand [Em]même
+  Zaza ma [D]chienne
+  Je suis rassu[Em]ré
+  Je sais que [D]je
+  Possède [B7]un [Em]nez ...
+{end_of_chorus}

@@ -1,0 +1,80 @@
+{title: Someone Like You}
+{artist: Adele}
+{album: 21}
+{cover: 21}
+{language: english}
+{columns: 2}
+{define: A frets X 0 X 2 2 0}
+{define: A&/A frets X 4 X 2 2 0}
+{define: F#m frets 2 X X 2 2 2}
+{define: D frets X X 0 2 3 2}
+{define: E* base-fret 4 frets X X 2 0 1 0}
+{define: E frets 0 X X 1 0 0}
+{define: Bm frets 2 2 4 4 3 2}
+{define: C#m base-fret 4 frets 0 0 2 2 1 0}
+
+Jouer en arpèges P, M, I, M, A
+{guitar_comment: Intro:  [A Ab/A F#m D]}
+{newline}
+[A]I heard that you're [Ab/A]settled down
+That you [F#m]found a girl and you're [D]married now
+[A]I heard that your [Ab/A]dreams came true
+Guess she [F#m]gave you things I didn't [D]give to you
+{newline}
+Old friend, why are you so shy?
+Ain't like you to hold back or hide from the light
+
+{start_of_bridge}
+[E]I hate to turn up out of the [F#m]blue, uninvited
+But I [D]couldn't stay away, [D]I couldn't fight it
+[E]I had hoped you'd see my face and [F#m]that you'd be reminded
+That for [D]me, it isn't [D]over [E*]
+{end_of_bridge}
+
+{start_of_chorus}
+  [A]Never mind, I'll [E]find someone [F#m]like you [D]
+  I wish [A]nothing but the [E]best for [F#m]you, [D]too
+  Don't [A]forget me, I [E]beg, I re[F#m]member you [D]said
+  Sometimes it [A]lasts in love, but [E]sometimes it [F#m]hurts instead[D] {repeat: 2}
+  [D]
+{end_of_chorus}
+
+You know how the time flies
+Only yesterday was the time of our lives
+We were born and raised in a summer haze
+Bound by the surprise of our glory days
+
+{start_of_bridge}
+[E]I hate to turn up out of the [F#m]blue, uninvited
+But I [D]couldn't stay away, [D]I couldn't fight it
+[E]I had hoped you'd see my face and [F#m]that you'd be reminded
+That for [D]me, it isn't [D]over [D] [E*]
+{end_of_bridge}
+
+{start_of_chorus}
+  Never mind, I'll find someone like you
+  I wish nothing but the best for you, too
+  Don't forget me, I beg, I remember you said
+  Sometimes it lasts in love, but sometimes it hurts instead, yeah
+{end_of_chorus}
+
+{start_of_bridge}
+[E]Nothing compares, no [E]worries or cares
+[F#m]Regrets and mistakes, they're [F#m]memories made
+[D]Who would have known how bitter[Bm]sweet [Cm]this would [D]taste?
+{end_of_bridge}
+
+{start_of_chorus}
+  Never mind, I'll find someone like you
+  I wish nothing but the best for you
+  Don't forget me, I beg, I remember you said
+  Sometimes it lasts in love, but sometimes it hurts instead
+{end_of_chorus}
+
+{start_of_chorus}
+  Never mind, I'll find someone like you
+  I wish nothing but the best for you, too
+  Don't forget me, I beg, I remember you said
+  Sometimes it lasts in love, but sometimes it hurts instead
+  Sometimes it lasts in love, but sometimes it hurts instead
+{end_of_chorus}

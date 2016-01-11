@@ -1,0 +1,45 @@
+{title: Nuit humide}
+{artist: Mes souliers sont rouges}
+{album: Tape la galoche}
+{url: http://www.messoulierssontrouges.com}
+{cover: tape-la-galoche}
+{language: french}
+{columns: 2}
+{capo: 7}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+{partition: Nuit_humide_1.ly}
+
+[Am]Tout a commen[C]cé [G]une nuit d'é[F]té
+[Am]Un bal de juillet [G]où je m'ennuyais
+[Am]Au son du vio[C]lon, [G]de l'accordé[F]on
+[Am]Je t'ai vue dan[Am]ser, ça m'[G]a réchauffé [Am]
+
+{start_of_chorus}
+  [Am]Courons ma mi[C]gnonne, [G]croquons dans la [F]pomme
+  [Am]Allons dans la [C]grange, [G]nous verrons les anges
+  [Am]Courons ma mi[C]gnonne, [G]croquons dans la [F]pomme
+  [Am]Ne m'fais pas faux [F]bond, je [G]suis tendre et [Am]bon
+{end_of_chorus}
+
+Tes yeux ont croisé, mon regard gêné
+Tu as pris ma main, dansons ce refrain
+La fête terminée, on s'est embrassé
+Puis on est sorti, courir sous la pluie
+
+{partition: Nuit_humide_2.ly}
+
+Courons à la grange, rien ne nous dérange
+Une lampe à pétrole, pour une nuit folle
+Jetons nos souliers, nos habits mouillés
+Il fait froid dehors, unissons nos corps
+
+Et dans nos ébats, la lampe tomba
+Lors de la jouissance s'enflamme l'essence
+La grange a pris feu, j'ai crié : «Mon Dieu !»
+Il s'est réveillé les draps tout mouillés
+
+{comment: Une chanson d'amour entre rêve et réalité. Que celui qui n'a jamais connu pareille mésaventure nous lance la première pomme.}

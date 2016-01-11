@@ -1,0 +1,92 @@
+{title: Croque}
+{artist: Thomas Fersen}
+{album: Pièce montée des grands jours}
+{cover: piece-montee-des-grands-jours}
+{language: french}
+{columns: 2}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: G# base-fret 4 frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: C#m base-fret 1 frets 0 3 3 3}
+{define: F#m frets 2 1 2 0}
+{define: G# base-fret 3 frets 2 0 1 0}
+{define: E base-fret 2 frets 2 2 2 0}
+{define: A frets 2 1 0 0}
+
+{guitar_comment: Intro :  [C#m F#m F#m C#m]}
+{newline}
+[C#m] Quand je rentre à la maison, elle me dit souvent
+Que j'ai une tête d'enterrement et elle [F#m]a raison
+Je travaille au cimetière, c'est in[F#m]contestable
+Je laisse ma tête au vestiaire et je me [C#m]mets à table
+{newline}
+Faut pas se laisser abattre, j'ai une faim de loup
+Moi je mange comme quatre et je bois [F#m]comme un trou
+Puis je retourne au cimetière travail[F#m]ler d'mon mieux
+Digérer mon pot de bière et mon cro[C#m]que-monsieur
+
+{start_of_chorus}
+  Pendant [C#m]l'oraison du [E]prêtre
+  [F#m]J'ai un petit [G#]creux
+  Moi je [C#m]pense à ma cô[F#m]telette
+  [F#m] À mon [G#]pot-au-feu
+  Aux pre[C#m]mières couronnes de [F#m]fleurs
+  [E]J'ai déjà la [G#]dent
+  C'est mon [C#m]estomac qui [F#m]pleure
+  [A] À chaque enterre[G#]ment
+  [C#m F#m F#m C#m]
+{end_of_chorus}
+
+[C#m] Comme un côté du cimetière est inhabité
+J'ai planté des pommes de terre dans l'in[F#m]timité
+Et dans ma jaquette noire, entre [F#m]deux services
+Je donne un coup d'arrosoir et je cours [C#m]à l'office
+{newline}
+Je gratte, je bine et je bêche, quelle heureuse surprise
+Quand je trouve un ver pour la pêche, je ran[F#m]ge ma prise
+Dans une boîte en fer blanc, le temps [F#m]est superbe
+Voilà un coin épatant pour déjeu[C#m]ner sur l'herbe
+
+{start_of_chorus}
+  À pré[C#m]sent qu'a sonnée [E]l'heure
+  [F#m]L'heure du goupil[G#]lon
+  Je pense [C#m]à mes pommes va[F#m]peur
+  [F#m] À mon court-bouil[G#]lon
+  Et quand [C#m]tombent les premières [F#m]gouttes
+  [E]Sur mon haut-de-[G#]forme
+  C'est mon [C#m]ventre qui glou[F#m]gloute
+  [A] Mon ventre qui [G#]grogne
+  [C#m F#m F#m C#m]
+{end_of_chorus}
+
+[C#m] Parfois je croque un oignon, parfois une gousse d'ail
+Parfois même un champignon est une [F#m]victuaille
+Il faut faire avec, ce n'est [F#m]pas copieux
+Car ces oraisons du prêtre on n'en voit [C#m]pas la queue
+{newline}
+Le vent chasse les nuages, c'est providentiel
+Un grand disque de fromage tourne [F#m]dans le ciel
+La faim me monte à la tête, j'avale [F#m]mon chapeau
+Un bouton de ma jaquette et un pau[C#m]vre mulot
+
+{start_of_chorus}
+  Je n'suis [C#m]pas dans mon as[E]siette
+  [F#m]Je vais rendre [G#]l'âme
+  Quand je [C#m]pense à mes pau[F#m]piettes
+  [F#m] À mon croque-ma[G#]dame
+  Ça fait [C#m]trop longtemps qu'ça [F#m]dure
+  [E]Je m'allonge un [G#]peu
+  Sur le [C#m]tapis de ver[F#m]dure
+  Et je ferme les [G#]yeux
+{end_of_chorus}
+
+{start_of_chorus}
+  [C#m F#m]
+  Ça fait [C#m]trop longtemps qu'ça [F#m]dure
+  [E]Je m'allonge un [G#]peu
+  Sur le [C#m]tapis de ver[F#m]dure
+  [A] Et je ferme les [G#]yeux
+  [C#m F#m F#m C#m]
+{end_of_chorus}

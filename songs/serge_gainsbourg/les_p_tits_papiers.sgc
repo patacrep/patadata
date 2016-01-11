@@ -1,0 +1,80 @@
+{title: Les p'tits papiers}
+{artist: Serge Gainsbourg}
+{album: Les lampions (Régine)}
+{cover: regine-les-lampions}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: A frets X 0 2 2 2 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: B7 base-fret 2 frets X 0 2 0 2 0}
+{define: G frets 3 2 0 0 0 1}
+{define: Am frets X 0 2 2 1 0}
+
+[Dm]Lais[A]sez [Dm]par[A7]ler
+Les p'tits papiers
+À l'occa[Dm]sion
+Papier chiffon
+Puissent-ils un [A7]soir
+Papier buvard
+Vous conso[Dm]ler
+{newline}
+[Dm]Lais[F]sez [Dm]brû[Gm]ler
+Les p'tits papiers
+Papier de [Dm]riz
+Ou d'Arménie
+Qu'un soir ils [A7]puissent
+Papier maïs
+Vous réchauf[Dm]fer
+
+[Dm]Un [A]peu [Dm]d'a[A7]mour
+Papier velours
+Et d'esthé[Dm]tique
+Papier musique
+C'est du cha[A7]grin
+Papier dessin
+Avant long[Dm]temps
+{newline}
+[Dm]Lais[F]sez [Dm]glis[Gm]ser
+Papier glacé
+Les senti[Dm]ments
+Papier collant
+Ça impres[A7]sionne
+Papier carbone
+Mais c'est du [Dm]vent
+
+[Em]Ma[B]chin [Em]Ma[B7]chine
+Papier machine
+Faut pas s'leur[Em]rer
+Papier doré
+Celui qu'y [B7]touche
+Papier tue-mouches
+Est moitié [Em]fou
+{newline}
+[Em]C'est [G]pas [Em]bril[Am]lant
+Papier d'argent
+C'est pas don[Em]né
+Papier-monnaie
+Ou l'on en [B7]meurt
+Papier à fleurs
+Ou l'on s'en [Em]fout
+
+[Em]Lais[B]sez [Em]par[B7]ler
+Les p'tits papiers
+À l'occa[Em]sion
+Papier chiffon
+Puissent-ils un [B7]soir
+Papier buvard
+Vous conso[Em]ler
+{newline}
+[Em]Lais[G]sez [Em]brû[Am]ler
+Les p'tits papiers
+Papier de [Em]riz
+Ou d'Arménie
+Qu'un soir ils [B7]puissent
+Papier maïs
+Vous réchauf[Em]fer

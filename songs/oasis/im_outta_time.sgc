@@ -1,0 +1,38 @@
+{title: I'm outta time}
+{artist: Oasis}
+{album: Dig out your soul}
+{cover: dig-out-your-soul}
+{language: english}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Esus4 frets 0 2 2 2 0 0 special}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+
+[Em]Here's a song
+It reminds me of when [Esus4]we were young
+Looking back at all the [Am]things we'd done
+Gotta keep on [C]keeping on
+
+Out to sea
+It's the only place I honestly
+Can get myself some peace of mind
+You know it's getting hard to fly
+
+{start_of_chorus}
+  [G]If I'm to fall
+  [D]Would you be there to applaud?
+  Or [Em]would you hide behind them all?
+  Cause if I have to [Am]go
+  In my heart you [C]grow
+  And that's where you be[G]long
+  {repeat: 2}
+{end_of_chorus}
+
+[G]Guess I'm outta time
+I'm outta time
+[Em]I'm outta time
+[Am]I'm outta time
+[C]I'm outta time

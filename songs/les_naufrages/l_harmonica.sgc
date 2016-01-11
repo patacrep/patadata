@@ -1,0 +1,60 @@
+{title: L'harmonica}
+{artist: Les Naufragés}
+{album: Ça baigne}
+{cover: ca-baigne}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+
+{partition: L_harmonica.ly}
+
+[Am]Dans mon sac de matelot
+J'ai mis tout c'[G]que j'avais de plus [Am]beau
+Souvenirs de tous pays
+Bouteille de [G]rhum et de whi[Am]sky
+{newline}
+Une [C]montre qui ne [G]marche pas
+Ma [C]pipe et mon ta[G]bac
+J'y ai [Am]mis l'harmonica
+Qu'j'avais ache[G]té à Mala[Am]ga
+
+{start_of_chorus}
+  Avec [Am]mon harmonica
+  Je souffle, la voi[G]là
+  L'harmonica, l'harmonica
+  Pour la [Am]gigue et la polka
+  Écoutez-ça les [G]gars
+  Faut faire d'l'harmoni[Am]ca
+{end_of_chorus}
+
+Il m'accompagne partout
+Une chanson prête à chaque trou
+Il sait des tas de refrains
+Dont les plus beaux sont de marins
+{newline}
+À bord, pendant les quarts à bord
+Il fait rêver les gars
+Il leur parle de la terre
+De la mer et de leurs amours
+
+Du temps où j'étais pas manchot
+Je faisais l'amour dans les pays chauds
+À une sombre beauté
+Qui ne voulait pas se laisser tenter
+{newline}
+Sa peau et son corps étaient noirs
+Mais elle ne voulait rien savoir
+J'lui dit qu'j'étais matelot
+Elle a crié : «Je suis perdue !»
+
+Celui qu'a composé cette chanson
+C'est Henri Jacques, matelot de pont
+Si elle est à votre goût les gars
+Faut lui payer un coup
+{newline}
+Avec sa gueule de trafiquant
+Faut lui rincer les dents
+Offrez-lui un pot de tafia
+Je vous jure bien qu'il le boira

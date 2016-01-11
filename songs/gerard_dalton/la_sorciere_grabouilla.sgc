@@ -1,0 +1,61 @@
+{title: La sorcière Grabouilla}
+{artist: Gérard Dalton}
+{album: 100 chansons et comptines à l'école maternelle}
+{original: Francine Pohl (paroles et musique)}
+{cover: 100_chansons_et_comptines}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: B7 frets X 2 1 2 0 2}
+{define: Am frets X 0 2 2 1 0}
+
+C'est [Em]une vieille sorcière
+Qui [B7]s'appelle Grabou[Em]illa
+Grabou-bou, Grabou-bou
+Grabou-bou, Grabouilla
+{newline}
+Elle passe par la chatière
+Du gros chat Ramina
+Rami-mi, Rami-mi
+Rami-mi, Ramina
+{newline}
+Elle [Am]transforme en cafe[Em]tière
+Les [B7]bottes de ma grand-[Em]mère
+Se [Am]cache dans la gou[Em]ttière
+D'la [B7]maison d'Nico[Em]las
+Nico-co, Nico-co
+Nico-co, Nicolas
+
+{start_of_chorus}
+  [Am]Sorcière, [Em]sorcière
+  [B7]Vite cache-[Em]toi !
+  [Am]Sorcière, [Em]sorcière
+  [B7]Retourne chez [Em]toi !
+{end_of_chorus}
+
+Mais un jour la sorcière
+Mangea trop d'chocolat
+Choco-co, choco-co
+Choco-co, chocolat
+{newline}
+Elle entre chez l'épicière
+Et vole des p'tits nougats
+Ptits nou-nou, p'tits nou-nou
+Ptits nou-nou, p'tits nougats
+{newline}
+Elle mange une boîte entière
+Puis elle boit de la bière
+Elle dit d'un ton amer :
+«J'ai mal à l'estomac»
+L'esto-to, l'esto-to
+L'esto-to, l'estomac
+
+{start_of_chorus}
+  Sorcière, sorcière
+  C'est bien fait pour toi !
+  Sorcière, sorcière
+  Retourne chez toi !
+  {repeat: 2}
+{end_of_chorus}
+
+{partition: La_sorciere_Grabouilla.ly}

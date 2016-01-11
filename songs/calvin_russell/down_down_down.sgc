@@ -1,0 +1,39 @@
+{title: Down down down}
+{artist: Calvin Russell}
+{album: Sounds from the fourth world}
+{cover: sounds_from_the_fourth_world}
+{language: english}
+{columns: 1}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G7 frets 3 2 0 0 0 1 special}
+{define: D7 frets X X 0 2 1 2 special}
+{define: D frets X X 0 2 3 2}
+{define: G4 frets X X 0 0 1 3 special}
+
+{guitar_comment: Intro:  [C] [G] [Em] [Am] }
+{newline}
+Well I k[C]now it's been a [G]hard road [Em] for so long n[Am]ow
+And i[F]t's taken you for [G]a ride [Em] down down d[Am]own
+But you must la[G][G7]ugh even th[C]ough [Em] it [Am]seems [D7] that you should c[G]ry [G7] [C] [D7]
+
+Each m[C]orning [G]brings us [Em] a different d[Am]ay
+And i[F]t's counting o[G]ur lives [Em] down down d[Am]own
+But you must t[G]ry [G7] unt[C]il [Em] at l[Am]ast [D7]you'll know wh[G]y [G4]
+{newline}
+[C]A grain of sand, [Em]one single leaf
+[Am]A candle by itself burn[D7]ing
+[C]I'm just a man, [Em]only a man
+[Am]And the rules of life [D7]I'm still learning
+[C]Turn me round, turn me roun[G]d
+[G]Well people for [C]years I g[D]athered the [G]tears
+I l[C]ooked for the frowns [G]on your faces
+Now I w[C]alk down the street
+And [D]the people that I me[G]et
+[C]One by one I've met tho[G]usands
+And that's wh[C]y that I fe[G]el
+That to g[Am]ive is the fruit
+The fruit of liv[D7]ing our l[G]ifes[G7] [C] [Em] [Am] [D7] [G]

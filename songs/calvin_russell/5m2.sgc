@@ -1,0 +1,42 @@
+{title: 5m²}
+{artist: Calvin Russell}
+{album: Dawg eat dawg}
+{cover: dawg-eat-dawg}
+{language: french}
+{columns: 2}
+{capo: 5}
+{define: Am frets X 0 2 2 1 0}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E frets 0 2 2 1 0 0}
+{define: Am/C frets X 3 2 2 1 0 special}
+{define: G frets 3 2 0 0 0 3}
+{define: G7 frets 3 2 0 0 0 1}
+
+[Am] Cinq mètres carrés, plus de télé
+[Dm] L'eau qui fuit dans les WC
+[F] Encore un bol de Ricoré
+[E] Un seul rève, avoir la clé
+
+[Am] Nous les voleurs, les meurtriers
+[Dm] Même en prison, faut exister
+[F] Concours de vieux joggings usés
+[E] Pour une promenade, à la santé
+
+{start_of_chorus}
+  [F] I'm dreaming, [Am] I'm dreaming
+  O[Am/C]f wh[G]ere th[Am/C]at s[E]un
+  Go[G7]es do[Am]wn [G7] [Am]
+{end_of_chorus}
+
+[Am] Sur un coin de mur, lézardé
+[Dm] Une photo trop abîmée
+[F] D'une femme au regard désenchanté
+[E] Celui de celle qui m'a aimé
+
+[Am] Cinq mètres carrés, de liberté
+[Dm] Et la même gueule à qui parler
+[F] Et cette fenêtre grillagée
+[E] Mon seul espace pour m'évader
+{newline}
+{guitar_comment: Instr. [F] [Am] [F] [Am] [G]  }

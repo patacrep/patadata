@@ -1,0 +1,29 @@
+{title: Elle descend de la montagne}
+{artist: Hugues Aufray}
+{album: Little troubadour}
+{cover: little-troubadour}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+Elle de[C]scend de la montagne à cheval
+Elle descend de la montagne à che[G7]val
+Elle de[C]scend de la montagne
+Elle de[F]scend de la montagne
+Elle de[C]scend de la mon[G7]tagne à che[C]val
+
+{start_of_chorus}
+  Singing I, I, youpee, youpee I
+  Singing I, I, youpee, youpee I
+  Singing I, I, youpee
+  I, I, youpee
+  I, I, youpee, youpee I
+{end_of_chorus}
+
+Elle embrasse son grand-père quand elle descend
+
+J'voudrais être son grand-père quand elle descend
+
+Mais c'est mieux d'avoir 20 ans et toutes ses dents

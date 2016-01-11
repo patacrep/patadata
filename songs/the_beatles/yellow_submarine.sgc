@@ -1,0 +1,37 @@
+{title: Yellow submarine}
+{artist: The Beatles}
+{album: 1}
+{cover: 1}
+{language: english}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+
+In the [D]town [C]where I [G]was born
+[Em]Lived a [Am]man who [C]sailed to [D]sea
+[G]And he [D]told us [C]of his [G]life
+[Em]In the [Am]land of [C]subma[D]rines
+
+So we sailed up to the sun
+Till we found the sea of green
+And we lived beneath the waves
+In our yellow submarine
+
+{start_of_chorus}
+  [G]We all live in our [D]yellow submarine
+  Yellow submarine, [G]yellow submarine
+  [G]We all live in our [D]yellow submarine
+  Yellow submarine, [G]yellow submarine
+{end_of_chorus}
+
+And our friends are all on board
+Many more of them live next door
+And the band begins to play
+
+As we live a life of ease
+Everyone of us has all we need
+Sky of blue and sea of green
+In our yellow submarine

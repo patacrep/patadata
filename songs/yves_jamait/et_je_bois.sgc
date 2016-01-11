@@ -1,0 +1,55 @@
+{title: Et je bois}
+{artist: Yves Jamait}
+{album: De verre en vers}
+{url: http://www.jamait.fr}
+{cover: de-verre-en-vers}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+
+La petite [Dm]clope qui tue le spleen
+Vient de me [Gm]réveiller un air
+Quelques ac[Bb]cords que j'assassine
+Sur lesquels [A]je pose mes vers
+Sans les ca[Gm]sser je les entasse
+Dans des oc[Dm]tosyllabes morts
+En atten[Bb]dant que je trépasse
+D'en avoir [A]apprécié le corps
+
+{start_of_chorus}
+  Et je [Dm]bois, et je bois, et j'im[Gm]bibe ma carcasse
+  De tout ce [Bb]qui coule, qui est fort alcooli[A]sé et qui fracasse
+  {repeat: 2}
+{end_of_chorus}
+
+Je divague, je me ratatine
+Je vois mon avenir en vin
+Toutes mes émotions s'avinent
+Mes vers en deviennent divins
+Sur mes mots je pose mon prose
+Et propose un deal à la Lune
+Que Pierrot nous lâche les choses
+Et qu'il veuille nous laisser sa plume
+
+La première fois que je t'ai vue
+J'devais avoir la gueule dans l'cul
+Pour m'être laissé ainsi tenter
+Fallait-il que j'sois bourré
+Fallait-il que tu me plaises
+Je ne veux pas y penser
+Fallait-il que tu me baises
+Si bien que je suis resté
+
+Le cœur et le corps avachis
+Me voilà donc sans toi chez nous
+Dans des relents de Givenchy
+J'écris des trucs sur le dégoût
+{newline}
+Et ce soir si ma muse est brune
+Je voudrais la boire sur lie
+Ne garder d'elle que l'écume
+Le souvenir d'un oubli
+{repeat: 4}

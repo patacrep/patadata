@@ -1,0 +1,55 @@
+{title: La belle}
+{artist: Parabellum}
+{album: In vivo veritas}
+{cover: in-vivo-veritas}
+{language: french}
+{columns: 1}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 1}
+{define: E frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: D frets X X 0 2 3 2}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+[Am]Le Loire a [G]quitté La Pal[Am]ic[G]e
+[Am]Maintenant [G]tout est bien f[Am]ini [G]
+[Am]On s'en va [G]vers le [D]Mar[E]on[Am]i
+[Am]Où les re[G]quins font la pol[E]ic[Am]e
+[Am]On est sans [F]nom [Am]on n'est plus [F]rien
+[Am]La loi nous [F]chasse [Am]de la [F]ville
+[E]On n'est plus qu'un bateau de chiens
+Qu'on mène crever dans une île
+
+{start_of_chorus}
+  [A]Mais alors [D]apparaît la [A]bell[E]e
+  [A]La faim la l[D]èpre le cach[A]ot
+  [D]Le coup de [E]poing des pays [A]chauds
+  [F#m]Rien ne ser[Bm]a trop beau pour [E]elle
+  [Am] [G]
+{end_of_chorus}
+
+{guitar_comment: | [Am] [G] | [Am] [G] | [Am] [G] | [Am] [G] }
+{guitar_comment: | [Am] [G] | [D][E] [Am] | [Am] [G] | [E] [Am] }
+{guitar_comment: | [Am] [F] | [Am] [F] | [Am] [F] | [Am] [F] }
+{guitar_comment: | [E] | [E] | [E] | [E]  }
+
+{start_of_chorus}
+  [A]Mais alors [D]apparaît la [A]bell[E]e
+  [A]La faim la l[D]èpre le cach[A]ot
+  [D]Le coup de [E]poing des pays [A]chauds
+  [F#m]Rien ne ser[Bm]a trop beau pour [E]elle
+  [D]Pour la liberté les re[A]quins
+  [D]Auront notre chair de co[A]quins
+{end_of_chorus}
+
+{start_of_chorus}
+  [A]Et dans la [D]forêt solenn[A]ell[E]e
+  [A]Où la mort [D]sonne à chaque [A]pas
+  [D]Même lorsqu[E]e tu ne viens [A]pas
+  [F#m]C'est toi qu'on [Bm]adore la [E]belle !
+  [Am] [G]
+{end_of_chorus}

@@ -1,0 +1,61 @@
+{title: Alouette}
+{artist: Gilles Dreu}
+{album: Alouette}
+{cover: alouette}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am7 frets 0 0 2 2 1 2 special}
+{define: G7 frets 3 2 0 0 0 1}
+{define: D7 frets X X 0 2 1 2}
+{define: B7 frets X 2 1 2 0 2}
+
+[Em]Alouette, alouet[Am7]te
+L'é[D7]té est fi[G7]ni
+[Em]Pauvre petite bê[Am7]te
+Je [D7]suis ton a[G7]mi
+[Em]Alouette, alouet[Am7]te
+Je [D7]te comprends [G7]bien
+Moi aussi [Em]j'ai en tê[Am]te
+[B7]Beaucoup de cha[Em]grin
+{newline}
+Dans les blés de la plaine
+Lorsque tu chantais
+Auprès de Madeleine
+Moi je m'endormais
+Dans l'eau de cette source
+Nous buvions tous trois
+La vie était si douce
+Si pleine de joie
+
+{start_of_chorus}
+  Alouette, alouette
+  Chantons tous les deux
+  Un autre jour, peut-être
+  On sera heureux
+{end_of_chorus}
+
+Alouette, alouette
+Puisque tout va mal
+Il faut faire la fête
+Je t'emmène au bal !
+Viens donc sur mon épaule
+Viens te réchauffer !
+Tu verras, je suis drôle
+Je sais bien danser
+{newline}
+Et puis si tu t'embêtes
+On viendra chez moi
+Il y aura des noisettes
+Et du pain pour toi
+Alouette, alouette
+L'amour et l'été
+Comme les cigarettes
+S'en vont en fumée
+
+{start_of_chorus}
+  Alouette, alouette
+  Non, ne t'en fais pas
+  Alouette, alouette
+  L'été reviendra
+{end_of_chorus}

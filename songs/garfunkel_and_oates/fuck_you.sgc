@@ -1,0 +1,42 @@
+{title: F*** you}
+{artist: Garfunkel and Oates}
+{album: Garfunkel and Oates}
+{cover: garfunkel-and-oates}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: E7 frets 0 2 0 1 0 0}
+
+{partition: Fuck_you.ly}
+
+[C]I've [Em]got too many [F]questions in my [G]mind
+[C]I've [Em]got too many [F]answers to [G]find
+[C]Can [Em]I give up [F]all I've [G]imagined
+[C]Am [Em]I [F]imagical enough for this [G]to happen
+
+{start_of_chorus}
+  Because [C]I like you, {echo: I like you}
+  [Em]I like you, {echo: I like [F]you} [G]
+  And [C]like can lead to [G]like like
+  And [C]like like can lead to [E7]love
+  As sure [C]as the stars above
+  [Em]I'd really like to [F]kiss you, {echo: fuck you}, oh [G]
+{end_of_chorus}
+
+Can I be the man you're looking for
+Can I really throw you out of my door
+I'll try real hard not to lose her
+I'll try to be less of a loser
+
+{start_of_chorus}
+  Because I like you, {echo: I like you}
+  I like you, {echo: I like you}
+  And like can lead to like like
+  And like like can lead to love
+  As sure as the stars above
+  [Em]I'd really like to [F]kiss you
+  Kiss you, [G]kiss you, kiss you, [C]fuck you
+{end_of_chorus}

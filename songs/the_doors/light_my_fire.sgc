@@ -1,0 +1,35 @@
+{title: Light my fire}
+{artist: The Doors}
+{album: The doors}
+{cover: the-doors}
+{language: english}
+{columns: 2}
+{define: Am7 frets X 0 2 0 1 0}
+{define: F#m7 frets 2 0 2 2 2 0 special}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: E frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+You [Am7]know that it would be [F#m7]untrue
+You [Am7]know that it would be a [F#m7]liar
+[Am7]If I was to say to [F#m7]you
+[Am7]Girl we couldn't get much [F#m7]higher
+
+{start_of_chorus}
+  [G]Come on baby [A]light my [D]fire
+  [G]Come on baby [A]light my [D]fire
+  [G]Try to set the [D]night on [E]fire
+{end_of_chorus}
+
+The time to hesitate is through
+No time to wallow in the mire
+Try now we can only loose
+And our love become a funeral pyre
+
+{start_of_chorus}
+  Come on baby light my fire {repeat: 2}
+  Try to set the night on fire {repeat: 3}
+  [F]Try to set [C]the night on [D]fire
+{end_of_chorus}

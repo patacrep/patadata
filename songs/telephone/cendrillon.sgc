@@ -1,0 +1,60 @@
+{title: Cendrillon}
+{artist: Téléphone}
+{album: Best of}
+{cover: best-of-telephone}
+{language: french}
+{columns: 2}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+
+[A]Cendrillon, pour [E]ses vingt ans
+Est [F#m]la plus jolie [D]des enfants
+[A]Son bel amant, le [E]prince charmant
+[F#m]La prend sur son [D]cheval blanc
+{newline}
+[E]Elle oublie le [A]temps
+Dans [E]ce palais d'ar[F#m]gent
+Pour [Bm]ne pas voir qu'un nouveau jour se lève
+Elle [D]ferme les yeux, et dans ses rêves
+
+{start_of_chorus}
+  Elle [A]part [E F#m]
+  [D]Jolie petite histoire [A E F#m D]
+  {repeat: 2}
+{end_of_chorus}
+
+Cendrillon, pour ses trente ans
+Est la plus triste des mamans
+Le prince charmant a foutu l'camp
+Avec la Belle au bois dormant
+Elle a vu cent chevaux blancs
+Loin d'elle emmener ses enfants
+{newline}
+Elle commence à boire
+À traîner dans les bars
+Emmitouflée dans son cafard
+Maintenant elle fait le trottoir
+
+Dix ans de cette vie ont suffit
+À la changer en junkie
+Et dans un sommeil infini
+Cendrillon voit finir sa vie
+{newline}
+Les lumières dansent
+Dans l'ambulance
+Mais elle tue sa dernière chance
+Tout ça n'a plus d'importance
+
+{start_of_chorus}
+  Elle part
+  Fin de l'histoire
+  {repeat: 2}
+{end_of_chorus}
+
+Notre père, qui es aux cieux
+As-tu vraiment fait de ton mieux ?
+Car sur la Terre, et dans les cieux
+[F#m]Tes anges n'aiment pas [D]devenir [A]vieux

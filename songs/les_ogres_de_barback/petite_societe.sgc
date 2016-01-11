@@ -1,0 +1,88 @@
+{title: Petite société}
+{artist: Les Ogres de Barback}
+{album: La fanfare du Belgistan}
+{url: http://www.lesogres.com}
+{cover: la-fanfare-du-belgistan}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+
+[Dm]Il y a des fan[F]tômes dans ma ville
+[C]Que dérangent les [Dm]cris d'enfants
+[Dm]Qui trouvent le temps [F]inutile
+Si on le [C]passe en s'amu[Dm]sant
+{newline}
+Ils ont [C]vue sur mon jar[Dm]din
+Et ils [C]ont l'écho du [Dm]son
+[Dm]Des barbecues, [F]des copains
+Si l'on [C]sort l'accor[Dm]déon
+
+{start_of_chorus}
+  [Bb]Oh ! Fantôme [A]des villes nou[Dm]velles
+  Et de [Bb]tes quar[A]tiers sans [Dm]âme
+  [Bb]De tes centres [A]commerciaux sans [Dm]ciel
+  De tes [Bb]faux pla[A]fonds in[Dm]fâmes
+  [Dm] [C] [Bb] [C] {repeat: 2}
+{end_of_chorus}
+
+Je m'enfuis pour une vie nouvelle
+Où les marmots ne seront plus
+Le prétexte d'une ribambelle
+D'idées loufoques et corrompues
+{newline}
+Et si tu pries gentiment
+Tu nous juges et c'est méchant
+Toi qui nous avais appris pourtant
+À ne pas perdre de temps !
+
+{start_of_chorus}
+  Oh ! Fantôme des idées «gratte-ciel»
+  Oh ! Doux rêveur dépassé
+  Tu voyais la grande citadelle
+  Le paradis dans les cités
+{end_of_chorus}
+
+Pierre, oh, pierre, je ne jette pas la pierre
+Je constate le gâchis
+De petites maisons pas centenaires
+Recouvertes de crépis
+{newline}
+On fait du neuf avec du neuf
+Ni une ni deux, le neuf est vieux
+De ta loi qui marchande et qui bluffe
+Nos âmes d'imbéciles heureux
+
+{start_of_chorus}
+  Fantôme des quartiers résidentiels
+  Que n'as-tu pas profité
+  Tu vis la vie de moins en moins belle
+  Quand tout te pendait au nez !
+{end_of_chorus}
+
+Pardonne-moi, ne prends pas tout cela
+Comme une attaque trop sévère
+Tu es un fantôme au cœur qui bat
+Bien plus vivant que tes frères
+{newline}
+Eux, qui ont tout dévoré
+Tes premières idées, tes dernières
+Sans jamais avoir su estimer
+Tout ce qui leur était offert
+
+{start_of_chorus}
+  Oh ! Fantôme des bourgs artificiels
+  Ils ne t'ont jamais dit merci
+  Ils t'ont laissé te brûler les ailes
+  Ils s'en mordront les doigts aussi !
+{end_of_chorus}
+
+{start_of_chorus}
+  Oh ! Fantôme des villes nouvelles
+  On se recroisera sûrement
+  Dans ma vie bientôt devenue belle
+  Près de mon village des vents !
+{end_of_chorus}

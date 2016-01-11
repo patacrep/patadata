@@ -1,0 +1,90 @@
+{title: Rue de Nantes}
+{artist: Oldelaf et Monsieur D.}
+{album: L'album de la maturité}
+{cover: l-album-de-la-maturite}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: E7 base-fret 5 frets X 2 1 2 0 X}
+{define: A7 base-fret 5 frets 0 2 0 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: A base-fret 5 frets 0 2 2 1 0 0}
+
+[Dm]Je m'baladais dans la rue de [E7]Nantes
+[A7]Quand quelque chose me tomba de[Dm]ssus[A7]
+[Dm]Je mis mon doigt c'était de la [E7]fiente
+[A7]Ah merde, les pigeons m'ont [Dm]déçu[A7]
+[F]Me nettoyant je fis [C]un grand [F]geste
+[Dm]Pour enlever ce fard incon[A7]gru[A]
+[Dm]Une vieille reçut ma main un peu [E7]leste
+[A7]Et tomba au milieu de la [Dm]rue[A7]
+
+{start_of_chorus}
+  Un pi[Dm]geon m'a fait d'[A7]ssus
+  Y'a une [A]vieille dans la [Dm]rue
+{end_of_chorus}
+
+Ça s'est passé dans la rue de Nantes
+La vieille était allongée par terre
+Un jeune cycliste de vingt ans ou trente
+Tentant d'éviter la grand-mère
+Fit un écart vers un trente-huit tonnes
+Qui l'écrasa sans faire de manières
+Puis dérapa en fauchant trois nonnes
+Et défonça un grand mur en pierre
+
+{start_of_chorus}
+  Un pigeon m'a fait d'ssus
+  Y'a une vieille dans la rue
+  Un cycliste écrasé
+  Un camion éclaté
+{end_of_chorus}
+
+Y'avait des cris dans la rue de Nantes
+Les gens couraient vers le camion fou
+Qui dans le zoo avait fait une fente
+D'où s'échappaient quelques kangourous
+Les marsupiaux tentèrent une ruse
+En bondissant vers n'importe où
+Le hasard les mena à l'écluse
+Mais en sautant ils bloquèrent les écrous
+
+{start_of_chorus}
+  ...
+  Des kangourous en fuite
+  Une écluse toute remplite
+{end_of_chorus}
+
+Sacré bazar dans la rue de Nantes
+L'eau du canal envahit les quais
+Elle inonda l'usine attenante
+Qui des éponges fabriquait
+Là tout imbibées, elles gonflèrent
+Les murs autour finirent par céder
+Et pas de chance car passait derrière
+Tout le Bagad de Lann Bihoué
+
+{start_of_chorus}
+  ...
+  Des éponges qui explosent
+  Le Bagad est morose
+{end_of_chorus}
+
+Apocalypse dans la rue de Nantes
+Cent vingt bignous se mettent à sonner
+Le bruit était proche de l'épouvante
+Jusque dans l'espace on l'entendait
+Désorientée la fusée Ariane
+Vint se crasher devant un ramier
+Qui s'envola et que Dieu le damne
+Revint sur moi se soulager
+
+{start_of_chorus}
+  ...
+  Une fusée qui se croûte
+  Les pigeons me dégoûtent
+  J'en ai marre des pigeons
+  Je déteste les pigeons !
+  Oui je hais les pigeons ! {repeat: 2}
+{end_of_chorus}

@@ -1,0 +1,70 @@
+{title: Ce n'est rien}
+{artist: Julien Clerc}
+{album: Ce n'est rien}
+{cover: ce-n-est-rien}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: B7 frets X 2 1 2 0 2}
+
+[Em]Ce n'est [C]rien [Am]
+Tu le [C]sais bien le temps [B7]passe
+Ce n'est [Em]rien
+{newline}
+Tu sais [C]bien [Am]
+Elle s'en [C]vont comme les [B7]bateaux
+Et sou[Em]dain
+{newline}
+Ça re[C]vient [Am]
+Pour un [D7]bateau qui s'en [G]va
+Et re[Am]vient
+{newline}
+Il y a [B7]mille coquilles de [Em]noix
+Sur ton che[C]min [Am]
+Qui cou[B7]lent et c'est très [Em]bien
+
+{start_of_chorus}
+  Et c'est comme [D7]une tourterelle
+  Qui s'é[G]loigne à tire-d'aile
+  En em[Am]portant le du[B7]vet
+  Qu'était ton [Em]lit, un beau matin
+{end_of_chorus}
+
+{start_of_chorus}
+  Et c'est comme une fleur nouvelle
+  Et qui s'en va vers la grêle
+  Comme un petit radeau frêle
+  Sur l'océan
+{end_of_chorus}
+
+Ce n'est rien
+Tu le sais bien le temps passe
+Ce n'est rien
+{newline}
+Tu sais bien
+Elle s'en vont comme les bateaux
+Et soudain
+{newline}
+Ça prévient
+Comme un bateau qui revient
+Et soudain
+{newline}
+Il y a mille sirènes de joies
+Sur ton chemin
+Qui résonnent et c'est très bien
+
+{start_of_chorus}
+  Et c'est comme une tourterelle
+  Qui revient à tire-d'aile
+  En rapportant le duvet
+  Qu'était ton lit, un beau matin
+{end_of_chorus}
+
+{start_of_chorus}
+  Et c'est comme une fleur nouvelle
+  Et qui s'en va vers la grêle
+  Comme un petit radeau frêle
+  Sur l'océan
+{end_of_chorus}

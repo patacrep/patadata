@@ -1,0 +1,40 @@
+{title: La hache Durandil}
+{artist: Le Donjon de Naheulbeuk}
+{album: T'as pas le niveau}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: t-as-pas-le-niveau}
+{language: french}
+{columns: 1}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+
+[Bb] J'ai trouvé une super hache [Gm]Durandil
+[Cm] En farfouillant dans un p'tit [F]magasin
+[Bb] J'ai marchandé au gars, c'é[Gm]tait facile
+[Cm] C'était moins [F]cher et ça c'est [Bb]bien
+
+[Bb] J'vais pouvoir la planter dans [Gm]tout c'qui bouge {echo: ou dans mon dos}
+[Cm] J'vais massacrer les orcs et [F] les gobelins {echo: et tes amis}
+[Bb] Et leur sang va couler tout [Gm]rouge {echo: c'est la misère}
+[Cm] La hache de [F]jet, c'est vachement [Bb]bien {echo: c'n'est pas mon avis mais tant pis}
+
+{start_of_chorus}
+  [Eb]Ouais, ma hache [F]Duran[Eb]dil {echo: c'est foutu}
+  [Bb] Ma hache de jet qu'était pas chère {echo: c'est d'la merde et voilà}
+  [Eb]Ouais, ma hache [F]Duran[Eb]dil
+  [Bb] Elle est super {echo: c'est tout perrave}
+  Et [F]elle est pas [Bb]chère
+{end_of_chorus}
+
+[Bb] J'ai vu des elfes avec des [Gm]arcs pourris {echo: ça c'est bien dit}
+[Cm] J'ai vu des types avec des [F]vieilles épées {echo: c'était pas moi}
+[Bb] Des ogres avec des vieux gour[Gm]dins moisis {echo: ou du jambon}
+[Cm] Mais ça vaut [F]pas ma hache de [Bb]jet {echo: c'est toi qui l'dit mais t'es tout p'tit}
+
+[Bb] C'est pas la peine de dépen[Gm]ser tes pièces {echo: je fais c'que j'veux}
+[Cm] Dans des épées rouillées qui [F]servent à rien {echo: c'est même pas vrai}
+[Bb] Au lieu d'ça tu devrais t'bou[Gm]ger les fesses {echo: va donc crever}
+[Cm] Et acheter [F]une vraie arme de [Bb]Nain {echo: c'n'est pas mon avis mais tant pis}

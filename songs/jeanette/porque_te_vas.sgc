@@ -1,0 +1,43 @@
+{title: Porque te vas}
+{artist: Jeanette}
+{album: Jeanette}
+{cover: jeanette}
+{language: spanish}
+{columns: 2}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: D7 base-fret 3 frets X 2 1 2 0 X}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+
+[Gm]Hoy en mi ventana brilla el [Cm]sol
+Y el cora[Gm]zón
+Se pone [Cm]triste contemplando la ciu[Gm]dad [D7]
+Porque te [Gm]vas
+{newline}
+Como cada noche desperté
+Pensando en ti
+Y en mi reloj todas las horas vi pasar
+Porque te vas
+
+{start_of_chorus}
+  [Eb]Todas las promesas de mi amor
+  Se irán con[Gm]tigo
+  Me olvida[Bb]ras, [Dm] me olvida[Gm]ras
+  [Eb]Junto a la estación lloraré
+  Igual que un [Gm]niño
+  Porque te [Bb]vas, [D] porque te [Gm]vas
+  [D] Porque te [Gm]vas, [D] porque te [Gm]vas
+{end_of_chorus}
+
+Bajo la penumbra de un farol
+Se dormirán
+Todas las cosas que quedaron por decir
+Se dormirán
+{newline}
+Junto a las manillas de un reloj
+Esperaran
+Todas las horas que quedaron por vivir
+Esperaran

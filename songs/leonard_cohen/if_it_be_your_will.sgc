@@ -1,0 +1,70 @@
+{title: If it be your will}
+{artist: Leonard Cohen}
+{album: The collection}
+{cover: the-collection}
+{language: english}
+{columns: 2}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: Fm base-fret 8 frets X 0 2 2 1 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+
+[Eb]If it be your [Fm]will
+[C#]That I speak no [Cm]more
+[Eb]And my voice be [Fm]still
+[Ab]As it was be[Eb]fore
+
+{start_of_chorus}
+  [Cm]I will speak no [Bb]more
+  I [Cm]shall abide un[Bb]til
+  [Ab]I am spoken [Eb]for
+  If it [Bb]be your will
+{end_of_chorus}
+
+If it be your will
+That a voice be true
+From this broken hill
+I will sing to you
+
+{start_of_chorus}
+  From this broken hill
+  All your praises they shall ring
+  If it be your will
+  To let me sing
+{end_of_chorus}
+
+[Eb Fm C# Cm]
+[Eb Fm Ab Eb]
+
+{start_of_chorus}
+  From this broken hill
+  All your praises they shall ring
+  If it be your will
+  To let me sing
+{end_of_chorus}
+
+If it be your will
+If there is a choice
+Let the rivers fill
+Let the hills rejoice
+
+{start_of_chorus}
+  Let your mercy spill
+  On all these burning hearts in hell
+  If it be your will
+  To make us well
+{end_of_chorus}
+
+And draw us near
+And bind us tight
+All your children here
+In their rags of light
+
+{start_of_chorus}
+  In our rags of light
+  All dressed to kill
+  And end this night
+  If it be your will {repeat: 2}
+{end_of_chorus}

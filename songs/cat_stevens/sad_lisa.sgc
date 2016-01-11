@@ -1,0 +1,38 @@
+{title: Sad Lisa}
+{artist: Cat Stevens}
+{album: Tea for the tillerman}
+{cover: tea-for-the-tillerman}
+{language: english}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+
+She [Em]hangs her head and [D]cries in my [C]shirt
+[D] She must be [Em]hurt very [D]bad[G]ly
+Tell me what's [D]making you [Em]sad[A]ly?
+[Em]Open your [A]door, don't [D]hide in the [C]dark
+You're [D]lost in the [Em]dark, you can [D]trust [G]me
+'cause you know that's [D]how it must [Em A]be
+
+{start_of_chorus}
+  [Em]Lisa, Li[A]sa, sad [B]Lisa, Li[Em]sa
+{end_of_chorus}
+
+Her eyes like windows tricklin' rain
+Upon her pain getting deeper
+Though my love wants to relieve her
+She walks alone from wall to wall
+Lost in a hall, she can't hear me
+Though I know she likes to be near me
+
+{partition: Sad_Lisa.ly}
+
+She sits in a corner by the door
+There must be more I can tell her
+If she really wants me to help her
+I'll do what I can to show her the way
+And maybe one day I will free her
+Though I know no one can see her

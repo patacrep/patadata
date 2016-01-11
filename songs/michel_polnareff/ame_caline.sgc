@@ -1,0 +1,53 @@
+{title: Âme câline}
+{artist: Michel Polnareff}
+{album: Passé Présent}
+{cover: passe-present}
+{language: french}
+{columns: 1}
+{define: E frets 0 2 2 1 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: G#m base-fret 4 frets 0 0 2 2 0 0}
+{define: B base-fret 2 frets 0 0 3 3 3 0}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets 0 0 2 2 2 0}
+{define: C+5 frets X 3 2 1 1 0}
+
+{guitar_comment: Intro :  [E F#m G#m B E G A B]}
+
+[E]Âme câline cherche cœur libre [F#m]tous les jours
+Toutes les [G#m]nuits[F#m]
+[B]Pour [E]la vie[G][A] [B]
+[E]Âme câline offre nid tout près du [F#m]soleil
+Près des étoi[G#m]les[F#m]
+[B]Pour [E]logis[Caug5]
+
+{start_of_chorus}
+  [C#m]Pour la [C]vie
+  [G]Ou peut-être [B]plus
+  [C#m]Pour la [C]vie
+  [G]Ou peut-être [B]moins
+{end_of_chorus}
+
+^Âme impatiente aimerait trouver âme ^sœur
+Pour compagn^ie^
+^Pour ^amie^^
+
+{guitar_comment: Bridge :  [E F#m G#m F#m B E Caug5]}
+
+{start_of_chorus}
+  [C#m]Pour la [C]vie
+  [G]Ou peut-être [B]plus
+  [C#m]Pour la [C]vie
+  [G]Ou peut-être [B]moins
+{end_of_chorus}
+
+^Âme câline cherche cœur libre^tous les jours
+Toutes les^nuits^
+^Pour ^la vie^^^
+^Âme câline offre nid tout près du ^soleil
+Près des étoi^les^
+^Pour ^logis^
+[B]Toutes les [E]nuits[A]
+[B]Pour [E]la vie[A]
+[B]Toutes les [E]nuits[A]
+[B]Pour [E]la vie[A] ...

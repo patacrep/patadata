@@ -1,0 +1,64 @@
+{title: Goodbye Maryloo}
+{artist: Michel Polnareff}
+{album: Passé Présent}
+{cover: passe-present}
+{language: french}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: F4 base-fret 1 frets 0 2 2 2 0 0}
+{define: C frets 3 3 2 0 1 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: D4 frets X 0 0 2 3 3}
+{define: D frets X X 0 2 3 2}
+{define: D7 frets X X 0 2 1 2}
+{define: C4 frets X 3 2 0 1 1}
+
+[F]Quand l'écran s'all[F4]ume je tape sur [C]mon clavier[F]
+Tous les [C]mots sans voix qu'on s'dit avec les doi[Gm]gts
+Et j'en[Bb]voie dans [C]la nuit
+Un me[Cm]ssage pour celle qui [D7]
+Me répon[Gm]dra OK [C]pour un rendez-[F]vous
+
+Message électrique quand elle m'électronique
+Je reçois sur mon écran tout son roman
+On s'approch' en multi
+Et je l'attire en duo
+Après OK elle me code Marylou
+
+{start_of_chorus}
+  [F]Good[D4]bye[D] Ma[Gm]rylou
+  [C4]Good[C]bye Ma[F]rylou
+  Good[D4]bye[D] Ma[Gm]rylou
+  [C4]Good[C]bye [F]
+{end_of_chorus}
+
+Quand j'ai caressé son nom sur mon écran
+Je me tape Marylou sur mon clavier
+[Gm]Quand elle se déshabille
+Je lui [Cm]mets avec les [F]doigts
+[Bb]Message reçu [C]OK code Mary[F]lou
+
+{start_of_bridge}
+[F F Bb C]
+{end_of_bridge}
+
+Quand la nuit se lève et couche avec le jour
+La lumière vient du clavier de Marylou
+Je m'envoie son pseudo
+Mais c'est elle qui me reçoit
+Jusqu'au petit jour on se dit tout de nous
+
+{start_of_chorus}
+  Goodbye Marylou, Goodbye Marylou
+  Goodbye Marylou, Goodbye Marylou
+  Goodbye Marylou, Goodbye
+  Goodbye Marylou, Goodbye...
+{end_of_chorus}
+
+Quand l'écran s'allume je tap' sur mon clavier
+Tous les mots sans voix qu'on s'dit avec les doigts
+Et j'envoie dans la nuit
+Un message pour celle qui
+A répondu OK pour un rendez-vous

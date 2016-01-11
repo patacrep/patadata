@@ -1,0 +1,51 @@
+{title: Not scared to die}
+{artist: Sheepbox}
+{album: Sheepbox}
+{cover: sheepbox}
+{language: english}
+{columns: 2}
+{capo: 3}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: Em base-fret 7 frets X 0 2 2 1 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: A frets X 0 2 2 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: C frets X 3 2 0 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+
+{guitar_comment: Intro: [C#m Em Bm A] {repeat: 2}}
+{newline}
+[C#m]I let you drive[Em]... [Bm]Just for a while[A]
+[C#m]You can decide[Em]... [Bm]Where goes our ride[A]
+[C#m]I don't want my life[Em]... [Bm]To be a straight line[A]
+[C#m]But a messy flight[Em]... [Bm]Across the sky[A]
+
+{start_of_chorus}
+  [E]Not scared of dying[A]... [E]Not scared to die[A]! {repeat: 2}
+{end_of_chorus}
+
+No TV screen... No new engine
+No big property... No more family
+I don't need to meet... The common needs
+Someone like me... Just want to be free
+
+{guitar_comment: Chorus}
+
+{start_of_chorus}
+  [E]Dying [G]is not [D]happy[A]!
+  [E]Dying [G]is not [D]healthy[A]!
+  [E]Dying [G]is not [D]funny[A]!
+  [E]Dying [G]is not [D]scary[A]!
+{end_of_chorus}
+
+[C]If you're [D]enjoying the [A]ride
+[C]And every [D]time of your [A]life
+[C]Don't fear the [D]day of your [A]death
+[C]Cauz' that day [D]may be [E7]today
+{newline}
+I dip my eyes... Into the sky
+I free my mind... And return wild
+Spending some time... Before the next ride
+Enjoying my life... Before I die!

@@ -1,0 +1,38 @@
+{title: The only living boy in New York}
+{artist: Simon & Garfunkel}
+{album: Bridge over troubled water}
+{cover: bridge-over-troubled-water}
+{language: english}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: G7 frets 3 2 0 0 0 1}
+
+[C]Tom, get your plane right on [F]time
+[C]I know your part'll go [F]fine
+[C]Fly down to Mexi[F C Dm F]co
+
+{start_of_chorus}
+  [G]Do-n-da-da-n-da-da-n-da-da and [F]here I am
+  The [C]only living boy in [F]New York
+{end_of_chorus}
+
+I get the news I need from the weather report
+I can gather all the news I need from the weather report
+Hey, I've got nothing to do today but smile
+
+[Am] [Dm]Half of the time we're gone
+[G7]But we don't know [C]where
+And we don't know [F]where
+
+Tom, get your plane right on time
+I know that you've been eager to fly now
+Hey, let your honesty shine, shine, shine now
+
+{start_of_chorus}
+  Do-n-da-da-n-da-da-n-do like it shines on me
+  The only living boy in New York {repeat: 2}
+{end_of_chorus}

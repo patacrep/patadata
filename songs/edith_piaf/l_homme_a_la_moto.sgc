@@ -1,0 +1,43 @@
+{title: L'homme à la moto}
+{artist: Édith Piaf}
+{album: L'homme à la moto}
+{cover: l-homme-a-la-moto}
+{language: french}
+{columns: 2}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+
+{start_of_chorus}
+  Il por[Cm]tait des culottes, des [G]bottes de moto
+  Un [G]blouson de cuir noir avec un [Cm]aigle sur le dos
+  Sa [Cm]moto qui partait comme un [G]boulet de canon
+  [G]Semait la terreur dans [Cm]toute la région
+{end_of_chorus}
+
+Jamais [Cm]il ne se coiffait, jamais [G]il ne se lavait
+Les ongles [G]pleins de cambouis mais sur les [Cm]biceps il avait
+Un ta[Cm]touage avec un cœur bleu sur [Fm]la peau blême
+Et [G]juste à l'intérieur, on li[Cm]sait : «Maman, je t'aime»
+{newline}
+Il avait une petite amie du nom de Marie-Lou
+On la prenait en pitié, une enfant de son âge
+Car tout le monde savait bien qu'il aimait entre tout
+Sa chienne de moto bien davantage
+
+Marie-Lou, la pauvre fille, l'implora, le supplia
+Dit : «Ne pars pas ce soir, je vais pleurer si tu t'en vas»
+Mais les mots furent perdus, ses larmes pareillement
+Dans le bruit de la machine et du tuyau d'échappement
+{newline}
+Il bondit comme un diable avec des flammes dans les yeux
+Au passage à niveau, ce fut comme un éclair de feu
+Contre une locomotive qui filait vers le Midi
+Et quand on débarrassa les débris
+
+{start_of_chorus}
+  On trouva sa culotte, ses bottes de moto
+  Son blouson de cuir noir avec un aigle sur le dos
+  Mais plus rien de la moto et plus rien de ce démon
+  Qui semait la terreur dans toute la région
+{end_of_chorus}

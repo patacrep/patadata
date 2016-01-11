@@ -1,0 +1,44 @@
+{title: Les projets}
+{artist: La Tête à Toto}
+{album: La Tête à Toto}
+{url: http://www.lateteatoto.org}
+{cover: la-tete-a-toto}
+{language: french}
+{columns: 1}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Em frets 0 2 2 0 0 0}
+
+{guitar_comment: Intro : [Am F G] {repeat: 2}}
+{newline}
+[Am]Tous les soirs, assis sur mon arrosoir de whisky
+Je con[E]somme ainsi mon éner[Am]gie [F G]
+{newline}
+Tous les soirs, je regarde ma maison, comme un con
+Je recherche Mamour et mes marmots
+
+{start_of_chorus}
+  [C]Et, on se fout les [Em]pieds, dans des pro[C]jets, qui n'ont ja[E]mais
+  Servi à [Am]rien d'autre que de dépen[G]ser, le temps de nos passe-[Am]temps [F G]
+  {repeat: 2}
+{end_of_chorus}
+
+Tous les jours, douze heures de taf. À y croire douze mille dollars
+Tous les mois, en cadence de la victoire
+{newline}
+À présent rien ne compte plus que l'argent de mes affaires
+Au foyer, je suis un père oublié
+
+Le dimanche, on enclenche la bonne morale de la conscience
+Cons vaincus, assis sur le banc d'une église
+{newline}
+On écoute le son des cloches qui nous parlent de grands discours
+Des discours, tout sauf de l'amour
+
+{start_of_chorus}
+  Le temps de nos passe-temps ! Le temps de nos passe-temps !
+  {repeat: 2}
+{end_of_chorus}

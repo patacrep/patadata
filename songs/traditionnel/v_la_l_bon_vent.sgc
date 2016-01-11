@@ -1,0 +1,52 @@
+{title: V'la l'bon vent}
+{artist: Traditionnel}
+{album: France}
+{cover: traditionnel}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets X 3 2 0 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+
+{partition: V_la_l_bon_vent.ly}
+
+{start_of_chorus}
+  [Am]V'la l'bon vent, v'la l'joli vent
+  V'la l'bon vent, ma [C]mie m'ap[E7]pelle
+  [Am]V'la l'bon vent, v'la l'joli vent
+  V'la l'bon vent, [C]ma mie [E7]m'at[Am]tend
+{end_of_chorus}
+
+[Am]Derrière chez [G]moi y'a un é[Am]tang {repeat: 2}
+Trois beaux ca[G]nards y vont na[E7]geant
+
+Trois beaux canards y vont nageant {repeat: 2}
+Le fils du roi s'en va chassant
+
+Le fils du roi s'en va chassant {repeat: 2}
+Avec son beau fusil d'argent
+
+Avec son beau fusil d'argent {repeat: 2}
+Visa le noir tua le blanc
+
+Visa le noir tua le blanc {repeat: 2}
+Oh, fils du roi tu es méchant
+
+Oh, fils du roi tu es méchant {repeat: 2}
+Tu as tué mon canard blanc
+
+Tu as tué mon canard blanc {repeat: 2}
+Par dessous l'aile, il perd du sang
+
+Par dessous l'aile, il perd du sang {repeat: 2}
+Et par le bec, l'or et l'argent
+
+Et par le bec, l'or et l'argent {repeat: 2}
+Et par les yeux des diamants
+
+Et par les yeux des diamants {repeat: 2}
+Que ferons-nous de tant d'argent ?
+
+Que ferons-nous de tant d'argent ? {repeat: 2}
+Tu as tué mon canard blanc

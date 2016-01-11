@@ -1,0 +1,63 @@
+{title: Pauvre planète}
+{artist: As de Trêfle}
+{album: Houlala}
+{url: http://www.as-de-trefle.com}
+{cover: houlala}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 0 2 3 2}
+{define: D frets 2 2 2 0}
+{define: F#m frets 2 1 2 0}
+{define: Bm base-fret 2 frets 2 0 0 0}
+
+[G]Nous qui ne sommes que des [D]locataires
+De[F#m]puis la nuit des [Bm]temps
+[G]Prenons bien garde dès [D]à présent
+De [F#m]ne pas nous croire propriétaires
+{newline}
+[G]Si nos enfants et nos pe[D]tits-enfants
+Pou[F#m]vaient garder les [Bm]yeux ouverts
+[G]Laissons-leur au moins un [D]océan
+Trois [F#m]arbres et deux rivières
+
+{start_of_chorus}
+  [F#m]Pauvre planète, pauvre planète
+  [G]Ça sent la fin des haricots
+  [F#m]Beaucoup trop de bourricots
+  A[G]vec du sable dans la tête
+  {repeat: 2}
+  {guitar_comment: Violon}
+  [G D F#m Bm] {repeat: 4}
+  {partition: Pauvre_planete.ly}
+{end_of_chorus}
+
+[G]Quand on aura déména[D]gé sous terre
+À [F#m]l'appel du Bon [Bm]Dieu
+[G]Nos enfants risquent de [D]payer cher
+[F#m]Pour l'état des lieux
+{newline}
+[G]J'espère au moins que [D]nos ancêtres
+Ont [F#m]nettoyé le [Bm]paradis
+[G]Si par malheur c'est [D]en enfer
+[F#m]Que je suis conduit
+
+[G]Quand il n'y aura plus que [D]le Kärcher
+Pour [F#m]nettoyer la merde qu'on a [Bm]dans les yeux
+[G]Prenons bien garde qu'à [D]ne rien faire
+Nous [F#m]finissions comme eux
+{newline}
+[G D F#m Bm] [G D F#m F#m]
+{newline}
+[G]Quand il n'y aura plus que [D]le Kärcher
+Pour [F#m]nettoyer la merde qu'on a [Bm]dans les yeux
+[G]Quand même les quatre [D]mousquetaires
+Ne [F#m]seront plus que deux
+{newline}
+[G]Prenons bien garde qu'à [D]ne rien faire
+Nous [F#m]finissions par deve[Bm]nir comme eux
+[G]Éteindrons-nous la [D]poudrière
+Y [F#m]mettrons-nous le feu ?

@@ -1,0 +1,62 @@
+{title: La déclaration}
+{artist: Debout sur le Zinc}
+{album: Les promesses}
+{url: http://www.dslz.org}
+{cover: les-promesses}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: B7 frets X 2 1 2 0 2 special}
+{define: Em* base-fret 7 frets X 0 2 2 1 0 special}
+{define: Am* base-fret 5 frets 0 2 2 0 0 0 special}
+{define: G* base-fret 3 frets 0 2 2 1 0 0 special}
+{define: B7* base-fret 2 frets X 0 2 0 2 0 special}
+
+{partition: La_declaration.ly}
+
+[Em]C'est un peu [Am]une déclara[G]tion
+Que je te [B7]fais, car il est [Em]temps
+Je [Am]crois [G B7]
+Quand certains rêvent de nation
+De football ou de vrais combats
+[Am G B7]
+{newline}
+[Em]Moi c'est vers [Am]toi que je [G]tends
+Les bras quand [B7]ça ne va pas
+[Em]Ma cervelle [Am]et mes senti[G]ments
+Je te les [B7]donne, ils sont pour [Em]toi
+{newline}
+Le reste, on [Am]en reparle[G]ra [B7] {repeat: 3}
+
+{start_of_chorus}
+  [Em*]Pour vivre avec [Am*]toi [G* B7*]
+  Tu es mon chez moi
+  Mon premier et mon second choix
+  Mon rêve d'absolu qui ne tarit pas
+{end_of_chorus}
+
+Je te dois mes premiers frissons
+Et mes premiers coups sur les doigts
+Mais pour un mot, une chanson
+J'aurais donné n'importe quoi
+{newline}
+Malgré tous mes démons
+Les menottes que j'ai aux bras
+Si je te quitte pour de bon
+Le lendemain, je cours vers toi
+{newline}
+Le reste, on en reparlera
+
+C'est un peu une déclaration
+Même si je sais que tu n'es pas
+Le remède, ni la solution
+Tu n'es qu'une atèle à mon bras
+{newline}
+Ce petit rien qui nous lie
+Aux autres quand ça ne va pas
+Un ultime langage de survie
+Qui remet le monde à l'endroit
+{newline}
+Le reste, on en reparlera {repeat: 2}

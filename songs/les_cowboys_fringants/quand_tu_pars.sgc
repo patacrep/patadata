@@ -1,0 +1,33 @@
+{title: Quand tu pars}
+{artist: Les Cowboys Fringants}
+{album: Sur un air de déjà vu}
+{cover: sur-un-air-de-deja-vu}
+{language: french}
+{columns: 2}
+{capo: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: D frets X X 0 2 3 2}
+{define: B7 frets X 2 1 2 0 2}
+{define: Em frets 0 2 2 0 0 0}
+
+[G]Mon toit [C]est en o[D]sier
+Ma mai[B7]son en papier mâ[Em]ché
+Elle s'e[C]ffondre chaque fois
+Sous l'é[G]cho de ma voix
+Moi qui [B7]seule s'ennuie de [Em]toi
+Quand tu [D]pars ...
+
+Mon cœur est fait de pierre
+Insensible et dur comme le fer
+Il s'érode tranquillement
+À chaque coup de vent
+Que fait la porte en claquant
+Quand tu pars ...
+
+Bonheur est feu de paille
+Éphémère incendie de broussaille
+Il s'envole en fumée
+Quand s'éteint le brasier
+Que tu cesses d'attiser
+Quand tu pars ... {repeat: 3}

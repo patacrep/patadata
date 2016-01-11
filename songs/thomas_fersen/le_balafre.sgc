@@ -1,0 +1,86 @@
+{title: Le balafré}
+{artist: Thomas Fersen}
+{album: Je suis au paradis}
+{cover: je-suis-au-paradis}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: A frets X 0 2 2 2 0}
+{define: Bm frets X 2 4 4 3 2}
+{define: G frets 3 2 0 0 0 3}
+{define: Em frets 0 2 2 0 0 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: D frets 2 2 2 0}
+{define: A frets 2 1 0 0}
+{define: Bm base-fret 2 frets 2 0 0 0}
+{define: G frets 0 2 3 2}
+{define: Em frets 0 4 3 2}
+{define: F#m frets 2 1 2 0}
+
+{guitar_comment: Intro :  [D A Bm G D A Bm G]}
+{newline}
+[D]Il lui man[Em]quait quatre pha[Bm]langes
+Ça lui don[G]nait pas l'air d'un [D]ange
+Avec son [Em]œil sous un ban[F#m]deau
+Et sa gueule [Bm]en lame de cou[G]teau
+{newline}
+[D]Sous son vê[Em]tement, doux Jé[Bm]sus
+Tout son corps [G]était recou[D]su
+Et quand il [Em]remontait ses [F#m]manches
+Les femmes de[Bm]venaient toutes [G]blanches
+
+{start_of_chorus}
+  Il me[D]nait une vie de ci[A]gale
+  Il [Bm]jouait de la scie musi[G]cale
+  Il [D]trouvait qu'en fermant les [A]yeux
+  [F#m]Son instrument sonnait [G]mieux
+  Le bala[D]fré [A] [Bm] [G]
+{end_of_chorus}
+
+[D]Sa mère cro[Em]yait de bonne [Bm]foi
+Qu'il s'en al[G]lait couper du [D]bois
+C'est pas qu'il [Em]fût je-m'en-fou[F#m]tiste
+Il avait [Bm]une âme d'ar[G]tiste
+
+{start_of_chorus}
+  Dans [D]un cabaret de Pi[A]galle
+  Il [Bm]jouait de la scie musi[G]cale
+  Il [D]trouvait qu'en fermant les [A]yeux
+  [F#m]Son instrument sonnait [G]mieux
+  Le bala[D]fré [A] [Bm] [G]
+{end_of_chorus}
+
+{start_of_bridge}
+[D]Il aimait la vie [Em]de théâtre
+[Bm]Il aimait le stuc [G]et le plâtre
+[D]Les filles habillées [Em]en lapin
+[Bm]Plutôt que l'odeur [G]du sapin
+{end_of_bridge}
+
+{start_of_chorus}
+  Et [D]à la pause syndi[A]cale
+  Leur [Bm]jouait de la scie musi[G]cale
+  Il [D]trouvait qu'en fermant les [A]yeux
+  [F#m]Son instrument sonnait [G]mieux
+  Le bala[D]fré [A] [Bm] [G]
+{end_of_chorus}
+
+[D]On retrou[Em]va au parc Mon[Bm]ceau
+Une bourgeoise [G]coupée en mor[D]ceaux
+[D]Le bala[Am]fré passait par [F#m]là
+Il avait [Bm]sa scie sous son [G]bras
+{newline}
+[D]Tout le monde cro[Em]yait de bonne [Bm]foi
+Qu'il s'en al[G]lait couper du [D]bois
+C'est pas qu'il [Em]fût je-m'en-fou[F#m]tiste
+Il avait [Bm]une âme d'ar[G]tiste
+
+{start_of_chorus}
+  Il me[D]nait une vie de ci[A]gale
+  Il [Bm]jouait de la scie musi[G]cale
+  Il [D]trouvait qu'en fermant les [A]yeux
+  [F#m]Son instrument sonnait [G]mieux
+  Le bala[D]fré [A] [Bm] [G]
+{end_of_chorus}
+
+{guitar_comment: Outro :  [D A Bm G D]}

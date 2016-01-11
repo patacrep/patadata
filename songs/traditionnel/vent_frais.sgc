@@ -1,0 +1,15 @@
+{title: Vent frais}
+{artist: Traditionnel}
+{album: France}
+{cover: traditionnel}
+{language: french}
+{columns: 2}
+{define: Dm frets X X 0 2 3 1}
+{define: Am frets X 0 2 2 1 0}
+
+[Dm]Vent [C]frais
+[Dm]Vent du ma[Am]tin
+[Dm]Vent qui [C]souffle
+Au [Dm]sommet des grands [Am]pins
+[Dm]Joie du [Am]vent qui [Dm]souffle
+A[C]llons dans le grand ...

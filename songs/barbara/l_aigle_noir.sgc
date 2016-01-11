@@ -1,0 +1,67 @@
+{title: L'aigle noir}
+{artist: Barbara}
+{album: L'aigle noir}
+{cover: l-aigle-noir}
+{language: french}
+{columns: 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: E& base-fret 6 frets X 0 2 2 2 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Am frets X 0 2 2 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+
+[F]Un beau jour ou peut-être [C]une nuit
+[Gm]Près d'un lac, je m'étais [D]endormie
+[Bb]Quand soudain, semblant cre[F]ver le ciel
+Et venant [Eb]de nulle part
+Surgit un [D]aigle noir
+
+{transposition: 2}
+
+[F]Lentement, les ailes [C]déployées
+[Gm]Lentement, je le vis [D]tournoyer
+[Bb]Près de moi, dans un brui[F]ssement d'ailes
+Comme tom[Eb]bé du ciel
+L'oiseau vint [D]se poser
+
+{transposition: 2}
+
+[F]Il avait les yeux cou[C]leur rubis
+[Gm]Et des plumes aux couleurs [D]de la nuit
+[Bb]À son front, brillant de [F]mille feux
+L'oiseau roi [Eb]couronné
+Portait un [D]diamant bleu
+
+{transposition: 2}
+
+[F]De son bec, il a tou[C]ché ma joue
+[Gm]Dans ma main, il a gli[D]ssé son cou
+[Bb]C'est alors que je l'ai [F]reconnu
+Surgissant [Eb]du passé
+Il m'était [D]revenu
+
+{transposition: -2}
+
+[F]Dis l'oiseau, oh dis, em[C]mène-moi
+[Gm]Retournons au pays [D]d'autrefois
+[Bb]Comme avant dans mes rê[F]ves d'enfant
+Pour cueillir [Eb]en tremblant
+Des étoiles, [D]des étoiles
+
+{transposition: 2}
+
+[F]Comme avant, dans mes rê[C]ves d'enfant
+[Gm]Comme avant, sur un nu[D]age blanc
+[Bb]Comme avant, allumer [F]le soleil
+Être fai[Eb]seur de pluie
+Et faire [D]des merveilles

@@ -1,0 +1,53 @@
+{title: Petite Marie}
+{artist: Francis Cabrel}
+{album: Les murs de poussière}
+{cover: les-murs-de-poussiere}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: D frets X X 0 2 3 2}
+
+Petite [Em]Marie, je parle [A7]de toi
+Parce qu'avec [Bm]ta petite voix
+Tes petites ma[Em]nies
+Tu as versé sur [F#]ma vie
+Des milliers de [Bm]roses
+{newline}
+Petite furie, je me bats pour toi
+Pour que dans dix mille ans de ça
+On se retrouve à l'abri
+Sous un ciel aussi joli
+Que des milliers de roses
+
+{start_of_chorus}
+  Je viens du [G]ciel
+  Et les étoiles entre [A]elles
+  Ne parlent que de [Bm]toi
+  D'un musi[G]cien
+  Qui fait jouer ses [A]mains
+  Sur un morceau de [F#m]bois
+  De leur a[G]mour
+  Plus bleu que [A]le ciel autour[Bm]
+{end_of_chorus}
+
+Petite Marie, je t'attends transi
+Sous une tuile de ton toit
+Le vent de la nuit froide
+Me renvoie la ballade
+Que j'avais écrite pour toi
+{newline}
+Petite furie, tu dis que la vie
+C'est une bague à chaque doigt
+Au soleil de Floride
+Mais mes poches sont vides
+Et mes yeux pleurent de froid
+
+Dans la [Bm]pénombre de ta [F#]rue
+Petite [D]Marie m'entends-[Em]tu ?
+Je n'a[G]ttends plus que [D]toi, pour [A]partir

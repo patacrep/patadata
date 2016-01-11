@@ -1,0 +1,58 @@
+{title: Je me suis fait tout petit}
+{artist: Georges Brassens}
+{album: Je me suis fais tout petit}
+{cover: je-me-suis-fais-tout-petit}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: F# base-fret 2 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+{define: C# base-fret 4 frets X 0 2 2 2 0}
+{define: A7 frets X 0 2 0 2 0}
+{define: D frets X X 0 2 3 2}
+
+[Bm]Je n'avais jamais ôté [Em]mon chapeau
+[F#]Devant per[Bm]sonne
+Maintenant je rampe et je [Em]fais le [F#]beau
+[G]Quand [F#]elle me [Bm]sonne
+J'étais chien méchant, elle m'a fait man[Em]ger
+Dans [F#]sa me[Bm]notte
+J'avais des dents d'loup, je les [Em]ai chan[F#]gées
+[G]Pour [F#]des que[Bm]nottes
+
+{start_of_chorus}
+  [Bm]Je m'suis fait tout p'tit devant [C#]une pou[F#]pée
+  Qui ferme les [Bm]yeux quand [A7]on la [D]couche[F#]
+  [Bm]Je m'suis fait tout p'tit devant [C#]une pou[F#]pée
+  Qui fait «ma[Bm]man» quand [D]on la [G]touche[F#]
+{end_of_chorus}
+
+{guitar_comment: [Bm Em F# Bm]}
+{newline}
+J'étais dur à cuire, elle m'a converti
+La fine mouche
+Et je suis tombé tout chaud, tout rôti
+Contre sa bouche
+Qui a des dents de lait quand elle sourit
+Quand elle chante
+Et des dents de loup, quand elle est furie
+Elle est méchante
+
+Je subis sa loi, je file tout doux
+Sous son empire
+Bien qu'elle soit jalouse au-delà de tout
+Et même pire
+Une jolie pervenche qui m'avait paru
+Plus jolie qu'elle
+Une jolie pervenche, un jour, en mourut
+À coups d'ombrelle
+
+Tous les somnambules, tous les mages m'ont
+Dit sans malice
+Qu'en ses bras en croix je subirai mon
+Dernier supplice
+Il en est des pires, il en est d'meilleurs
+Mais à tout prendre
+Qu'on se pende ici, qu'on se pende ailleurs
+S'il faut se pendre

@@ -1,0 +1,50 @@
+{title: Des idées}
+{artist: Karpatt}
+{album: Dans d'beaux draps}
+{url: http://www.karpatt.net}
+{cover: dans-d-beaux-draps}
+{language: french}
+{columns: 2}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+{define: E7 base-fret 5 frets X 2 1 2 0 X}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+
+Des idées [Am]en tranches dans [E7]un magasin
+Des idées [Am]qui flanchent, d'au[E7]tres qui vont bien
+Des idées [Am]offertes au [E7]premier venu
+Des idées [Am]vénales, des idées [E7]velues
+{newline}
+Des idées qui pleuvent sous un parapluie
+Des idées qui brillent quand vient la nuit
+Des idées qu'on plisse pour pas les froisser
+Des idées factices, des idées fâchées
+{newline}
+Des idées d'[Cm]génie qu'on n'[Ab]a pas sou[G]vent
+Des idées [Cm]lointaines qui vo[Ab]yagent [G]tout le temps
+Des idées [Cm]dociles tou[Ab]jours bienve[G]nues
+Des idées [Cm]qui plaisent, des idées [Ab]per[G]dues
+
+{start_of_chorus}
+  Des idées à {echo: dés à} coudre avec du fil de soie {echo: de quoi ?}
+  Des idées en {echo: des envers} des endroits qu'on garde à l'endroit
+  Des idées reçues {echo: des reçus} en paquet cadeau
+  Des idées soudaines {echo: daines, daines, daines}
+  Des coups d'épée dans l'eau
+{end_of_chorus}
+
+Des idées ratées, desiderata
+Des idées rapides qu'on n'arrête pas
+Des idées trop con et pas con du tout
+Des idées bidons, des idées d'bisous
+{newline}
+Des idées minimes qui vont crescendo
+Des id'erronées, d'autres en domino
+Des idées pour rire ou pour faire marrer
+Des idées d'emmerdes, des idées d'mariés
+{newline}
+Des idéogrammes pour faire un kilo
+Des idées légères qui pèsent leurs mots
+Des idées faciles, petits bouts d'ficelle
+Des idées futiles, des idées fidèles

@@ -1,0 +1,85 @@
+{title: Punaise}
+{artist: Thomas Fersen}
+{album: Trois petits tours}
+{cover: trois-petits-tours}
+{language: french}
+{columns: 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: A frets X 0 2 2 2 0}
+{define: D frets X X 0 2 3 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Bm base-fret 2 frets 2 0 0 0}
+{define: G frets 0 2 3 2}
+{define: A frets 2 1 0 0}
+{define: D frets 2 2 2 0}
+{define: Em frets 0 4 3 2}
+
+{guitar_comment: Intro : [Bm G Bm G] }
+{newline}
+Je suis par[Bm]ti gonflé à bloc
+J'ai crevé [G]au premier virage
+Le trou qui [Bm]a troué l'enveloppe
+A aussi [G]crevé un nuage
+Alors j'ai [Em]ramassé la flotte
+Alors j'ai [A]essuyé l'orage
+Pis j'ai mar[D]ché jusqu'au garage
+Et j'avais [Bm]les pieds en compote
+Mais j'ai ras[Em]semblé mon courage
+Punaise, j'é[A]tais gonflé à bloc
+Punaise, j'é[D]tais gonflé à bloc
+Punaise, j'é[Bm]tais gonflé à bloc
+[Em] [A]
+
+Avec une [Bm]nouvelle chambre à air
+Je suis par[G]ti gonflé à bloc
+Je suis par[Bm]ti en marche arrière
+Et bing, j'ai [G]enfoncé le pare-choc
+J'ai renver[Em]sé le lait par terre
+Et pis j'ai [A]écrasé le coq
+Alors j'ai [D]retiré ma toque
+Et j'ai ré[Bm]cité une prière
+Et pis j'ai [Em]rassemblé mes nerfs
+Punaise, j'é[A]tais gonflé à bloc
+Punaise, j'é[D]tais gonflé à bloc
+Punaise, j'é[Bm]tais gonflé à bloc
+{newline}
+[D] [G] [D]
+Punaise, j'é[G]tais gonflé à bloc
+[Em] [A]
+
+Je tirais [Bm]une gueule d'assassin
+Je suis par[G]ti gonflé à bloc
+Sans desse[Bm]rrer le frein à main
+Lequel é[G]tait serré à bloc
+Inutile [Em]de faire un dessin
+Cette fois la [A]bagnole était morte
+Et lorsque j'ai claqué la porte
+La clenche m'est [Bm]restée dans la main
+La porte est [Em]tombée sur le chemin
+Punaise, j'é[A]tais gonflé à bloc
+Punaise, j'é[D]tais gonflé à bloc
+Punaise, j'é[Bm]tais gonflé à bloc
+{newline}
+[D] [G] [D]
+Punaise j'é[G]tais gonflé à bloc
+[Em] [A] [D] [G]
+[D] [G] [Em] [A]
+[D] [G] [Em] [A]
+
+J'ai enten[Bm]du le chant du coq
+Punaise, ça [G]m'a ouvert les yeux
+Je me suis ré[Bm]veillé dans mon pieu
+Avec une [G]haleine de coyote
+Alors sans [Em]faire ni une ni deux
+Alors j'ai [A]sauté du paddock
+Alors j'ai sau[D]té dans mon froc
+Et pis j'ai [Bm]rassemblé mes ch'veux
+Et pis j'ai [Em]fait crisser les pneus
+Punaise, j'é[A]tais gonflé à bloc
+Punaise, j'é[D]tais gonflé à bloc
+Punaise, j'é[Bm]tais gonflé à bloc
+{newline}
+{guitar_comment: [D] [G] [D] [G]}
+{guitar_comment: [Em] [A] [D] [G]}
+{guitar_comment: [D] [G]}

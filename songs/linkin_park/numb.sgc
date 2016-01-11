@@ -1,0 +1,46 @@
+{title: Numb}
+{artist: Linkin Park}
+{album: Meteora}
+{cover: meteora}
+{language: english}
+{columns: 1}
+{capo: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: B base-fret 2 frets X 0 2 2 2 0}
+
+[Em]I'm tired of being what you [C]want me to be
+[G]Feeling so faithless lost [D]under the surface
+[Em]I don't know what you're expe[C]cting of me
+Put [G]under the pressure of [D]walking in your sh[C]oes [D]
+{echo: Caught in the undertone just caught in the undertone}
+Every s[Em]tep I take is a[G]nother mistake to [C]you [D]
+{echo: Caught in the undertone just caught in the undertone}
+
+{start_of_chorus}
+  [Em]I've become so nu[C]mb I can't feel you t[G]here
+  I've become so ti[D]red so much more [Em]aware
+  I've becoming [C]this all I want to [G]do
+  Is be more like [D]me and be less like [Em]you
+{end_of_chorus}
+
+Can't you see that you're smothering me
+Holding too tightly afraid to lose control
+Cause everything that you thought I would be
+Has fallen apart right in front of you
+{echo: Caught in the undertone just caught in the undertone}
+Every step that I take is another mistake to you
+{echo: Caught in the undertone just caught in the undertone}
+And every second I waste is more than I can take
+{newline}
+And I [D]know
+I may [Em]end [G]up [Em]fail[D]ing [C]too
+But I [D]know
+You were j[B]ust like me with someone disappointed in you
+{newline}
+I've become so numb I can't feel you there
+Is everything what you want me to be
+I've become so numb I can't feel you there
+Is everything what you want me to be

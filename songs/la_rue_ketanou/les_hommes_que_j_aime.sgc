@@ -1,0 +1,72 @@
+{title: Les hommes que j'aime}
+{artist: La Rue Kétanou}
+{album: Ouvert à double tour}
+{url: http://www.larueketanou.com}
+{cover: ouvert-a-double-tour}
+{language: french}
+{columns: 2}
+{define: Dm base-fret 5 frets X 0 2 2 1 0}
+{define: C base-fret 3 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: B& base-fret 6 frets 0 2 2 1 0 0}
+
+{partition: Les_hommes_que_j_aime.ly}
+
+{start_of_chorus}
+  Je vou[Dm]drais vous par[C]ler
+  [F]Des hommes que [Dm]j'aime
+  Ceux qui [Dm]m'ont embra[C]ssé
+  Au [Bb]bord de la [Dm]Seine
+{end_of_chorus}
+
+{start_of_chorus}
+  Où j'allais me jeter
+  Jeté par une reine
+  Que j'avais aimée
+  Plus que les hommes que j'aime
+{end_of_chorus}
+
+Ils ont des gueules cassées
+Il faut les voir au petit jour
+Se coucher tout étonnés
+Du monde qui les entoure
+{newline}
+Ils vont, ils viennent, ils traînent
+Ils parlent fort, ne parlent pas
+Ils entendent des Carmen
+Qui leur disent : «Eh ! Viens par là !»
+{newline}
+Et chaque fois ils y vont
+Et chaque fois ils en reviennent
+Entre un ange et un démon
+Ainsi j'aime les hommes que j'aime
+
+Ce sont des Don Juan
+Qui savent le chagrin d'amour
+Des amitiés de survivants
+Qui fêtent votre retour
+{newline}
+Et quand passe un drame
+Et que l'un de nous il touche
+On se donne des prénoms de femme
+Et on s'embrasse sur la bouche
+{newline}
+Aujourd'hui c'est mon tour
+J'ai vu le bord de la Seine
+Et j'ai crié : «Au secours !»
+Ainsi m'aiment les hommes que j'aime
+
+Et je lève mon cœur
+À la tendresse de ces voyous
+Qu'elle me porte bonheur
+Ce soir j'ai rendez-vous
+{newline}
+Et j'irai comme je suis
+Non je ne changerai rien
+À toutes mes folies
+À mon feu dans mes mains
+{newline}
+À mon amour sans pudeur
+À mon amour qui se déchaîne
+Et même si ça fait peur
+Ainsi aiment les hommes que j'aime

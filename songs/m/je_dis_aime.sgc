@@ -1,0 +1,43 @@
+{title: Je dis aime}
+{artist: -M-}
+{album: Je dis aime}
+{cover: je-dis-aime}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: G frets 3 2 0 0 0 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C7 frets X 3 2 3 1 0}
+{define: B7/F# frets 2 X 1 2 0 2}
+{define: D7 frets X 5 4 5 3 X}
+{define: B7 frets X 2 1 2 0 2}
+
+{guitar_comment: Intro : [Em G Am B7/F# Em G Am C7] {repeat: 2} }
+{newline}
+[Em]J'ai [G]les mé[Am]ninges no[B7/F#]mades
+[Em]J'ai [G]le mi[Am]roir mau[C7]ssade
+[Em]Tantôt mo[G]bile tan[Am]tôt tran[B7/F#]quille
+[Em]Je moissonne[G] sans [Am]bouscu[C7]lade
+
+{start_of_chorus}
+  Je dis [D7]aime
+  [C7]Et je le [G]sème
+  [B7]Sur ma pla[Em]nète [Em F B7/F#]
+  Je dis [D7]aime
+  [C7]Comme un em[G]blème
+  [B7]La haine je la [Em]jette [Em F B7/F#]
+  Je dis [D7]aime, [C7]aime, [B7]aime
+{end_of_chorus}
+
+{guitar_comment: [Em G Am B7/F# Em G Am C7]}
+{newline}
+[Em]Du [G]Sphinx dans [Am]mon [B7]Rimeur
+[Em]Paris [G] au [Am]fil du [C7]Coeur
+[Em]Du [G]nil dan-[Am]ans mes [B7]veines
+[Em]Dans mes ar[G]tères [Am]coule la [C7]Seine
+
+[Am7]Pour le dehors, [G]le dedans
+Pour l'après, pour [B7]l'avant
+Je dis [E]aime {repeat: 2}
+{newline}
+Aime aime ...

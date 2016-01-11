@@ -1,0 +1,117 @@
+{title: La malle}
+{artist: Thomas Fersen}
+{album: Trois petits tours}
+{cover: trois-petits-tours}
+{language: french}
+{columns: 3}
+{define: C#m base-fret 4 frets X 0 2 2 1 0}
+{define: F#m base-fret 2 frets 0 2 2 0 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: G# base-fret 4 frets 0 2 2 1 0 0}
+{define: C#m base-fret 1 frets 0 3 3 3}
+{define: F#m frets 2 1 2 0}
+{define: A frets 2 1 0 0}
+{define: G# base-fret 3 frets 2 0 1 0}
+
+{guitar_comment: Intro : [C#m]}
+{newline}
+Chaque ma[C#m]tin, ma valise
+A[C#m]vale sa nourriture
+Mes toi[F#m]lettes sont exquises
+Elles [F#m]sentent la friture
+Chaque ma[C#m]tin, mon linge sale
+I[C#m]nutile que je le sale
+En trois [F#m]secondes elle broute
+Pis [F#m]on peut reprendre la route
+[A] [G#] [C#m] [F#m]
+{newline}
+Elle a[C#m]vale sans problème
+L'a[C#m]rête de mon peigne
+C'est [F#m]vous dire s'il est fin
+Pis [F#m]elle boit mon parfum
+Mon cale[C#m]çon, ma chemise
+Inu[C#m]tile que je la cuise
+Mon ra[F#m]soir, mes haltères
+Tout [F#m]ça la désaltère
+[A] [G#] [C#m] [F#m]
+
+{start_of_chorus}
+  Tout ce que je [A]mets sont les mets
+  Dont [G#]elle aime le fumet
+  En trois [C#m]secondes, elle le lape
+  Sans [F#m]dérouler la nappe
+  Ma va[A]lise n'a pas de dents
+  Mais un [G#]appétit canin
+  Si je [C#m]n'étais pas prudent
+  Je crois qu'elle [F#m]me mordrait la main
+  En trois [A]coups de cuiller à pot
+  Y res[G#]terait plus que mon chapeau
+  [A] [G#] [A] [G#] [A] [B]
+{end_of_chorus}
+
+Ma va[C#m]lise adorant
+Mon [C#m]linge malodorant
+Je me [F#m]dis pour moi-même
+Enfin quel[F#m]qu'un qui m'aime
+Et je [C#m]pleure d'émotion
+Dans [C#m]un grand mouchoir blanc
+Et je [F#m]pleure d'émotion
+M'en [F#m]vais en reniflant
+[A] [G#] [C#m] [F#m]
+
+{start_of_chorus}
+  Tout ce que je [A]mets sont les mets
+  Dont [G#]elle aime le fumet
+  En trois [C#m]secondes, elle le happe
+  Sans [F#m]dérouler de nappe
+  Ma va[A]lise n'a pas de dents
+  Mais je [G#]reste sur mes gardes
+  Si je [C#m]n'étais pas prudent
+  Je crois qu'elle [F#m]me mordrait la barbe
+  En trois [A]coups de cuiller à pot
+  Y res[G#]terait plus qu'mon chapeau
+  [A] [G#] [A] [G#] [A] [B]
+{end_of_chorus}
+
+Par ha[C#m]sard, ma valise
+A [C#m]croisé sa jumelle
+Quelle ne [F#m]fut ma surprise
+En [F#m]l'ouvrant à l'hôtel
+D'y trou[C#m]ver des petites fleurs
+Des [C#m]mouchoirs en dentelle
+Un tu[F#m]tu, un cache-cœur
+Et [F#m]une petite ombrelle
+[A] [G#] [C#m] [F#m]
+{newline}
+Les bon[C#m]nets, les baleines
+D'u[C#m]ne petite gaine
+Et des [F#m]mules à pompon
+Qui [F#m]sentaient le bonbon
+Ces frou[C#m]frous d'une artiste
+Dan[C#m]seuse au music-hall
+À mon [F#m]âge, c'est bien triste
+Ça [F#m]m'a foutu la gaule
+[A] [G#] [C#m] [F#m]
+
+{start_of_chorus}
+  Après [A]quoi, sapristi
+  J'ai [G#]bu un coup de gnôle
+  Je [C#m]me suis travesti
+  J'ai [F#m]dansé dans la piaule
+  Affu[A]blé comme une poule
+  Pas [G#]de celles qui pondent
+  Mais qui [C#m]chantent pour la foule
+  Que Pa[F#m]ris est une blonde
+  Affu[A]blé d'une jupette
+  Et [G#]levant la gambette
+{end_of_chorus}
+
+{start_of_chorus}
+  Jus[A]qu'au petit matin
+  J'ai con[G#]tinué la fête
+  Jus[A]qu'au petit matin
+  J'ai con[G#]tinué la fête
+  Jus[A]qu'au petit matin
+  J'ai con[G#]tinué la fête
+  [A] [G#] ab lib.
+{end_of_chorus}

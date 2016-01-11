@@ -1,0 +1,30 @@
+{title: Sur le pont d'Avignon}
+{artist: Traditionnel}
+{album: France}
+{cover: traditionnel}
+{language: french}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+
+{start_of_chorus}
+  [G]Sur le pont [D]d'Avignon
+  [G]L'on y danse, [D]l'on y danse
+  [G]Sur le pont [D]d'Avignon
+  [G]L'on y danse [D]tous en [G]rond
+{end_of_chorus}
+
+[G]Les beaux Messieurs font [D]comme [G]ça
+[G]Et puis encore [D]comme [G]ça
+
+Les professeurs ...
+
+Les écoliers ...
+
+Les demoiselles ...
+
+Les belles dames ...
+
+{partition: Sur_le_pont_d_avignon.ly}
+
+{comment: La chanson continue en citant des noms de profession.}

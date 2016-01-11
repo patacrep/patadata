@@ -1,0 +1,82 @@
+{title: L'histoire d'une heure}
+{artist: Thomas Fersen}
+{album: Les ronds de carotte}
+{cover: les-ronds-de-carotte}
+{language: french}
+{columns: 2}
+{define: B7 base-fret 2 frets X 0 2 0 2 0}
+{define: E frets 0 2 2 1 0 0}
+{define: A frets X 0 2 2 2 0}
+{define: Edim base-fret 2 frets X X 0 1 3 1 special}
+{define: F#dim frets X X 4 2 1 2 special}
+{define: B7 base-fret 2 frets 0 1 0 0}
+{define: E base-fret 2 frets 2 2 2 0}
+{define: A frets 2 1 0 0}
+{define: Edim frets 0 1 0 1}
+{define: F#dim base-fret 2 frets 0 1 0 1}
+
+{guitar_comment: Intro :}
+[B7 E B7 E]
+[B7 E B7 E]
+[A E A E]
+[Edim E F#dim B7]
+{newline}
+[B7]C'est l'histoire d'une [E]heure
+[B7]Perdue Quai aux [E]Fleurs
+[B7]Une heure à rê[E]ver
+[B7]Aux objets trou[E]vés
+[A]Une heure à t'at[E]tendre
+[A]À regarder [E]vendre
+[Edim]Quelques fleurs cou[E]pées
+[F#dim]Quelques fleurs de [B7]mai
+
+[B7]C'est l'histoire d'une [E]heure
+[B7]Perdue sans hu[E]meur
+[B7]Une heure à rê[E]ver
+[B7]À ton arri[E]vée
+[A]Une heure dans la [E]rue
+À [A]faire le pied de [E]grue
+[E]À faire les cent [E]pas
+Et [F#dim]quelques entre[B7]chats
+
+[B7]Quel drôle de bal[E]let !
+[B7]Mon petit ma[E]nège
+In[B7]trigue les pou[E]lets
+[B7]Du Quai des Or[E]fèvres
+[A]Un coup de sif[E]flet
+[A]Une paire de bra[E]celets
+[Edim]Et sous les ver[E]rous
+[F#dim]Une histoire de [B7]fous
+
+«[B7]C'est l'histoire d'une [E]heure, messieurs
+[B7]À vous expli[E]quer
+[B7]C'est l'histoire d'une [E]heure
+[B7]Perdue sur le [E]quai»
+C'est [A]l'histoire d'une [E]nuit
+[A]Perdue dans un [E]puits
+[Edim]À faire des a[E]veux
+[F#dim]Les violettes aux [B7]yeux
+
+On [B7]cherche un assas[E]sin
+Et [B7]moi, le petit [E]saint
+[B7]Ma faute est su[E]blime
+J'ai [B7]perdu l'heure du [E]crime
+[A]Qui retrouve[E]ra
+[A]Une heure devant [E]soi ?
+[Edim]Une heure à at[E]tendre
+Vou[F#dim]dra bien me la [B7]rendre ?
+
+[B7]C'est l'histoire d'une [E]heure
+[B7]Perdue Quai aux [E]Fleurs
+[B7]Une heure à rê[E]ver
+[B7]Aux objets trou[E]vés
+[A]Et dans ma pri[E]son
+Je [A]chante ma chan[E]son
+[Edim]À mes heures per[E]dues
+Je [F#dim]ne les compte [B7]plus
+{newline}
+{guitar_comment: Outro :}
+[B7 E B7 E]
+[B7 E B7 E]
+[A E A E]
+[Edim E F#dim B7]

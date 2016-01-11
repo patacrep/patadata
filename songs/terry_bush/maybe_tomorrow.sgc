@@ -1,0 +1,56 @@
+{title: Maybe tomorrow}
+{artist: Terry Bush}
+{album: The littlest hobo}
+{cover: the-littlest-hobo}
+{language: english}
+{columns: 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Dm frets X X 0 2 3 1}
+{define: C frets X 3 2 0 1 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Am7 frets 0 0 2 0 1 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+
+{guitar_comment: Intro:  [F]}
+{newline}
+There's a [Dm]voice, that keeps on calling [C]me
+Down the [Dm]road, that's where I'll always [C]be
+Every [F]stop I make, I make a new [Dm]friend
+Can't stay for [Bb]long, just turn a[C]round and I'm gone a[F]gain
+Maybe tomo[Dm]rrow, I'll [Bb]want to settle [F]down [Am7] [Dm]
+Until tomo[Gm]rrow, I'll [Bb]just keep movin' [F]on
+
+Down this road, that never seems to end
+Where new adventure, lies just around the bend
+So if you wanna join me for a while
+Just grab your hat, come travel light, that's hobo style
+Maybe tomorrow, I'll want to settle down
+Until tomorrow, the whole world is my home
+
+{start_of_chorus}
+  So if you [F]wanna join me for a [Dm]while
+  Just grab your [Bb]hat, come travel [C]light, that's hobo [F]style
+  Maybe tomo[Dm]rrow, I'll [Bb]want to settle [F]down [Am7] [Dm]
+  Until tomo[Gm]rrow, I'll [Bb]just keep movin' [F]on
+{end_of_chorus}
+
+{guitar_comment:  [Dm C Dm C F Dm Bb C F]}
+
+{start_of_bridge}
+Maybe tomo[Dm]rrow, I'll [Bb]want to settle [F]down [Am7] [Dm]
+Until tomo[Gm]rrow, I'll [Bb]just keep movin' [F]on
+{end_of_bridge}
+
+There's a world, that's waiting to unfold
+A brand new tale, no one has ever told
+We've journey'd far, far, but now it won't be long
+We're almost there and we've paid our fare with the hobo song
+Maybe tomorrow, I'll want to settle down
+Until tomorrow, I'll just keep movin' on
+
+{start_of_chorus}
+  So if you wanna join me for a while
+  Just grab your hat, come travel light, that's hobo style
+  Maybe tomorrow, I'll find what I call home
+  Until tomorrow, you know I'm free to roam
+{end_of_chorus}

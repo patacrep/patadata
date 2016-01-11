@@ -29,8 +29,8 @@
   \end{verse}
 
   \begin{verse*}
-    \musicnote{\nolyrics{ | \[Am] | \[E] | \[E] | \[Am]
-    | \[Dm] | \[Dm] | \[E] | \[E] | } }
+    \musicnote{\nolyrics{ \[Am] \[E] \[E] \[Am]}}
+    \musicnote{\[Dm] \[Dm] \[E] \[E]}
   \end{verse*}
 
   \begin{repeatedchords}

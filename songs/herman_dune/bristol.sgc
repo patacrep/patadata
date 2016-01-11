@@ -1,0 +1,55 @@
+{title: Bristol}
+{artist: Herman Düne}
+{album: Giant}
+{url: http://www.hermandune.com}
+{cover: giant}
+{language: english}
+{columns: 2}
+{define: Em base-fret 7 frets X 0 2 2 1 0}
+{define: D base-fret 5 frets X 0 2 2 2 0}
+{define: Am base-fret 5 frets 0 2 2 0 0 0}
+
+On the [Em]bus back from Bristol
+We talked about death
+And we talked about a friend
+That I'd [D]spent some time with [Am]once or twice a [Em]year
+{newline}
+We got to your house
+All cold and out of breath
+Your child was asleep
+We sat down and you offered us a beer
+
+{start_of_chorus}
+  You said, ``[Em]Do you know what happened to[D]day?''
+  And I said, ``[Em]No''
+{end_of_chorus}
+
+He was family to millions
+All over the evening news
+But I tend to keep away
+From the press, the TV and the radio
+{newline}
+I like to keep my mind clean
+When I can I always choose
+To focus on what's here and
+Not know what the world wants me to know
+
+{start_of_chorus}
+  You said, ``Would you want some tea or another drink?''
+  And I said, ``No''
+{end_of_chorus}
+
+We'd had sun in Bristol and
+Fun with friends in London
+And an awesome time as usual
+On tops of hills ... in Leeds
+{newline}
+We listened to Fred Neil
+It sounded dark with the loudness on
+You whispered to me
+People whisper when a baby sleeps
+
+{start_of_chorus}
+  You said, ``Will you need an extra blanket?''
+  And I said, ``No''
+{end_of_chorus}

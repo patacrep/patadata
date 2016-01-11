@@ -1,0 +1,37 @@
+{title: Breaking up is hard to do}
+{artist: The Carpenters}
+{album: A kind of hush}
+{cover: a-kind-of-hush}
+{language: english}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: C frets X 3 2 0 1 0}
+{define: Am frets X 0 2 2 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: Em frets 0 2 2 0 0 0}
+{define: Dm frets X X 0 2 3 1}
+
+{start_of_chorus}
+  Come-a, [G]come on down, [C]doobie do down [Am]down[F] {repeat: 3}
+  [G]Breaking up is [C]hard [F]to [C]do
+{end_of_chorus}
+
+Don't take your [C]lo[Am]ve a[F]way from [G]me
+[C]Don't you [Am]leave my heart in [F]mise[G]ry
+[Em]If you go then [Am]I'll be blue
+'Cause [Dm]breaking up is hard to [G]do
+{newline}
+Remember when you hold me tight
+And then you kissed me all through the night
+Think of all that we've been through
+'Cause breaking up is hard to do
+
+I beg of you don't say good-bye
+Can't we give our love another try
+And maybe it'll start anew
+'Cause breaking up is hard to do
+{newline}
+I beg of you don't say good-bye
+Can't we give our love another try
+And maybe it'll start anew
+'Cause breaking up is hard to do

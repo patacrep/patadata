@@ -1,0 +1,46 @@
+{title: Pay me my money down}
+{artist: Bruce Springsteen}
+{album: We shall overcome}
+{cover: we-shall-overcome}
+{language: english}
+{columns: 2}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+Well, I [G]thought I heard the captain say
+``Pay me my [D]money down
+Tomorrow is my sailing day
+Pay me my [G]money down''
+
+{start_of_chorus}
+  [G] Pay me, pay me
+  Pay me my [D]money down
+  Pay me or go to jail
+  Pay me my [G]money down
+{end_of_chorus}
+
+[G]Soon as that boat was clear of the bar
+Pay me my [D]money down
+He knocked me down with the end of a spar
+Pay me my [G]money down
+
+Well [G]if I'd been a rich man's son
+Pay me my [D]money down
+I'd sit on the river and watch it run
+Pay me my [G]money down
+
+{transposition: 3}
+
+Well, I wish [G]I was Mr. Gates
+Pay me my [D]money down
+Haul my money in egg crates
+Pay me my [G]money down
+
+{transposition: -3}
+
+Well, [G]40 nights, nights at sea
+Pay me my [D]money down
+Captain worked every last dollar out of me
+Pay me my [G]money down

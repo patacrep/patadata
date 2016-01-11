@@ -1,0 +1,33 @@
+{title: Nanana de l'elfe}
+{artist: Le Donjon de Naheulbeuk}
+{album: T'as pas le niveau}
+{url: http://www.penofchaos.com/warham/donjon-groupe.htm}
+{cover: t-as-pas-le-niveau}
+{language: french}
+{columns: 2}
+{define: D frets X X 0 2 3 2}
+{define: Bm base-fret 2 frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+
+{start_of_chorus}
+  [D]Moi c'que j'aime dans [Bm]les balades
+  C'est qu'on [G]peut se bala[D]der
+  [D]On peut cueillir [Bm]des salades
+  Et a[G]près on peut les man[D]ger
+{end_of_chorus}
+
+Sur le [G]bord de la riv[D]ière
+On peut [G]aller se prom'[D]ner
+Mais c'est [G]un p'tit peu ga[D]lère
+Si on [Bm]glisse, on peut s'no[D]yer
+
+Les é[G]cureuils et les [D]lapins
+Les [G]poneys et les [D]cerfs
+Font la [G]ronde autour des [D]sapins
+Parce que la [Bm]forêt, c'est su[D]per !
+
+{start_of_chorus}
+  [D]Nanana na [Bm]nanana
+  Na [G]na nanana[D]na
+  {repeat: 2}
+{end_of_chorus}

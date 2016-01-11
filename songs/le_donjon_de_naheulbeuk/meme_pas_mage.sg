@@ -97,15 +97,15 @@
   \begin{verse}
     Mais qu'ai-je donc fait au destin
     Pour qu'il s'acharne ainsi sur moi ?
-    \echo{Son rêve s'était d'être bon à rien
-    Pas chevalier, encore moins roi}
+    \echo{Son rêve s'était d'être bon à rien}
+    \echo{Pas chevalier, encore moins roi}
   \end{verse}
 
   \begin{verse*}
     J'aurais voulu être paysan
     Et puis épouser une belle blonde
-    \echo{Mais c'est plus possible maintenant
-    Qu'il est devenu maître du monde}
+    \echo{Mais c'est plus possible maintenant}
+    \echo{Qu'il est devenu maître du monde}
   \end{verse*}
 
 \endsong

@@ -1,0 +1,49 @@
+{title: Cupidon s'en fout}
+{artist: Georges Brassens}
+{album: Don juan}
+{cover: don-juan}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: C frets 3 3 2 0 1 0}
+{define: E frets 0 2 2 1 0 0}
+{define: G7 frets 3 2 0 0 0 1}
+{define: Dm frets X X 0 2 3 1}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G base-fret 3 frets 0 2 2 1 0 0}
+
+{partition: Cupidon_s_en_fout.ly}
+
+[Am]Pour changer en amour notre amourette
+Il s'en [C]serait pas fallu de beau[E]coup
+Mais, ce jour-là, Vénus était distraite
+
+{start_of_chorus}
+  Il est des [Am]jours où [G7]Cupidon s'en [C]fout
+  Il est des [Dm]jours où [E]Cupidon s'en [Am]fout
+  [F] [G] [C] [Dm] [E] [Am]
+{end_of_chorus}
+
+Des jours où il joue les mouches du coche
+Où elles sont émoussées dans le bout
+Les flèches courtoises qu'il nous décoche
+
+Se consacrant à d'autres imbéciles
+Il n'eu pas l'heur de s'occuper de nous
+Avec son arc et tous ses ustensiles
+
+On a tenté sans lui d'ouvrir la fête
+Sur l'herbe tendre, on s'est roulés, mais vous
+Avez perdu la vertu, pas la tête
+
+Si vous m'avez donné toute licence
+Le cœur, hélas, n'était pas dans le coup
+Le feu sacré brillait par son absence
+
+On effeuilla vingt fois la marguerite
+Elle tomba vingt fois sur «pas du tout»
+Et notre pauvre idylle a fait faillite
+
+Quand vous irez au bois conter fleurette
+Jeunes galants, le ciel soit avec vous
+Je n'eus pas cette chance et le regrette

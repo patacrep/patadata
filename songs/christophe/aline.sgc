@@ -1,0 +1,34 @@
+{title: Aline}
+{artist: Christophe}
+{album: Aline}
+{cover: aline}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: E7 frets 0 2 0 1 0 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G7 frets 3 2 0 0 0 1}
+
+{guitar_comment: Intro : [C E7 F G7]}
+{newline}
+J'avais dessi[C]né, sur le [E7]sable
+Son doux vi[F]sage qui me souri[G7]ait
+{newline}
+Puis il a [C]plu, sur cette [E7]plage
+Dans cet o[F]rage, elle a dispa[G7]ru
+
+{start_of_chorus}
+  Et j'ai [C]crié, cri[E7]é
+  A[F]line, pour qu'elle re[G7]vienne
+  Et j'ai pleu[C]ré, pleu[E7]ré
+  Oh [F]j'avais trop de [G7]peine
+{end_of_chorus}
+
+Je me suis assis, auprès de son âme
+Mais la belle dame s'était enfuie
+{newline}
+Je l'ai cherchée, sans plus y croire
+Et sans un espoir pour me guider
+
+Je n'ai gardé, que ce doux visage
+Comme une épave sur le sable mouillé

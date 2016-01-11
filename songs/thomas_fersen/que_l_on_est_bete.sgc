@@ -1,0 +1,126 @@
+{title: Que l'on est bête}
+{artist: Thomas Fersen}
+{album: Le jour du poisson}
+{cover: le-jour-du-poisson}
+{language: french}
+{columns: 3}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: E& frets X X 1 3 4 3}
+{define: D7 frets X X 0 2 1 2}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Gm frets 0 2 3 1}
+{define: Cm frets 0 3 3 3}
+{define: E& base-fret 1 frets 2 2 2 0}
+{define: D7 base-fret 2 frets 0 0 0 1}
+{define: F frets 2 0 1 0}
+{define: B& base-fret 1 frets 2 1 0 0}
+
+[Gm Cm Eb D7 Gm]
+{newline}
+[Gm]Mon oiseau est triste
+[Cm]Rien d'autre n'existe
+[Eb]Que sa trapéziste
+[D7]À demi-vê[Gm]tue
+[Gm]Le loup se muselle
+Pour [Cm]sa petite gazelle
+[Eb]Et devant chez elle
+[D7]Un agent le [Gm]tue
+
+{start_of_chorus}
+  Que l'on est [F]bête
+  Quand on est amou[Bb]reux
+  Que l'on est [F]bête
+  Mais comme on est heu[Bb]reux
+  En a[D7]mour
+  L'esprit est une en[Eb]clume
+  Et c'est [F]lourd
+  Quand on est fait de [Bb]plumes [D7]
+{end_of_chorus}
+
+Mon [Gm]ours se tient mal
+Mais c'est [Cm]pas un animal
+Allez, [Eb]te fais pas la malle
+S'il [D7]empeste les [Gm]lieux
+Il [Gm]a mis une cravate
+La [Cm]chaussure gauche à droite
+[Eb]Il a les mains moites
+Et [D7]la raie au mi[Gm]lieu
+
+{start_of_chorus}
+  Que l'on est [F]bête
+  Quand on est amou[Bb]reux
+  Que l'on est [F]bête
+  Mais comme on est heu[Bb]reux
+  En a[D7]mour
+  L'esprit est une en[Eb]clume
+  Et c'est [F]lourd
+  Quand on est fait de [Bb]plumes, oui de [D7]plumes
+{end_of_chorus}
+
+[Gm Cm Eb D7 Gm] {repeat: 2}
+{newline}
+[Gm]Mon cœur se déclenche
+Pour [Cm]une souris blanche
+[Eb]Le chat en vacances
+[D7]Tous deux nous dan[Gm]sions
+[Gm]Mon cœur sous mon linge
+[Cm]Mon cœur fait le singe
+[Eb]J'me creuse les méninges
+[D7]Et ma conclu[Gm]sion
+
+{start_of_chorus}
+  C'est qu'on est [F]bête
+  Quand on est amou[Bb]reux
+  Que l'on est [F]bête
+  Mais comme on est heu[Bb]reux
+  En a[D7]mour
+  L'esprit est une en[Eb]clume
+  Et c'est [F]lourd
+  Quand on est fait de [Bb]plumes [D7]
+{end_of_chorus}
+
+[Gm]Le poisson frétille
+[Cm]Le ver se tortille
+Mais [Eb]que fait le gorille
+Il [D7]enlève la [Gm]grue
+Pour [Gm]cette créature
+Il [Cm]se range des voitures
+Il [Eb]grimpe sur la toiture
+Et [D7]tombe dans la [Gm]rue
+
+{start_of_chorus}
+  Que l'on est [F]bête
+  Quand on est amou[Bb]reux
+  Que l'on est [F]bête
+  Mais comme on est heu[Bb]reux
+  En a[D7]mour
+  L'esprit est une en[Eb]clume
+  Et c'est [F]lourd
+  Quand on est fait de [Bb]plumes [D7]
+{end_of_chorus}
+
+[Gm Cm Eb D7 Gm] {repeat: 2}
+{newline}
+[Gm]Quand l'amour est neuf
+[Cm]Quand il est dans l'œuf
+Il [Eb]fait un effet de bœuf
+Et [D7]pour une be[Gm]lette
+Qui [Gm]me mène en bateau
+Je [Cm]provoque un costaud
+[Eb]J'me bats au couteau
+Et je [D7]prends un coup de [Gm]tête
+
+{start_of_chorus}
+  Que l'on est [F]bête
+  Quand on est amou[Bb]reux
+  Que l'on est [F]bête
+  Mais comme on est heu[Bb]reux
+  En a[D7]mour
+  L'esprit est une en[Eb]clume
+  Et c'est [F]lourd
+  Quand on est fait de [Bb]plumes [D7]
+{end_of_chorus}
+
+[Gm Cm Eb D7 Gm]

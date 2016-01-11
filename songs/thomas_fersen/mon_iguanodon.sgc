@@ -1,0 +1,117 @@
+{title: Mon iguanodon}
+{artist: Thomas Fersen}
+{album: Le pavillon des fous}
+{cover: le-pavillon-des-fous}
+{language: french}
+{columns: 3}
+{define: E& frets X X 1 3 4 3}
+{define: A& base-fret 4 frets 0 2 2 1 0 0}
+{define: Fm base-fret 1 frets 0 2 2 0 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: Cm base-fret 3 frets X 0 2 2 1 0}
+{define: Fm7 base-fret 1 frets 0 2 0 0 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: E& base-fret 1 frets 2 2 2 0}
+{define: A& base-fret 3 frets 2 0 1 0}
+{define: Fm frets 1 0 1 3}
+{define: B& base-fret 1 frets 2 1 0 0}
+{define: Cm frets 0 3 3 3}
+{define: Fm7 base-fret 1 frets 0 2 0 2}
+{define: G frets 0 2 3 2}
+
+[Eb]Il dormait dans une mare
+[Ab]Où des insectes patinent
+[Fm]Il était grand calamar
+[Bb]Au fond d'un abîme
+{newline}
+[Eb]Il rêvait dans sa corbeille
+[Ab]En bavant sur l'édredon
+[Fm]La pleine lune le réveille
+[Bb]Mon iguanodon
+
+{start_of_chorus}
+  [Cm]Pas besoin d'être fakir
+  [Fm]Ni de se coiffer d'un turban
+  [Fm7]Je sais ce qui fait languir
+  [Bb]Le vilain serpent
+  [Cm]Dès que les ombres s'allongent
+  [Fm]Je l'attrape par la queue
+  [Fm7]Je le retiens dans mes songes
+  [Bb]
+  [G]Je le retiens dans mes songes
+  [Cm]Mais il est visqueux
+{end_of_chorus}
+
+[Eb]Il fume des petits cigares
+[Ab]D'une sorte bon marché
+[Fm]On entrouvre les cadavres
+[Bb]Où il a marché
+{newline}
+[Eb]Et comme c'est bientôt Noël
+[Ab]On entonne des cantiques
+[Fm]On allume des chandelles
+[Bb]Devant les boutiques
+
+{start_of_chorus}
+  [Cm]Il entre allumer un cierge
+  [Fm]En Notre-Dame-du-Pardon
+  [Fm7]Il pense à la forêt vierge
+  [Bb]À la rue Houdon
+  [Cm]Dès que les ombres s'allongent
+  [Fm]Je l'attrape par la queue
+  [Fm7]Je le retiens dans mes songes
+  [Bb]
+  [G]Je le retiens dans mes songes
+  [Cm]Mais il est visqueux
+{end_of_chorus}
+
+[Eb]Ce n'est pas pour la vitrine
+[Ab]Des plus grands maroquiniers
+[Fm]Que le serpent se dandine
+[Bb]Hors de son panier
+{newline}
+[Eb]Derrière ses lunettes d'écailles
+[Ab]Et sa froideur dans le ton
+[Fm]La démence le travaille
+[Bb]Le pauvre python
+
+{start_of_chorus}
+  [Cm]Mais le vernis se lézarde
+  [Fm]Et sous son collier de barbe
+  [Fm7]On voit sa grosse pomme d'Adam
+  [Bb]Qui monte et qui descend
+  [Cm]Dès que les ombres s'allongent
+  [Fm]Je l'attrape par la queue
+  [Fm7]Je le retiens dans mes songes
+  [Bb]
+  [G]Je le retiens dans mes songes
+  [Cm]Mais il est visqueux
+{end_of_chorus}
+
+[Eb]Voilà sa raison qui rampe
+[Ab]Dans les pensées anormales
+[Fm]Alors que la pluie détrempe
+[Bb]Son imperméable
+{newline}
+[Eb]Il lui faut les souliers plats
+[Ab]Et la jupe bleu marine
+[Fm]La barrette, les gros bas
+[Bb]Toujours le même film
+
+{start_of_chorus}
+  [Cm]Comme on dit sur le trottoir
+  [Fm]Comme on dit dans le jargon
+  [Fm7]On va sacrifier ce soir
+  [Bb]Une fille au dragon
+  [Cm]Dès que les ombres s'allongent
+  [Fm]Je l'attrape par la queue
+  [Fm7]Je le retiens dans mes songes
+  [Bb]
+  [G]Je le retiens dans mes songes
+  [Cm]Mais il est visqueux
+{end_of_chorus}
+
+[Eb Ab Fm Bb] [Eb Ab Fm Bb]
+[Cm Fm Fm7 Bb]
+[Cm Fm Fm7 Bb]
+[G Cm G Cm G Cm]

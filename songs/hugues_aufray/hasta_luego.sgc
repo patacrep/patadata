@@ -1,0 +1,60 @@
+{title: Hasta luego}
+{artist: Hugues Aufray}
+{album: La Terre est si belle}
+{cover: la-terre-est-si-belle}
+{language: french}
+{columns: 2}
+{define: Am frets X 0 2 2 1 0}
+{define: G frets 3 2 0 0 0 3}
+{define: Dm frets X X 0 2 3 1}
+{define: C frets 3 3 2 0 1 0}
+{define: E frets 0 2 2 1 0 0}
+
+{start_of_chorus}
+  {guitar_comment: Chorus 1}
+  Hasta [Am]luego !
+  [G]À bientôt si Dieu le [C]veut[E]
+  Hasta [Am]luego !
+  [G]On se reverra sous [C]peu[E]
+{end_of_chorus}
+
+On a [Dm]trois mois
+De réserve au fond des [E]cales
+Allez, [Dm]les gars
+On va hisser la grand'[E]voile
+
+{start_of_chorus}
+  {guitar_comment: Chorus 2}
+  [Am]Laissez passer les en[G]fants
+  De la [C]nuit[E]
+  [Am]Ils vont chercher le grand [G]vent
+  De l'ou[C]bli[E]
+{end_of_chorus}
+
+Toi qui n'as rien
+Embarque-toi avec nous
+Donne-moi la main
+Viens, ta place est parmi nous
+
+{guitar_comment: Chorus 1}
+
+Toi qui as peur
+Cache-toi derrière mon bras
+Car voici l'heure
+Enfin d'être fier de toi
+
+{guitar_comment: Chorus 2}
+
+Toi qui chantes
+Regarde-moi dans les yeux
+Suis ma route
+Elle te mènera vers Dieu
+
+{guitar_comment: Chorus 1}
+
+On a trois mois
+De réserve au fond des cales
+Allez, les gars
+On va hisser la grand'voile
+
+{guitar_comment: Chorus 2}

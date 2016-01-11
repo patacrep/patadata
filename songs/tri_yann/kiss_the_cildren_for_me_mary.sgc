@@ -1,0 +1,33 @@
+{title: Kiss the children for me Mary}
+{artist: Tri Yann}
+{album: La Découverte ou l'Ignorance}
+{url: http://edoll.free.fr/}
+{cover: la-decouverte-ou-l-ignorance}
+{language: french}
+{columns: 2}
+{define: C frets X 3 2 0 1 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+
+{partition: Kiss_the_children.ly}
+
+Kiss the [C]children [Bb]for me Ma[C]ry
+Ne les laisse [Bb]pas lan[C]guir
+Dis-leur combien je tra[Bb]vaille pour [F]eux
+J'ai le [C]cœur bri[Bb]sé de par[C]tir
+
+N'oublie pas ton ou[Bb]vrage de la jour[C]née
+Penserai fort à [Bb]toi, Ma[F]ry
+À des [C]milles de [Bb]miles de [C]toi
+
+Je construis des [Bb]digues, des u[C]sines
+Je transporte [Bb]des mon[C]tagnes
+Serai près de vous [Bb]en No[F]vembre
+Quand re[C]viendrai [Bb]de cam[C]pagne
+
+Kiss the [C]children [Bb]for me Ma[C]ry
+Ne les laisse [Bb]pas lan[C]guir
+Dis-leur combien je tra[Bb]vaille pour [F]eux
+J'ai le [C]cœur bri[Bb]sé de par[C]tir
+{newline}
+Kiss the [C]children [Bb]for me Ma[C]ry

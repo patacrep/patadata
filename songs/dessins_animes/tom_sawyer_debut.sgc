@@ -1,0 +1,39 @@
+{title: Tom Sawyer (début)}
+{artist: Dessins Animés}
+{album: Tom Sawyer}
+{cover: tom-sawyer-debut}
+{language: french}
+{columns: 2}
+{capo: 1}
+{define: C frets X 3 2 0 1 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: G frets 3 2 0 0 0 3}
+{define: D frets X X 0 2 3 2}
+
+{partition: Tom_Sawyer_1.ly}
+
+{start_of_chorus}
+  [C]Tom Sawyer, [F]c'est l'Amé[C]rique
+  Le [F]symbole [C]de la liber[G]té
+  Il est [C]né sur les bords du fleuve [F]Mississi[G]ppi
+  Tom Saw[C]yer c'est pour [F]nous tous [G]un a[C]mi
+{end_of_chorus}
+
+Il est [G]toujours prêt pour ten[C]ter l'aventure
+[G]Avec ses bons co[C]pains
+Il n'a [G]peur de rien, c'est un [C]américain
+[D]Il aime l'école, surtout quand elle est [G]loin
+
+{start_of_chorus}
+  Tom Sawyer, c'est l'Amérique
+  Pour tous ceux qui aiment la vérité
+  Il connaît les merveilles qui sont dans la forêt
+  Les chemins, les rivières et les sentiers
+{end_of_chorus}
+
+Il a dans ses poches des objets fabuleux
+Qu'il emporte avec lui
+Trois bouts de ficelle, quelques pierres et du bois
+Il les partage avec tous ses amis
+
+{partition: Tom_Sawyer_2.ly}

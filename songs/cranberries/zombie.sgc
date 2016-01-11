@@ -1,0 +1,58 @@
+{title: Zombie}
+{artist: The Cranberries}
+{album: No need to argue}
+{cover: no-need-to-argue}
+{language: english}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: C frets X 3 2 0 1 0}
+{define: G frets 3 2 0 0 X X special}
+{define: D frets X X 0 2 3 2}
+
+[Em]Another [C]head hangs lowly
+[G]Child is slowly [D]taken
+[Em]And the violence [C]caused such silence
+[G]Who are we mis[D]taken
+{newline}
+But you [Em]see, it's not me
+It's not [C]my family
+In your [G]head, in your head
+They are figh[D]ting
+
+{start_of_chorus}
+  With their [Em]tanks and their bombs
+  And their [C]bombs and their guns
+  In your [G]head, in your head
+  They are [D]crying
+{end_of_chorus}
+
+{start_of_chorus}
+  In your [Em]head, in your [C]head
+  Zombie, [G]zombie, zombi[D]e
+  What's in your [Em]head, in your [C]head
+  Zombie, [G]zombie, zombi[D]e
+{end_of_chorus}
+
+Another mother's breaking
+Heart is taking over
+When the violence causes silence
+We must be mistaken
+{newline}
+It's the same old theme
+Since 1916
+In your head, in your head
+They're still fighting
+
+{start_of_chorus}
+  With their tanks and their bombs
+  And their bombs and their guns
+  In your head, in your head
+  They're dying
+{end_of_chorus}
+
+{start_of_chorus}
+  In your head, in your head
+  Zombie, zombie, zombie
+  What's in your head, in your head
+  Zombie, zombie, zombie
+{end_of_chorus}

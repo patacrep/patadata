@@ -1,0 +1,69 @@
+{title: Vivre ou survivre}
+{artist: Daniel Balavoine}
+{album: Vendeurs de larmes}
+{cover: vendeurs-de-larmes}
+{language: french}
+{columns: 2}
+{define: Em frets 0 2 2 0 0 0}
+{define: Gm base-fret 3 frets 0 2 2 0 0 0}
+{define: B& base-fret 1 frets X 0 2 2 2 0}
+{define: F base-fret 1 frets 0 2 2 1 0 0}
+{define: A7 frets X 0 2 0 2 0}
+
+[Em]Heure sonne matin
+Pleurs, [Gm]chagrins
+Et repasse le film hu[Bb]mide
+Du pa[F]ssé dans les [A7]yeux
+{newline}
+Court, bien trop court
+Notre amour
+Et les appels au secours
+Savent qu'un sourd n'entend pas ce qu'il veut
+
+{start_of_chorus}
+  Et pourtant, il veut [Dm]vivre
+  Ou sur[Bb]vivre
+  Sans po[F]èmes
+  Sans bles[A7]ser tous ceux qu'il [Dm]aime
+  Être heu[C]reux, malheu[Bb]reux
+  Vivre [A7]seul ou même à [Dm]deux
+{end_of_chorus}
+
+Mais vivre pour toujours, sans discours
+Sans velours
+Sans les phrases inutiles
+D'un vieux roman photo
+
+Fleurs fanées meurent
+Noir et blanc
+Seules couleurs
+D'un futur qui est déjà le passé pour nous
+
+{start_of_chorus}
+  Et pourtant, il faut vivre
+  Ou survivre
+  Sans poèmes
+  Sans blesser ceux qui nous aiment
+  Être heureux, malheureux
+  Vivre seul ou même à deux
+  {repeat: 2}
+{end_of_chorus}
+
+Mais vivre en silence
+En pensant aux souffrances
+De la terre et se dire
+Qu'on est pas les plus malheureux
+{newline}
+Quand dans l'amour
+Tout s'effondre
+Toute la misère d'un monde
+N'est rien à côté d'un adieu
+
+{start_of_chorus}
+  Et pourtant, je veux vivre
+  Ou survivre
+  Sans poèmes
+  Sans blesser tous ceux que j'aime
+  Être heureux, malheureux
+  Vivre seul ou même à deux
+{end_of_chorus}
