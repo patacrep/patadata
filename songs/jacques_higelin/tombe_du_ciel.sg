@@ -98,8 +98,9 @@
   \begin{verse*}
     \[G4]Tomber sur un jour de chance \[G4 Am7]
     \[G4]Tomber à la fleur de l'âge, \[Em7]dans l'oubli
-    \echo{Solo}
   \end{verse*}
+
+  \musicnote{Solo sur les accords du couplet 1}
 
   \begin{repeatedchords}
     \begin{chorus}
