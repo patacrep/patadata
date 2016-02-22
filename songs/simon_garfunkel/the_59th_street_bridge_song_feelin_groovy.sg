@@ -1,6 +1,6 @@
 \selectlanguage{english}
 \songcolumns{2}
-\beginsong{Feeling groovy}
+\beginsong{The 59th Street Bridge Song (Feelin' Groovy)}
   [by={Simon\ \&\ Garfunkel},cover={the-definitive},album={The definitive}]
 
   \cover
@@ -9,27 +9,29 @@
   \gtab{A}{X02220}
 
   \begin{verse}
-    \[G]Slow do\[D]wn, you mov\[A]e too \[D]fast
-    You \[G]got a \[D]make the \[A]morning \[D]last
-    Just \[G]kickin' \[D]down the \[A]cobbles\[D]tones
-    \[G]Lookin' for \[D]fun and \[A]feelin' \[D]groovy
+    \[G] Slow do\[D]wn, you \[A]move too \[D]fast
+    \[G] You got to \[D]make the \[A]morning \[D]last
+    Just \[G] kickin' \[D]down the \[A]cobbles\[D]tones
+    \[G] Lookin' for \[D]fun and \[A]feelin' \[D]groovy
+    \nolyrics{\[G D A D]}
   \end{verse}
 
   \begin{chorus}
-    Pa da da \[G]da da da \[D]da da da da, \[A]feelin' \[D]groovy
+    Pa da da \[G]da, da \[D]da da, \[A] feelin' \[D]groovy
+    \nolyrics{\[G D A D]}
   \end{chorus}
 
   \begin{verse}
     Hello lamp post, whatcha knowin'
     I've come to watch your flowers growin'
     Aint'cha got no rhymes for me?
-    Doot-in doo-doo, feelin'groovy
+    Doo-ait-n-doo-doo, feelin' groovy
   \end{verse}
 
   \begin{verse}
     I got no deeds to do, no promises to keep
     I'm dappled and drowsy and ready to sleep
-    Let the morning time drops all its petals on me
+    Let the morning time drop all its petals on me
     Life I love you, all is groovy
   \end{verse}
 

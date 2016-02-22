@@ -60,7 +60,8 @@
   \end{verse*}
 
   \begin{chorus}
-    Quand San Francisco se lève \dots
+    Quand San Francisco se lève \rep{2}
+    \dots
   \end{chorus}
 
   \begin{verse}
@@ -82,7 +83,8 @@
   \end{verse*}
 
   \begin{chorus}
-    Si San Francisco s'effondre \dots
+    Si San Francisco s'effondre \rep{2}
+    \dots
   \end{chorus}
 
 \endsong
