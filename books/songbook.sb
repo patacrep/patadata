@@ -1,6 +1,6 @@
 {
 "template" : "data.tex",
-"lang" : "french",
+"lang" : "fr",
 "content" : [["sorted"]],
 "authwords" : {
   "sep" : ["and", "et"]

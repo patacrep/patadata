@@ -1,6 +1,6 @@
 {
 "template" : "naheulbeuk.tex",
-"lang" : "french",
+"lang" : "fr",
 "bookoptions" : [
     "diagram",
     "lilypond",
