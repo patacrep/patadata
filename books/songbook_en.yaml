@@ -8,7 +8,7 @@ chords:
   show: yes
   diagramreminder: important
   repeatchords: yes
-  lilypond: yes
+  lilypond: no
 
 content:
     sort:
