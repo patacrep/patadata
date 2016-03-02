@@ -1,0 +1,18 @@
+book:
+  lang: fr
+  encoding: utf8
+  datadir: ".."
+  pictures: no
+  template: data.tex
+chords:
+  show: no
+
+content:
+    sort:
+
+template:
+  default.tex:
+    title: "Recueil de chansons"
+    author: "Crep (R.Goffe) \\and Lohrun (A.Dupas)"
+  patacrep.tex:
+    subtitle: "parolier"

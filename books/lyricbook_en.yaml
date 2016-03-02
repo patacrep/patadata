@@ -1,0 +1,17 @@
+book:
+  lang: en
+  encoding: utf8
+  datadir: ".."
+  pictures: no
+  template: data.tex
+chords:
+  show: no
+
+content:
+    sort:
+
+template:
+  default.tex:
+    author: "Crep (R.Goffe) \\and Lohrun (A.Dupas)"
+  patacrep.tex:
+    subtitle: "lyrics"
