@@ -1,7 +1,9 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{De l'autre côté de toi}
-  [by={Francis Cabrel}, album={Fragile}]
+  [by={Francis Cabrel},cover={fragile},album={Fragile}]
+
+  \cover
 
 
   \begin{verse}
