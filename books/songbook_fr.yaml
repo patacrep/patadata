@@ -1,0 +1,14 @@
+book:
+  lang: fr
+  encoding: utf8
+  datadir: ".."
+  pictures: yes
+  template: data.tex
+chords:
+  show: yes
+  diagramreminder: important
+  repeatchords: yes
+  lilypond: yes
+
+content:
+    sort:

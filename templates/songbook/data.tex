@@ -18,52 +18,61 @@
 % MA  02110-1301, USA.
 
 (* variables *)
-{
-"version":{ "description": {"english": "Version", "french": "Version"},
-            "default": {"default": "3.7.2"}
-         },
-"chordfont":{ "description": {"english": "Chord font",
-                          "french": "Police des accords"},
-            "default": {"default": "i"}
-         },
-"chordcolor":{ "description": {"english": "Chord color, HTML notation",
-                          "french": "Couleur des accords en notation HTML"},
-            "default": {"default": "000000"}
-         },
-"versefont":{ "description": {"english": "Verse font",
-                          "french": "Police des couplets"},
-            "default": {"default": ""}
-         },
-"chorusfont":{ "description": {"english": "Chorus font",
-                          "french": "Police des refrains"},
-            "default": {"default": "i"}
-         },
-"geometry":{ "description": {"english": "Paper geometry (size, margin, orientation...), as options of the LaTeX geometry package.",
-                          "french": "Format du papier (taille, marges, orientation...), avec le même format que les options du paquet LaTeX geometry."},
-            "default": {"default":"a4paper"}
-         },
-"column_adjustment":{ "description": {"english": "Column adjsutment.",
-                          "french": "Ajustement des colonnes."},
-            "type": "enum",
-            "values": {"none": {"default": "none"},
-                       "only_one": {"default": "only_one"},
-                       "one_more": {"default": "one_more"}
-                     },
-            "default": {"default":"none"}
-         }
-}
+schema:
+  type: //rec
+  optional:
+    chordfont: //str
+    chordcolor: //str
+    versefont: //str
+    chorusfont: //str
+    geometry: //str
+    column_adjustment:
+      type: //any
+      of:
+        - type: //str
+          value: "only_one"
+        - type: //str
+          value: "one_more"
+        - type: //str
+          value: "none"
+default:
+  en:
+    chordfont: "i"
+    chordcolor: "000000"
+    versefont: ""
+    chorusfont: "i"
+    geometry: "a4paper"
+    column_adjustment: none
+description:
+  en:
+    chordfont: "Chord font (i, b, n)"
+    chordcolor: "Chord color, hexadecimal notation"
+    versefont: "Verse font (i, b, n)"
+    chorusfont: "Chorus font (i, b, n)"
+    geometry: "Paper geometry (size, margin, orientation...), as options of the LaTeX geometry package."
+    column_adjustment: "Column adjsutment."
+  fr:
+    chordfont: "Police des accords"
+    chordcolor: "Couleur des accords en notation hexadécimale"
+    versefont: "Police des couplets"
+    chorusfont: "Police des refrains"
+    geometry: "Format du papier (taille, marges, orientation...), avec le même format que les options du paquet LaTeX geometry."
+    column_adjustment: "Ajustement des colonnes."
+
+
 (* endvariables *)
 
 % begin document
 (* extends "patacrep.tex" *)
 
 (* block preambule *)
+(*- set template_var = _template["data.tex"] -*)
 \usepackage{licence}
 
 %! Font management
 \makeatletter
 \renewcommand{\chorusfont}{%
-   (* for letter in chorusfont *)
+   (* for letter in template_var.chorusfont *)
    (* if letter=="i" *)   \it %
    (* elif letter=='b' *)   \bf %
    (* elif letter=='n' *)   \normalfont %
@@ -72,18 +81,18 @@
 }
 
 \def\@chordfont{%
-   (* for letter in chordfont *)
+   (* for letter in template_var.chordfont *)
    (* if letter=="i" *)   \it %
    (* elif letter=='b' *)   \bf %
    (* elif letter=='n' *)   \normalfont %
    (* endif *)
    (* endfor *)
 }
-\definecolor{ChordColor}{HTML}{(( chordcolor ))}
+\definecolor{ChordColor}{HTML}{(( template_var.chordcolor ))}
 \renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
 
 \renewcommand{\lyricfont}{%
-   (* for letter in versefont *)
+   (* for letter in template_var.versefont *)
    (* if letter=="i" *)   \it %
    (* elif letter=='b' *)   \bf %
    (* elif letter=='n' *)   \normalfont %
@@ -94,15 +103,15 @@
 %! End of font management
 
 \geometry{
- ((geometry))
+ ((template_var.geometry))
 }
 
 %! Temporary hack for columns management
 \let\OldSongColumns=\songcolumns
 \def\songcolumns#1{%
-(* if column_adjustment=="only_one" *)
+(* if template_var.column_adjustment=="only_one" *)
     \OldSongColumns{1}
-(* elif column_adjustment=="one_more" *)
+(* elif template_var.column_adjustment=="one_more" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}
 (* else *)
