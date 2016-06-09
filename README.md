@@ -1,6 +1,8 @@
 Patadata
 ========
 
+[![documentation](http://readthedocs.org/projects/patacrep/badge)](http://patacrep.readthedocs.io)
+
 Songs data for LaTeX songbooks.
 
 This data is meant to be processed by the songbook toolkit:
