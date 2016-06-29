@@ -23,16 +23,16 @@
 
   \begin{chorus}
     Ooh, ooh ooh ooh oo-ooh ooh oo-ooh ooh ooh oo-ooh
-    (Don't worry)
+    \echo{Don't worry}
     Ooh oo-ooh ooh ooh oo-ooh
-    (Be happy)
+    \echo{Be happy}
     Ooh oo-ooh oo-ooh
     Ooh, ooh ooh ooh oo-ooh ooh oo-ooh ooh ooh oo-ooh
-    (Don't worry)
+    \echo{Don't worry}
     Ooh oo-ooh ooh ooh oo-ooh
-    (Be happy)
+    \echo{Be happy}
     Ooh oo-ooh oo-ooh
-    (Don't worry, be happy)
+    \echo{Don't worry, Be happy}
   \end{chorus}
 
   \begin{verse}
@@ -50,7 +50,7 @@
   \begin{chorus}
     Ooh, ooh ooh ooh oo-ooh ooh oo-ooh ooh ooh oo-ooh
     ...
-   (Don't worry, be happy)
+   \echo{Don't worry, Be happy}
   \end{chorus}
 
   \begin{verse}
@@ -69,12 +69,12 @@
   \begin{chorus}
     Ooh, ooh ooh ooh oo-ooh ooh oo-ooh ooh ooh oo-ooh
     ...
-   (Don't worry sweetie, be happy)
+   \echo{Don't worry sweetie, be happy}
   \end{chorus}
   
   \begin{chorus}
     Ooh, ooh ooh ooh oo-ooh ooh oo-ooh ooh ooh oo-ooh
     ...
-   (I'm not worried, I'm happy)
+   \echo{I'm not worried, I'm happy}
   \end{chorus}
 \endsong
