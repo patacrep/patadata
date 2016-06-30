@@ -11,11 +11,11 @@
   \gtab{Am7}{X02010}
   \gtab{Cm7}{3:X02010}
   \gtab{D7}{XX0212}
-  \gtab{Gm7}{3X333X}
-  \gtab{Gm7/F}{1X333X}
-  \gtab{Bbmaj7}{1:X0212X}
-  \gtab{Ebmaj7}{1:XX1333}
-  \gtab{Am7b5}{X0101X}
+  \gtab*{Gm7}{3X333X}
+  \gtab*{Gm7/F}{1X333X}
+  \gtab*{Bbmaj7}{1:X0212X}
+  \gtab*{Ebmaj7}{1:XX1333}
+  \gtab*{Am7b5}{X0101X}
 
   \begin{chorus}
     \[G]Fais \[Bm7]comme l'oi\[F7]seau \[E7]
