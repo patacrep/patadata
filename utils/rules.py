@@ -8,8 +8,6 @@ import logging
 import locale
 re.LOCALE
 
-from utils import recursiveFind
-
 # the dictionary has target_word:replacement_word pairs
 word_dic = {
 ##: oe inclusion
@@ -128,7 +126,7 @@ word_dic = {
 
 
 def usage():
-   print '''
+   print('''
 Usage: rules.py [OPTION]
 
 OPTIONS
@@ -143,7 +141,7 @@ OPTIONS
       set the logging level to LEVEL
       outputs logging information to rules.log
       possible LEVEL values are : debug, info, warning, error and critical
-'''
+''')
 
 def replace_words(string):
    '''
@@ -198,7 +196,7 @@ def language_rules(string):
       string = re.sub("``","{\\og}", string)
       string = re.sub("''","{\\\\fg}", string)
    else :
-      print "Warning: language is not defined for song : " + filename
+      raise NotImplementedError('No supported language found')
    return string
 
 def process_lines(lines):
@@ -256,7 +254,7 @@ def main():
       else:
          assert False, "unhandled option"
 
-   songfiles = recursiveFind(os.path.join(library, 'songs'), '*.sg')
+   songfiles = glob.iglob(os.path.join(library, 'songs', '**', '*.sg'), recursive=True)
 
    for filename in songfiles:
       with open(filename, 'r+') as songfile:
@@ -265,7 +263,10 @@ def main():
          #no dots for acronyms
          #data = re.sub("(?P<capital_letter>[A-Z])\.","\g<capital_letter>", data)
          data = replace_words(data)
-         data = language_rules(data)
+         try:
+            data = language_rules(data)
+         except NotImplementedError as e:
+            logging.info(filename + ": " + str(e))
          lines = process_lines(data.split('\n'))
          data = "\n".join(lines)
          songfile.seek(0)
