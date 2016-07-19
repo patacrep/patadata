@@ -1,7 +1,7 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Yesterday}
-  [by={The Beatles},cover={1},album={Help!}]
+  [by={The Beatles},cover={help},album={Help!}]
 
   \cover
   \gtab{C}{X32010}
