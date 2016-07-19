@@ -4,17 +4,19 @@
   [by={Tracy Chapman},cover={tracy-chapman},album={Tracy Chapman}]
 
   \cover
-  \gtab{G}{320003}
-  \gtab*{Cadd9}{032030}
-  \gtab{Em}{022000}
-  \gtab*{Dsus4}{X00233}
   \gtab{D}{XX0232}
+  \gtab*{Dsus2}{XX0230}
+  \gtab*{A7sus4}{X02030}
+  \gtab{A7}{X02020}
+  \gtab{Em}{022000}
+  \gtab{Bm}{2:X02210}
+  \gtab{F#m}{2:022000}
 
   \begin{verse}
     Sor\[D]ry \[Dsus2] \[D]
-    Is \[A7sus4]all that \[A]you can't \[Em]say
-    \[A7sus4]Years gone \[A]by and \[D]still \[Dsus2] \[D]
-    \[A7sus4]Words don't \[A]come easi\[Em]ly
+    Is \[A7sus4]all that \[A7]you can't \[Em]say
+    \[A7sus4]Years gone \[A7]by and \[D]still \[Dsus2] \[D]
+    \[A7sus4]Words don't \[A7]come easi\[Em]ly
     \[G]Like sorry like \[A7]sorry \[A7sus4] \[A7]
   \end{verse}
 
@@ -29,12 +31,12 @@
   \begin{bridge}
     But you can say \[D]baby \[Dsus2] \[D]
     \[Em]Baby can I \[G]hold you to\[D]night \[Dsus2] \[D]
-    [Em]Maybe if I \[G]told you the \[Bm]right words
-    At the \[A]right time you'd be \[D]mine \[Dsus2] \[D]
+    \[Em]Maybe if I \[G]told you the \[Bm]right words
+    At the \[A7]right time you'd be \[D]mine \[Dsus2] \[D]
   \end{bridge}
 
   \begin{verse*}
-    \musicnote{\nolyrics \[Em Fm G A]}
+    \musicnote{\nolyrics \[Em F{\shrp}m G A]}
   \end{verse*}
 
   \begin{verse}
