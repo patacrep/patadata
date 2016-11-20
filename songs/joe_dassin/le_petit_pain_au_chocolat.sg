@@ -1,28 +1,33 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{Les petits pains au chocolat}
+\beginsong{Le petit pain au chocolat}
   [by={Joe Dassin},cover={le-meilleur-de-joe-dassin},album={Le meilleur de Joe Dassin}]
 
   \cover
   \gtab{C}{X32010}
   \gtab{G}{320003}
   \gtab{G7}{320001}
+  \gtab{C7}{X32310}
   \gtab{F}{1:022100}
+  \gtab{Fm}{1:022000}
 
   \begin{verse}
     \[C]Tous les matins il achetait
     Des petits pains au choco\[G]lat
     \[G7]La boulangère lui souriait
     Mais il ne la voyait \[C]pas
-    Et pour\[F]tant, elle était belle
-    Les clie\[C]nts \[G7]ne voyaient qu'elle
-    \[F]Il faut dire qu'elle
+    Et pour\[C7]tant, elle était belle
+    Les cli\[F]ents ne voyaient qu'elle
+
+    \[Fm]Il faut dire qu'elle
     \[C]Était vraiment très croustil\[G7]lante
     Autant que ses croiss\[C]ants
     \[F]Et elle rêvait, mélanco\[C]lique
     Le soir dans sa bou\[G]tique
     À ce jeune homme dis\[C]tant
   \end{verse}
+
+  \transpose{1}
 
   \begin{verse}
     Il était myope, voilà tout
