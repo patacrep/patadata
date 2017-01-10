@@ -10,7 +10,6 @@
   \gtab{D}{XX0232}
   \gtab{B&}{1:X02220}
   \gtab{E&}{6:X02220}
-  \ifrepeatchords%
   \gtab{G}{320003}
   \gtab{Am}{X02210}
   \gtab{E}{022100}
@@ -20,7 +19,6 @@
   \gtab{B}{2:X02220}
   \gtab{C#m}{4:X02210}
   \gtab{G#}{4:022100}
-  \fi%
 
   \begin{verse}
     \[F]Un beau jour ou peut-être \[C]une nuit
