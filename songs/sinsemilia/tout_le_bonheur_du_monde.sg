@@ -2,6 +2,13 @@
 \songcolumns{2}
 \beginsong{Tout le bonheur du monde}[
   by={Sinsémilia}]
+  
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{B&}{X02220}
+  \gtab{Dm}{XX0231}
+  
 \begin{chorus}
 \[Am]On vous souhaite tout le bonheur du \[F]monde
 \[G]Et que quelqu'un vous tende la \[Am]main

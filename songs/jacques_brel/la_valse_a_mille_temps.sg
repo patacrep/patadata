@@ -4,8 +4,9 @@
   [by={Jacques Brel},cover={valse},album={La valse à mille temps}]
 
   \cover
-  \gtab{B}{2:X02220}
-  \gtab{F#7}{2:022100}
+  \capo{2}
+  \gtab{A}{X02220}
+  \gtab{E7}{020100}
 
   \begin{verse}
     Au pre\[B]mier temps de la valse
