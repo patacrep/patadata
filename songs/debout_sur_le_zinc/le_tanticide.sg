@@ -56,7 +56,11 @@
     Elle était vieille et folle
     Mais ne me jugez pas
     Car je suis encore jeune
-    J'ai zigouillé ma tante
+    \rep{2}
   \end{verse}
+
+  \begin{verse*}
+    J'ai zigouillé ma tante
+  \end{verse*}
 
 \endsong
