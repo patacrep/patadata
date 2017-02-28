@@ -101,7 +101,7 @@
   \transposition{3}
 
   \begin{verse*}
-    \musicnote{instrumental : \nolyrics{\[G] \[C] \[D] \[C] \times{3}}}
+    \musicnote{instrumental : \nolyrics{\[G] \[C] \[D] \[C] \rep{3}}}
   \end{verse*}
 
   \transposition{3}
