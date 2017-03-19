@@ -1,0 +1,33 @@
+{language: english}
+{columns: 2}
+{title: In the highways}
+{artist: Carter Family}
+{album: O brother}
+
+
+  {cover: o-brother}
+  {capo: 1}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{F}{1:022100}
+
+  
+    In the [C]highways, in the hedges
+    In the [G]highways, in the [C]hedges
+    In the [C]highways, in the hedges
+    I'll be [G]somewhere working for my [C]Lord
+  
+
+  {start_of_chorus}
+    I'll be [F]somewhere working
+    I'll be [C]somewhere working
+    I'll be [G]somewhere working for my [C]Lord
+    \rep{2}
+  {end_of_chorus}
+
+  
+    If He calls me I will answer \rep{3}
+    I'll be somewhere working for my Lord
+  
+
+

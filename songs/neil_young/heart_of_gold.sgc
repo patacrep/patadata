@@ -1,0 +1,42 @@
+{language: english}
+{columns: 2}
+{title: Heart of gold}
+{artist: Young}
+{album: Harvest moon}
+
+
+  {cover: harvest-moon}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+
+\musicnote{Harmonica : G}
+
+  \lilypond{Heart_of_gold}
+
+  
+    [Em] I want to [C]live, [D] I want to [G]give
+    [Em] I've been a [C]miner for a [D]heart of gold [G]
+    [Em] It seems ex[C]pressions, [D] I never [G]give
+  
+
+  {start_of_chorus}
+    [Em] It keeps me [C]searching for a [D]heart of gold [G]
+    [C]And I'm getting older [Em]
+    \rep{2}
+  {end_of_chorus}
+
+  
+    I've been to Hollywood, I've been to Redwood
+    I've cross the ocean for a heart of gold
+    I've been in my mind, it's such a fine line
+  
+
+  
+    You keep me searching for a heart of gold
+    You keep me searching and I'm growing old
+    You keep me searching for a heart of gold
+  
+
+

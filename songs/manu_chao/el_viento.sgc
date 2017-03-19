@@ -1,0 +1,60 @@
+{language: spanish}
+{columns: 2}
+{title: El viento}
+{artist: Chao}
+{album: Clandestino}
+
+
+  {cover: clandestino}
+  \gtab{G#m}{4:022000}
+  \gtab{F#}{2:022100}
+
+  \begin{verse*}
+    \musicnote {\Intro \nolyrics [G{\shrp}m] [F{\shrp}] [G{\shrp}m] [F{\shrp}]}
+  \end{verse*}
+
+  
+    El [G#m]viento viene
+    El [F#]viento se va
+    [G#m]Por la fron[F#]tera
+    El [G#m]viento viene
+    El [F#]viento se va
+    \nolyrics{[G#m] [F#]}
+  
+
+  \begin{repeatedchords}
+    \begin{verse*}
+      El [G#m]hombre viene
+      El [F#]hombre se va
+      [G#m]Sin más ra[F#]zon
+      El [G#m]hombre viene
+      El [F#]hombre se va
+      [G#m]Ruta Baby[F#]lon
+    \end{verse*}
+  \end{repeatedchords}
+
+  {start_of_chorus}
+    [G#m]Por la carretera \rep{2}
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      La [G#m]suerte viene
+      La [F#]suerte se va
+      [G#m]Por la fron[F#]tera
+      La [G#m]suerte viene
+      La [F#]suerte se va
+      \nolyrics {[G#m] [F#]}
+    
+
+    \begin{verse*}
+      El [G#m]hombre viene
+      El [F#]hombre se va
+      [G#m]Sin más ra[F#]zon
+      El [G#m]hombre viene
+      El [F#]hombre se va
+      [G#m]¿Cuando volve[F#]ra?
+    \end{verse*}
+  \end{repeatedchords}
+
+

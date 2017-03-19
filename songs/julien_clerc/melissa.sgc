@@ -1,0 +1,89 @@
+{language: french}
+{columns: 2}
+{title: Mélissa}
+{artist: Clerc}
+{album: Ce n'est rien}
+
+
+  {cover: ce-n-est-rien}
+  \gtab{E}{022100}
+  \gtab{A}{X02220}
+  \gtab{B7}{X21202}
+
+  {start_of_chorus}
+    [G]Mélissa, mé[D]tisse d'I[G]biza
+    [G]Vit tou[D]jours dévê[G]tue
+    [G]Dites ja[D]mais que [G]je vous ai dit ça
+    [G]Ou Mé[D]lissa me [G]tue
+  {end_of_chorus}
+
+  \begin{verse*}
+    Le matin, derrière ses canisses
+    Alors qu'elle est moitié-nue
+    Sur les murs devant chez Mélissa
+    Y'a tout plein d'inconnus
+  \end{verse*}
+
+  \begin{verse*}
+    {\og}[G]Descendez, ça, c'est défendu !
+    [D7]Oh ! C'est indé[G]cent !{\fg}
+    [G]Elle crie mais bien entendu
+    [D7]Personne ne des[G]cend
+  \end{verse*}
+
+  \begin{verse*}
+    [D]Sous la soie de sa [G]jupe fendue
+    [C]En zoom, en gros-[D]plan
+    [D]Tout un tas d'in[G]dividus
+    [C]Filment noirs et [D]blancs
+  \end{verse*}
+
+  {start_of_chorus}
+    Mélissa, métisse d'Ibiza
+    A des seins tout pointus
+    Dites jamais que je vous ai dit ça
+    Ou Mélissa me tue
+  {end_of_chorus}
+
+  
+    {\og}Descendez, ça, c'est défendu !
+    Mater chez les gens !{\fg}
+    Elle crie mais bien entendu
+    Y'a jamais d'agent
+  
+
+  \begin{verse*}
+    Elle crie, c'est du temps perdu
+    Personne ne l'entend
+    La police, c'est tous des vendus
+    Dix ans qu'elle attend
+  \end{verse*}
+
+  {start_of_chorus}
+    Mélissa, métisse d'Ibiza
+    A toujours sa vertu
+    Dites jamais que je vous ai dit ça
+    Ou Mélissa me tue
+  {end_of_chorus}
+
+  \begin{bridge}
+    Oh ! Matez ma métisse
+    Oh ! Ma métisse est nue
+    \rep{2}
+  \end{bridge}
+
+  
+    Mélissa, métisse d'Ibiza
+    Vit toujours dévêtue
+    Dites jamais que je vous ai dit ça
+    Je vous ai jamais vu
+  
+
+  \begin{verse*}
+    Le matin derrière ses canisses
+    Alors je vends des longues-vues
+    Mais si jamais Mélissa sait ça
+    Là, c'est moi qui vous tue
+  \end{verse*}
+
+

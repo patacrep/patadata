@@ -1,0 +1,69 @@
+{language: french}
+{columns: 1}
+{title: Holidays}
+{artist: Polnareff}
+{album: Passé Présent}
+
+
+  {cover: passe-present}
+  \gtab{Am}{002210}
+  \gtab{D}{000232}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{G}{320003}
+
+  \MultiwordChords 
+  
+    \musicnote{\Intro : \nolyrics [Am D Am D Am D]}
+  
+
+                 
+    [Am]Holidays, oho [Em]holidays
+    [Am]C'est l'avion qui [C]descend du ciel
+    [Dm]Et sous l'ombre [Am]de son [Dm]aile, une [G]ville passe
+    Que la [Em]terre est basse
+    Ho[Am]lidays[D]
+  
+
+\begin{repeatedchords}
+  
+    [Am]Holidays, oho [Em]holidays
+    [Am]Des églises et [C]des HLM
+    [Dm]Que fait-il le Dieu [Am]qu'ils [Dm]aiment? Qui vit [G]dans l'espace?
+    Que la [Em]terre est basse
+    Ho[Am]lidays[D]
+  
+
+  
+    [Am]Holidays, oho [Em]holidays
+    [Am]De l'avion, l'ombre [C]prend la mer
+    [Dm]La mer comme [Am] une pré[Dm]face, [G]avant le désert
+    Que la [Em]mer est basse
+    Ho[Am]lidays[D]
+  
+
+  
+    [Am]Holidays, oho [Em]holidays
+    [Am]Tant de ciel et [C]tant de nuages
+    [Dm]Tu ne sais pas [Am]à ton [Dm]âge, toi que la[G] vie lasse
+    Que la [Em]mort est basse
+    Ho[Am]lidays[D]
+  
+\end{repeatedchords}
+
+  
+    \musicnote{\Bridge : \nolyrics [Am D Am D Am D]}
+  
+
+\begin{repeatedchords}
+  
+    [Am]Holidays, oho [Em]holidays
+    [Am]C'est l'avion qui [C]habite au ciel
+    [Dm]ne l'oublie pas [Am]toi si [Dm]belle, les [G]avions se cassent
+    Et la [Em]terre est basse
+    Ho[Am]lidays[D]
+  
+\end{repeatedchords}
+
+

@@ -1,0 +1,48 @@
+{language: french}
+{columns: 2}
+{title: Tom Sawyer (début)}
+{artist: Dessins Animés}
+{album: Tom Sawyer}
+
+
+  {cover: tom-sawyer-debut}
+  {capo: 1}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{G}{320003}
+  \gtab{D}{XX0232}
+
+
+  \lilypond{Tom_Sawyer_1}
+
+  {start_of_chorus}
+    [C]Tom Sawyer, [F]c'est l'Amé[C]rique
+    Le [F]symbole [C]de la liber[G]té
+    Il est [C]né sur les bords du fleuve [F]Mississi[G]ppi
+    Tom Saw[C]yer c'est pour [F]nous tous [G]un a[C]mi
+  {end_of_chorus}
+
+  
+    Il est [G]toujours prêt pour ten[C]ter l'aventure
+    [G]Avec ses bons co[C]pains
+    Il n'a [G]peur de rien, c'est un [C]américain
+    [D]Il aime l'école, surtout quand elle est [G]loin
+  
+
+  {start_of_chorus}
+    Tom Sawyer, c'est l'Amérique
+    Pour tous ceux qui aiment la vérité
+    Il connaît les merveilles qui sont dans la forêt
+    Les chemins, les rivières et les sentiers
+  {end_of_chorus}
+
+  
+    Il a dans ses poches des objets fabuleux
+    Qu'il emporte avec lui
+    Trois bouts de ficelle, quelques pierres et du bois
+    Il les partage avec tous ses amis
+  
+
+  \lilypond{Tom_Sawyer_2}
+
+

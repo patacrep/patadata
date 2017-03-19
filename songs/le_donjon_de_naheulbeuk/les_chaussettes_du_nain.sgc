@@ -1,0 +1,19 @@
+{language: french}
+{columns: 2}
+\beginsong{Les chaussettes du nain}
+  [by={Le Donjon\ de\ Naheulbeuk},cov={grimoire-audio},album={Grimoire audio},%
+  url={http://www.penofchaos.com/warham/donjon-groupe.htm}]
+
+  {cover: grimoire-audio}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{G}{320003}
+
+  
+    Les [C]chaussettes du nain
+    Les [F]chaussettes du [C]nain
+    [C]Elles sont tellement bien
+    Qu'la chanson [G]est déjà fi[C]nie
+  
+
+

@@ -1,0 +1,67 @@
+{language: french}
+{columns: 2}
+\beginsong{10 sous dans ma poche}
+  [by={Le Donjon\ de\ Naheulbeuk},cov={machins-de-taverne},album={Machins de taverne},%
+  url={http://www.penofchaos.com/warham/donjon-groupe.htm}]
+
+  {cover: machins-de-taverne}
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+  \gtab{Em}{022000}
+  \gtab{F}{1:022100}
+  \gtab{E7}{020100}
+
+  \lilypond{10_sous_dans_ma_poche-1}
+
+  
+    J'ai [Am]{10 sous} dans ma [G]poche
+    J'ai [C]aucun ar[G]gent
+    \rep{4}
+  
+
+  {start_of_chorus}
+    Et tou[Am]jours gai gai
+    Et tou[Em]jours gaiement
+    [F]{Y'a} bien des gens
+    Dans [G]mon village
+    Qui n'en [C]ont [E7]pas [Am]tant
+    \rep{2}
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      J'ai 8 sous dans ma poche...
+    
+
+    
+      J'ai 6 sous dans ma poche...
+    
+
+    
+      J'ai 4 sous dans ma poche...
+    
+
+    
+      J'ai 2 sous dans ma poche...
+    
+
+    
+      J'ai pas d'sous dans ma poche
+      J'ai aucun argent
+    
+
+    {start_of_chorus}
+      Et mes [Am]poches sont vides
+      Et oui c'est [Em]emmerdant
+      [F]Car c'est le nain
+      Dans [G]mon village
+      Qui a [C]tout [E7]{l'ar}[Am]gent
+    {end_of_chorus}
+  \end{repeatedchords}
+
+  \lilypond{10_sous_dans_ma_poche-2}
+
+  \image[width=4cm]{\currfiledir nb_chest}
+
+

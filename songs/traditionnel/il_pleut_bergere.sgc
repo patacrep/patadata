@@ -1,0 +1,59 @@
+{language: french}
+{columns: 2}
+{title: Il pleut bergère}
+{artist: Traditionnel}
+{album: France}
+
+
+  {cover: traditionnel}
+  \gtab{G}{320003}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+
+  
+    Il [G]pleut, il pleut bergère
+    Presse tes [D]blancs mou[G]tons
+    [D]Allons sous ma chau[G]mière
+    Bergère, vite, al[D]lons
+  
+
+  \begin{verse*}
+    [D]J'entends sur le feuil[G]lage
+    [C]L'eau qui tombe [G]à grand [D]bruit
+    Voi[G]ci, voici l'o[C]rage
+    [G]Voilà l'é[D]clair qui [G]luit
+  \end{verse*}
+
+  \begin{repeatedchords}
+    
+      En[G]tends-tu le tonnerre ?
+      Il roule en [D]appro[G]chant
+      [D]Prends un abri, ber[G]gère
+      À ma droite, en mar[D]chant
+    
+
+    \begin{verse*}
+      [D]Je vois notre ca[G]bane
+      [C]Et, tiens, voi[G]ci ve[D]nir
+      Ma [G]mère et ma sœur [C]Anne
+      [G]Qui vont l'é[D]table ouv[G]rir
+    \end{verse*}
+
+    
+      Bon[G]soir, bonsoir, ma mère
+      Ma sœur [D]Anne, bon[G]soir
+      [D]J'amène ma ber[G]gère
+      Près de vous pour ce [D]soir
+    
+
+    \begin{verse*}
+      [D]Va te sécher, ma [G]mie
+      [C]Auprès de [G]nos ti[D]sons
+      Soeur, [G]fais-lui compa[C]gnie
+      [G]Entrez, pe[D]tits mou[G]tons
+    \end{verse*}
+  \end{repeatedchords}
+
+  \lilypond{Il_pleut_bergere}
+
+

@@ -1,0 +1,67 @@
+{language: french}
+{columns: 2}
+{title: Le chant du fou}
+{artist: Thiéfaine}
+{album: Tout corps vivant branché sur le secteur…}
+
+
+  {cover: tout-corps-vivant-branche-sur-le-secteur}
+  {capo: 3}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab*{Am/F#}{X04210}
+  \gtab{E}{022100}
+  \gtab{F#m}{2:022000}
+  \gtab{Bm}{2:X02210}
+  \gtab{A}{X02220}
+
+  
+    [D] Le fou a chanté dix-sept [Em]fois
+    [C] Les yeux croisés sur son perchoir
+    [Am/F#] Une vérité au bout des doigts
+    Une lampe entre les mâ[E]choires
+  
+
+  
+    [D] Le fou a chanté dix-sept [Em]fois
+    [C] Puis il est mort de désespoir
+    [Am/F#] Dans un champ de labiales carni[E]vores
+  
+
+  {start_of_chorus}
+    [F#m] Tous les tombeaux se sont ou[Bm]verts
+    Pour voir p[Em]asser le mort vain[A]queur
+    [F#m] L'alcool s'est figé sur ton [Bm]verre
+    Ta ciga[Em]rette tombe sur ton [A]cœur
+    [C] Et tu cherches une [Am/F#]vérité par-delà l'es[E]pace
+    [C] Ouais, tu cherches une [Am/F#]vérité par-delà l'es[E]pace
+  {end_of_chorus}
+
+  
+    [D] Un autre fou sort de son [Em]trou
+    [C] Les yeux recouverts de poussière
+    [Am/F#] De trois siècles passés chez Luci[E]fer
+  
+
+  
+    [D] Un autre fou sort de son [Em]trou
+    [C] Et vient respirer la lumière
+    [Am/F#] Qui gerce les murs d'Hangui-Tcheou
+    Comme un grand coup de cime[E]terre
+  
+
+  {start_of_chorus}
+    [F#m] Les feuilles tombent des co[Bm]cas
+    Et se ré[Em]pandent sur l'Occi[A]dent
+    [F#m] Demain [F#m] tu verras tous ces [Bm]petits alchimistes [Bm]
+    Pulvéri[Em]ser un conti[A]nent
+    [C] Et ta tête tombe [Am/F#] de son socle de [E]rêves
+    [C] Ouais, ta tête tombe [Am/F#] de son socle de [E]rêves \rep{3}
+  {end_of_chorus}
+
+  \begin{verse*}
+    \musicnote{\nolyrics [C Am/F{\shrp} E] \Adlib}
+  \end{verse*}
+
+

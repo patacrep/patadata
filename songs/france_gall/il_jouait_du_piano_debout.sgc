@@ -1,0 +1,72 @@
+{language: french}
+{columns: 2}
+{title: Il jouait du piano debout}
+{artist: Gall}
+{album: Paris -- France}
+
+
+  {cover: paris-france}
+  {capo: 1}
+  \gtab{D}{XX0232}
+  \gtab{A}{X02220}
+  \gtab{Bm}{2:X02210}
+  \gtab{G}{320003}
+  \gtab{F#}{2:022100}
+
+  
+    Ne [D]me dites pas que ce [A]garçon é[Bm]tait fou
+    [D]Il ne vivait pas [A]comme les autres [Bm]{c'est} tout
+    [G]Et pour quelles raisons étranges
+    [A]Les gens qui n'sont pas comme nous
+    Ça [Bm]nous dérange [A]
+  
+
+  
+    Ne me dites pas que ce garçon n'valait rien
+    Il avait choisi un autre chemin
+    Et pour quelles raisons étranges
+    Les gens qui pensent autrement
+    Ça nous dérange, ça nous dérange
+  
+
+  {start_of_chorus}
+    Il jou[D]ait du piano debout
+    C'est peut-[F#]être un détail pour vous
+    Mais pour [Bm]moi ça veut dire beaucoup
+    Ça veut [G]dire qu'il était libre
+    [A]Heureux d'être là, malgré tout
+  {end_of_chorus}
+
+  {start_of_chorus}
+    Il jouait du piano debout
+    Quand les trouillards sont à genoux
+    Et les soldats au garde à vous
+    Simplement sur ses deux pieds
+    Il voulait être lui, vous comprenez
+  {end_of_chorus}
+
+  
+    Il n'y a que pour sa musique qu'il était patriote
+    Il serait mort au champ d'honneur pour quelques notes
+    Et pour quelles raisons étranges
+    Les gens qui tiennent à leurs rêves
+    Ça nous dérange
+  
+
+  
+    Lui et son piano, ils pleuraient quelques fois
+    Mais c'est quand les autres n'étaient pas là
+    Et pour quelle raison bizarre
+    Son image a marqué ma mémoire
+    Ma mémoire
+  
+
+  {start_of_chorus}
+    Il jouait du piano debout
+    Il chantait sur des rythmes fous
+    Mais pour moi, ça veut dire beaucoup
+    Ça veut dire : {\og}Essaie de vivre
+    Essaie d'être heureux, ça vaut le coup{\fg}
+  {end_of_chorus}
+
+

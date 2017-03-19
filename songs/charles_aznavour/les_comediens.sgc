@@ -1,0 +1,67 @@
+{language: french}
+{columns: 2}
+{title: Les comédiens}
+{artist: Aznavour}
+{album: 40 chansons d'or}
+
+
+  {cover: 40-chansons-d-or}
+  {capo: 3}
+  \gtab{C}{X32010}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{G7}{320001}
+  \gtab*{E7}{020130}
+  \gtab{D7}{XX0212}
+
+  {start_of_chorus}
+    [C]Viens voir les comé[Am]diens, voir les musi[F]ciens
+    Voir les magi[G7]ciens, qui arrivent
+    [C]Viens voir les comé[Am]diens, voir les musi[F]ciens
+    Voir les magi[G7]ciens, qui arrivent
+    \rep{2}
+  {end_of_chorus}
+
+  
+    [C]Les comédiens ont instal[Am]lé leurs tréteaux
+    Ils ont dres[F]sé leur estrade et tendu [G7]des calicots
+    [C]Les comédiens ont parcou[Am]ru les faubourgs
+    Ils ont don[F]né la parade, à grand ren[G7]fort de tambour
+  
+
+  \begin{verse*}
+    [C]Devant l'église une rou[E7]lotte peinte en vert
+    A[Am]vec les [D7]chaises d'un thé[G7]âtre à ciel ouvert
+    [C]Et derrière eux, comme un cor[Am]tège en folie
+    Ils drainent [F]tout le pays [G7]les comé[C]diens
+  \end{verse*}
+
+  
+    Si vous voulez voir confondus les coquins
+    Dans une histoire un peu triste, où tout s'arrange à la fin
+    Si vous aimez voir trembler les amoureux
+    Vous lamenter sur Baptiste, ou rire avec les heureux
+  
+
+  \begin{verse*}
+    Poussez la toile et entrez donc vous installer
+    Sous les étoiles, le rideau va se lever
+    Quand les trois coups retentiront dans la nuit
+    Ils vont renaître à la vie, les comédiens
+  \end{verse*}
+
+  
+    Les comédiens ont démonté leurs tréteaux
+    Ils ont ôté leur estrade et plié les calicots
+    Ils laisseront au fond du cœur de chacun
+    Un peu de la sérénade et du bonheur d'Arlequin
+  
+
+  \begin{verse*}
+    Demain matin, quand le soleil va se lever
+    Ils seront loin, et nous croirons avoir rêvé
+    Mais pour l'instant, ils traversent dans la nuit
+    D'autres villages endormis, les comédiens
+  \end{verse*}
+
+

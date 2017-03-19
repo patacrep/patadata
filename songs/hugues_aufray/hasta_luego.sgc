@@ -1,0 +1,76 @@
+{language: french}
+{columns: 2}
+{title: Hasta luego}
+{artist: Aufray}
+{album: La Terre est si belle}
+
+
+  {cover: la-terre-est-si-belle}
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{Dm}{XX0231}
+  \gtab{C}{332010}
+  \gtab{E}{022100}
+
+  {start_of_chorus}
+    \musicnote{\Chorus 1}
+    Hasta [Am]luego !
+    [G]À bientôt si Dieu le [C]veut[E]
+    Hasta [Am]luego !
+    [G]On se reverra sous [C]peu[E]
+  {end_of_chorus}
+
+  
+    On a [Dm]trois mois
+    De réserve au fond des [E]cales
+    Allez, [Dm]les gars
+    On va hisser la grand'[E]voile
+  
+
+  {start_of_chorus}
+    \musicnote{\Chorus 2}
+    [Am]Laissez passer les en[G]fants
+    De la [C]nuit[E]
+    [Am]Ils vont chercher le grand [G]vent
+    De l'ou[C]bli[E]
+  {end_of_chorus}
+
+
+  
+    Toi qui n'as rien
+    Embarque-toi avec nous
+    Donne-moi la main
+    Viens, ta place est parmi nous
+  
+
+  \musicnote{\Chorus 1}
+
+  
+    Toi qui as peur
+    Cache-toi derrière mon bras
+    Car voici l'heure
+    Enfin d'être fier de toi
+  
+
+  \musicnote{\Chorus 2}
+
+  
+    Toi qui chantes
+    Regarde-moi dans les yeux
+    Suis ma route
+    Elle te mènera vers Dieu
+  
+
+
+  \musicnote{\Chorus 1}
+
+  
+    On a trois mois
+    De réserve au fond des cales
+    Allez, les gars
+    On va hisser la grand'voile
+  
+
+  \musicnote{\Chorus 2}
+
+

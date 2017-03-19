@@ -1,0 +1,38 @@
+{language: french}
+{columns: 2}
+\beginsong{Prends garde au loup}
+  [by={Belyscendre},cov={prends-garde-au-loup},album={Prends garde au loup},%
+  url={http://www.belyscendre.com}]
+
+  {cover: prends-garde-au-loup}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{Dm}{XX0231}
+  \gtab{G}{320003}
+
+  {start_of_chorus}
+    Prends garde au [Am]loup bergère
+    [F]Prends garde au [Am]loup~\rep{2}
+  {end_of_chorus}
+
+  
+    [Am]{Il est} au [Dm]bois qui re[G]garde, qui regarde
+    [Am]{Il est} au [Dm]bois qui re[G]garde tes mou[Am]tons
+  
+
+  {start_of_chorus}
+    C'est pas le loup bergère
+    C'est pas le loup~\rep{2}
+  {end_of_chorus}
+
+  
+    C'est les garçons et qui tournent et qui tournent
+    C'est les garçons et qui tournent autour de vous
+  
+
+  {start_of_chorus}
+    Prends garde au loup bergère
+    Prends garde au loup~\rep{2}
+  {end_of_chorus}
+
+

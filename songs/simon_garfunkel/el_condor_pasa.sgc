@@ -1,0 +1,42 @@
+{language: english}
+{columns: 2}
+{title: El condor pasa}
+{artist: Simon & Garfunkel}
+{album: The definitive}
+
+
+  {cover: the-definitive}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+
+
+  
+    I'd [Em]rather be a sparrow than a [G]snail
+    Yes I would, if I could, I surely [Em]would
+  
+
+  \begin{verse*}
+    I'd rather be a hammer than a nail
+    Yes I would, if I only could, I surely would
+  \end{verse*}
+
+  {start_of_chorus}
+    A[C]way, I'd rather sail away
+    Like a [G]swan that's here and gone
+    A [C]man gets tied up to the ground
+    He gives the [G]world its saddest sound
+    Its saddest [Em]sound
+  {end_of_chorus}
+
+  
+    I'd rather be a forest than a street
+    Yes I would, if I could, I surely would
+  
+
+  \begin{verse*}
+    I'd rather feel the earth beneath my feet
+    Yes I would, if I only could, I surely would
+  \end{verse*}
+
+

@@ -1,0 +1,62 @@
+{language: english}
+{columns: 2}
+{title: Pay me my money down}
+{artist: Springsteen}
+{album: We shall overcome}
+
+
+  {cover: we-shall-overcome}
+  \gtab{G}{320003}
+  \gtab{D}{XX0232}
+  \ifrepeatchords%
+  \gtab{B&}{1:X02220}
+  \gtab{F}{1:022100}
+  \fi%
+
+  
+    Well, I [G]thought I heard the captain say
+    ``Pay me my [D]money down
+    Tomorrow is my sailing day
+    Pay me my [G]money down''
+  
+
+  \begin{repeatedchords}
+    {start_of_chorus}
+      [G] Pay me, pay me
+      Pay me my [D]money down
+      Pay me or go to jail
+      Pay me my [G]money down
+    {end_of_chorus}
+
+    
+      [G]Soon as that boat was clear of the bar
+      Pay me my [D]money down
+      He knocked me down with the end of a spar
+      Pay me my [G]money down
+    
+
+    
+      Well [G]if I'd been a rich man's son
+      Pay me my [D]money down
+      I'd sit on the river and watch it run
+      Pay me my [G]money down
+    
+
+    \transposition{3}
+    
+      Well, I wish [G]{I was} Mr. Gates
+      Pay me my [D]money down
+      Haul my money in egg crates
+      Pay me my [G]money down
+    
+
+    \transposition{-3}
+    
+      Well, [G]40 nights, nights at sea
+      Pay me my [D]money down
+      Captain worked every last dollar out of me
+      Pay me my [G]money down
+    
+  \end{repeatedchords}
+
+

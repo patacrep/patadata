@@ -1,0 +1,94 @@
+{language: french}
+{columns: 2}
+{title: Rayon de soleil}
+{artist: Baldé}
+{album: En corps étranger}
+
+
+  {cover: william-balde-en-corps-etranger}
+  \gtab{G}{320030}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+  \gtab{E}{022100}
+  \gtab{A}{X02220}
+
+  \begin{verse*}
+    \musicnote{\Intro :\nolyrics{ | [G] | [D] | \rep{2} }}
+  \end{verse*}
+
+  
+    [G]Un rayon de so[D]leil
+    Dort sur tes cheveux lo[G]ngs
+    Sur nos corps de sei[D]gle
+    Et nous joue du v[G]iolon
+    \echo{Ouhouhou[D]h}
+  
+
+  \begin{repeatedchords}
+    
+      [G]Un rayon de so[D]leil
+      Sur le sommeil de pl[G]omb
+      Une guitare s[D]èche
+      Lou Reed à la mais[G]on
+      Hey babe take a walk on a wil[D]d side
+    
+  \end{repeatedchords}
+
+  {start_of_chorus}
+    [G]Un matin suspendu aux fleurs de ton jardin
+    [D]Ma main sur ton p'tit cul cherche le chemin
+    \rep{2}
+  {end_of_chorus}
+
+  \begin{repeatedchords}
+    
+      [G]Un rayon de sole[D]il
+      J'embrasse tes pieds sal[G]es
+      Un disque de M[D]arley
+      Joue {\og}No woman no c[G]ry{\fg}
+      No woman \echo{No woman}, no [D]woman no cry
+    
+  \end{repeatedchords}
+
+  \begin{bridge}
+    [C]Par la fenêtre ouverte
+    L'[G]air que nous respirons
+    [C]Ses petites poussières
+    Si p[D]âle d'émotions
+  \end{bridge}
+
+  \textnote{\Chorus}
+
+  \begin{repeatedchords}
+    
+      [G]Un rayon de sole[D]il
+      Sur ton si beau visa[G]ge
+      [G]Aux abeilles se mèl[D]ent
+      La voix de Bob Dyla[G]n
+      Knock, knock, knockin' on h[D]eaven's door
+    
+  \end{repeatedchords}
+
+  {start_of_chorus}
+    [G]Un matin suspendu aux fleurs de ton jardin
+    [D]Ma main sur ton p'tit cul cherche le chemin
+    [G]Un matin suspendu aux fleurs de ton jardin
+    [E]Ma main sur ton p'tit cul {\dots}
+  {end_of_chorus}
+
+  
+    [A]Un rayon de sole[E]il
+    Tu t'rhabilles pour de bo[A]n
+    J'te ramène par l[E]es tresses
+    À mon corps de garç[A]on
+    Yeah, yeah, yeah, yea[E]h
+  
+
+  {start_of_chorus}
+    [A]Un matin suspendu aux fleurs de ton jardin
+    [E]Ma main sur ton p'tit cul cherche le chemin
+    [A]Un matin suspendu aux fleurs de ton jardin
+    [E]Ma main sur ton p'tit cul
+  {end_of_chorus}
+
+

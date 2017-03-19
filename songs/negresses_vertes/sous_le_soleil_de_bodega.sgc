@@ -1,0 +1,72 @@
+{language: french}
+{columns: 2}
+{title: Sous le soleil de Bodega}
+{artist: Négresse vertes}
+{album: Le grand déballage}
+
+
+  {cover: le-grand-deballage}
+  \gtab{G}{3:022100}
+  \gtab{G#}{4:022100}
+  \gtab{Cm}{3:X02210}
+  \gtab{Fm}{1:022000}
+  \gtab{B&}{1:X02220}
+
+  {start_of_chorus}
+    [G]Aie, Bodega, Bodega [G# G]
+    [G]Chante nos joies et nos folies [G# G]
+    [G]Aie, Bodega, Bodega [G# G]
+    [G]Tu es l'étoile de nos nuits [G# G]
+  {end_of_chorus}
+
+  
+    Si tu as la cucara[Cm]cha
+    Sacrée bestiole, [G]cancrelat
+    Fais un pactole, li[Fm]gote-la
+    Au gré du vent, du [G]haut du mât
+  
+
+  \begin{verse*}
+    C'est un raz-de-marée que voi[Fm]là
+    Laïla laïla [G]la
+    N'hésitons pas, hissons-[Fm]la
+    Laïla laïla [G]la
+  \end{verse*}
+
+  
+    Elle se noiera, quel débarras
+    Car un vent d'fête nous fait savoir
+    Qu'une tempête va déferler
+    Sur la mer boire de Bodega
+  
+
+  \begin{verse*}
+    Tonnerre de Dieu, c'est Dyonisos
+    Bénis ma chair, bénis mes os
+    Tonnerre de Dieu, toi Dyonisos
+    Bénis ma chair, bénis mes os
+  \end{verse*}
+
+  {start_of_chorus}
+    [G]Aie, Bodega, Bodega [G# G]
+    [G]Brûle mon cœur et mes soucis [G# G]
+    [G]Il sera toujours midi [G# G]
+    Sous le soleil de Bode[B&]ga [G#]
+    Sous le soleil de Bode[G]ga
+  {end_of_chorus}
+
+  
+    Fou de bagou, l'plus beau des gars
+    Est à genoux au pastaga
+    J'entends hurler le Mellino
+    Sans picador, ni corrida
+  
+
+  \begin{verse*}
+    Lorsque tangua la sangria
+    Laïla laïla la
+    Succomba l'capitaine Tracas
+    Laïla laïla la
+  \end{verse*}
+
+

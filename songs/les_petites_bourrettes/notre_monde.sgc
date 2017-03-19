@@ -1,0 +1,69 @@
+{language: french}
+{columns: 2}
+{title: Notre monde}
+{artist: Petites Bourrettes}
+{album: Comme des rois}
+
+
+  {cover: comme-des-rois}
+  \gtab{Em}{7:X02210}
+  \gtab{D}{5:X02220}
+  \gtab{C}{3:X02220}
+  \gtab{G}{3:022100}
+  \gtab{Am}{5:022000}
+
+  \lilypond{Notre_monde}
+
+  
+    C'est vrai qu'il [Em]est beau notre monde
+    Les fusils tirent des colombes
+    Des feux de [D]joie \dots~seulement
+  
+
+  \begin{verse*}
+    On s'aime sous la Lune ronde
+    Et puis nos cœurs y vagabondent
+    On s'y embrasse \dots~tellement
+  \end{verse*}
+
+  \begin{verse*}
+    Qu'on peut arpenter toutes les routes
+    Et puis on passe entre les doutes
+    Bien accueillis \dots~partout
+  \end{verse*}
+
+  \begin{verse*}
+    Et sous les chapeaux des pontifes
+    Épouvantails décoratifs
+    Mis au rebut \dots~ben y'a des trous
+  \end{verse*}
+
+  {start_of_chorus}
+    {\nolyrics C G Am \rep{2}}
+  {end_of_chorus}
+
+  
+    C'est sûr qu'il est beau notre monde
+    Et que sous le soleil qui plombe
+    Dites-vous bien que toute peine est perdue
+  
+
+  \begin{verse*}
+    Car dans les salons comme on aime
+    Les chiens disent enfin des poèmes
+    Sans chute \dots~et suspendus
+  \end{verse*}
+
+  \begin{verse*}
+    On les écoute pour se taire
+    Se souvenant les révoltes d'hier
+    Tant que pourrissent \dots~nos armes
+  \end{verse*}
+
+  \begin{verse*}
+    Et ça fait un joyeux vacarme
+    Dans ce monde qui n'a pas de nom
+    Et que l'on appelle \dots~de nos vœux
+  \end{verse*}
+
+
