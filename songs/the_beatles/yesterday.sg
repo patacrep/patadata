@@ -1,7 +1,7 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Yesterday}
-  [by={The Beatles},cover={1},album={1}]
+  [by={The Beatles},cover={1},album={Help!}]
 
   \cover
   \gtab{C}{X32010}
@@ -13,7 +13,7 @@
 
   \begin{verse}
     \[C]Yesterday
-    \[Bm] All my \[E7]troubles seemed so \[Am]far away \[G]
+    \[Bm] All my \[E7]troubles seemed so \[Am]far away
     \[F]Now it \[G7]seems as though they're \[C]here to stay
     Oh, \[Am]I be\[D]lieve in \[F]yester\[C]day
   \end{verse}
