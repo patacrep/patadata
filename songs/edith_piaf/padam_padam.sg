@@ -9,6 +9,7 @@
   \gtab{Dm}{XX0231}
   \gtab{E7}{020100}
   \gtab{A}{X02220}
+  \gtab{A7}{X02020}
   \gtab{Em}{022000}
   \gtab{D}{XX0232}
   \gtab{C}{X32010}
@@ -22,11 +23,11 @@
   \end{verse}
   
   \begin{verse*}
-    Un \[A]jour cet air \[Em]me rendra \[A]folle
-    Cent \[A]fois j'ai vou\[Em]lu dire pour\[A]quoi
+    Un \[A]jour cet air \[Em]me rendra \[A]folle \[Em]
+    Cent \[A]fois j'ai vou\[Em]lu dire pour\[A]quoi \[A7]
     Mais \[D]il m'a cou\[Am]pé la par\[D]ole
     Il \[Am]parle tou\[D]jours avant \[E7]moi
-    \[Dm]Et sa \[E7]voix \[Dm]couvre ma \[E7]voix\[Dm C E7]
+    \[F]Et sa \[E7]voix \[F]couvre ma \[E7]voix\[Dm C E7]
   \end{verse*}
 
   \begin{chorus}
@@ -35,7 +36,7 @@
     Padam, padam, padam
     Il me fait le coup du {\og}souviens-\[Am]toi{\fg}
     Pad\[Am]am, padam, padam,
-    C'est un air qui me montre du \[Dm]doigt
+    C'est un air qui me \[A7]montre du \[Dm]doigt
     Et je traîne après moi comme une \[Am]drôle d'erreur
     Cet \[F]air qui \[E7]sait tout par \[Am]cœur
   \end{chorus}
