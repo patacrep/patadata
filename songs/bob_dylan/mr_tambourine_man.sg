@@ -4,88 +4,107 @@
   [by={Bob Dylan},cover={bringing-it-all-back-home},album={Bringing It All Back Home}]
 
   \cover
-  \gtab{C}{X32010}
+  \capo{3}
+  \gtab{A}{X01110}
   \gtab{D}{XX0232}
-  \gtab{G}{320003}
   \gtab{Em}{022000}
-  \gtab{D7}{XX0212}
+  \gtab{G}{320003}
+
+  \musicnote{Harmonica: F}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[D]}
+  \end{verse*}
 
   \begin{chorus}
-    \[C]Hey, Mr. \[D]Tambourine Man
-    \[G]Play a song for \[Em]me
-    I'm not sl\[G]eepy
-    And there \[C]ain't no place I'm g\[D]oing to
+    \[G]Hey, Mister \[A]Tambourine Man
+    \[D]Play a song for \[G]me
+    I'm not \[D]sleepy
+    And there \[G]is no \[Em]place I'm \[A]going to
   \end{chorus}
 
   \begin{chorus}
-    \[C]Hey, Mr. \[D]Tambourine Man
-    \[G]Play a song for \[Em]me
-    In the \[G]jingle jangle \[C]morning
-    I'll come \[D7]following \[G]you
+    \[G]Hey, Mister \[A]Tambourine Man
+    \[D]Play a song for \[G]me
+    In the \[D]jingle jangle \[G]morning
+    \[Em]I'll come \[A]following \[D]you
   \end{chorus}
 
   \begin{verse}
-    Though I \[C]know that evenings \[D7]empire
-    Has re\[G]turned into \[Em]sand
-    Van\[G]ished from my \[Em]hand
-    Left me \[G]blindly here to \[C]stand
-    But still not \[D7]sleeping
+    Though I \[G]know that evenin's \[A]empire
+    Has \[D]returned into \[G]sand
+    \[D]Vanished from my \[G]hand
+    Left me \[D]blindly here to \[G]stand
+    But \[Em]still not \[A]sleeping
   \end{verse}
 
   \begin{verse*}
-    My weariness amazes me
-    I'm branded on my feet
-    I have no one to meet
-    And the ancient empty street's
-    Too dead for dreaming
+    My \[G]weariness a\[A]mazes me
+    I'm \[D]branded on my \[G]feet
+    I \[D]have no one to \[G]meet
+    And the \[D]ancient empty \[G]street's
+    Too \[Em]dead for \[A]dreaming
   \end{verse*}
 
-  \begin{verse}
-    Take me on a trip upon your magic swirling ship
-    My senses have been stripped
-    My hands can't feel to grip
-    My toes too numb to step
-    Wait only for my boot-heels to be wandering
-  \end{verse}
+  \begin{repeatedchords}
+    \begin{verse}
+      \[G]Take me on a \[A]trip upon
+      Your \[D]magic swirlin' \[G]ship
+      My \[D]senses have been \[G]stripped
+      My \[D]hands can't feel to \[G]grip
+      My \[D]toes too numb to \[G]step
+      Wait \[D]only for my \[G]boot heels
+      \[Em]To be \[A]wanderin'
+    \end{verse}
 
-  \begin{verse*}
-    I'm ready to go anywhere
-    I'm ready for to fade
-    Into my own parade
-    Cast your dancing spell my way
-    I promise to go under it
-  \end{verse*}
+    \begin{verse*}
+      I'm \[G]ready to go \[A]anywhere
+      I'm \[D]ready for to \[G]fade
+      In\[D]to my own pa\[G]rade
+      Cast your \[D]dancing spell my \[G]way
+      I pro\[Em]mise to go \[A]under it
+    \end{verse*}
 
-  \begin{verse}
-    Though you might hear laughing, spinning
-    Swinging madly through the sun
-    It's not aimed at anyone
-    It's just escaping on the run
-    And but for the sky there are no fences facing
-  \end{verse}
+    \begin{verse}
+      Though you \[G]might hear laughin', \[A]spinnin', swingin'
+      \[D]Madly across the \[G]sun
+      It's not \[D]aimed at any\[G]one
+      It's just es\[D]caping on the \[G]run
+      And but \[D]for the sky there \[G]are
+      No \[Em]fences \[A]facin'
+    \end{verse}
 
-  \begin{verse*}
-    And if you hear vague traces of skipping reels of rhyme
-    To your tambourine in time
-    It's just a ragged clown behind
-    I wouldn't pay it any mind
-    It's just a shadow you're seeing that he's chasing
-  \end{verse*}
+    \begin{verse*}
+      And \[G]if you hear vague \[A]traces of
+      \[D]Skippin' reels of \[G]rhyme
+      To your \[D]tambourine in \[G]time
+      It's just a \[D]ragged clown be\[G]hind
+      I wouldn't \[D]pay it any \[G]mind
+      It's just a \[D]shadow you're \[G]seeing
+      That \[Em]he's ch\[A]asing
+    \end{verse*}
 
-  \begin{verse}
-    Take me disappearing through the smoke rings of my mind
-    Down the foggy ruins of time
-    Far past the frozen leaves
-    The haunted frightened trees
-    Out to the windy beach
-  \end{verse}
+    \begin{verse}
+      Then \[G]take me disap\[A]pearin' through
+      The \[D]smoke rings of my \[G]mind
+      Down the \[D]foggy ruins of \[G]time
+      Far \[D]past the frozen \[G]leaves
+      The \[D]haunted, frightened \[G]trees
+      \[D]Out to the windy \[G]beach
+      Far \[D]from the twisted \[G]reach
+      Of \[Em]crazy \[A]sorrow
+    \end{verse}
 
-  \begin{verse*}
-    Far from the twisted reach of crazy sorrow
-    Yes to dance beneath the diamond sky with one hand waving free
-    Silhouetted by the sea
-    Circled deep beneath the waves
-    Let me forget about today until tomorrow
-  \end{verse*}
+    \begin{verse*}
+      \[G]Yes to dance beneath the \[A]diamond sky
+      With \[D]one hand waving \[G]free
+      Silhou\[D]etted by the \[G]sea
+      Circled \[D]by the circus \[G]sands
+      With all \[D]memory and \[G]fate
+      Driven \[D]deep beneath the \[G]waves
+      Let me \[D]forget about to\[G]day
+      Un\[Em]til tom\[A]orrow
+    \end{verse*}
+  \end{repeatedchords}
 
 \endsong
