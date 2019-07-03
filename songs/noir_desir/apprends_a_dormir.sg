@@ -1,0 +1,66 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Apprends à dormir}
+  [by={Noir\ Désir},album={Veuillez rendre l'âme}]
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{Em}{022000}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+
+  \begin{verse*}
+    \musicnote{\Intro : \nolyrics{ \[Am] \[G] \[Em] \rep{2} }}
+  \end{verse*}
+
+  \begin{verse}
+    Il se \[Am]passe \[G]des \[Em]heures ici
+    sans \[Am]que rien \[G]ne troue \[Em]l'ennui
+    \[Am]comme le t\[G]emps qui \[Em]coule essaie
+    de \[D]nous as\[G]sassi\[Em]ner
+  \end{verse}
+
+\begin{repeatedchords}
+\begin{verse}
+    A genoux sous la lune
+    Ou quand le soleil enclume
+    Comment se retendent les nerfs
+    Des revolutionnaires ?
+\end{verse}
+
+\begin{verse}
+    Et comme les illusions croulent
+    Je pouvais pleurer tout mon soul
+    Attendons seulement le soir
+    Personne ne peut nous voir
+\end{verse}
+
+\begin{chorus}
+    \[D]Apprends a dormir
+    \[C]Glisse lentement
+    \[D]Sans reflechir
+    \[C]Mais n'me demand\[Em]e pas comment
+\end{chorus}
+
+\begin{verse}
+    Oh, ton ame est lasse
+    Elle a du trop revoir helas...
+    Les memes choses et les memes gens
+    Et toujours comme avant
+\end{verse}
+
+\begin{verse}
+    Ici quelque part en france
+    En attendant l'echeance
+    Certains n'eprouvent ni fierte
+    Ni honte a etre nes
+\end{verse}
+
+\begin{chorus}
+    Apprends a dormir
+    Glisse lentement
+    Sans reflechir
+    Mais n'me demande pas comment
+\end{chorus}
+\end{repeatedchords}
+\endsong
