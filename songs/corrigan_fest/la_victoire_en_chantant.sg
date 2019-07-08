@@ -1,0 +1,52 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La victoire en chantant}
+  [by={Corrigan\ Fest},cover={la_victoire_en_chantant},album={La Victoire en chantant}]
+
+  \cover
+
+  \begin{verse}
+    Je me souviens encore, il y a toute une vie
+    Par-delà l'océan, au pied des Pyrénées
+    Là-bas les maquisards résistaient dans la nuit
+    Et résonnaient en choeur les chants des insurgés
+    \echo{Ohoho}, La victoire en chantant \rep{2}
+  \end{verse}
+
+  \begin{chorus}
+    Allez, allez, la victoire en chantant
+    Ignore le goût des larmes, ignore le goût du sang
+    N'entends-tu pas au loin le chant des partisans ?
+    Elle est à nous maintenant
+    Elle est à nous, la victoire en chantant
+  \end{chorus}
+
+  \begin{verse}
+    Si ici on a faim dans les rues de la ville
+    Là-bas ils torturent, emprisonnent et fusillent
+    Mais pour chacun de nous c'est la même misère
+    Et partout la famine a ce goût de colère
+  \end{verse}
+
+  \begin{verse*}
+    D'Europe ou d'Amérique, des villes et des campagnes
+    Répondant à l'appel des résistants d'Espagne
+    Venus soutenir la lutte contre la tyrannie
+    Pour une Espagne libre que l'armée a trahie
+  \end{verse*}
+  
+  \begin{verse}
+    Moscou nous a trahis et Londres abandonnés
+    Et le reste du monde, le dos nous a tourné
+    Allez, frères d'armes, combattants sans drapeaux
+    Devenus clandestins, restent nos idéaux
+  \end{verse}
+
+  \begin{verse*}
+    Allez, Mac-Paps, si la nuit est tombée
+    Sur une Europe chancelante où l'Espagne a croulé
+    Il reste encore l'espoir que tout n'est pas perdu
+    Contre la dictature, le combat continue
+  \end{verse*}
+
+\endsong
