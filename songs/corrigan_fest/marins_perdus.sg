@@ -1,0 +1,43 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Marins Perdus}
+  [by={Corrigan\ Fest},cover={la_victoire_en_chantant},album={La Victoire en chantant}]
+
+  \cover
+
+  \begin{verse}
+    Voyez les qui marchent dans les rues
+    Tels des camarades, bras dessous, bras dessus
+    Rois des mers et princes de la rue
+    Saluez biens bas les marins perdus
+  \end{verse}
+  
+  \begin{verse}
+    Pour certains, la vie est triste et morne
+    Mais pour les marins qui la vivent sans bornes
+    Malgré tous les espoirs déçus
+    Jamais ne regrettent les marins perdus
+  \end{verse}
+  
+  \begin{chorus}
+    Ohé ! \echo{Ohé !} \rep{3}
+    Les marins perdus
+    Ohé ! \echo{Ohé !} \rep{3}
+    Les marins perdus
+  \end{chorus}
+
+  \begin{verse}
+    Un beau jour ils se sont faits marins
+    Le monde est à eux bien qu'ils ne possèdent rien
+    Jamais ils ne s'avoueront vaincus
+    Ils n'ont peur de rien, c'est les marins perdus
+  \end{verse}
+  
+  \begin{verse}
+    Si le ciel sème en nous le doute
+    Si le vent se lève et nous barre la route
+    Si la mer veut lutter avec nous
+    Qu'à cela ne tienne, nous rendrons coups pour coups
+  \end{verse}
+
+\endsong

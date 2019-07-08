@@ -1,0 +1,52 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{File la laine}
+  [by={Robert Marcy},album={1957}]
+  
+  \gtab{Am}{X02210}
+  \gtab{B7}{X21202}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+
+  \begin{verse}
+    \[Em]Dans la chanson de nos pères,
+    Monsieur de Malbrough est mort.
+    Si c'é\[G]tait un pauvre hère,
+    On n'en dira\[D]it rien en\[Em]core.
+    Mais la dame \[Am] à sa fenêtre,
+    \[Em]Pleurant sur \[D]son trist\[Em]e sort,
+    Dans mille \[Am] ans, deux mille peut-être,
+    \[Em]Se désolera \[B7]enco\[Em]re.
+  \end{verse}
+
+  \begin{chorus}
+    \[Em]File la laine, \[B7]filent le\[Em]s jours
+    \[G]Garde ma pei\[D]ne et \[G]mon amour.
+    \[Am]Livre d'im\[Em]ages, de\[Am]s rêv\[Em]es lourds
+    \[B7]Ouvre la \[Em]page à l'\[B7]éternel \[Em]retour.
+  \end{chorus}
+
+  \begin{verse}
+    Hénins aux rubans de soie,
+    Chanson bleue des troubadours,
+    Regret des festins de joie,
+    Ou fleur du joli tambour,
+    Dans la grande cheminée
+    S'éteint le feu du bonheur,
+    Car la dame abandonnée,
+    Ne retrouvera son coeur.
+  \end{verse}
+  
+  \begin{verse}
+    Croisés des grandes batailles,
+    Sachez vos lances manier,
+    Ajustez cottes de mailles,
+    Armures et boucliers,
+    Si l'ennemi vous assaille,
+    Gardez vous de trépasser,
+    Car derrière vos murailles,
+    On attend sans se lasser.
+  \end{verse}
+  
+\endsong
