@@ -1,0 +1,56 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Temps des cerises}
+  [by={Yves Montand},cover={chansons_populaires},album={Chansons populaires de France},original={Jean Baptiste Clément (paroles), Antoine Renard (musique)}]
+
+  \cover
+  \gtab{Am7}{X02010}
+  \gtab{C}{X32010}
+  \gtab{C7}{X32310}
+  \gtab{Dm}{XX0231}
+  \gtab*{D9}{XX0210}
+  \gtab{Em}{022000}
+  \gtab{F}{1:XX3211}
+  \gtab{G7}{320001}
+
+  \begin{verse}
+    \[C]Quand nous chante\[Dm]rons le temps des cerises
+    Et \[Em]gai rossignol et me\[F]rle moqueur
+    Se\[C]ront \[D9]tous en \[G7]fê - \[C]ê - \[C7]te.
+    Les \[F]belles auront la folie en \[C]tête
+    Et \[Em]les amou\[Am7]reux du so\[D9]leil au \[G7]cœur
+    Quand \[C]nous chanterons le te\[Dm]mps des cerises,
+    Siff\[C]lera bien mi\[D9]eux le me\[G7]rle mo\[C]queur. 
+  \end{verse}
+
+  \begin{verse}
+    Mais il est bien court le temps des cerises,
+    Où l'on s'en va deux cueillir en rêvant
+    Des pendants d'oreilles.
+    Cerises d'amour aux robes pareilles,
+    Tombant sous la feuille en gouttes de sang.
+    Mais il est bien court le temps des cerises,
+    Pendants de corail qu'on cueille en rêvant.
+  \end{verse}
+  
+  \begin{verse}
+    Quand vous en serez au temps des cerises,
+    Si vous avez peur des chagrins d'amour,
+    Évitez les belles.
+    Moi qui ne crains pas les peines cruelles,
+    Je ne vivrai pas sans souffrir un jour
+    Quand vous en serez au temps des cerises
+    Vous aurez aussi des chagrins d'amour.
+  \end{verse}
+  
+  \begin{verse}
+    J'aimerai toujours le temps des cerises;
+    C'est de ce temps-là que je garde au cœur
+    Une plaie ouverte.
+    Et Dame Fortune, en m'étant offerte,
+    Ne pourra jamais fermer ma douleur
+    J'aimerai toujours le temps des cerises
+    Et le souvenir que je garde au cœur.
+  \end{verse}
+
+\endsong

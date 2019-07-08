@@ -1,0 +1,77 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Galérien}
+  [by={Yves Montand},cover={dernieres_creations},album={Yves Montand chante ses dernières créations},original={Maurice Druon (paroles), Léo Poll (musique)}]
+
+  \cover
+  \gtab{A7}{X02020}
+  \gtab{C7}{X32310}
+  \gtab{Dm}{XX0231}
+  \gtab{F}{1:XX3211}
+  \gtab*{F#m7}{2:242222}
+  \gtab{G7}{320001}
+  \gtab*{Gm}{2:244222}
+
+  \begin{verse}
+    \[F]Je m'souviens, ma \[C7]mère m'aimait
+    Et je suis aux \[F]galè\[A7]res
+    \[Dm]Je m'souviens, ma \[A7]mère disait
+    Mais je n'ai pas cru \[Dm]ma mè\[C7]re
+    \[F]Ne traîne \[F#m7]pas dans \[C7]les ruisseaux
+    T'bats pas comme un sa\[F]uvag\[A7]e
+    \[Dm]T'amuse \[G7] pas comm\[A7]e les oiseaux
+    \[Dm]Elle me dis\[Gm]ait d\[Dm]'être \[A7]sage\[Dm].
+  \end{verse}
+
+  \begin{verse}
+    J'ai pas tué, j'ai pas volé
+    J'voulais courir ma chance
+    J'ai pas tué, j'ai pas volé
+    J'voulais qu'chaque jour soit dimanche
+    Je m'souviens, ma mère pleurait
+    Dès qu'je passais la porte
+    Je m'souviens comme elle pleurait
+    Elle voulait pas que je sorte. 
+  \end{verse}
+  
+  \begin{verse}
+    Toujours, toujours elle disait
+    T'en va pas chez les filles
+    Fais donc pas toujours c'qui t'plaît
+    Dans les prisons y'a des grilles.
+    J'ai pas tué, j'ai pas volé
+    Mais j'ai cru Madeleine
+    J'ai pas tué, j'ai pas volé
+    J'voulais pas lui faire de peine.
+  \end{verse}
+  
+  \begin{verse}
+    Je m'souviens, ma mère disait
+    Suis pas les Bohémiennes
+    Je m'souviens comme elle disait
+    On ramasse les gens qui traînent
+    Un jour, les soldats du roi
+    T'emmèn'ront aux galères
+    Tu t'en iras trois par trois
+    Comme ils ont emmené ton père.
+  \end{verse}
+  
+  \begin{verse}
+    Tu auras la tête rasée
+    On te mettra des chaînes
+    T'en auras les reins brisés
+    Et moi, j'en mourrai de peine
+    Toujours, toujours tu ram'ras
+    Quand tu s'ras aux galères
+    Toujours, toujours tu ram'ras
+    Tu pens'ras p't'être à ta mère.
+  \end{verse}
+  
+  \begin{verse}
+    J'ai pas tué, j'ai pas volé
+    Mais j'ai pas cru ma mère
+    Et je m'souviens qu'elle m'aimait
+    Pendant que j'rame aux galères.
+  \end{verse}
+
+\endsong
