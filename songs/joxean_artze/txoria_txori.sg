@@ -1,0 +1,28 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Txoria txori \\ Hegoak}
+  [by={Mikel Laboa}, original={Joxean Artze (paroles)}]
+
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+  \gtab{Em}{022000}
+
+  \begin{verse*}
+    \[Em]Hegoak ebaki ba\[G]nizkio
+    Neu\[D]ria izango \[Em]zen
+    Ez \[D]zuen aldegin\[Em]go \rep{2}
+  \end{verse*}
+
+  \begin{verse*}
+    \[Em]Bainan hone\[G]la
+    Ez \[Em]zen gehiago txo\[G]ria izan\[D]go \rep{2}
+  \end{verse*}
+
+  \begin{verse*}
+    Eta \[Em]nik
+    Txo\[D]ria nuen mai\[Em]te 
+    Eta \[Em]nik, eta \[G]nik
+    Txo\[D]ria nuen mai\[Em]te
+  \end{verse*}
+
+\endsong
