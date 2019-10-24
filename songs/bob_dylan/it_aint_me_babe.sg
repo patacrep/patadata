@@ -1,0 +1,64 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{It ain't me, babe}
+  [by={Bob Dylan},cover={another-side-of-bob-dylan},album={Another Side of Bob Dylan}]
+
+  \cover
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+
+  \begin{verse}
+    \[G]Go 'way from my \[C]window
+    \[G]Leave at your \[D]own chosen \[G]speed \[C G]
+    \[G]{I'm} not the one you \[C]want, babe
+    I'm \[G]not the \[D]one you \[G]need \[C G]
+  \end{verse}
+
+  \begin{verse*}
+    You \[Bm]say you're lookin' \[Am]for someone
+    Who's never \[Bm]weak but always \[Am]strong
+    To pro\[Bm]tect you and de\[Am]fend you
+    Whether \[Bm]you are right or \[Am]wrong
+    Some\[C]one to open each and every \[D]door
+  \end{verse*}
+
+  \begin{chorus}
+    But it ain't \[G]me, babe
+    \[C]No, no, \[D]no, it ain't \[G]me, babe
+    It ain't \[C]me you're \[D]lookin' \[G]for, babe
+    \nolyrics \[G - C - G D7 - G - C - G]
+  \end{chorus}
+
+  \begin{verse}
+    Go lightly from the ledge babe
+    Go lightly on the ground
+    I'm not the one you want, babe
+    I will only let you down
+  \end{verse}
+
+  \begin{verse*}
+    You say you're lookin' for someone
+    Who'll promise never to part
+    Someone to close his eyes for your
+    Someone to close his heart
+    Someone who will to die for you and more
+  \end{verse*}
+
+  \begin{verse}
+    Go melt back in the night
+    Everything inside is made of stone
+    There's nothing in here moving
+    An' anyway I'm not alone
+  \end{verse}
+
+  \begin{verse*}
+    You say you're lookin' for someone
+    Who'll pick you up each time you fall
+    To gather flowers constantly
+    And to come each time you call
+    A lover for your life and nothin' more
+  \end{verse*}
+
+\endsong
