@@ -1,0 +1,107 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Confessions d'un never been}
+  [by={Hubert-Félix Thiéfaine},cover={scandale-melancolique},album={Scandale mélancolique}]
+
+  \cover
+  \gtab{Dm}{XX0231}
+  \gtab{B&}{2:X02220}
+  \gtab{F}{1:022100}
+  \gtab{A7}{X02020}
+  \gtab{Gm}{3:022000}
+  \gtab{C}{X32010}
+  \gtab{Cm}{3:X02210}
+  \gtab{D}{XX0232}
+  \gtab{D7}{XX0212}
+
+  \begin{verse*}
+    \musicnote{\Intro : \nolyrics \[Dm B{\flt} F A7] \times{2}}
+  \end{verse*}
+
+  \begin{verse}
+    \[Dm] Les joyeux éboueu\[B&]{rs des} âmes délabré\[F]es
+    Se vautrent dans l'algè\[A7]{bre des} mélancoli\[Dm]es \[B& F]
+    \[A7] Traînant leurs métasta\[Dm]{ses de} rêve karchéris\[B&]é
+    Entre les draps poisse\[F]ux \[A7] des siècles d'insomni\[Dm]e \[B& F]
+
+    \[A7] Ça sent la vieille gueni\[Gm]{lle et} l'épicier cafa\[D7]rd
+    Dans ce chagrin des g\[Gm]landes \[A7] qu'on appelle l'Amo\[Dm]ur \[B& F]
+    \[A7] Où les noirs funamb\[Dm]ules \[B&] du vieux cirque barb\[Gm]are \[D7]
+    \[Gm] Se pissent dans le f\[A7]{roc en} riant de leurs \[Dm]tours \[B& F F D D]
+  \end{verse}
+
+  \begin{chorus}
+    J'ai volé mon \[Am]{âme à un clown}
+    \[C] Un cloclo mécan\[G]ique du rock'n'roll cart\[D]oon
+    J'ai volé mon \[Am]{âme à un clown}
+    \[C] Un clone au cœur de c\[G]ône du rêve baby bab\[D]oon
+    J'ai volé mon \[Am]â-\[C]â-\[G]âme à un c\[Dm]lown \[B& F A7]
+  \end{chorus}
+
+  \begin{verse}
+    \begin{repeatedchords}
+      \[Dm] Je rêve d'être flamb\[B&]{é au-dessus} du Vés\[F]uve
+      Et me défonce au g\[A7]{az échappé} d'un dies\[Dm]el \[B& F]
+      \[A7] À la manu\[Dm]facture métaphys\[B&]ique d'effluves
+      Où mes syn\[F]apses explosent \[A7] en millions d'étinc\[Dm]elles \[B& F]
+
+      \[A7] Reflets de flammes en f\[Gm]leurs dans les yeux du chev\[D7]al
+      Que j'embrasse à Tu\[Gm]rin \[A7] pour en faire un compl\[Dm]ice \[B& F]
+      I\[A7]-ivre de prolix\[Dm]ine \[B&] et d'acide cortic\[Gm]al \[D7]
+    \end{repeatedchords}
+    \[Gm] Je dégaine mon Wal\[A7]{ter PPK} de serv\[Dm]ice \[B& D D]
+    \end{verse}
+
+  \begin{chorus}
+    \begin{repeatedchords}
+      J'ai volé mon \[Am]{âme à un clown}
+      \[C] Un cloclo mécan\[G]ique du rock'n'roll cart\[D]oon
+      J'ai volé mon \[Am]{âme à un clown}
+      \[C] Un clone au cœur de c\[G]ône du rêve baby bab\[D]oon
+    \end{repeatedchords}
+    \[Am] J'ai volé mon \[C]â-\[G]âme à un c\[Dm]lown \[F C G]
+    \dots{} à un c\[Dm]lown \[F C G]
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{\Bridge : \nolyrics \[Dm F C G] \times{2}}
+  \end{verse*}
+
+  \begin{verse}
+    \begin{repeatedchords}
+      \[Dm]Bien vibré, bien rel\[B&]{ax en} un tempo laid b\[F]ack
+      Rasta lunaire bais\[A7]{ant la} main d'Oméga Qu\[Dm]een \[B& F]
+      \[A7] Je crache dans ma t\[Dm]{ête les} vapeurs d'ammoni\[B&]aque
+      D'un sturm und drang sans f\[F]in, \[A7]{au bout} du never-b\[Dm]een \[B& F]
+
+      \[A7] Fac-similé d'am\[Gm]{our et} de tranquillis\[D7]ants
+      Dans la clarté chim\[Gm]ique \[A7]{de ma} nuit carcér\[Dm]ale \[B& F]
+      \[A7] Je suis l'évêque étr\[Dm]usque, \[B&] un lycanthrope err\[Gm]ant \[D7]
+    \end{repeatedchords}
+    \[Gm] Qui patrouille dans le g\[A7]{el obscur} de mon ment\[Dm]al \[B& F F D D]
+  \end{verse}
+
+  \begin{chorus}
+    \begin{repeatedchords}
+      J'ai volé mon \[Am]{âme à un clown}
+      \[C] Un cloclo mécan\[G]ique du rock'n'roll cart\[D]oon
+      J'ai volé mon \[Am]{âme à un clown}
+      \[C] Un clone au cœur de c\[G]ône du rêve baby bab\[D]oon
+    \end{repeatedchords}
+    J'ai volé mon \[Am]â-\[C]â-\[G]âme à un c\[Dm]lown \[F C G]
+    \dots{} à un c\[Dm]lown \[F C G]
+  \end{chorus}
+
+  \begin{chorus}
+    J'ai volé mon \[Am]{âme à un clown}
+    \[C] Un cloclo mécan\[G]ique du rock'n'roll cart\[D]oon
+    \[Am] J'ai volé mon \[C]â-\[G]âme à un c\[Dm]lown \[F]
+    \[C] J'ai volé mon \[G]{âme à} un clown\[Dm F C G Dm F]
+    \[C] J'ai volé mon \[G]{âme à} un clown\[Dm F C G]
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{\nolyrics \[Dm F C G] \Adlib{}}
+  \end{verse*}
+
+\endsong
