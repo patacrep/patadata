@@ -1,0 +1,60 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{P'tit bonhomme}
+  [by={Les Ogres\ de\ Barback},cover={rue-du-temps},album={Rue du temps},%
+  url={http://www.lesogres.com}]
+
+  \cover
+  \gtab{Cm}{3:X02210}
+  \gtab{Bb}{X13XXX}
+  \gtab{G}{320003}
+
+  \begin{verse}
+    \[Cm]Aïe, aïe, aïe, c'est une \[Bb]{histoire}. C'est une histoire \[Eb]{terrible} que l'on me \[G]{chantait}.
+    Aïe, aïe, aïe, c'est une chanson. C'est une chanson horrible que l'on me racontait.
+  \end{verse}
+
+  \begin{verse}
+    P'tit bonhomme, p'tit bonhomme se promène, se promène
+    Comme dans toutes les chansons dans une rue endormie.
+  \end{verse}
+
+  \begin{verse}
+    P'tit bonhomme, p'tit bonhomme l'aime, oh oui il l'aime.
+    Il ne sait même pas son nom cette fille est si jolie.
+    Il f'rait tout, tout pour la rencontrer. Mais il le sait :
+    Dans cette ville y'a une loi soit t'es pauvre soit bourgeois.
+  \end{verse}
+
+  \begin{verse}
+    \[Cm]{P'tit} bonhomme, p'tit bonhomme le \[Bb]{sait} : Chaque seconde où il \[Eb]{croise}
+    Sa silhouette au \[Eb]{hasard} il n'ose pas un \[G]{regard}, cette fille est une bourgeoise.
+  \end{verse}
+
+  \begin{verse}
+    P'tit bonhomme, p'tit bonhomme n'ose pleurer, chez lui ça n'se fait pas,
+    On n'écrit pas je t'aime sur une lettre où il y a des coeurs, des fleurs, des poèmes.
+    P'tit bonhomme, p'tit bonhomme en a marre, lui tout c'qu'on lui a laissé
+    C'est ça gueule de paumé ; cette fille est une déesse, ses yeux sont une richesse.
+  \end{verse}
+
+  \begin{verse}
+    P'tit bonhomme, p'tit bonhomme voudrait bien, avec sa gueule de chien
+    Et l'succès qu'on a fait, il va tout massacrer.
+  \end{verse}
+
+  \begin{verse}
+    \[Cm]Aïe, aïe, aïe, c'est une \[Bb]{histoire}. C'est une histoire \[Eb]{terrible} que l'on me \[G]{chantait}.
+    Aïe, aïe, aïe, c'est une chanson. C'est une chanson horrible que l'on me racontait.
+  \end{verse}
+
+  \begin{verse}
+    P'tit bonhomme, p'tit bonhomme a mal... Oh, oh, oh, oh... Un couteau entre ses mains.
+    P'tit bonhomme, c'est trop banal, oh, oh, oh, oh... Mais c'est la fin...
+  \end{verse}
+
+  \begin{verse}
+    Il \[Cm]{pleure}.
+  \end{verse}
+
+\endsong
