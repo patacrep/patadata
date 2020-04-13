@@ -8,8 +8,8 @@
   \gtab{E}{022100}
   \gtab{C}{032010}
   \gtab{G}{320003}
-  \gtab{Dsus2}{002230}
-  \gtab{D9}{032030}
+  \gtab*{Dsus2}{002230}
+  \gtab*{D9}{032030}
 
   \begin{chorus}
     \[Am]
