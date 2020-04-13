@@ -1,0 +1,70 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Ernestine}
+  [by={Noir\ Désir},cov={666-667-club},album={666-667 Club}]
+  \cover
+  \gtab{F}{1:022100}
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{Em}{022000}
+
+  \begin{verse*}
+    \musicnote{\Intro : \nolyrics{ \[Am] \[F] \[G] \[Am]\rep{2} }}
+  \end{verse*}
+
+  \begin{verse}
+    Ernest\[F]ine
+    J'en ai c\[G]onnu des comme \[Am]toi
+    Un peu plus f\[F]ines
+    Un peu m\[G]oins sûres de leur l\[Am]oi \[G]
+    Un de pl\[Am]us \[G]
+    C'est dans les \[Am]us \[G]
+    Du pays d\[F]es sortil\[G]èges
+  \end{verse}
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Parfums de Ch\[F]ine
+    Ou bien \[G]de n'importe qu\[Am]oi
+    Et ton Aust\[F]in
+    Qui of course\[G] ne démarre p\[Am]as \[G]
+    Dors c'est m\[Am]ieux \[G]
+    Ou cherche des \[Am]yeux \[G]
+    Le prochain c\[F]lown qui te gu\[G]ette
+  \end{verse}
+\end{repeatedchords}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{Pont : \nolyrics{ \[Am] \[F] \[G] \[E] \[Am]\rep{2} }}
+  \end{verse*}
+
+\begin{repeatedchords}
+  \begin{verse}
+    Ernest\[F]ine
+    Les places s\[G]ont chères ici-b\[Am]as
+    Le chant des c\[F]imes
+    S'atteint \[G]ou ne s'atteint p\[Am]as \[G]
+    Passe les nui\[Am]ts \[G]
+    Chasse les br\[Am]uits
+    Il y en a d'aut\[F]res qui te sui\[G]vent
+  \end{verse}
+
+  \begin{chorus}
+    \[Am]  Ernest\[F]ine
+    \[Am]  Ernest\[F]ine
+    \[Em]  Tu entends des voi\[F]x, reste dig\[G]ne
+    \[Am]   Ernest\[F]iiiiii\[G]iiiine \[Am] \rep{4}
+    \[Am] \[F] \[G] \[E] \[Am]
+  \end{chorus}
+\end{repeatedchords}
+\endsong
