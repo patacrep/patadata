@@ -8,41 +8,50 @@
 
   \gtab{Am}{X02210}
   \gtab{A}{X02220}
-  \gtab{B&}{X02220}
+  \gtab{A/B}{X2222X}
+  \gtab{A/B}{X2X220}
+  \gtab{A/C#}{X4222X}
+  \gtab{A/C#}{4:X1432X}
+  \gtab{Bm}{2:X0221X}
   \gtab{Bm}{2:X02210}
   \gtab{B}{2:X02220}
+  \gtab{B/A}{X0444X}
   \gtab{C}{X32010}
   \gtab{D}{XX0232}
   \gtab{Em}{022000}
-  \gtab{E}{022100}
-  \gtab{G}{320003}
-  \gtab{B7}{X21202}
+  \gtab{Em/G}{3X545X}
+  \gtab{Em/B}{X22000}
+  \gtab{G/B}{X2000X}
+  \gtab{G/B}{X2X433}
+  \gtab{B/F#}{2X4442}
+
+\musicnote{ \Intro: \nolyrics{ Sur la fin d’un couplet (« sortirai » mais avec A/B au lieu de A) } }
 
   \beginverse
-    Minuit se \[Bm]lève en \[B&]haut des \[Bm]tours
-    Les \[B&]voix se \[G]taisent et tout de\[B&]vient aveugle et \[Bm]sourd
-    La \[B&]nuit ca\[Bm]moufle pour \[B&]quelques \[Bm]heures
-    La \[B&]zone \[G]sale et les épaves et \[B&]la lai\[Bm]deur
+    Minuit se \[Bm]lève en \[A/B]haut des \[Bm]tours
+    Les \[A/B]voix se \[G/B]taisent et tout de\[A/B]vient aveugle et \[Bm]sourd
+    La \[A/B]nuit ca\[Bm]moufle pour \[A/B]quelques \[Bm]heures
+    La \[A/B]zone \[G/B]sale et les é\[A/B]paves et la lai\[Bm]deur
   \endverse
   \beginverse*
-    \[A]J'ai pas choi\[Bm]si
+    J'ai \[A]pas choi\[Bm]si
     De \[A]naître i\[Bm]ci
-    Entre l'i\[G]gnorance et la \[B&]violence et l'en\[Bm]nui
-    Je \[A]m'en sorti\[Bm]rai
-    Je \[A]me le pro\[Bm]mets
-    Et s'il le \[G]faut j'emploirai \[B&]des moyens \[B]légaux
-    \[A] \[E] \[B7]
+    Entre l'i\[G/B]gnorance et la \[A/B]violence et l'en\[Bm]nui
+    Je m'en \[A]sorti\[Bm]rai
+    J'me  \[A]le pro\[Bm]mets
+    Et s'il le \[G/B]faut j'emploirai \[A/B]des moyens \[B]légaux
+    \[B/A] \[Em/G] \[B/F#]
   \endverse
 
   \beginchorus
     Envole-\[Em]moi
     Envole-\[C]moi
     Envole-\[Am]moi
-    Loin de cette \[C]fatali\[D]té qui colle à \[Em]ma peau
+    Loin de cette \[C]fatalité \[D]qui colle à ma \[Em]peau
     Envole-\[C]moi
     Envole-\[Am]moi
-    Remplis ma \[C]tête d'aut\[D]res horizons, d'aut\[Am]res mots
-    Envole-\[Em]moi \[B]
+    Remplis ma \[C]tête d'autres ho\[D]rizons, d'autres \[A/C#]mots
+    Envole-\[Em/B]moi \[B]
   \endchorus
 
   \beginverse
@@ -55,20 +64,21 @@
     J'ai pas choisi de vivre ici
     Entre la soumission, la peur ou l'abandon
     J'm'en sortirai, je te le jure
-    A coup de livres, je franchirai tous ces murs
+    À coup de livres, je franchirai tous ces murs
   \endverse
 
   \beginverse
     Me laisse pas \[Em]là, emmène-\[C]moi, envole-\[Am]moi
-    Croiser d'au\[C]tres yeux qui \[D]ne se résigne\[Em]nt pas
-    Envole-\[C]moi, tire-moi \[Am]de là
-    Montre-moi \[C]ces aut\[D]res vies que je ne \[Am]sais pas
-    Envole-\[Em]moi \[B]
+    Croiser d'au\[C]tres yeux qui ne \[D]se résignent \[Em]pas
+    Envole-\[C]moi, tire-moi de \[Am]là
+    Montre-moi \[C]ces autres vies \[D]que je ne sais \[A/C#]pas
+    Envole-\[Em/B]moi \[B]
+    \vspace{0.5cm}
     Envole-\[Em]moi, envole-\[C]moi, envole-\[Am]moi
-    Regarde-\[C]moi bien, je \[D]ne leur ressemb\[Em]le pas
+    Regarde-\[C]moi bien, je ne \[D]leur ressemble \[Em]pas
     Me laisse pas \[C]là, envole-\[Am]moi
-    Avec ou \[C]sans toi, \[D]je n'finirai pas com\[Am]me ça
-    Envole-\[Em]moi \[B]
+    Avec ou \[C]sans toi, je n'fi\[D]nirai pas comme \[A/C#]ça
+    Envole-\[Em/B]moi \[B]
   \endverse
 
 \endsong
