@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{What a wonderful world}
+  [by={Louis Armstrong},cover={what_a_wonderful_world},album={What A Wonderful World}]
+
+  \cover
+  \gtab{D}            {XX0232}
+  \gtab{F\shrp m}     {244222}
+  \gtab{G}            {320003}
+  \gtab*{Em7}         {020000}
+  \gtab{F\shrp7}      {242322}
+  \gtab{Bm}           {X24432}
+  \gtab{B&}           {X13331}
+  \gtab*{Em7/A}       {X00000}
+  \gtab{A7}           {X02020}
+  \gtab*{D(aug)}      {XX0332}
+  \gtab*{G7M}         {XX5432}
+  \gtab*{F\shrp(dim)} {XX1212}
+  \gtab*{F\shrp m7(b5)}{202210}
+  \gtab{B7}           {X21202}
+  \gtab*{A7(b9)}      {X02320}
+  \gtab{G6}           {320000}
+
+  \begin{verse}
+    I see \[D]trees of \[F\shrp m]green, \[G]red roses \[F\shrp m]too
+    I \[Em7]see them \[D]bloom, \[F\shrp7]for me and \[Bm]you
+    And I \[B&]think to myself, \[Em7/A]What a \[A7]wonderful \[D]world \[D(aug)] \[Gmaj7] \[A7]
+  \end{verse}
+
+  \begin{verse}
+    I see \[D]skies of \[F\shrp m]blue and \[G]clouds of \[F\shrp m]white
+    The \[Em7]bright blessed \[D]day, the \[F\shrp 7]dark sacred \[Bm]night
+    And I \[B&]think to myself, \[Em7/A]what a \[A7]wonder\[D]ful \[G]world \[G] \[D]
+  \end{verse}
+
+  \begin{verse}
+    The \[A7]colors of the rainbow, so \[D]pretty in the sky
+    Are \[A7]also on the faces of \[D]people goin'by
+    I see \[Bm]friends shaking \[F\shrp m]hands, saying, “\[Bm]How do you \[F\shrp m]do ?”
+    \[Em7]They're really \[F\shrp (dim)]saying, “\[Em7]I love \[F\shrp (dim)]you.” \[Em7]
+  \end{verse}
+
+  \begin{verse}
+    I \[A7]hear \[D]babies \[F\shrp m]cry, \[G]I watch them \[F\shrp m]grow
+    \[Em7]They'll learn much \[D]more \[F\shrp 7]than I'll ever \[Bm]know
+    And I \[B&]think to myself \[Em7/A]what a \[A7]wonderful \[D]world \[F\shrp m7(b5)] \[B7]
+    Yes I \[Em7]think to myself, \[Em7/A]what a \[A7(b9)]wonderful \[D]world \[G6] \[D]
+  \end{verse}
+\endsong
