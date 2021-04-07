@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{1}
-\beginsong{Tous les cris les SOS}[
-  by={Daniel Balavoine}]
+\beginsong{Tous les cris les SOS}
+  [by={Daniel Balavoine},cover={sauver-l-amour},album={Sauver l'amour}]
   
   \cover
   \gtab{Am}{X02210}
