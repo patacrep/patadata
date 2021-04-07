@@ -11,10 +11,10 @@
   \gtab{F\shrp7}      {242322}
   \gtab{Bm}           {X24432}
   \gtab{B&}           {X13331}
-  \gtab*{Em7/A}       {X00000}
+  \gtab*{A7sus4}      {X00030}
   \gtab{A7}           {X02020}
   \gtab*{D(aug)}      {XX0332}
-  \gtab*{G7M}         {XX5432}
+  \gtab*{G7M}         {XX0002}
   \gtab*{F\shrp(dim)} {XX1212}
   \gtab*{F\shrp m7(b5)}{202210}
   \gtab{B7}           {X21202}
@@ -24,13 +24,13 @@
   \begin{verse}
     I see \[D]trees of \[F\shrp m]green, \[G]red roses \[F\shrp m]too
     I \[Em7]see them \[D]bloom, \[F\shrp7]for me and \[Bm]you
-    And I \[B&]think to myself, \[Em7/A]What a \[A7]wonderful \[D]world \[D(aug)] \[Gmaj7] \[A7]
+    And I \[B&]think to myself, \[A7sus4]What a \[A7]wonderful \[D]world \[D(aug)] \[G7M] \[A7]
   \end{verse}
 
   \begin{verse}
     I see \[D]skies of \[F\shrp m]blue and \[G]clouds of \[F\shrp m]white
     The \[Em7]bright blessed \[D]day, the \[F\shrp 7]dark sacred \[Bm]night
-    And I \[B&]think to myself, \[Em7/A]what a \[A7]wonder\[D]ful \[G]world \[G] \[D]
+    And I \[B&]think to myself, \[A7sus4]what a \[A7]wonder\[D]ful \[G]world \[G] \[D]
   \end{verse}
 
   \begin{verse}
@@ -43,7 +43,7 @@
   \begin{verse}
     I \[A7]hear \[D]babies \[F\shrp m]cry, \[G]I watch them \[F\shrp m]grow
     \[Em7]They'll learn much \[D]more \[F\shrp 7]than I'll ever \[Bm]know
-    And I \[B&]think to myself \[Em7/A]what a \[A7]wonderful \[D]world \[F\shrp m7(b5)] \[B7]
-    Yes I \[Em7]think to myself, \[Em7/A]what a \[A7(b9)]wonderful \[D]world \[G6] \[D]
+    And I \[B&]think to myself \[A7sus4]what a \[A7]wonderful \[D]world \[F\shrp m7(b5)] \[B7]
+    Yes I \[Em7]think to myself, \[A7sus4]what a \[A7(b9)]wonderful \[D]world \[G6] \[D]
   \end{verse}
 \endsong
