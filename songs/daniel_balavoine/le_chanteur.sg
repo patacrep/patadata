@@ -1,0 +1,144 @@
+\selectlanguage{french}  
+\songcolumns{1}  
+\beginsong{Le chanteur}
+  [by={Daniel Balavoine},album={Le chanteur},cover={le-chanteur}]
+  
+  \cover
+  \gtab{A}{X02220}
+  \gtab*{Am6/C}{X34210}
+  \gtab{A4}{X00230}
+  \gtab{C#}{X43121}
+  \gtab*{Cdim7}{X31212}
+  \gtab{D}{XX0232}
+  \gtab{D4}{XX0233}
+  \gtab*{D4/F}{10003X}
+  \gtab*{D7/C}{X30232}
+  \gtab*{Dm/F}{XX3231}
+  \gtab{E}{022100}
+  \gtab{E4}{022200}
+  \gtab{F}{133211}
+  \gtab{F#m}{2:122111}
+  \gtab*{F#m/C#}{2:X33111}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics{\Intro : \[F E F E]}}
+  \end{verse*}
+  
+  \begin{verse}
+    \musicnote{\Pattern 1}
+    \[A]J'me présente, je \[A4]m'appelle H\[A]enri
+    \[A]J'voudrais bien ré\[A4]ussir ma v\[A]ie, être aimé\[E]\[E4]\[E]
+    Être b\[D]eau, gagner de l'argent\[D]\[D4]\[D]
+    Puis s\[Dm/F]urtout être intelligent\[D4/F]\[Dm/F]
+    Mais pour \[A]tout ça, il fa\[Am6/C]udrait que j'bosse à plein temps\[D]\[E4]\[E] 
+  \end{verse}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics{\Bridge: \[E4 E]}}
+  \end{verse*}
+  
+  \begin{verse}
+    \musicnote{\Pattern 1}
+    \begin{repeatedchords}
+    \[A]J'suis chanteur, je chante p\[A4]our mes copai\[A]ns
+    \[A]J'veux faire des tubes et que \[A4]ca tourne \[A]bien, tourne b\[E]ien\[E4]\[E]
+    J'veux écr\[D]ire une chanson dans l'vent\[D]\[D4]\[D]
+    Un air g\[Dm/F]ai, chic et entraînant\[D4/F]\[Dm/F]
+    Pour faire d\[A]anser dans les s\[Am6/C]oirées de monsieur Durand\[D]\[E4]\[E]
+    \end{repeatedchords}  
+  \end{verse}
+  
+  \begin{verse}  
+    \musicnote{\Pattern 2}
+    \[E4]Et par\[E]tout dans la r\[D]ue, j'veux qu'on parle de \[F#m]moi
+    Que les filles soient \[D]nues, qu'elles se \[D7/C]jettent sur \[F#m/C#]moi
+    Qu'elles m'admirent, qu'elles me \[Cdim7]tuent
+    Qu'elles s'arrachent ma ver\[F#m/C#]tu\[C#]  
+  \end{verse}
+  
+  \begin{verse}  
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    Pour les anciennes de l'\[D]école, devenir une i\[F#m]dole
+    J'veux que toutes les n\[D]uits essouf\[D7/C]flées dans leur \[F#m/C#]lit
+    Elles trompent leur ma\[Cdim7]ri
+    Dans leurs rêves mau\[F#m/C#]dits\[C#]  
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse*}
+    \musicnote{\nolyrics{\Bridge : \[A A4 A A4]}}
+  \end{verse*}
+
+  \begin{verse}
+    \musicnote{\Pattern 1}
+    \begin{repeatedchords}
+    \[A]Puis après je \[A4]f'rai des g\[A]alas
+    \[A]Mon public se \[A4]prosterner\[A]a devant \[E]moi\[E4]\[E]
+    Des conc\[D]erts de cent mille personnes\[D]\[D4]\[D]
+    Où même \[Dm/F]le tout Paris s'étonne\[D4/F]\[Dm/F]
+    Et se lè\[A]ve pour pro\[Am6/C]longer le combat\[D]
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse*}
+    \musicnote{\nolyrics{\Bridge: \[E4 E]}}
+  \end{verse*}
+
+  \begin{verse}
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    \[E4]Et par\[E]tout dans la r\[D]ue, j'veux qu'on parle de \[F#m]moi
+    Que les filles soient \[D]nues, qu'elles se \[D7/C]jettent sur \[F#m/C#]moi
+    Qu'elles m'admirent, qu'elles me \[Cdim7]tuent
+    Qu'elles s'arrachent ma ver\[F#m/C#]tu\[C#]
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    Puis quand j'en aurai as\[D]sez de rester leur id\[F#m]ole
+    Je remont'rai sur sc\[D]ène c\[D7/C]omme dans les années f\[F#m/C#]olles
+    Je f'rai pleurer mes \[Cdim7]yeux
+    Je ferai mes \[F#m/C#]adieux\[C#]
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    Et puis l'année d'aprè\[D]s je recommence\[F#m]rai
+    Et puis l'année d'ap\[D]rès je \[D7/C]recommence\[F#m/C#]rai
+    Je me prostitue\[Cdim7]rai
+    Pour la postéri\[F#m/C#]té\[C#]
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    Les nouvelles de l'éc\[D]ole diront que j'suis \[F#m]pédé
+    Que mes yeux puent l'alc\[D]ool, que j'f'rais b\[D7/C]ien d'arr\[F#m/C#]êter
+    Brûleront mon auré\[Cdim7]ole
+    Saliront mon pa\[F#m/C#]ssé\[C#]
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \musicnote{\Pattern 2}
+    \begin{repeatedchords}
+    Alors je serai vieux \[D]et je pourrai cre\[F#m]ver
+    Je me chercherai un \[D]dieu pour tout \[D7/C]me par\[F#m/C#]donner
+    J'veux mourir malheu\[Cdim7]reux
+    Pour ne rien regre\[F#m/C#]tter\[C#]
+    \end{repeatedchords}
+    J'veux mourir malh\[D]eureux\[F#m]
+  \end{verse}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics{\Outro : \[D D7/C F\shrp m/C\shrp Cdim7 F\shrp m/C\shrp C\shrp]}}
+    \musicnote{\nolyrics{\[D F\shrp m D D7/C F\shrp m/C\shrp Cdim7 F\shrp m/C\shrp C\shrp]}}
+  \end{verse*}
+  
+\endsong
