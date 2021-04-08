@@ -24,13 +24,13 @@
 
   \begin{verse*}
       \lilypond{space_oddity_strum_verse}
-  	    \[C]Ground control to Major \[Em]Tom
-  	    \[C]Ground control to Major \[Em]Tom
-	    \[Am]Take your \[Am7]protein pills and \[D7]put your helmet on
+  	    \[C] Ground control to Major \[Em]Tom
+  	    \[C] Ground control to Major \[Em]Tom
+	    \[Am] Take your \[Am7]protein pills and \[D7]put your helmet on
 	  \begin{repeatedchords}
-	    \[C]Ground control to Major \[Em]Tom
-	    \[C]Commencing countdown engines \[Em]on
-	    \[Am]Check ig\[Am7]nition and may \[D7]God's love be with you
+	    \echo{ten…} \[C] Ground \echo{nine…} control to Major \echo{eight…} \[Em]Tom \echo{seven…}
+	    \echo{six…} \[C] Commencing \echo{five…} countdown engines \echo{four…} \[Em]on \echo{three…}
+	    \echo{two…} \[Am] Check \echo{one…} ig\[Am7]nition and may \[D7]God's \echo{lift~off!} love be with you
     	\end{repeatedchords}
   \end{verse*}
 
@@ -77,15 +77,19 @@
       Can you \[D7]hear me Major Tom?
       Can you \[C]hear me Major Tom?
       Can you \[G]hear me Major Tom?
-      Can you hear...
+      Can you...
   \end{bridge}
   
   \begin{chorus}
   	  \begin{repeatedchords}
   	    For \[Fmaj7]here am I \[Em]floating 'round my tin can
-	    \[Fmaj7]Far above the \[Em]world
+	    \[Fmaj7]Far above the \[Em]moon
 	    \[B&]Planet Earth is \[Am]blue and there's \[G]nothing I can \[F]do
   	  \end{repeatedchords}
-    	\musicnote {\nolyrics \[Fmaj7 Em A C D7 E]}
   \end{chorus}
+  
+  \begin{verse}
+    \musicnote {\nolyrics Instrumental: \[C F G A A] \rep{2}}
+    \musicnote {\nolyrics \[Fmaj7 Em A C D7 E]}
+  \end{verse}
 \endsong
