@@ -12,7 +12,8 @@
   \gtab{G}{320003}
 
   \begin{verse*}
-    \musicnote{\nolyrics \Intro: \[Am G Am Am]}
+    \musicnote{\nolyrics \Intro, \Bridge \& \Chorus:}
+    \musicnote{\nolyrics \[Am G Am Am]}
     \musicnote{\nolyrics \[Am G C C]}
     \musicnote{\nolyrics \[C G Dm Am]}
     \musicnote{\nolyrics \[F Em Am Am] \rep{2}}
@@ -35,20 +36,18 @@
   \end{verse*}
   
   \begin{verse*}
-    \musicnote{\nolyrics \Bridge: \[Am G Am Am]}
-    \musicnote{\[Am G C C]}
-    \musicnote{\[C G Dm Am]}
-    \musicnote{\[F Em Am Am]}
-    \musicnote{\[F Em Am Am]}
+    \musicnote{\nolyrics \Bridge}
   \end{verse*}
 
   \begin{chorus}
+    \begin{repeatedchords}
     \[Am]Laï la \[G]la la la \[Am]laï
     \[Am]Laï la \[G]la la la \[C]laï
     La la \[C]la la la la \[G]la
     La la \[Dm]la la la la \[Am]la
     \[F]Laï la \[Em]la la la \[Am]laï
     \[F]Laï la \[Em]la la la \[Am]laï
+    \end{repeatedchords}
   \end{chorus}
 
   \begin{verse}
