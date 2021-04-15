@@ -1,0 +1,70 @@
+\selectlanguage{italian}
+\songcolumns{2}
+\beginsong{Bella Ciao}
+  [by={Traditionnel},cover={traditionnel},album={Italie}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{Am7}{X02010}
+  \gtab{Dm}{XX0231}
+  \gtab{E7}{020100}
+
+  \begin{verse}
+    \[Am]Una mattina mi son svegliato
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    Una mat\[Dm]tina mi son svegl\[Am]iato
+    E ho tro\[E7]vato l'invas\[Am]or
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]O partigiano portami via
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    O partigi\[Dm]ano, portami \[Am]via,
+    Che mi s\[E7]ento di mor\[Am]ir
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]E se io muoio da partigiano,
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    E se io m\[Dm]uoio da partig\[Am]iano,
+    Tu mi \[E7]devi seppell\[Am]ir
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]Seppellire lassù in montagna,
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    Seppelli\[Dm]re lassù in monta\[Am]gna
+    Sotto l'\[E7]ombra di un bel fi\[Am]or
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]E le genti che passeranno
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    E le g\[Dm]enti che passe\[Am]ranno
+    Mi dir\[E7]anno «Che bel fi\[Am]or»
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]«E questo è il fiore del partigiano»,
+    O bella ciao, bella ciao
+    Bella ci\[Am7]ao, ciao, ciao
+    «E questo è i\[Dm]l fiore del part\[Am]igiano
+    Morto \[E7]per la liber\[Am]tà»
+    \end{repeatedchords}
+  \end{verse}
+
+\endsong

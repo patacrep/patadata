@@ -1,5 +1,5 @@
 \selectlanguage{french}  
-\songcolumns{1}  
+\songcolumns{2}  
 \beginsong{Le chanteur}
   [by={Daniel Balavoine},album={Le chanteur},cover={le-chanteur}]
   
@@ -11,7 +11,7 @@
   \gtab*{Cdim7}{X31212}
   \gtab{D}{XX0232}
   \gtab{D4}{XX0233}
-  \gtab*{D4/F}{10003X}
+  \gtab*{D4/F}{100031}
   \gtab*{D7/C}{X30232}
   \gtab*{Dm/F}{XX3231}
   \gtab{E}{022100}
@@ -137,8 +137,8 @@
   \end{verse}
   
   \begin{verse*}
-    \musicnote{\nolyrics{\Outro : \[D D7/C F\shrp m/C\shrp Cdim7 F\shrp m/C\shrp C\shrp]}}
-    \musicnote{\nolyrics{\[D F\shrp m D D7/C F\shrp m/C\shrp Cdim7 F\shrp m/C\shrp C\shrp]}}
+    \musicnote{\nolyrics{\Outro : \[D \ \ D7/C \ \ F\shrp m/C\shrp \ \ Cdim7 \ \ F\shrp m/C\shrp \ \ C\shrp]}}
+    \musicnote{\nolyrics{\[D \ \ F\shrp m \ \ D \ \ D7/C \ \ F\shrp m/C\shrp \ \ Cdim7 \ \ F\shrp m/C\shrp \ \ C\shrp]}}
   \end{verse*}
   
 \endsong

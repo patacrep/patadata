@@ -1,0 +1,116 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Tous les garçons et les filles}
+  [by={Françoise Hardy},cover={tous-les-garcons-et-les-filles},album={Tous les garçons et les filles}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{Am7}{X02010}
+  \gtab{C}{X32010}
+  \gtab{C7}{X32310}
+  \gtab{Dm}{XX0231}
+  \gtab{Dm7}{XX0211}
+  \gtab*{D9}{000212}
+  \gtab{Em}{022000}
+  \gtab{F}{XX3211}
+  \gtab{G}{320003}
+  \gtab*{G/D}{XX0003}
+  \gtab*{G/F}{12000X}
+  \gtab{G7}{320001}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics{\Intro : \[C Dm7 C Am Am7 D9 G7]}}
+  \end{verse*}
+
+  \begin{verse}
+    \[C]Tous les garçons et les \[Am]filles de mon âge,
+    Se pro\[Dm7]mènent dans la rue deux par \[G7]deux.
+    \[C]Tous les garçons et les \[Am]filles de mon âge,
+    Savent \[Dm7]bien ce que c'est d'être heu\[G7]reux.
+  \end{verse}
+
+  \begin{verse*}
+    Et les \[C]yeux dans les \[Am]yeux,
+    Et la \[Dm7]main dans la \[G7]main.
+    Ils s'en \[C]vont amou\[Am]reux,
+    Sans peur \[Dm7]du lende\[G7]main.
+  \end{verse*}
+
+  \begin{verse*}
+    Oui, mais \[C]moi, je vais \[Am]seule,
+    Par les \[Dm7]rues, l'âme en \[G7]peine,
+    Oui, mais \[C]moi, je vais \[Am]seule,
+    Car per\[Dm7]sonne \[G7]ne \[C]m'aime \[C7]
+  \end{verse*}
+
+  \begin{chorus}
+    \[F]Mes jours comme mes \[C]nuits, \[C7]
+    \[F]Sont en tous points pa\[G]reils, \[G/F] \[Em] \[G/D]
+    \[F]Sans joie et pleins d'en\[C]nuis, \[C]
+    Per\[F]sonne ne murmure, "je t'aime", \[Dm]à mon o\[G7]reille.
+  \end{chorus}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[C]Tous les garçons et les \[Am]filles de mon âge,
+    Font en\[Dm7]semble des projets d'ave\[G7]nir.
+    \[C]Tous les garçons et les \[Am]filles de mon âge,
+    Savent \[Dm7]très bien ce qu'aimer veut \[G7]dire.
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{verse*}
+    \begin{repeatedchords}
+    Et les \[C]yeux dans les \[Am]yeux,
+    Et la \[Dm]main dans la \[G7]main.
+    Ils s'en \[C]vont amou\[Am]reux,
+    Sans peur \[Dm7]du lende\[G7]main.
+    \end{repeatedchords}
+  \end{verse*}
+  
+  \begin{verse*}
+    \begin{repeatedchords}
+    Oui, mais \[C]moi, je vais \[Am]seule,
+    Par les \[Dm]rues, l'âme en \[G7]peine,
+    Oui, mais \[C]moi, je vais \[Am]seule,
+    Car perso\[Dm7]nne \[G7] ne \[C]m'aime. \[C7]
+    \end{repeatedchords}
+  \end{verse*}
+
+  \begin{chorus}
+    \begin{repeatedchords}
+    \[F]Mes jours comme mes \[C]nuits, \[C7]
+    \[F]Sont en tous points pa\[G]reils, \[G/F] \[Em] \[G/D]
+    \[F]Sans joie et pleins d'en\[C]nuis, \[C]
+    Oh ! \[F]Quand donc pour moi brill\[Dm]era le so\[G7]leil.
+    \end{repeatedchords}
+  \end{chorus}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[C]Comme les garçons et les \[Am]filles de mon âge,
+    Connaî\[Dm7]trais-je bientôt ce qu'est l'a\[G7]mour ?
+    \[C]Comme les garçons et les \[Am]filles de mon âge,
+    Je me \[Dm7]demande quand viendra le \[G7]jour.
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{verse*}
+    \begin{repeatedchords}
+    Où les \[C]yeux dans ses \[Am]yeux,
+    Et la \[Dm7]main dans sa \[G7]main.
+    J'aurai \[C]le coeur he\[Am]ureux,
+    Sans peur \[Dm7]du lende\[G7]main.
+    \end{repeatedchords}
+  \end{verse*}
+  
+  \begin{verse*}
+    \begin{repeatedchords}
+    Le jour \[C]où je n'au\[Am]rai
+    plus du \[Dm7]tout l'âme en \[G7]peine,
+    Le jour \[C]où moi aus\[Am]si,
+    j'aurai \[Dm7]quel\[G7]qu'un qui \[C]m’aime. \[C]
+    \end{repeatedchords}
+  \end{verse*}
+
+\endsong
