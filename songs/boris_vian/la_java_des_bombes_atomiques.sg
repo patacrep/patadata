@@ -1,0 +1,114 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Java des bombes atomiques}
+  [by={Boris Vian},cover={chansons-possibles-et-impossibles},album={Chansons “possibles” et “impossibles”}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{E}{022100}
+  \gtab{E7}{020100}
+  \gtab{G7}{320001}
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{B7}{X21202}
+  \gtab{Amaj7}{X02120}
+  \gtab{A7}{X02020}
+  \gtab{D}{XX0232}
+  \gtab{A}{X02220}
+  \gtab{F\shrp m}{2:022000} 
+
+  \begin{verse*}
+    \musicnote {\Intro : \nolyrics \[Am E Am E]}
+  \end{verse*}
+  
+  \begin{verse}
+	    Mon \[Am]oncle, un fameux brico\[Am]leur
+			Faisait en ama\[Am]teur des bombes ato\[E7]miques
+			Sans \[E7]avoir jamais rien ap\[E7]pris
+			C'était un vrai gé\[E7]nie question travaux pra\[Am]tiques
+			Il \[G7]s'enfermait toute la jour\[G7]née
+			Au fond de son ate\[G7]lier pour faire ses expé\[C]riences
+			Et \[Dm]le soir il rentrait chez \[Am]nous
+			Il nous mettait en \[B7]transe en nous racontant \[E7]tout:
+  \end{verse}
+  \begin{verse*}
+		  Pour \[Amaj7]fabriquer une bombe \[Amaj7]A
+			Mes enfants croyez-\[Amaj7]moi c'est vraiment de la \[E7]tarte
+			La \[E7]question du détona\[E7]teur
+			S'résoud en un quart \[E7]d'heure c'est de celles qu'on é\[Amaj7]carte
+			En c'\[A7]qui concerne la bombe \[A7]H
+			C'est pas beaucoup plus \[A7]vache mais une chose me tour\[D]mente
+			C'est qu'\[E7]celles de ma fabrica\[E7]tion
+			N'ont qu'un rayon d'ac\[E7]tion de trois mètres cin\[A]quante
+  \end{verse*}
+
+  \begin{chorus}
+      \[D]Y'a que'qu'chose qui cloche là \[A]d'dans
+			\[E7]J'y retourne immédiate\[A]ment !
+			\musicnote {\nolyrics \[Am E Am E]}
+  \end{chorus}  
+  
+  \begin{verse}
+    \begin{repeatedchords}
+			Il \[Am]a bossé pendant des \[Am]jours
+			Tâchant avec a\[Am]mour d'améliorer l'\[E7]modèle
+			Quand \[E7]il déjeunait avec \[E7]nous
+			Il dévorait d'un \[E7]coup sa soupe aux vermi\[Am]celles
+			On \[G7]voyait à son air fé\[G7]roce qu'il tombait sur un \[G7]os
+			Mais on n'osait rien \[C]dire
+			Et \[Dm]puis un soir pendant le r'\[Am]pas
+			V'là tonton qui sou\[B7]pire et qui s'écrie comme \[E7]ça
+		\end{repeatedchords}
+  \end{verse}
+  \begin{verse*}
+    \begin{repeatedchords}
+			À \[Amaj7]mesure que je deviens \[Amaj7]vieux
+			Je m'en aperçois \[Amaj7]mieux j'ai le cerveau qui \[E7]flanche
+			So\[E7]yons sérieux, disons le \[E7]mot
+			C'est même plus un cer\[E7]veau
+			C'est comme de la sauce \[Amaj7]blanche
+			\[A7]Voilà des mois et des an\[A7]nées
+			Que j'essaye d'augmen\[A7]ter la portée de ma \[D]bombe
+			Et \[E7]je ne m'suis pas rendu \[E7]compte
+			Que la seule chose qui \[E7]compte
+			C'est l'endroit où c'qu'elle \[A]tombe
+		\end{repeatedchords}
+  \end{verse*}
+  
+  \begin{chorus}
+    \musicnote{\Chorus}
+  \end{chorus}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+			Sa\[Am]chant proche le résul\[Am]tat
+			Tous les grands chefs d'É\[Am]tat lui ont rendu vi\[E7]site
+			Il \[E7]les reçut et s'excu\[E7]sa
+			De ce que sa ca\[E7]gna était aussi pe\[Am]tite
+			Mais \[G7]sitôt qu'ils sont tous en\[G7]trés
+			Il les a enfer\[G7]més en disant «~Soyez \[C]sages!~»
+			Et, \[Dm]quand la bombe a explo\[Am]sé
+			De tous ces person\[B7]nages il n'en est plus rien res\[E7]té
+		\end{repeatedchords}
+  \end{verse}
+  \begin{verse*}
+    \begin{repeatedchords}
+			Ton\[Amaj7]ton devant ce résul\[Amaj7]tat ne se dégonfla \[Amaj7]pas
+			Et joua les an\[E7]douilles
+			Au \[E7]Tribunal on l'a traî\[E7]né
+			Et devant les ju\[E7]rés le voilà qui ba\[Amaj7]fouille
+			Mes\[A7]sieurs c'est un hasard af\[A7]freux
+			Mais je jure devant \[A7]Dieu qu'en mon âme et cons\[D]cience
+			En \[E7]détruisant tous ces tord\[E7]us
+			Je suis bien convain\[E7]cu d'avoir servi la \[A]France
+		\end{repeatedchords}
+  \end{verse*}
+  
+  \begin{chorus}
+			\[D]On était dans l'embar\[A]ras alors on l'condam\[E7]na
+			Et puis on l'amnis\[F\shrp m]tia
+			\[D]Et l'pays reconnais\[A]sant l'élut immédiate\[E7]ment
+			Chef du gouverne\[A]ment!
+  \end{chorus}   
+  
+\endsong
