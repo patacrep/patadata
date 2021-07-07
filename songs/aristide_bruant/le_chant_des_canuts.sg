@@ -1,0 +1,46 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Chant des canuts}
+  [by={Aristide Bruant}]
+    
+  \cover
+  \gtab{A}{X02220}
+  \gtab{A7}{X02020}
+  \gtab{B&}{X12221}
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{Dm/A}{X00231}
+  \gtab{F}{XX3211}
+  \gtab{Gm}{355333}
+    
+  \begin{verse}
+    Pour \[Dm]chanter Veni \[Gm]Crea\[A]tor il \[Dm]faut avoir cha\[B&]suble \[A]d'or \rep{2}
+    Nous \[F]en tissons pour \[C]vous grands de l'É\[F]glise
+    Mais \[Am]nous pauvres ca\[B&]nuts n'avons pas \[Dm/A]de chemi\[A7]-\[Dm]se
+  \end{verse}
+  
+  \begin{chorus}
+    \[Dm]C'est nous les \[A]ca\[Dm]nuts
+    \[B&]Nous al\[A7]lons tout \[Dm]nus
+  \end{chorus}
+    
+  \begin{repeatedchords}
+  \begin{verse}
+    Pour \[Dm]gouverner il \[Gm]faut a\[A]voir man\[Dm]teaux et rubans \[B&]en sau\[A]toir \rep{2}
+    Nous \[F]en tissons pour \[C]vous grands de la \[F]terre
+    Mais \[Am]nous pauvres ca\[B&]nuts sans drap on \[Dm/A]nous enter\[A7]-\[Dm]re
+  \end{verse}
+  
+  \begin{verse}
+    Mais \[Dm]notre règne ar\[Gm]rive\[A]ra quand \[Dm]votre règne \[B&]fini\[A]ra \rep{2}
+    Nous \[F]tisserons le \[C]linceul du vieux \[F]monde
+    Car \[Am]on entend dé\[B&]jà la révol\[Dm/A]te qui gron\[A7]-\[Dm]de
+  \end{verse}
+  
+  \begin{chorus}
+    \[Dm]C'est nous les \[A]ca\[Dm]nuts
+    \[B&]Nous n'i\[A7]rons plus \[Dm]nus
+  \end{chorus}
+  \end{repeatedchords}
+       
+ \endsong
