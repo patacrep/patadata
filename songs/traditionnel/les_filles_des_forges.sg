@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les filles des forges}
+  [by={Traditionnel},cover={traditionnel},album={France}]
+    
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{Em}{022000}
+  \gtab{G}{320003}
+    
+  \begin{verse}
+    \[Am]Diguedi dondon, ce sont les filles des \[Em]forges \rep{2}
+    \[Am]Des \[G]forges des Paimpont, diguedi don\[Am]daine
+    \[Am]Des \[G]forges des Paimpont, diguedi don\[Am]don
+  \end{verse}
+    
+  \begin{repeatedchords}
+  \begin{verse}
+    \[Am]Diguedi dondon, elles s'en vont à con\[Em]fesse \rep{2}
+    \[Am]Au \[G]curé du canton, diguedi don\[Am]daine
+    \[Am]Au \[G]curé du canton, diguedi don\[Am]don
+  \end{verse}
+  
+  \begin{verse}
+    \[Am]Diguedi dondon, qu'avions-vous fait la \[Em]fille \rep{2}
+    \[Am]Pour \[G]demander pardon, diguedi don\[Am]daine
+    \[Am]Pour \[G]demander pardon, diguedi don\[Am]don
+  \end{verse}
+  
+  \begin{verse}
+    \[Am]Diguedi dondon, j'avions couru les \[Em]bals \rep{2}
+    \[Am]Et \[G]les jolis garçons, diguedi don\[Am]daine
+    \[Am]Et \[G]les jolis garçons, diguedi don\[Am]don
+  \end{verse}
+  
+  \begin{verse}
+    \[Am]Diguedi dondon, ma fille pour péni\[Em]tence \rep{2}
+    \[Am]Nous \[G]nous embrasserons, diguedi don\[Am]daine
+    \[Am]Nous \[G]nous embrasserons, diguedi don\[Am]don
+  \end{verse}
+  
+  \begin{verse}
+    \[Am]Diguedi dondon, j'embrassions point les \[Em]prêtres \rep{2}
+    \[Am]Mais \[G]les jolis garçons, diguedi don\[Am]daine
+    \[Am]Mais \[G]les jolis garçons, diguedi don\[Am]don
+  \end{verse}
+  \end{repeatedchords}
+       
+ \endsong
