@@ -1,0 +1,55 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Eleanor Rigby}
+  [by={The Beatles},cover={revolver},album={Revolver}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{Em}{022000}
+  \gtab*{Em6}{042000}
+  \gtab{Em7}{020000}
+  
+  \begin{verse*}
+    \Intro :
+    \[C]Ah, look at all the lonely \[Em]people
+    \[C]Ah, look at all the lonely \[Em]people
+  \end{verse*}
+
+  \begin{verse}
+    \[Em]Eleanor Rigby picks up the rice in the church where a wedding has \[C]been
+    \[C]Lives in a \[Em]dream
+    \[Em]Waits at the window, wearing the face that she keeps in a jar by the \[C]door
+    Who is it \[Em]for?
+  \end{verse}
+
+  \begin{chorus}
+    \[Em7]All the lonely \[Em6]people
+    \[C]Where do they all come \[Em]from?
+    \[Em7]All the lonely \[Em6]people
+    \[C]Where do they all be\[Em]long?
+  \end{chorus}
+
+  \begin{repeatedchords}
+  \begin{verse}
+    \[Em]Father McKenzie writing the words of a sermon that no one will \[C]hear
+    \[C]No one comes \[Em]near.
+    \[Em]Look at him working. darning his socks in the night when there's nobody \[C]there
+    \[C]What does he \[Em]care?
+  \end{verse}
+
+  \begin{verse}
+    \[C]In a couple of years they have built a home sweet \[G]home
+    \[C]With a couple of kids running in the yard
+    Of \[G]Desmond and Molly \[D7]Jones
+  \end{verse}
+
+  \begin{verse}
+    \[Em]Eleanor Rigby died in the church and was buried along with her \[C]name
+    \[C]Nobody \[Em]came
+    \[Em]Father McKenzie wiping the dirt from his hands as he walks from the \[C]grave
+    \[C]No one was \[Em]saved
+  \end{verse}
+  \end{repeatedchords}
+
+\endsong
+
