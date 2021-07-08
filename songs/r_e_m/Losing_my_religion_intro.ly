@@ -1,6 +1,6 @@
 \include "../_lilypond/header"
 \paper{
-  paper-height = 5.5 \cm
+  paper-height = 3.25 \cm
   paper-width= 8\cm
   line-width= 7.5\cm
 }

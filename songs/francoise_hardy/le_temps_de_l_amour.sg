@@ -1,0 +1,80 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le temps de l'amour}
+  [by={Françoise Hardy},cover={tous-les-garcons-et-les-filles},album={Tous les garçons et les filles}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{Am7}{X02010}
+  \gtab{Dm}{XX0231}
+  \gtab{E}{022100}
+  \gtab{E7}{020100}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics{\Intro : \[Am Am Am Am]}}
+    \musicnote{\nolyrics \[Dm Dm Am Am]}
+    \musicnote{\nolyrics \[E Dm Am Am]}
+  \end{verse*}
+
+  \begin{verse}
+    \[Am]C'est le temps de l'a\[Am]mour
+    Le temps des co\[Am]pains
+    Et de l'aven\[Dm]ture
+    \[Dm]Quand le temps va et \[Dm]vient
+    On ne pense à \[Dm]rien
+    Malgré ses bles\[E7]sures
+    \[Am]Car le temps de l'a\[Am]mour
+    C'est long et c'est \[Am]court
+    Ca dure tou\[E7]jours
+    On s'en sou\[Am7]vient
+  \end{verse}
+
+  \begin{chorus}
+    \[Am]On se dit qu'à vingt \[Dm]ans
+    On est les rois du \[E7]monde
+    \[Am]Et qu'éternelle\[Dm]ment
+    Il y aura dans nos \[E7]yeux
+    Tout le ciel \[E7]bleu
+  \end{chorus}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]C'est le temps de l'a\[Am]mour
+    Le temps des co\[Am]pains
+    Et de l'aven\[Dm]ture
+    \[Dm]Quand le temps va et \[Dm]vient
+    On ne pense à \[Dm]rien
+    Malgré ses bles\[E7]sures
+    \[Am]Car le temps de l'a\[Am]mour
+    Ça vous met au \[Am]cœur
+    Beaucoup de cha\[E7]leur
+    Et de bon\[Am7]heur 
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{chorus}
+    \begin{repeatedchords}
+    \[Am]Un beau jour, c'est l'a\[Dm]mour
+    Et le coeur bat plus \[E7]vite
+    \[Am]Car la vie suit son \[Dm]cours
+    Et l'on est tout heu\[E7]reux
+    D'être amou\[E7]reux
+    \end{repeatedchords}
+  \end{chorus}
+
+  \begin{verse}
+    \begin{repeatedchords}
+    \[Am]C'est le temps de l'a\[Am]mour
+    Le temps des co\[Am]pains
+    Et de l'aven\[Dm]ture
+    \[Dm]Quand le temps va et \[Dm]vient
+    On ne pense à \[Dm]rien
+    Malgré ses bles\[E7]sures
+    \[Am]Car le temps de l'a\[Am]mour
+    C'est long et c'est \[Am]court
+    Ca dure tou\[E7]jours
+    On s'en sou\[Am7]vient
+    \end{repeatedchords}
+  \end{verse}
+
+\endsong
