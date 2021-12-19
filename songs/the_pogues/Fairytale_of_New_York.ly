@@ -13,9 +13,9 @@
   \time 6/8
   a'8.^\markup {
     (
-    \smaller \general-align #Y #DOWN \note #"4" #1
+    \smaller \general-align #Y #DOWN \note {4} #1
     =
-    \smaller \general-align #Y #DOWN \note #"4." #1
+    \smaller \general-align #Y #DOWN \note {4.} #1
     ) }
 
   \relative c''
