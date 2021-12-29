@@ -1,0 +1,144 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Portrait de femme en 1922}
+  [by={Hubert-Félix Thiéfaine},album={Chroniques bluesymentales},cover={chroniques-bluesymentales}]
+
+  \cover
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{G7}{320001}
+  \gtab{F}{1:022100}
+  \gtab{Dm}{XX0231}
+  \gtab{Am}{X02210}
+  \gtab{D}{XX0232}
+
+  \begin{verse*}
+    \musicnote{\Intro{}: \nolyrics{\[Em7]}}
+  \end{verse*}
+
+  \begin{verse}
+    \[C] Je t'ai ren\[C]contrée une n\[G]uit
+    Au détour \[F]d'un chemin per\[Dm]du
+    Qui ne condu\[C]isait \[Am] nulle pa\[G]rt \[G(7)]
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Où tu te tenais immobile
+      En équilibre sur un fil
+      Tendu au-dessus du hasard
+    \end{verse}
+
+    \begin{verse}
+      Et lorsque je t'ai demandée
+      Qui tu étais d'où tu venais
+      Tu m'as répondu d'un regard
+    \end{verse}
+  \end{repeatedchords}
+
+  \begin{bridge}
+    Tu \[Am]sais je n'\[D]suis qu'eff\[G]luve \[Em]
+    Et \[Am]je re\[D]viens d'aill\[G]eurs \[G(7)]
+  \end{bridge}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Plus tard dans un coin de bistrot
+      Devant un billard électrique
+      Tu m'as montrée ta déchirure
+    \end{verse}
+
+    \begin{verse}
+      Tu m'as dit d'étranges paroles
+      Qui volaient comme des chauves-souris
+      Au milieu de ta chevelure
+    \end{verse}
+  \end{repeatedchords}
+
+  \begin{chorus}
+    \[Am] Elles me parlaient d'incon\[F]nu
+    De mystér\[C]ieux chemins cac\[Am]hés
+    Qui montaient \[F]au-delà des m\[G]urs \[G]
+
+    D'un \[Am]ténébre\[D]ux vo\[G]yage \[Em]
+    D'un \[Am]ténébre\[D]ux vo\[G]yage \[G]
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Tu cherches au-delà des frontières
+      Un miroir ou un cœur ouvert
+      Pour y projeter tes fantasmes
+    \end{verse}
+
+    \begin{verse}
+      Sautant d'une plate forme d'autobus
+      Tu prends le premier train rapide
+      Pour Marseille ou pour Amsterdam
+    \end{verse}
+  \end{repeatedchords}
+
+  \begin{chorus}
+    \begin{repeatedchords}
+      \[Am] Juste une pièce dans un Ta\[F]xiphone
+      Mon tendre a\[C]mour, ne m'attends \[Am]pas
+      Ce soir je \[F]ne rentrerai \[G]pas \[G]
+
+      Et \[Am]tu rep\[D]rends ta \[G]route \[Em]
+    \end{repeatedchords}
+    Ton \[Am]ténébre\[D]ux vo\[G]yage \[Em]
+    Oui \[Am]tu rep\[D]rends ta \[G]route \[G]
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{\Bridge : \nolyrics \[Em7]}
+  \end{verse*}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Un jour ou l'autre tu reviens
+      Un peu comme au sortir d'un rêve
+      Dans l'inconscience du matin
+    \end{verse}
+
+    \begin{verse}
+      Les traits tirés par la fatigue
+      La tête creuse, le regard vide
+      Tu ne sais plus ce qui passe
+    \end{verse}
+
+    \begin{bridge}
+      Et \[Am]{tu ne} c\[D]omprends p\[G]lus \[Em]
+      Tu \[Am]{ne comp}\[D]rends plus r\[G]ien \[G7]
+    \end{bridge}
+
+    \begin{verse}
+      Le temps de te refaire les yeux
+      De prendre un bain et de m'aimer
+      Tu repenses à d'autres visages
+    \end{verse}
+
+    \begin{verse}
+      Noyée au fond d'un verre d'alcool
+      Tu me demandes une cigarette
+      Et me dis d'un air un peu vague
+    \end{verse}
+
+    \begin{chorus}
+      \[Am] Mon tendre amour, ne m'en veux \[F]pas
+      Tu sais je \[C]ne suis à per\[Am]sonne
+      Demain il \[F]faut que je re\[G]parte \[G]
+
+      Et \[Am]tu rep\[D]rends ta \[G]route \[Em]
+      Ton \[Am]ténébre\[D]ux vo\[G]yage \[Em]
+      Oui \[Am]tu rep\[D]rends ta \[G]route \[Em]
+      Ton \[Am]ténébre\[D]ux vo\[G]yage \[G]
+    \end{chorus}
+  \end{repeatedchords}
+
+  \begin{verse*}
+    \musicnote{\Outro{}: \nolyrics{\[Em7]}}
+  \end{verse*}
+
+\endsong
