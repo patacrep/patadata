@@ -1,0 +1,75 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Septembre rose}
+  [by={Hubert-Félix Thiéfaine},album={Eros über alles},cover={eros-uber-alles}]
+
+  \cover
+  \gtab{Em}{022000}
+  \gtab{Bm}{2:002210}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{Dm}{XX0231}
+  \gtab*{Dsus4}{XX0233}
+
+  \begin{verse*}
+    \musicnote{\Intro{}: \nolyrics{\[G Bm G Bm]} \times{2}}
+  \end{verse*}
+
+  \begin{verse}
+    Nau\[G]fragé virtu\[Bm]ose d'un a\[G]mour clandes\[Bm]tin
+    Dans \[G]la métamor\[Bm]phose des em\[G]bruns soute\[Bm]rrains
+    Tu \[Em]jaillis ruisse\[D]lant d'une \[Em]vague uté\[D]rine
+    Sur \[C]{ce ventre} brû\[G]lant de tend\[C]resse fémi\[G]nine
+  \end{verse}
+
+  \begin{chorus}
+    Baby \[D]boy \[Dsus4]
+    Sweet baby \[G]boy
+    \[D] My baby \[Em]boy
+    \[D] My baby \[Em]boy \[D]
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Ton premier cri réveille de son écho brisé
+      L'ouragan qui sommeille dans mes veines oxydées
+      Et nos regards préludent le jeu de la pudeur
+      Quand par manque d'habitude on s'méfie du bonheur
+    \end{verse}
+
+    \begin{chorus}
+      Baby boy
+      Sweet baby boy
+      My baby boy
+      My baby boy
+    \end{chorus}
+  \end{repeatedchords}
+
+  \begin{verse*}
+    Oh ! \[Bm]{my son} of the \[Em]wind, my \[Bm]little wunder\[Em]kind
+    Oh ! \[Bm]mon septembre \[Em]rose d'a\[Bm]mour apothé\[Em]ose
+    Baby \[D]boy
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote{\Bridge : \nolyrics \[G Bm G Bm] \times{2}}
+  \end{verse*}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Passé les cruautés du théâtre organique
+      Tu retournes apaisé vers ta faune onirique\dots
+      Où les miroirs d'automne reflètent à fleur de flamme
+      Ta jeune écorce d'homme éclaboussé de femme
+    \end{verse}
+
+    \begin{chorus}
+      Baby boy
+      Sweet baby boy
+      My baby boy
+      My baby boy
+      \musicnote{\Adlib{}}
+    \end{chorus}
+  \end{repeatedchords}
+
+\endsong
