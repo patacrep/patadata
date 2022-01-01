@@ -1,0 +1,80 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Love can build a bridge}
+  [by={The Judds},cover={love_can_build_a_bridge},album={Love can build a bridge}]
+
+  \cover
+  \capo{4}
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{Am}{X02210}
+  \gtab{Bm}{2:X02210}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics{\[G C G C]}}
+  \end{verse*}
+
+  \begin{verse}
+	I'd gladly \[G]walk across the desert with no \[C]shoes upon my feet
+	\[D]To share with you the last bite of \[C]bread I had to \[G]eat \[D]
+	I would \[G]swim out to save you in your \[Em]sea of broken dreams
+	When \[C]all your hopes are \[G]sinking, \[D]let me show you what love means
+  \end{verse}
+
+  \begin{chorus}
+	\[G]Love can build \[C]a \[D]bridge
+	Bet\[Am]ween your \[D]heart and \[G]mine \[C D]
+	\[G]Love can \[Bm]build a \[C]bridge
+	Don't you think it's \[G]time?
+	\[D]Don't you think it's \[G]time? \[C G C]
+  \end{chorus}
+
+  \begin{verse}
+	I would whisper love so loudly, every heart could understand
+	That love and only love can join the trials of man
+	I would give my hearts' desire so that you might see
+	The first step is to realize that it all begins with you and me
+  \end{verse}
+
+  \begin{chorus}
+	Love can build a bridge
+	Between your heart and mine
+	Love can build a bridge
+	Don't you think it's time?
+	\[D]Don't you think it's \[G]time?
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{\Solo: \nolyrics{\[G C D Am D G C D G Bm C G D G]}}
+  \end{verse*}
+
+  \begin{bridge}
+	\[Em]When we stand together, \[D]it's our finest \[G]hour
+	We can do \[Am]anything (anything)
+	\[Bm]Anything (anything)
+	\[C]Keep believin' \[D]in the power
+  \end{bridge}
+
+  \begin{chorus}
+	\[G]Love can build \[C]a \[D]bridge
+	Bet\[Am]ween your \[D]heart and \[G]mine \[C D]
+	\[G]Love can \[Bm]build a \[C]bridge
+	Don't you think it's \[G]time?
+	\[D]Don't you think it's \[G]time?
+	(Yeah, yes I do)
+	Ooh, love can build a bridge
+	(Whoa, love and only love)
+	Between your heart and mine
+	(Between your heart and mine)
+	Love can build a bridge
+	(Love and only love)
+	Don't you think it's time?
+	Ooh, don't you think it's \[G]time? \[C G C]
+
+	\[C]Don't you think it's \[G]time?
+	\[C]Love and only \[G]love
+	\[C]Love and only \[G]love
+  \end{chorus}
+\endsong
