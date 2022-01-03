@@ -1,0 +1,93 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{To Be with You}
+  [by={Mr. Big},cover={lean_into_it},album={Lean Into It}]
+
+  \cover
+  \gtab{C#m}{4:X02210}
+  \gtab{E}{022100}
+  \gtab{Asus2}{X02200}
+  \gtab{D}{XX0232}
+  \gtab{B}{2:X02220}
+  \gtab{G}{320003}
+  \gtab{G}{320033}
+  \gtab{Cadd9}{X32033}
+
+  \musicnote{Intro}
+  \lilypond{to_be_with_you_intro}
+
+  \begin{verse}
+    \[C#m]Hold on, little \[E]girl
+    \[Asus2]Show me what he's \[E]done to you
+    \[C#m]Stand up little \[E]girl
+    \[Asus2]Broken heart can't be that \[E]bad
+    When it's \[Asus2]through, it's \[E]through
+    \[Asus2]Fate will twist the \[E]both of you
+    So \[D]come on baby, come on over
+    \[B]Let me be the one to show you
+  \end{verse}
+
+  \begin{chorus}
+    \[E]I'm the one who \[Asus2]wants to \[B]be with \[E]you
+    \[E]Deep inside I \[Asus2]hope you \[B]feel it \[E]too (feel it too)
+    \[E]Waited on a \[Asus2]line of \[B]greens and \[E]blues (waited on a line)
+    \[E]Just to be the \[Asus2]next to \[B]be with \[E]you
+  \end{chorus}
+
+  \begin{verse}
+    \[C#m]Build up your \[E]confidence
+    \[Asus2]So you can be on \[E]top for once
+    \[C#m]Wake up who \[E]cares about
+    \[Asus2]Little boys that \[E]talk too much
+    \[Asus2]I've seen it all \[E]go down
+    \[Asus2]The game of love was \[E]all rained out
+    So \[D]come on baby, come on over
+    \[B]Let me be the one to hold you
+  \end{verse}
+
+  \begin{chorus}
+    I'm the one who wants to be with you (I'm the one, yeah)
+    Deep inside I hope you feel it too (feel it too)
+    Waited on a line of greens and blues (waited on a line, yeah)
+    Just to be the next to be with you
+  \end{chorus}
+
+  \begin{bridge}
+    \[Asus2] Why be alone when we can \[C#m]be together, baby?
+    \[G]You can make my life worthwhile
+    I can make you start to \[E]smile
+  \end{bridge}
+
+  \ifchorded
+  \musicnote{Solo}
+  \begin{verse*}
+    {\nolyrics \[E Asus2 B E]
+    \[E Asus2 B E]
+    \[E Asus2 B C\shrp m]
+    \[E Asus2 B E]}
+  \end{verse*}
+  \fi
+
+  \begin{bridge}
+    When it's \[Asus2]through, it's \[E]through
+    \[Asus2]Fate will twist the \[E]both of you
+    So \[D]come on baby, come on over
+    \[B]Let me be the one to show you
+  \end{bridge}
+
+  \begin{chorus}
+    \[G]I'm the one who \[Cadd9]wants to \[D]be with \[G]you (I'm the one)
+    \[G]Deep inside I \[Cadd9]hope you \[D]feel it \[G]too (feel it too)
+    \[G]Waited on a \[Cadd9]line of \[D]greens and \[G]blues (waited on a line)
+    \[G]Yeah, just to be the \[Cadd9]next to \[D]be with \[G]you
+  \end{chorus}
+
+  \begin{chorus}
+    \[E]I'm the one who \[Asus2]wants to \[B]be with \[E]you (I'm the one)
+    \[E]Deep inside I \[Asus2]hope (deep inside) you \[B]feel it \[E]too (you feel it too)
+    \[E]Waited on a \[Asus2]line of \[B]greens and \[C#m]blues (waited on that line)
+    Yeah, \[E]just to be the \[Asus2]next to \[B]be with \[E]you
+    \[E]Just to be the \[Asus2]next to \[B]be with \[E]you, ooh
+  \end{chorus}
+
+\endsong
