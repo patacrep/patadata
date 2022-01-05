@@ -36,17 +36,12 @@
       \[Fm]{J'ai les} cheveux sales, \[D#]{je suis} barbu
       \[C#]{Et je} m'en vais mon \[D#]café bu
     \end{verse}
-
-    \begin{chorus}
-      \[Fm]{Je suis} déso\[Cm]lé
-      \[D#]{Je n'ai} que deux \[Fm]pieds
-      \[Fm]{Je n'ai} que deux \[G#]pieds
-      \[D#]Franchement déso\[Fm]lé
-    \end{chorus}
   \end{repeatedchords}
 
+  \musicnote{\Chorus}
+
   \begin{verse*}
-    \nolyrics \[D# G# Cm Fm ]
+    \musicnote{\Bridge : \nolyrics \[D\# G\# Cm Fm]}
   \end{verse*}
 
   \begin{repeatedchords}
@@ -55,28 +50,20 @@
       \[Fm]{Et moi} j'aime re\[D#]garder les tra\[G#]vaux
       \[Fm]{On me} dit : {\og}\[D#]{du balai}
       \[C#]Plus vite que ça \[D#]{s'il vous} plaît{\fg}
+      Moi
     \end{verse}
 
-    \begin{chorus}
-      Moi, \[Fm]{je suis} déso\[Cm]lé
-      \[D#]{Je n'ai} que deux \[Fm]pieds
-      \[Fm]{Je n'ai} que deux \[G#]pieds
-      \[D#]Franchement déso\[Fm]lé
-    \end{chorus}
+    \musicnote{\Chorus}
 
     \begin{verse}
       \[Fm]Elle me dit que \[D#]{je suis} en re\[G#]tard
       \[Fm]{Que je} me coiffe \[D#]avec un pé\[G#]tard
       \[Fm]Elle veut dépla\[D#]{cer les} meubles
       \[C#]{J' suis} pas là pour dépla\[D#]{cer les} meubles
+      Moi
     \end{verse}
-
-    \begin{chorus}
-      Moi, \[Fm]{je suis} déso\[Cm]lé
-      \[D#]{Je n'ai} que deux \[Fm]pieds
-      \[Fm]{Je n'ai} que deux \[G#]pieds
-      \[D#]Franchement déso\[Fm]lé
-    \end{chorus}
   \end{repeatedchords}
+
+  \musicnote{\Chorus}
 
 \endsong
