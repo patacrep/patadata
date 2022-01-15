@@ -1,13 +1,11 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{Café}
+\beginsong{Le café}
   [by={Oldelaf et Monsieur~D.},cover={l-album-de-la-maturite},album={L'album de la maturité}]
-
 
   \cover
   \gtab{Bm}{2:X02210}
   \gtab{F#}{2:022100}
-
 
   \begin{verse}
     \[Bm]Pour bien commencer ma petite journée
