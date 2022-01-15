@@ -4,12 +4,15 @@
   [by={Oldelaf},cover={tristitudes},album={Tristitudes}]
 
   \cover
-  \gtab{C}{3:002220}
-  \gtab{G}{3:022100}
-  \gtab{G7}{3:020130}
-  \gtab{Am}{5:022000}
-  \gtab{F}{1:022100}
+  \capo{5}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{G7}{320001}
+  \gtab{Am}{X02210}
+  \gtab*{F}{XX32(11)}
   \gtab{Em}{022000}
+
+  \musicnote{On peut jouer du majeur sur les \emph{Fa} des couplets pour sonner comme dans le disque. Barrer les \emph{Fa} des refrains.}
 
   \begin{verse*}
     \musicnote{\nolyrics{\Intro : \[C G Am F]}}
@@ -18,14 +21,14 @@
   \begin{verse}
     \[C] Tout est  \[G]calme sur Belle\[Am]ville
     Je sors \[F]juste de chez Lu\[C]cile
-    Elle est \[G]chouette et je \[Am] pense
+    Elle est \[G]chouette et je \[Am]pense
     Que son \[F]homme a de la \[C]chance
     Elle m'a \[G]dit, toute en san\[Am]glots
     Que les \[F]mecs sont des sa\[C]lauds
-    Que Tom \[G]ne pensait qu'à \[Am] ça
+    Que Tom \[G]{ne pensait} qu'à \[Am]ça
     Mais j'a\[F]voue, j'écoutais \[Em]pas
-    Elle disait : \og{} Toi \[Em]t'es quelqu'un de \[G]bien \fg{}
-    Et moi, \[G7]je regardais ses \[C]seins
+    Elle disait : \og{} \[Em]{Toi t'es quelqu'un} de \[G7]bien \fg{}
+    Et moi, \[G7]{je regardais} ses \[C]seins
   \end{verse}
 
   \begin{chorus}
@@ -50,14 +53,7 @@
     En disant : \og{} Tiens ! Tu connais ma mère ? \fg{}
   \end{verse}
 
-  \begin{chorus}
-    Et je fais comme je peux
-    Et je vis ma vie comme un jeu
-    Face au monde qui avance
-    Moi je nage à contre-sens
-    Et je fais comme je peux
-    Pas toujours comme je veux
-  \end{chorus}
+  \musicnote{au refrain}
 
   \begin{verse}
     Un peu seul, un peu fébrile
@@ -73,14 +69,16 @@
   \end{verse}
 
   \begin{chorus}
-    Et je fais comme je peux
-    Et je vis ma vie comme un jeu
-    Face au monde qui avance
-    J'fais ma crise d'adulescence
-    Et je fais comme je peux\dots
+    Et je \[G]fais comme je \[Am]peux
+    Je \[F]vis ma vie comme un \[C]jeu
+    Face \[G]au monde qui a\[Am]vance
+    J'fais ma \[F]crise d'a\[G7]dulescen\[C]ce
+    Et je \[G]fais comme je \[Am]peux\dots{} \[F]
   \end{chorus}
 
-  \musicnote{instrumental}
+  \begin{verse*}
+    \musicnote{instrumental : \nolyrics \[C G Am F] \rep{2} \[C]}
+  \end{verse*}
 
   \begin{chorus}
     Et je \[G]fais comme je \[Am]peux
