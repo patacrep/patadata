@@ -6,18 +6,21 @@
   \cover
   \capo{3}
   \gtab{Em}{022000}
+  \gtab{Am}{X02210}
   \gtab{D7}{XX0212}
   \gtab{G}{320003}
   \gtab{C}{332010}
-  \gtab{F#7}{2:020100}
-  \gtab{B7}{2:X02020}
-  \gtab{E}{022100}
+  \gtab{F#7}{2:(131241)}
+  \gtab{B7}{2:(X13131)}
+  \gtab{B}{2:(X13331)}
+  \gtab{E7}{020100}
+  \gtab*{B&dim}{X12320}
 
   \begin{verse}
     La tristit\[Em]ude
     C'est quand tu \[Am]viens juste d'avaler un \[D7]cure-dent
     Quand tu te rends \[G]compte que ton père est Suisse-Alle\[C]mand
-    Quand un co\[F#7]pain t'appelle pour son déménage\[B7]ment
+    Quand un co\[F#7]{pain t'appelle} pour son déménage\[B7]ment
     Et ça fait mal
   \end{verse}
 
@@ -32,13 +35,13 @@
 
   \begin{chorus}
     La tristi\[Am]tude
-    C'est \[D7]moi, c'\[G]est toi
-    C'est \[C]nous, c'\[Am]est quoi ?
-    C'est \[B7]un peu de détresse dans le \[Em]creux \[E]de la voix
+    C'est \[D7]moi, c'est \[G]toi
+    C'est \[C]nous, c'est \[Am]quoi ?
+    C'est \[B7]{un peu} de détresse dans le creux \[Em]{de la voix} \[E7]
     La tristi\[Am]tude
-    C'est \[D7]woh, \[G]c'est wouh !
-    C'est \[C]eux, c'\[Am]est vous
-    C'est \[B7]la vie qui te crie que ça va \[Em]pas du tout
+    C'est \[D7]mmm, c'est \[G]wouh !
+    C'est \[C]eux, c'est \[Am]vous
+    C'est \[B&dim]{la vie qui} te dit que ça va \[B]{pas du tout} \[B7]
   \end{chorus}
 
   \begin{verse}
@@ -73,27 +76,30 @@
     Et ça fait mal, mal, mal
   \end{verse*}
 
-
   \begin{bridge}
     Non, non, non
     La tristitude
     La tristitude
     La tristide attitude
-    Te donne la tristitititititi tude
+    Te donne la tristititititititititude
+  \end{bridge}
 
+  \begin{bridge}
     La tristitude
     Te donne la triste attitude
     La tristitude ouah ouah
-    La tristitititude
+    La tristititititititude
+  \end{bridge}
 
+  \begin{bridge}
     La tristitude
     C'est un peu de tristesse et de solitude
     C'est comme de la tristitude plus rien
     En tout cas c'est
-    La tri la tri tri stitude
-    La tristitude
-    Te donnes la triste attitude
-    La tristitude
+    La tri, la tri, la tri, trilililili
+    Oh la tristitude
+    Te donne la triste attitude
+    La tristitude ouah naon la tri didi dididi tude
   \end{bridge}
 
 \endsong
