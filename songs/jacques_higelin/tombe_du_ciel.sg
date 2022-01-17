@@ -68,7 +68,7 @@
       No\[F]ël, \[C]voilé de mys\[Dm]tère
       Sous mon \[C]regard éblou\[B&]i
       Par la nai\[F/A]ssance
-      \[Gm]D'une étoile dans \[C]{le désert}
+      \[B&]D'une étoile dans \[C]{le désert}
     \end{chorus}
 
     \begin{chorus}
@@ -102,6 +102,7 @@
 
   \musicnote{Solo sur les accords du couplet 1}
 
+  \begin{repeatedchords}
     \begin{chorus}
       C'est \[F]fou, \[C]c'qu'on peut voir tom\[Dm]ber
       Quand on \[C]traîne sur le pa\[B&]vé
@@ -117,27 +118,26 @@
       Et \[B&]des alpinistes \[Gm]ama\[A7]teurs
     \end{chorus}
 
-  \begin{chorus}
-    \[A&]Tombé d'en haut
-    \[E&]Comme les petites gouttes \[Fm]d'eau
-    Que j'en\[E&]tends tomber
-    De\[D&]hors, par la \[A&]f'nêtre
-    Quand \[D&]{je m'endors} le \[E&]cœur en fête
-  \end{chorus}
+    \begin{chorus}
+      \[A&]Tombé d'en haut
+      \[E&]Comme les petites gouttes \[Fm]d'eau
+      Que j'en\[E&]tends tomber
+      De\[D&]hors, par la \[A&]f'nêtre
+      Quand \[D&]{je m'endors} le \[E&]cœur en fête
+    \end{chorus}
 
-  \begin{chorus}
-    \[A&]Poseur de \[E&]girouettes\[Fm]
-    Du haut \[E&]{du clocher}
-    \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
-    Par \[D&]{où le} vent fredonne ma chanson
-  \end{chorus}
+    \begin{chorus}
+      \[A&]Poseur de \[E&]girouettes\[Fm]
+      Du haut \[E&]{du clocher}
+      \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
+      Par \[D&]{où le} vent fredonne ma chanson
+    \end{chorus}
 
-  \begin{verse*}
-    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-     \[D7sus4]Tombé par inadvertance, amoureux
-  \end{verse*}
+    \begin{verse*}
+      \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
+      \[D7sus4]Tombé par inadvertance, amoureux
+    \end{verse*}
 
-  \begin{repeatedchords}
     \begin{verse}
       Tombé à \[Dm]terre
       Pour la fille qu'on \[Am]aime
