@@ -36,8 +36,8 @@
 
   \begin{chorus}
     Tom\[F]bé \[C]dans l'oreille d'un \[Dm]sourd
-    Qui ven\[C]ait de tomber
-    \[B&]En amour la \[F/A]veille
+    Qui ven\[C]ait de tomber \[B&]en
+    Amour la \[F/A]veille
     \[B&]{D'une} hôtesse de l'\[C]air fidèle
   \end{chorus}
 
@@ -46,7 +46,7 @@
     Dans les \[C]bras d'un baga\[B&]giste
     Un peu vo\[F/A]lage
     \[B&]Ancien tueur à \[F/A]gages
-    Com\[B&]ment peut-on tom\[Gm]ber plus \[A7]mal
+    Com\[B&]ment peut-on tom\[Gm]{ber plus} \[A7]mal
   \end{chorus}
 
   \begin{repeatedchords}
@@ -80,25 +80,25 @@
     \end{chorus}
   \end{repeatedchords}
 
-  \begin{chorus}
+  \begin{bridge}
     \[A&]Tombé d'en haut
     \[E&]Comme les petites gouttes \[Fm]d'eau
     Que j'en\[E&]tends tomber
     De\[D&]hors, par la \[A&]f'nêtre
     Quand \[D&]{je m'endors} le \[E&]cœur en fête
-  \end{chorus}
+  \end{bridge}
 
-  \begin{chorus}
+  \begin{bridge}
     \[A&]Poseur de \[E&]girouettes\[Fm]
     Du haut \[E&]{du clocher}
     \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
     Par \[D&]{où le} vent fredonne ma chanson
-  \end{chorus}
+  \end{bridge}
 
-  \begin{verse*}
+  \begin{bridge}
     \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-    \[D7sus4]Tombé à la fleur de l'âge, dans l'oubli
-  \end{verse*}
+    \[D7sus4]Tombé à la fleur de l'âge, dans l'oubli \echo{Solo !}
+  \end{bridge}
 
   \musicnote{Solo sur les accords du couplet 1}
 
@@ -112,31 +112,31 @@
 
     \begin{chorus}
       On \[F]voit \[C]tomber des bal\[Dm]cons
-      Des mé\[C]gots, des pots d'fleurs
-      \[B&]Des chanteurs de \[F/A]charme
+      Des mé\[C]gots, des pots d'fleurs, \[B&]des
+      Chanteurs de \[F/A]charme
       Des \[B&]jeunes filles en \[F/A]larmes
       Et \[B&]des alpinistes \[Gm]ama\[A7]teurs
     \end{chorus}
 
-    \begin{chorus}
+    \begin{bridge}
       \[A&]Tombé d'en haut
       \[E&]Comme les petites gouttes \[Fm]d'eau
       Que j'en\[E&]tends tomber
       De\[D&]hors, par la \[A&]f'nêtre
       Quand \[D&]{je m'endors} le \[E&]cœur en fête
-    \end{chorus}
+    \end{bridge}
 
-    \begin{chorus}
+    \begin{bridge}
       \[A&]Poseur de \[E&]girouettes\[Fm]
       Du haut \[E&]{du clocher}
       \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
       Par \[D&]{où le} vent fredonne ma chanson
-    \end{chorus}
+    \end{bridge}
 
-    \begin{verse*}
+    \begin{bridge}
       \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
       \[D7sus4]Tombé par inadvertance, amoureux
-    \end{verse*}
+    \end{bridge}
 
     \begin{verse}
       Tombé à \[Dm]terre
