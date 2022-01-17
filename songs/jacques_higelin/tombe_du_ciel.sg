@@ -17,8 +17,9 @@
   \gtab{D&}{4:X02220}
   \gtab*{C#dim}{3:X2313X}
   \gtab*{Fm}{8:X02210}
-  \gtab*{D7sus4}{5:X02030}
-  \gtab*{D7sus2}{5:X02000}
+  \gtab*{Am7*}{XXX213}
+  \gtab*{Am*}{XXX215}
+  \gtab*{Am**}{XXX210}
 
   \begin{verse}
     Tombé du \[Dm]ciel
@@ -96,8 +97,9 @@
   \end{bridge}
 
   \begin{bridge}
-    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-    \[D7sus4]Tombé à la fleur de l'âge, dans l'oubli \echo{Solo !}
+    \[Am7*]Tombé sur un jour de chan\[Am*]ce \[Am7* Am**]
+    \[Am7*]Tombé à la fleur de l'â\[Am*]ge, \[Am7*]{dans l'oub}\[Am**]li
+    \echo{Solo !}
   \end{bridge}
 
   \musicnote{Solo sur les accords du couplet 1}
@@ -134,8 +136,8 @@
     \end{bridge}
 
     \begin{bridge}
-      \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-      \[D7sus4]Tombé par inadvertance, amoureux
+      \[Am7*]Tombé sur un jour de chan\[Am*]ce \[Am7* Am**]
+      \[Am7*]Tombé à la fleur de l'â\[Am*]ge, \[Am7*]{dans l'oub}\[Am**]li
     \end{bridge}
 
     \begin{verse}
