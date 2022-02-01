@@ -1,0 +1,92 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Nothing else matters}
+  [by={Metallica},cover={black-album},album={Black Album}]
+
+  \cover
+  \gtab{Em}{022000}
+  \gtab{D}{XX0232}
+  \gtab{C}{X32010}
+  \gtab{G}{320033}
+  \gtab{B7}{X21202}
+  \gtab{Am}{X02210}
+  \gtab{A}{X02220}
+  
+  \musicnote{Intro}
+
+  \begin{verse}
+    \[Em] So close, no matter \[D]how \[C]far
+    \[Em] Couldn't be much more \[D]from the \[C]heart
+    \[Em] Forever trusting \[D]who we \[C]are
+    \[G] And \[B7]nothing else \[Em]matters
+  \end{verse}
+
+  \begin{verse}
+    \[Em] Never opened my\[D]self this \[C]way
+    \[Em] Life is ours, we live it \[D]our \[C]way
+    \[Em] All these words, I don't \[D]just \[C]say
+    \[G] And \[B7]nothing else \[Em]matters
+  \end{verse}
+
+  \begin{verse}
+    \[Em] Trust I seek and I \[D]find in \[C]you
+    \[Em] Every day for us \[D]something \[C]new
+    \[Em] Open mind for a \[D]different \[C]view
+    \[G] And \[B7]nothing else \[D]matters \[C] \[A]
+  \end{verse}
+
+  \begin{chorus}
+    \[D] Never cared for what they \[C]d\[A]o
+    \[D] Never cared for what they \[C]kn\[A]ow
+    \[D] But I \[Em]know
+  \end{chorus}
+
+  \begin{verse}
+    \[Em] So close, no matter \[D]how \[C]far
+    \[Em] It couldn't be much more \[D]from the \[C]heart
+    \[Em] Forever trusting \[D]who we \[C]are
+    \[G] And \[B7]nothing else \[Em]matters \[C] \[A]
+  \end{verse}
+
+  \begin{chorus}
+    \[D] Never cared for what they \[C]d\[A]o
+    \[D] Never cared for what they \[C]kn\[A]ow
+    \[D] But I \[Em]know
+  \end{chorus}
+
+  \musicnote{Interlude (16 mesures)}
+
+  \begin{verse}
+    I never opened myself this way
+    Life is ours, we live it our way
+    All these words, I don't just say
+    And nothing else matters
+  \end{verse}
+
+  \begin{verse}
+    Trust I seek and I find in you
+    Every day for us something new
+    Open mind for a different view
+    \[G] And \[B7]nothing else \[Em]matters \[C] \[A]
+  \end{verse}
+
+  \begin{chorus}
+    \[D] Never cared for what they \[C]s\[A]ay
+    \[D] Never cared for games they \[C]pl\[A]ay
+    \[D] Never cared for what they \[C]d\[A]o
+    \[D] Never cared for what they \[C]kn\[A]ow
+    \[D] And I know, yeah, yeah
+  \end{chorus}
+
+  \musicnote{Solo (8 mesures)}
+
+  \begin{verse}
+    \[Em] So close, no matter \[D]how \[C]far
+    \[Em] Couldn't be much more \[D]from the \[C]heart
+    \[Em] Forever trusting \[D]who we \[C]are
+    \[G] No, \[B7]nothing else \[Em]matters
+  \end{verse}
+
+  \musicnote{Outro}
+
+\endsong
