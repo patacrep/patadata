@@ -17,30 +17,30 @@
   \lilypond{to_be_with_you_intro}
 
   \begin{verse}
-    \[C#m]Hold on, little \[E]girl
+    \[C#m] Hold on, little \[E]girl
     \[Asus2]Show me what he's \[E]done to you
-    \[C#m]Stand up little \[E]girl
-    \[Asus2]Broken heart can't be that \[E]bad
-    When it's \[Asus2]through, it's \[E]through
+    \[C#m] Stand up little \[E]girl
+    A \[Asus2]broken heart can't \[E]be that bad
+    When \[Asus2]it's through, it's \[E]through
     \[Asus2]Fate will twist the \[E]both of you
     So \[D]come on baby, come on over
     \[B]Let me be the one to show you
   \end{verse}
 
   \begin{chorus}
-    \[E]I'm the one who \[Asus2]wants to \[B]be with \[E]you
-    \[E]Deep inside I \[Asus2]hope you \[B]feel it \[E]too (feel it too)
-    \[E]Waited on a \[Asus2]line of \[B]greens and \[E]blues (waited on a line)
-    \[E]Just to be the \[Asus2]next to \[B]be with \[E]you
+    \[E]I'm the one who \[Asus2]wants to \[B]be with you\[E]
+    \[E]Deep inside I \[Asus2]hope you \[B]feel it too\[E] (feel it too)
+    \[E]Waited on a \[Asus2]line of \[B]greens and blues\[E] (waited on a line)
+    \[E]Just to be the \[Asus2]next to \[B]be with you\[E]
   \end{chorus}
 
   \begin{verse}
     \[C#m]Build up your \[E]confidence
-    \[Asus2]So you can be on \[E]top for once
+    So \[Asus2]you can be on \[E]top for once
     \[C#m]Wake up who \[E]cares about
     \[Asus2]Little boys that \[E]talk too much
-    \[Asus2]I've seen it all \[E]go down
-    \[Asus2]The game of love was \[E]all rained out
+    I've \[Asus2]seen it all \[E]go down
+    The \[Asus2]game of love was \[E]all rained out
     So \[D]come on baby, come on over
     \[B]Let me be the one to hold you
   \end{verse}
@@ -58,8 +58,8 @@
     I can make you start to \[E]smile
   \end{bridge}
 
-  \ifchorded
   \musicnote{Solo}
+  \ifchorded
   \begin{verse*}
     {\nolyrics \[E Asus2 B E]
     \[E Asus2 B E]
@@ -69,25 +69,25 @@
   \fi
 
   \begin{bridge}
-    When it's \[Asus2]through, it's \[E]through
+    When \[Asus2]it's through, it's \[E]through
     \[Asus2]Fate will twist the \[E]both of you
     So \[D]come on baby, come on over
     \[B]Let me be the one to show you
   \end{bridge}
 
   \begin{chorus}
-    \[G]I'm the one who \[Cadd9]wants to \[D]be with \[G]you (I'm the one)
-    \[G]Deep inside I \[Cadd9]hope you \[D]feel it \[G]too (feel it too)
-    \[G]Waited on a \[Cadd9]line of \[D]greens and \[G]blues (waited on a line)
-    \[G]Yeah, just to be the \[Cadd9]next to \[D]be with \[G]you
+    \[G]I'm the one who \[Cadd9]wants to \[D]be with you\[G] (I'm the one)
+    \[G]Deep inside I \[Cadd9]hope you \[D]feel it too\[G] (feel it too)
+    \[G]Waited on a \[Cadd9]line of \[D]greens and blues\[G] (waited on a line)
+    \[G]Yeah, just to be the \[Cadd9]next to \[D]be with you\[G]
   \end{chorus}
 
   \begin{chorus}
-    \[E]I'm the one who \[Asus2]wants to \[B]be with \[E]you (I'm the one)
-    \[E]Deep inside I \[Asus2]hope (deep inside) you \[B]feel it \[E]too (you feel it too)
-    \[E]Waited on a \[Asus2]line of \[B]greens and \[C#m]blues (waited on that line)
-    Yeah, \[E]just to be the \[Asus2]next to \[B]be with \[E]you
-    \[E]Just to be the \[Asus2]next to \[B]be with \[E]you, ooh
+    \[E]I'm the one who \[Asus2]wants to \[B]be with you\[E] (I'm the one)
+    \[E]Deep inside I \[Asus2]hope (deep inside) you \[B]feel it too\[E] (you feel it too)
+    \[E]Waited on a \[Asus2]line of \[B]greens and blues\[C#m] (waited on that line)
+    Yeah, \[E]just to be the \[Asus2]next to \[B]be with you\[E]
+    \[E]Just to be the \[Asus2]next to \[B]be with you\[E], ooh
   \end{chorus}
 
 \endsong
