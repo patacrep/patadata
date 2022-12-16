@@ -5,7 +5,7 @@ exit 1
 
 #Author: Romain Goffe
 #Date: 13/10/2011
-#Description: Build all the pdf on www.patacrep.com, increase their
+#Description: Build all the pdf on www.patacrep.fr, increase their
 #version and commit/tag the result
 
 GREP="$GREP_OPTIONS"
