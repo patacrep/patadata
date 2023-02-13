@@ -1,0 +1,76 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Si Canti}
+  [by={Traditionnel},cover={traditionnel},album={France}]
+    
+  \cover
+  \gtab{C}{X32010}
+  \gtab{F}{1:XX3211}
+  \gtab{G}{320003}
+    
+  \begin{verse}
+    \[G]De\[C]vath de la frinèsta
+    Que i a un ausé\[G]ron
+    Tota \[F]la nueit que can\[C]ta
+    Canta la \[G]soa can\[C]çon
+  \end{verse}
+    
+  \begin{chorus}
+    \[G]Si \[C]canti, jo que canti
+    Canti pas per \[G]jo
+    Canti \[F]per ma mi\[C]a
+    Qui ei tan \[G]luehn de \[C]jo
+  \end{chorus}
+    
+  \begin{repeatedchords}
+  \begin{verse}
+    \[G]A\[C]queras montanhas
+    Qui tan hautas \[G]son
+    M’empai\[F]shan de vé\[C]der
+    Mas a\[G]mors on \[C]son
+  \end{verse}
+  
+  \begin{verse*}
+    \[G]Ba\[C]chatz-ve montanhas
+    Planas, hauçatz-\[G]ve
+    Ta qui \[F]posqui vé\[C]der
+    Mas a\[G]mors on \[C]son
+  \end{verse*}
+    
+  \begin{verse*}
+    \[G]A\[C]queras montanhas
+    Que s’abaisha\[G]ràn
+    E mas \[F]amore\[C]tas
+    \[G]Que \[C]pareisheràn
+  \end{verse*}
+  
+  \begin{verse*}
+    \[G]A\[C]queras montanhas
+    Qui tan hautas \[G]son
+    M’émpai\[F]shan de vé\[C]der
+    Mas a\[G]mors on \[C]son
+  \end{verse*}
+    
+  \begin{verse}
+    \[G]Si \[C]sabi las véder
+    O las rencon\[G]trar
+    Passe\[F]ri l'aiguè\[C]ta
+    Shens paur \[G]de'm ne\[C]gar
+  \end{verse}
+    
+  \begin{verse}
+    \[G]A\[C]queras montanhas
+    Que s’abaisha\[G]ràn
+    E mas a\[F]more\[C]tas
+    Que pa\[G]reishe\[C]ràn
+  \end{verse}
+  
+  \begin{verse*}
+    \[G]Las \[C]pomas son maduras
+    Las cau amas\[G]sar
+    Et las \[F]joenes hi\[C]lhas
+    Las cau \[G]mari\[C]dar 
+  \end{verse*}
+  \end{repeatedchords}
+       
+ \endsong

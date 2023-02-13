@@ -1,0 +1,94 @@
+\selectlanguage{italian}
+\songcolumns{2}
+\beginsong{Il ragazzo della via Gluck}
+  [by={Adriano Celentano},cover={il_ragazzo_della_via_gluck},album={Il ragazzo della via Gluck}]
+
+  \cover
+  \gtab{D}{000212}
+  \gtab{A7}{X02020}
+  \gtab{A}{X02220}
+  \gtab{Bm}{2:X13321}
+  
+  \begin{verse*}
+    \lilypond{il_ragazzo_intro}
+  \end{verse*}    
+  
+  \begin{verse*}
+	    Questa è la \[D]storia di uno di \[A7]noi
+	    Anche lui \[A]nato per caso in via \[D]Gluck
+	    In una \[D]casa, fuori cit\[A7]tà
+	    Gente tran\[A]quilla, che lavo\[D]rava
+	    Là dove \[Bm]c'era l'erba ora \[Bm]c'è
+	    Una cit\[D]tà
+	    E quella \[Bm]casa in mezzo al verde ormai
+	    Dove sa\[D]rà? \[D]
+  \end{verse*}
+
+  \begin{verse}
+			Questo rag\[D]azzo della via \[A7]Gluck
+			Si diver\[A]tiva a giocare con \[D]me
+			Ma un \[D]giorno disse: “Vado in cit\[A7]tà!”
+			E lo di\[A]ceva mentre pian\[D]geva
+			Io gli do\[D]mando “Amico, non sei con\[A7]tento?
+			Vai final\[A]mente a stare in cit\[D]tà
+  \end{verse}
+
+  \begin{bridge}
+			Là trove\[Bm]rai le cose che non hai
+			Avuto \[D]qui! 
+			Potrai la\[Bm]varti in casa senza andar
+			Giù nel cor\[D]tile!”
+  \end{bridge}
+
+  \begin{verse}
+    \begin{repeatedchords}
+			Mio caro a\[D]mico disse qui sono \[A7]nato
+			E in questa \[A]strada ora lascio il mio \[D]cuore
+			Ma come \[D]fai a non ca\[A7]pire
+			È una for\[A]tuna, per voi che res\[D]tate
+			A \[D]piedi nudi a giocare nei p\[A7]rati
+			Mentre là in \[A]centro io respiro il ce\[D]mento
+		\end{repeatedchords}
+  \end{verse}
+
+  \begin{bridge}
+    \begin{repeatedchords}
+			Ma verrà il \[Bm]giorno che ritornerò
+			Ancora \[D]qui
+			E senti\[Bm]rò l'amico treno che
+			Fischia co\[D]sì “Wua Wua”
+		\end{repeatedchords}
+  \end{bridge}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+			Passano gli a\[D]nni ma otto son \[A7]lunghi
+			Però quel ra\[A]gazzo ne ha fatta di s\[D]trada
+			Ma non si \[D]scorda la sua prima \[A7]casa
+			Ora coi \[A]soldi lui può comp\[D]erarla
+			Torna e non \[D]trova gli amici che a\[A7]veva
+			Solo case su \[A]case catrame e ce\[D]mento
+		\end{repeatedchords}
+  \end{verse}
+  
+  \begin{bridge}
+    \begin{repeatedchords}
+			Là dove \[Bm]c'era l'erba ora c'è
+			Una citt\[D]à
+			E quella \[Bm]casa in mezzo al verde ormai
+			Dove sa\[D]rà?
+		\end{repeatedchords}
+  \end{bridge}
+
+  \begin{verse*}
+			Hey Ya \[D]yap!  Yeppayap Ya\[Bm]ya
+			Hehe! Non so, non \[D]so,  perché con\[Bm]tinuano
+			A costruire;  le \[D]case, e non lasciano \[Bm]l'erba
+			Non lasciano l'erba, non lasciano \[D]l'erba
+			Non Lasciamo l'erba
+			E no,  s'andiamo avanti co\[Bm]sì
+			Chissà, come si fa\[D]rà
+			Chissà, chis\[Bm]sà
+  \end{verse*}
+
+ \endsong

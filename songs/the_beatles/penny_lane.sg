@@ -1,0 +1,88 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Penny Lane}
+  [by={The Beatles},cover={1},album={1}]
+
+  \cover
+  \capo{2}
+  \gtab{A}{X02220}
+  \gtab{Am}{X02210}
+  \gtab{Bm}{X24432}
+  \gtab{C}{X32010}
+  \gtab*{C#m7}{X42100}
+  \gtab{D}{XX0232}
+  \gtab{E7}{020100}
+  \gtab{F}{133211}
+  \gtab{F#m}{244222}
+  \gtab{G}{320003}
+  
+  \begin{verse}
+    In Penny \[A]Lane there is a \[F#m]barber showing \[Bm]photograph\[E7]s
+    Of every \[A]head he's had the \[F#m]pleasure to \[Am]know
+    And all the people that come and \[F]go stop and \[E7]say hello
+  \end{verse}
+
+  \begin{verse*}
+    \begin{repeatedchords}
+    On the \[A]corner is a \[F#m]banker with a \[Bm]motor car\[E7]
+    The little \[A]children laugh at \[F#m]him behind his \[Am]back
+    And the banker never wears a ‘\[F]MAC’ in the \[E7]pouring rain
+    \end{repeatedchords}
+    Ve\[D]ry strange
+  \end{verse*}
+
+  \begin{chorus}
+    Penny \[G]Lane is in my \[Bm]ears and in my \[C]eyes
+    \[G]There beneath the \[Bm]blue suburban \[C]skies I sit and \[E7]meanwhile back
+  \end{chorus}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+    In Penny \[A]Lane there is a \[F#m]fireman with an \[Bm]hour glass \[E7]
+    And in his \[A]pocket is a \[F#m]portrait of the \[Am]Queen
+    He likes to keep his fire engine \[F]clean - it's a \[E7]clean machine
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{bridge}
+    \musicnote{\nolyrics \[A F\shrp m Bm E7 A F\shrp m Am F E7 D]}
+  \end{bridge}
+  
+  \begin{chorus}
+    Penny \[G]Lane is in my \[Bm]ears and in my \[C]eyes
+    \[G]      A four of \[Bm]fish and finger \[C]pies in summer \[E7]meanwhile back
+  \end{chorus}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+    Behind the \[A]shelter in the \[F#m]middle of the \[Bm]roundabout\[E7]
+    The pretty \[A]nurse is selling \[F#m]poppies from a \[Am]tray
+    And though she feels as if she's in a \[F]play - she is \[E7]anyway
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse*}
+    \begin{repeatedchords}
+    In Penny \[A]Lane the barber \[F#m]shaves another \[Bm]customer\[E7]
+    We see the \[A]banker sitting \[F#m]waiting for a \[Am]trim
+    And then the fireman rushes \[F]in from the \[E7]pouring rain
+    Ve\[D]ry strange
+    \end{repeatedchords}
+  \end{verse*}
+  
+  \begin{chorus}
+    \begin{repeatedchords}
+    Penny \[G]Lane is in my \[Bm]ears and in my \[C]eyes
+    \[G]There beneath the \[Bm]blue suburban \[C]skies I sit and \[E7]meanwhile back
+    \end{repeatedchords}
+  \end{chorus}
+  
+  \begin{chorus}
+    \Outro :
+    Penny L\[A]ane is in my \[C#m7]ears and in my ey\[D]es
+    \[A]There beneath the \[C#m7]blue suburban \[D]skies
+    \[A]Penny Lane
+  \end{chorus}
+
+\endsong
+

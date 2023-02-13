@@ -1,0 +1,67 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Maison où j'ai grandi}
+  [by={Françoise Hardy},cover={la-maison-ou-j-ai-grandi},album={La Maison où j'ai grandi}]
+
+  \cover
+  \gtab{G}{320003}
+  \gtab{D9}{XX0212}
+  \gtab{Em}{022000}
+
+  \begin{verse*}
+    \lilypond{la_maison_intro}
+  \end{verse*}
+  
+  \begin{verse*}
+      \[G] Quand je me tourne vers mes souve\[D7]nirs
+      Je revois \[D7]la maison où j'ai gran\[G]di
+      Ils me rev\[G]ient des tas de \[D7]choses
+      Je vois des \[D7]roses dans un jar\[G]din
+      Là où vi\[Em]vaient des arbres, mainte\[Em]nant la ville est \[G]là \[G] 
+      Et la mai\[Em]son, les fleurs que \[Em]j'aimais tant, n'existent \[G]plus \[G] 
+  \end{verse*}
+  
+  \begin{verse}
+      Ils savaient \[G]rire tous mes \[D7]amis
+      Ils savaient si bien partager mes \[G]jeux
+      Mais tout doit finir pourtant dans la \[D7]vie
+      Et j'ai dû partir les larmes aux \[G]yeux
+      Mes amis me demandaient «~pourquoi pleu\[D7]rer?
+      Découvrir le monde vaut mieux que res\[G]ter
+      Tu trouve\[Em]ras toutes les choses qu'ici on ne voit \[G]pas
+      Toute une \[Em]ville qui s'endort la nuit dans la lu\[G]mière~»
+  \end{verse}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+      Quand j'ai quit\[G]té ce coin de mon en\[D7]fance
+      Je savais déjà que j'y laissais mon \[G]cœur
+      Tous mes amis enviaient ma \[D7]chance
+      Mais moi je pense encore à leur bon\[G]heur
+      À l'insouciance, qui les faisaient \[D7]rire
+      Et il me semble que je m'entends leur \[G]dire
+      «~Je revien\[Em]drai un jour, un beau matin, parmis vos \[G]rires
+      Oui, je pren\[Em]drai un jour le premier train du souve\[G]nir~»
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{verse}
+    \begin{repeatedchords}
+      Le temps a \[G]passé et me revoi\[D7]là
+      Cherchant en vain la maison que j'ai\[G]mais
+      Où sont les pierres et où sont les \[D7]roses
+      Toutes ces choses auxquelles je te\[G]nais
+      D'elles, de mes amis, plus une \[D7]trace
+      D'autres gens, d'autres maisons ont volé leur \[G]place
+      Là où vi\[Em]vaient des arbres, maintenant la ville est \[G]là
+      Et la mai\[Em]son, où est-elle la maison où j'ai gran\[G]di
+    \end{repeatedchords}
+  \end{verse}
+
+  \begin{bridge}
+      Je ne sais pas\[Em] où est ma maison \[G]
+      La maison\[Em] où j'ai grandi \[G]
+      Où \[G]est ma maison? \[Em] qui sait… \rep{2}
+  \end{bridge}
+
+\endsong

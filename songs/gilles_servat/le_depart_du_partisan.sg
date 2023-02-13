@@ -1,0 +1,75 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Départ du partisan}
+  [by={Gilles Servat},cover={le-pouvoir-des-mots},album={Le Pouvoir des mots}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{G}{320003}
+  \gtab{F}{1:022100}
+
+
+  \begin{verse}
+    J'ai ren\[Am]contré ce matin
+    Devant \[G]la haie de mon champ
+    Une \[F]troupe de marins
+    D'ouvri\[G]ers, de pay\[Am]sans
+  \end{verse}
+
+  \begin{verse*}
+    Où allez-vous camarades ?
+    Avec vos fusils chargés
+    Nous tendrons des embuscades
+    Viens rejoindre notre armée
+  \end{verse*}
+
+  \begin{chorus}
+    La voi\[Am]là la blanche hermine
+    Vive \[G]la mouette et l'ajonc
+    La voi\[F]là la blanche hermine
+    Vive \[G]Fougères et Cli\[Am]ssons
+  \end{chorus}
+
+  \begin{verse}
+    Irai-je avec eux ma mie ?
+    Garderez-vous les enfants ?
+    Allez-y car c'est folie
+    D'être enchaînés plus longtemps
+  \end{verse}
+
+  \begin{verse}
+    Nous ferons tous deux la guerre
+    Ces enfants sur vos genoux
+    Donnez-leur des idées claires
+    Pour qu'ils soient plus forts que nous
+  \end{verse}
+
+  \begin{verse}
+    Nous ferons tous deux la guerre
+    Vous prendrez votre fusil
+    Et moi je tiendrai la terre
+    Et je prendrai les outils
+  \end{verse}
+
+  \begin{verse}
+    Si on a fait la cartouche
+    Qui doit me toucher un jour
+    Les derniers mots de ma bouche
+    Seront tous des mots d'amour
+  \end{verse}
+
+  \begin{verse}
+    Quand une journée s'achève
+    Des feux s'allument partout
+    Le blé nouveau qui se lève
+    Je l'ai semé avec vous
+  \end{verse}
+
+  \begin{verse}
+    J'ai rencontré ce matin
+    Devant la haie de mon champ
+    Une troupe de marins
+    D'ouvriers, de paysans
+  \end{verse}
+
+\endsong

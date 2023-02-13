@@ -1,0 +1,67 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{The Long and Winding Road}
+  [by={The Beatles},cover={let-it-be},album={Let it be}]
+
+  \cover
+  \capo{1}
+  \gtab{A}{X02220}
+  \gtab*{Asus4}{X00230}
+  \gtab*{Bm}{X24432}
+  \gtab{D}{XX0232}
+  \gtab{D7}{XX0212}
+  \gtab{Em}{022000}
+  \gtab{F#m}{244222}
+  \gtab*{G}{355433}
+  \gtab*{G/D}{XX0003}
+  
+  \begin{verse}
+    The \[Bm]long and winding road\[G/D]
+    That \[D]leads \[D7]to your \[G]door
+    Will \[F#m]never \[Bm]disappear
+    \[Em] I've seen that \[A]road \[D]before \[D7]
+    \[G] It \[F#m]always leads \[Bm]me here
+    \[Em] Leads me \[A]to your \[D]door
+  \end{verse}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+    The \[Bm]wild and windy night\[G/D]
+    That the \[D]rain \[D7]washed a\[G]way
+    Has \[F#m]left a \[Bm]pool of tears
+    \[Em] Crying \[A]for the \[D]day \[D7]
+    \[G] Why \[F#m]leave me stan\[Bm]ding here
+    \[Em] Let me \[A]know the \[D]way
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{bridge}
+    \[D]Many times I've \[G]been alone and
+    \[F#m]Many times I've \[Em]cried   \[A]
+    \[D]Anyway you'll ne\[G]ver know the
+    \[F#m]Many ways I've \[Em]tried    \[A]
+  \end{bridge}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+    And \[Bm]still they lead me back\[G/D]
+    To the \[D]long \[D7]and winding \[G]road
+    You \[F#m]left me stan\[Bm]ding here
+    \[Em] A long, long long \[A]time a\[D]go \[D7]
+    \[G] Don't \[F#m]leave me wai\[Bm]ting here
+    \[Em] Lead me \[A]to your \[D]door
+    \end{repeatedchords}
+  \end{verse}
+  
+  \begin{verse}
+    But \[Bm]still they lead me back\[G/D]
+    To the \[D]long \[D7]and winding \[G]road
+    You \[F#m]left me stan\[Bm]ding here
+    \[Em] A long, \[Asus4]long \[A]time ag\[D7]o
+    \[G] Don't \[F#m]keep me wai\[Bm]ting here
+    \[Em] Lead me \[A]to your \[D]door
+    D\[Em]a, da, \[A]da, da--  \[D]
+  \end{verse}
+
+\endsong
+

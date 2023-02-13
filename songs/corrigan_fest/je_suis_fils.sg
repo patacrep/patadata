@@ -12,10 +12,11 @@
   \gtab{G}{320003}
 
   \begin{verse*}
-    \musicnote{\nolyrics \Intro: \[Am G Am Am] \linebreak
-    \[Am G C C] \linebreak
-    \[C G Dm Am] \linebreak
-    \[F Em Am Am] \rep{2}}
+    \musicnote{\nolyrics \Intro, \Bridge \& \Chorus:}
+    \musicnote{\nolyrics \[Am G Am Am]}
+    \musicnote{\nolyrics \[Am G C C]}
+    \musicnote{\nolyrics \[C G Dm Am]}
+    \musicnote{\nolyrics \[F Em Am Am] \rep{2}}
   \end{verse*}
 
   \begin{verse}
@@ -23,39 +24,49 @@
     Je \[Am]suis fils de sol\[G]dat qui \[C]déteste la guerre
     Je \[C]suis fils de for\[G]çat, cri\[Dm]minel éva\[Am]dé 
     Et \[F]fils de fille du \[Em]Roy, trop \[Am]pauvre à marier
-    Fils \[Am]de coureur des \[G]bois et \[Am]de contrebandier
-    En\[Am]fant des sept na\[G]tions et \[C]fils d'aventurier
-    Mé\[C]tis et sang-mê\[G]lé, bien \[Dm]qu'on me l'ait ca\[Am]ché
-    C'é\[F]tait sujet de \[Em]honte, j'en \[Am]ferai ma fierté \[Am]   
   \end{verse}
   
   \begin{verse*}
-    \musicnote{\nolyrics \[Am G Am Am] \linebreak
-    \[Am G C C] \linebreak
-    \[C G Dm Am] \linebreak
-    \[F Em Am Am] \linebreak
-    \[F Em Am Am]}
+    \begin{repeatedchords}
+    Fils \[Am]de coureur des \[G]bois et \[Am]de contrebandier
+    En\[Am]fant des sept na\[G]tions et \[C]fils d'aventurier
+    Mé\[C]tis et sang-mê\[G]lé, bien \[Dm]qu'on me l'ait ca\[Am]ché
+    C'é\[F]tait sujet de \[Em]honte, j'en \[Am]ferai ma fierté
+    \end{repeatedchords}
+  \end{verse*}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics \Bridge}
   \end{verse*}
 
   \begin{chorus}
+    \begin{repeatedchords}
     \[Am]Laï la \[G]la la la \[Am]laï
     \[Am]Laï la \[G]la la la \[C]laï
     La la \[C]la la la la \[G]la
     La la \[Dm]la la la la \[Am]la
     \[F]Laï la \[Em]la la la \[Am]laï
     \[F]Laï la \[Em]la la la \[Am]laï
+    \end{repeatedchords}
   \end{chorus}
 
   \begin{verse}
-    Je suis fils d'Irlandais, poussé par la famine
-    Je suis fils d'Écossais venu crever en usine
-    Dès l'âge de huit ans, seize heures sur les machines
-    Mais Dieu sait que jamais je n'ai courbé l'échine !
-    Non, je suis resté droit, là devant les patrons
-    Même le jour où ils ont passé la conscription
-    J'suis fils de paysan, et fils d'ouvrier
-    Je ne prends pas les armes contre d'autres affamés
+    \begin{repeatedchords}
+    Je \[Am]suis fils d'Irlan\[G]dais, pous\[Am]sé par la famine
+    Je \[Am]suis fils d'Écos\[G]sais, v'nu \[C]crever en usine
+    Dès \[C]l'âge de huit \[G]ans, seize \[Dm]heures sur les ma\[Am]chines
+    Mais \[F]Dieu sait que ja\[Em]mais je \[Am]n'ai courbé l'échine
+    \end{repeatedchords}
   \end{verse}
+  
+  \begin{verse*}
+    \begin{repeatedchords}
+    Non, \[Am]je suis resté \[G]droit, là \[Am]devant les patrons
+    Même \[Am]le jour où ils \[G]ont pas\[C]sé la conscription
+    J'suis \[C]fils de pay\[G]san, et \[Dm]fils d'ou\[Am]vrier
+    Je \[F]ne prends pas les \[Em]armes contre \[Am]d'autres affamés
+    \end{repeatedchords}
+  \end{verse*}
 
   \begin{bridge}
     La la \[C]la la la la la
@@ -65,30 +76,40 @@
 
     La la \[C]la la la la la
     La la \[G]la, la la 
-    La la \[Dm]la la la \[G]la la la
-    \[E]La \dots
+    La la \[Dm]la la la \[G]la la la \[E]la
   \end{bridge}
 
   \begin{verse}
-    Ce n'était pas ma guerre, alors j'ai déserté
-    J'ai fui dans les forêts et je m'y suis caché
-    Refusant de servir de chair à canon
-    Refusant de mourir au loin pour la nation
-    Une nation qui ne fut jamais vraiment la mienne
-    Une alliance forcée de misère et de peine
-    Celle du génocide des premières nations
-    Celle de l'esclavage et des déportations
+    \begin{repeatedchords}
+    Ce \[Am]n'était pas ma \[G]guerre, a\[Am]lors j'ai déserté
+    J'ai \[Am]fui dans les fo\[G]rêts et \[C]je m'y suis caché
+    Re\[C]fusant de ser\[G]vir de \[Dm]chair à ca\[Am]non
+    Re\[F]fusant de mou\[Em]rir au \[Am]loin pour la nation
+    \end{repeatedchords}
   \end{verse}
+    
+  \begin{verse*}
+    \begin{repeatedchords}
+    Une \[Am]nation qui ne \[G]fut ja\[Am]mais vraiment la mienne
+    Une \[Am]alliance for\[G]cée de \[C]misère et de peine
+    Cel\[C]le du géno\[G]cide des \[Dm]premières na\[Am]tions
+    Cel\[F]le de l'escla\[Em]vage et \[Am]des déportations
+    \end{repeatedchords}
+  \end{verse*}
+  
+  \textnote{\Chorus}
 
   \begin{verse}
-     Je n'aime pas le lys, je n'aime pas la croix
-     Une est pour les curés, et l'autre est pour les rois
-     Si j'aime mon pays, la terre qui m'a vu naître
-     Je ne veux pas de dieu, je ne veux pas de maître \rep{2}
+    \begin{repeatedchords}
+    Je \[Am]n'aime pas le \[G]lys, je \[Am]n'aime pas la croix
+    L'une \[Am]est pour les cu\[G]rés, et \[C]l'autre est pour les rois
+    Si \[C]j'aime mon pa\[G]ys, la \[Dm]terre qui m'a vu \[Am]naître
+    Je \[F]ne veux pas de \[Em]dieu, je \[Am]ne veux pas de maître \rep{2}
+    \end{repeatedchords}
   \end{verse}
   
   \begin{verse*}
-    \musicnote{\Outro: \[F]Laï la \[Em]la la \[Am]laï}
+    \textnote{\Outro: \[F]Laï la \[Em]la la \[Am]laï}
   \end{verse*}
 
 \endsong
