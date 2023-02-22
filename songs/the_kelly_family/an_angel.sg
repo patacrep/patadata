@@ -1,0 +1,71 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{An Angel}
+  [by={The Kelly Family},cover={over_the_hump},album={Over The Hump}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{G}{320003}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{G}{3:022100}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics{\[C C]}}
+  \end{verse*}
+
+  \begin{verse}
+	\[C] I wish I had your pair of \[Dm]wings
+	\[G] I had 'em last in my \[C]dreams
+	\[Am] I was chasing butter\[Dm]flies
+	\[G] Until the sunrise broke my \[C]eyes
+	\[C] Tonight the sky has glued my \[Dm]eyes
+	\[G] 'Cause what they see's an angel \[C]hive
+	\[Am] I've got to touch that magic \[Dm]sky
+	\[G] And greet the angels in their \[C]hive
+  \end{verse}
+
+  \begin{chorus}
+	\[G]Some\[C]times I wish I were an \[F]angel \[G]
+	Some\[C]times I wish I were \[G]you
+	Some\[C]times I wish I were an \[F]angel \[G]
+	Some\[C]times I \[G]wish I were \[C]you
+  \end{chorus}
+
+  \begin{verse}
+	Oh, the sweet honey from above
+	Pour it all over me sweet love
+	And while you're flying around my head
+	Your honey kisses keep me fed
+	I wish I had your pair of wings
+	Just like last night in my dreams
+	I was lost in paradise
+	Wish I'd never opened my eyes
+  \end{verse}
+
+  \begin{chorus}
+	Sometimes I wish I were an angel
+	Sometimes I wish I were you
+	Sometimes I wish I were an angel
+	Sometimes I wish I were you
+  \end{chorus}
+
+  \begin{bridge}
+	But there's \[Am]danger in the \[F]air
+	Tryin' so \[C]hard to be un\[G]fair
+	\[Am]Danger in the \[F]air
+	Tryin' so \[C]hard to keep us a \[G]scare
+	But we're not \[F]afraid \[G]
+  \end{bridge}
+
+  \begin{chorus}
+	Sometimes I wish I were an angel
+	Sometimes I wish I were you
+	Sometimes I wish I were an angel
+	Sometimes I wish I were you
+	I \[G]Wish I were \[C]you
+	Oh, I \[G]wish I were \[C]you
+  \end{chorus}
+
+\endsong
