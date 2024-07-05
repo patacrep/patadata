@@ -1,0 +1,113 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{L'amour minéral}
+  [by={François Béranger},cover={ca-doit-etre-bien},album={Ça doit être bien}]
+
+  \cover
+  \gtab{B&}{1:(113321)}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+  \gtab{Em}{022000}
+  \gtab{F}{1:(133211)}
+  \gtab{G}{320003}
+  \gtab{G#}{4:(133211)}
+
+  \begin{verse}
+    \[G]{Tu m'as} laissé \[D]dans un désert
+    \[C] Avec mon amour \[D]miné\[G]ral
+    \[G]{Je sais} bien que la \[D]place des pierres
+    \[C] C'est d'être dans \[D]les dé\[G]serts
+    \[G]{Je sais} aussi qu'à la \[D]nuit tombée
+    \[C] Les pierres trop chaudes éc\[D]latent en pous\[G]sière
+  \end{verse}
+
+  \begin{chorus}
+    \[F]Hé, dis donc, \[C]Béran\[G]ger
+    \[F]Faudrait p't-être \[C]faire
+    Des chan\[G]sons plus \[Em]gaies
+  \end{chorus}
+
+  \begin{verse*}
+    \[C]Une chanson sur Amster\[G#]dam
+    \[G]Avec \[F]une \[C]dame
+    \[C]Ou sur une île de Bre\[G#]tagne
+    Dans les \[G]brumes \[F]de l'hi\[C]ver
+    \[F]Faudrait aussi qu'on voit la \[C]dame
+    \[B&]Grande et \[C]blonde et \[F]calme
+    \[F]Mais qu'ça fasse pas plus d'trois mi\[C]nutes
+    \[B&] À cause des \[C]prog\[F]rammes
+  \end{verse*}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Tu m'as laissé dans un désert
+      Avec mon amour minéral
+      Si je te dis qu'il est ainsi
+      C'est que les pierres, ça dure plusieurs vies
+      Mais si j'en juge par l'aujourd'hui
+      Je peux te dire que les pierres souffrent aussi
+    \end{verse}
+
+    \begin{chorus}
+      \[F]Hé, dis donc, \[C]Béran\[G]ger
+      \[F]Faudrait p't-être \[C]faire
+      Des chan\[G]sons plus \[Em]gaies
+    \end{chorus}
+
+    \begin{verse*}
+      Une chanson dans un' maison
+      Chaude et parfumée
+      Avec un gros chat familier
+      Devant la ch'minée
+
+      Ils font l'amour dans un grand lit
+      Sous un édredon
+      Et puis ils s'endorment en rêvant
+      Qu'ils recommence-ront
+    \end{verse*}
+
+    \begin{verse}
+      Tu m'as laissé dans un désert
+      Avec mon amour minéral
+      J'ai beau avoir une soif d'enfer
+      De mon malheur je vais faire
+      Un paradis un peu bancal
+      Dans mes profondeurs abyssales
+    \end{verse}
+
+    \begin{chorus}
+      \[F]Hé, dis donc, \[C]Béran\[G]ger
+      \[F]Faudrait p't-être \[C]faire
+      Des chan\[G]sons plus \[Em]gaies
+    \end{chorus}
+
+    \begin{verse*}
+      Car quelquefois dans le désert
+      Derrière les pierres
+      On voit jaillir une oasis
+      Et des eaux claires
+      Y'a des jardins qui sont d'un vert
+      Que c'en est à crier
+      Avec des fruits, avec des fleurs
+      Et des gens qui rient
+    \end{verse*}
+
+    \begin{chorus}
+      Tu m'as laissé dans un désert
+      Avec mon amour minéral
+      Moi, je t'attends hors du temps
+      Dans l'oasis que j'ai dite
+      Encore un vœu pour en finir
+      C'est que cette chanson t'ait fait rire
+      Encore un vœu pour en finir
+      C'est que cette chanson t'ait fait rire
+    \end{chorus}
+
+    \begin{chorus}
+      Tu m'as laissé dans un désert
+      Avec mon amour minéral
+      \musicnote{\Adlib}
+    \end{chorus}
+  \end{repeatedchords}
+
+\endsong
