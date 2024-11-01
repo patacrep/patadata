@@ -1,0 +1,60 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Mélancolie}
+  [by={Yves Duteil},cover={j-ai-la-guitare-qui-me-demange},album={J'ai la guitare qui me démange}]
+
+  \cover
+  \capo{1}
+  \gtab{Am}{X02210}
+  \gtab{Am/G}{302210}
+  \gtab{B5}{X244XX}
+  \gtab{C}{X32010}
+  \gtab{E7}{020100}
+  \gtab{F#dim}{X3424X}
+  \gtab{G7}{320001}
+
+  \musicnote {\Intro: \nolyrics \[Am B5 E7 Am Am/G F\#dim E7}
+
+  \begin{verse}
+    Il y a des \[Am]jours où quand le jour se lève
+    On voudrait \[B5]rentrer tout au fond d'un \[E7]rêve
+    Et puis sou\[Am]dain quand le clocher \[Am/G]sonne
+    Il y a des \[F#dim]jours où l'on est plus per\[E7]sonne
+  \end{verse}
+
+  \begin{verse}
+    Alors on ferme les yeux un instant
+    Quand on les rouvre tout est comme avant
+    Les gens vous voient mais leur regard s'étonne
+    Il y a des jours où l'on est plus per\[Am]sonne
+  \end{verse}
+
+  \begin{verse*}
+    Comme au mi\[C]lieu d'un cinéma désert
+    On rembo\[G7]bine et tout passe à l'envers
+    Et quand on \[Am]pense aux gens qu'on aban\[Am]donne
+    Il y a des \[E7]jours où l'on est plus personne
+  \end{verse*}
+
+  \begin{verse}
+    La la la la la la la la la la
+    La la la la la la la la la la
+    La la la la la la la la la la
+    La la La la la la la la la \[Am]la
+  \end{verse}
+
+  \begin{verse*}
+    Ouvrir son coeur à tous les vents qui passent
+    Et qu'un matin tous les chagrins s'effacent
+    Pour oublier dans le bonheur qu'on donne
+    Qu'il y a des jours où l'on est plus personne
+  \end{verse*}
+
+  \begin{verse}
+    Qu'il y a des jours où quand le jour se lève
+    On voudrait rentrer tout au fond du rêve
+    Et s'endormir lorsque le clocher sonne
+    Il y a des jours où l'on a \[E7]plus per\[Am]sonne
+  \end{verse}
+
+\endsong

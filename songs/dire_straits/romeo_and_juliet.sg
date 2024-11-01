@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{1}
 \beginsong{Romeo and Juliet}
-  [by={Dire Straits},cover={making-movies},album={Making Movies}]
+  [by={Dire\ Straits},cover={making-movies},album={Making Movies}]
 
   \cover
   \gtab{F}{5:X32010}

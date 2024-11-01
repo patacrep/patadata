@@ -10,15 +10,15 @@
   \gtab{Gm}{3:022000}
   \gtab{C}{X32010}
   \gtab{F}{1:022100}
-  \gtab{F/A}{X0321X}
+  \gtab*{F/A}{X0321X}
   \gtab{A7}{X02020}
   \gtab{A&}{4:022100}
   \gtab{E&}{6:X02220}
   \gtab{D&}{4:X02220}
-  \gtab{C#dim}{3:X2313X}
-  \gtab{Fm}{8:X02210}
-  \gtab{D7sus4}{5:X02030}
-  \gtab{D7sus2}{5:X02000}
+  \gtab*{C#dim}{3:X2313X}
+  \gtab*{Fm}{8:X02210}
+  \gtab*{D7sus4}{5:X02030}
+  \gtab*{D7sus2}{5:X02000}
 
   \begin{verse}
     Tombé du \[Dm]ciel

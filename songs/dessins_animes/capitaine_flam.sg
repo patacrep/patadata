@@ -1,0 +1,68 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Capitaine Flam}
+  [by={Dessins\ Animés},cover={capitaineflam},album={}]
+
+  \cover
+  \gtab{G}{320003}
+  \gtab{B7}{X21202}
+  \gtab{Em}{022000}
+  \gtab{F}{1:022100}
+  \gtab{C}{032010}
+  \gtab{D}{~:XX0232}
+  \gtab{Bm}{2:X002210}
+  \gtab{Em}{022000}
+  \gtab{A}{X02220}
+  \gtab{E7}{020100}
+  \gtab{D7}{~:XX0212}
+  \gtab{Am}{~:022100}
+  \gtab{G7}{3:020100}  
+  \gtab{Cm7}{3:020000}
+  \gtab{F7}{1:020100}  
+  \gtab{B&M7}{1:X02120}
+  \gtab{E&}{6:X02220}
+
+  \begin{verse}
+    \[G]Capitaine Flam tu n'es \[B7]pas
+    De notre gala\[Em]xie
+    Mais du fond de la \[F]nuit
+    \echo{Capitaine \[G]Flam}
+    \[C]{D'aussi} \[D]loin que l'infi\[Bm]ni
+    Tu \[Em]descends jusqu'i\[A]ci
+    Pour sauver tous les \[C]hom\[D]mes
+  \end{verse}
+
+  \begin{verse}
+    \[G]Capitaine Flam tu n'es \[B7]pas
+    De notre voie lac\[Em]tée
+    Mais tu as traver\[F]sé
+    \echo{Capitaine \[G]Flam}
+    \[C]Cent mil\[D]le millions d'an\[Bm]nées
+    Pour \[E7]sauver de ton \[A]bras
+    Les \[D7]gens de Mega\[G]ra
+  \end{verse}
+
+  \begin{chorus}
+    Il \[Am]y a \[D]dans ton Cyber\[Bm]lab 
+    Et \[E7]dans ton Cosmol\[Am]em 
+    Ton \[D7]petit copain \[G]Ken 
+  \end{chorus}
+  
+  \begin{chorus}
+    Il y a aus\[G7]si 
+    Tu \[Cm7]vois
+    Ta \[F7]douce amie J\[B&M7]oan
+    Fre\[E&]golo et Ma\[Cm]la
+    Qui \[C#dim]ne te quittent pa\[D4]s\[D]
+  \end{chorus}
+
+  \textnote[english]{Verse 1 \& 2}
+  \textnote[french]{Couplets 1 \& 2}
+
+  \begin{verse*}
+    \[C]Capitai\[D]ne Flam oui c'est \[Bm]toi
+    Un \[E7]jour qui sauvera\[Am7]   
+    Tous \[D]ceux \[Am7]de \[D7]Mega\[G]ra
+  \end{verse*}
+
+\endsong

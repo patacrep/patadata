@@ -1,0 +1,94 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Je suis fils}
+  [by={Corrigan\ Fest},cover={la_victoire_en_chantant},album={La Victoire en chantant}]
+
+  \cover
+  \gtab{Am}{X02210}
+  \gtab{C}{X32010}
+  \gtab{Dm}{XX0231}
+  \gtab{Em}{022000}
+  \gtab{F}{1:XX3211}
+  \gtab{G}{320003}
+
+  \begin{verse*}
+    \musicnote{\nolyrics \Intro: \[Am G Am Am] \linebreak
+    \[Am G C C] \linebreak
+    \[C G Dm Am] \linebreak
+    \[F Em Am Am] \rep{2}}
+  \end{verse*}
+
+  \begin{verse}
+    Je \[Am]suis fils de ma\[G]rin qui \[Am]traversa la mer
+    Je \[Am]suis fils de sol\[G]dat qui \[C]déteste la guerre
+    Je \[C]suis fils de for\[G]çat, cri\[Dm]minel éva\[Am]dé 
+    Et \[F]fils de fille du \[Em]Roy, trop \[Am]pauvre à marier
+    Fils \[Am]de coureur des \[G]bois et \[Am]de contrebandier
+    En\[Am]fant des sept na\[G]tions et \[C]fils d'aventurier
+    Mé\[C]tis et sang-mê\[G]lé, bien \[Dm]qu'on me l'ait ca\[Am]ché
+    C'é\[F]tait sujet de \[Em]honte, j'en \[Am]ferai ma fierté \[Am]   
+  \end{verse}
+  
+  \begin{verse*}
+    \musicnote{\nolyrics \[Am G Am Am] \linebreak
+    \[Am G C C] \linebreak
+    \[C G Dm Am] \linebreak
+    \[F Em Am Am] \linebreak
+    \[F Em Am Am]}
+  \end{verse*}
+
+  \begin{chorus}
+    \[Am]Laï la \[G]la la la \[Am]laï
+    \[Am]Laï la \[G]la la la \[C]laï
+    La la \[C]la la la la \[G]la
+    La la \[Dm]la la la la \[Am]la
+    \[F]Laï la \[Em]la la la \[Am]laï
+    \[F]Laï la \[Em]la la la \[Am]laï
+  \end{chorus}
+
+  \begin{verse}
+    Je suis fils d'Irlandais, poussé par la famine
+    Je suis fils d'Écossais venu crever en usine
+    Dès l'âge de huit ans, seize heures sur les machines
+    Mais Dieu sait que jamais je n'ai courbé l'échine !
+    Non, je suis resté droit, là devant les patrons
+    Même le jour où ils ont passé la conscription
+    J'suis fils de paysan, et fils d'ouvrier
+    Je ne prends pas les armes contre d'autres affamés
+  \end{verse}
+
+  \begin{bridge}
+    La la \[C]la la la la la
+    La la \[G]la, la la 
+    La la \[Dm]la la la la la
+    La la \[Am]la, la la
+
+    La la \[C]la la la la la
+    La la \[G]la, la la 
+    La la \[Dm]la la la \[G]la la la
+    \[E]La \dots
+  \end{bridge}
+
+  \begin{verse}
+    Ce n'était pas ma guerre, alors j'ai déserté
+    J'ai fui dans les forêts et je m'y suis caché
+    Refusant de servir de chair à canon
+    Refusant de mourir au loin pour la nation
+    Une nation qui ne fut jamais vraiment la mienne
+    Une alliance forcée de misère et de peine
+    Celle du génocide des premières nations
+    Celle de l'esclavage et des déportations
+  \end{verse}
+
+  \begin{verse}
+     Je n'aime pas le lys, je n'aime pas la croix
+     Une est pour les curés, et l'autre est pour les rois
+     Si j'aime mon pays, la terre qui m'a vu naître
+     Je ne veux pas de dieu, je ne veux pas de maître \rep{2}
+  \end{verse}
+  
+  \begin{verse*}
+    \musicnote{\Outro: \[F]Laï la \[Em]la la \[Am]laï}
+  \end{verse*}
+
+\endsong

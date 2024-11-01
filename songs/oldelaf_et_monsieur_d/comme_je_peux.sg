@@ -1,0 +1,90 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Comme je peux}
+  [by={Oldelaf},cover={tristitudes},album={Tristitudes}]
+
+  \cover
+  \gtab{C}{3:002220}
+  \gtab{G}{3:022100}
+  \gtab{G7}{3:020130}
+  \gtab{Am}{5:022000}
+  \gtab{F}{1:022100}
+  \gtab{Em}{022000}
+
+  \begin{verse*}
+    \musicnote{\nolyrics{\Intro : \[C G Am F]}}
+  \end{verse*}
+
+  \begin{verse}
+    \[C] Tout est  \[G]calme sur Belle\[Am]ville
+    Je sors \[F]juste de chez Lu\[C]cile
+    Elle est \[G]chouette et je \[Am] pense
+    Que son \[F]homme a de la \[C]chance
+    Elle m'a \[G]dit, toute en san\[Am]glots
+    Que les \[F]mecs sont des sa\[C]lauds
+    Que Tom \[G]ne pensait qu'à \[Am] ça
+    Mais j'a\[F]voue, j'écoutais \[Em]pas
+    Elle disait : \og{} Toi \[Em]t'es quelqu'un de \[G]bien \fg{}
+    Et moi, \[G7]je regardais ses \[C]seins
+  \end{verse}
+
+  \begin{chorus}
+    Et je \[G]fais comme je \[Am]peux
+    Je \[F]vis ma vie comme un \[C]jeu
+    Face \[G]au monde qui a\[Am]vance
+    Moi je \[F]nage à \[G7]contre-sen\[C]s
+    Et je \[G]fais comme je \[Am]peux
+    Pas tou\[F]jours comme je veux
+  \end{chorus}
+
+  \begin{verse}
+    Rendez-vous chez Laurent
+    Une soirée pour ses trente ans
+    Son appart' est bien même si
+    Ses parents y vivent aussi
+    Un verre de rhum à la main
+    Je fais genre je me sens bien
+    Je parle un peu à tout le monde
+    Je crois même plaire à une blonde
+    Mais Laurent fout mon coup par terre
+    En disant : \og{} Tiens ! Tu connais ma mère ? \fg{}
+  \end{verse}
+
+  \begin{chorus}
+    Et je fais comme je peux
+    Et je vis ma vie comme un jeu
+    Face au monde qui avance
+    Moi je nage à contre-sens
+    Et je fais comme je peux
+    Pas toujours comme je veux
+  \end{chorus}
+
+  \begin{verse}
+    Un peu seul, un peu fébrile
+    Je repense à cette Lucile
+    J'aurais dû moins lui parler
+    Ou bien plus, bon, j'ai merdé
+    Je m'allonge sur mon plumard
+    Je nous invente une histoire
+    Un appart' et une BM
+    Des gamins et des problèmes
+    Des engueulades insensées
+    Je crois qu'j'ai bien fait d'la plaquer
+  \end{verse}
+
+  \begin{chorus}
+    Et je fais comme je peux
+    Et je vis ma vie comme un jeu
+    Face au monde qui avance
+    J'fais ma crise d'adulescence
+    Et je fais comme je peux\dots
+  \end{chorus}
+
+  \musicnote{instrumental}
+
+  \begin{chorus}
+    Et je fais comme je peux
+    Pas toujours comme je veux
+  \end{chorus}
+
+\endsong

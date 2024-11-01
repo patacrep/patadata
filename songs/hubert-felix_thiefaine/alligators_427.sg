@@ -16,8 +16,7 @@
   \gtab{F}{1:022100}
   \gtab{C}{X32010}
   \gtab{G}{3:022100}
-  \gtab{Am}{5:022000}
-  \gtab{Dm*}{5:X02210}
+  \gtab{Am}{X02210}
   \gtab{Fm}{1:022000}
   \gtab{C#}{4:X02220}
   \gtab{G#}{4:022100}
@@ -35,7 +34,7 @@
     \[E]Je sais que vous avez la beauté destructive
     Et le sourire vainqueur jusqu'au dernier so\[B]upir
     Je sais que vos mâchoires distil\[F#m]lent l'ago\[G#m]nie
-    \[C#m]Moi je vous dis bravo et vive la \[G#m]mort
+    \[C#m]{Moi je} vous dis bravo et vive la \[G#m]mort
   \end{verse}
 
   \begin{repeatedchords}
@@ -51,7 +50,7 @@
       \[E]Et les manufactures ont beau se recycler
       Y'aura jamais assez de morphine pour tout le m\[B]onde
       Surtout qu'à ce qu'on dit vous ai\[F#m]mez faire du\[G#m]rer
-      \[C#m]Moi je vous dis bravo et vive la \[G#m]mort
+      \[C#m]{Moi je} vous dis bravo et vive la \[G#m]mort
     \end{verse}
 
     \begin{verse}
@@ -64,18 +63,18 @@
       Autour des tables du festin
       Je vous at\[C#m]tends
       \[E]Et j'attends que se dressent vos prochains charniers
-      J'ai raté l'autre guerre pour la photographie
+      J'ai raté l'autre guerre pour la photographie % \[B] ?
       J'espère que vos macchabées seront \[F#m]bien faisan\[G#m]dés
-      \[C#m]Moi je vous dis bravo et vive la \[G#m]mort
+      \[C#m]{Moi je} vous dis bravo et vive la \[G#m]mort
     \end{verse}
   \end{repeatedchords}
 
   \begin{verse}
-    \[E&m]Alligators 427
+    \[D#m]Alligators 427
     Aux crocs venimeux et gluants
     Je donne un coup de brosse à mon squelette
     Je vous at\[C#m]tends
-    \[E&m]L'idiot du village fait la queue
+    \[D#m]L'idiot du village fait la queue
     Et tend sa carte d'adhérent
     Pour prendre place dans le grand feu
     Je vous at\[C#m]tends
@@ -90,14 +89,14 @@
     Aux griffes d'or et de diamant
     Je sais que la ciguë est prête
     Je vous at\[Dm]tends
-    \[Em]Je sais que dans votre alchimie
+    \[Em]{Je sais} que dans votre alchimie
     L'atome ça vaut des travellers chèques
-    Et ça suffit comme alibi
+    Et ça suffit comme alibi \echo{haha}
     Je vous at\[Dm]tends
     \[F]A l'ombre de vos centrales, je crache mon cancer
     Je cherche un nouveau nom pour ma métamor\[C]phose
-    Je sais que mes enfants s'appelleront v\[G]ers de te\[Am]rre
-    \[Dm*]Moi je vous dis bravo et vive la \[Am]mort
+    Je sais que mes enfants s'appelle\[G]ront vers de te\[Am]rre
+    \[Dm]{Moi je} vous dis bravo et vive la \[Am]mort
   \end{verse}
 
   \begin{verse}
@@ -109,10 +108,10 @@
     Et sur mon compteur électrique
     J'ai le portrait du prince-ringard
     Je vous at\[D#m]tends
-    \[F#]Je sais que, désormais, vivre est un calembour
+    \[F#]{Je sais} que, désormais, vivre est un calembour
     La mort est devenue un état perma\[C#]nent
     Le monde est aux fantômes, aux hyè\[G#]nes et aux vaut\[B&m]ours
-    \[E&m]Moi je vous dis bravo et vive la \[B&m]mort
+    \[E&m]{Moi je} vous dis bravo et vive la \[B&m]mort
     \[E&m]Vive la \[B&m]mort \Adlib
   \end{verse}
 
