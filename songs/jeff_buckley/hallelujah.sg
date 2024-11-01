@@ -10,8 +10,10 @@
   \gtab{G}{320003}
   \gtab{E}{022100}
 
+  \musicnote{Intro}
+
   \begin{verse}
-    I \[C]heard there was a \[Am]secret chord
+    \[C] \[Am] \[C] \[Am] I \[C]heard there was a \[Am]secret chord
     That \[C]David played and it \[Am]pleased the Lord
     But \[F]you don't really \[G]care for music, \[C]do you?\[G]
     And it \[C]goes like this: the \[F]fourth, the \[G]fifth
@@ -20,7 +22,7 @@
   \end{verse}
 
   \begin{chorus}
-    Halle\[F]lujah, Halle\[Am]lujah, Halle\[F]lujah, Halle\[C]lu\[G]\[C]jah\[G]
+    Halle\[F]lujah, Halle\[Am]lujah, Halle\[F]lujah, Halle\[C]lu\[G]\[C]jah \[Am]
   \end{chorus}
 
   \begin{verse}
@@ -49,6 +51,8 @@
     And the holy dove was moving too
     And every breath you drew was Hallelujah
   \end{verse}
+
+  \musicnote{Bridge \& Solo}
 
   \begin{verse}
     And maybe there's a God above
