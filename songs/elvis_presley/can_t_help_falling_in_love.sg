@@ -1,0 +1,51 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Can't help falling in love with you}
+  [by={elvis presley},cover={single},album={single}]
+  \cover
+  \capo{2}
+  \gtab{Em}{022000}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{C}{X32010}
+  \gtab{G}{320003}
+  \gtab{Dm}{XX0231}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[C G C C]}
+  \end{verse*}
+
+  \begin{verse}
+	\[C]Wise \[Em]men \[Am]say
+	Only \[F]fools \[C]rush \[G]in
+	But \[F]I \[G]can't \[Am]help \[Dm]falling in \[C]love \[G]with \[C]you
+  \end{verse}
+  \begin{verse}
+	Shall I stay?
+	Would it be a sin
+	If I can't help falling in love with you?
+  \end{verse}
+  \begin{chorus}
+	\[Em]Like a river \[Am]flows
+	\[Em]Surely to the \[Am]sea
+	\[Em]Darling, so it \[Am]goes
+	\[Em]Some things are meant to \[Dm]be\[G7]
+  \end{chorus}
+  \begin{verse}
+	Take my hand
+	Take my whole life too
+	For I can't help falling in love with you
+  \end{verse}
+  \begin{chorus}
+	Like a river flows
+	Surely to the sea
+	Darling, so it goes
+	Some things are meant to be
+  \end{chorus}
+  \begin{verse}
+	Take my hand
+	Take my whole life too
+	For I can't help falling in love with you
+	For \[Em]I \[G]can't \[Am]help \[Dm]falling in \[C]love \[G]with \[C]you
+  \end{verse}
+\endsong
