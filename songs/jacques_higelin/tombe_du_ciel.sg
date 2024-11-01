@@ -17,8 +17,9 @@
   \gtab{D&}{4:X02220}
   \gtab*{C#dim}{3:X2313X}
   \gtab*{Fm}{8:X02210}
-  \gtab*{D7sus4}{5:X02030}
-  \gtab*{D7sus2}{5:X02000}
+  \gtab*{Am7*}{XXX213}
+  \gtab*{Am*}{XXX215}
+  \gtab*{Am**}{XXX210}
 
   \begin{verse}
     Tombé du \[Dm]ciel
@@ -36,8 +37,8 @@
 
   \begin{chorus}
     Tom\[F]bé \[C]dans l'oreille d'un \[Dm]sourd
-    Qui ven\[C]ait de tomber
-    \[B&]En amour la \[F/A]veille
+    Qui ven\[C]ait de tomber \[B&]en
+    Amour la \[F/A]veille
     \[B&]{D'une} hôtesse de l'\[C]air fidèle
   \end{chorus}
 
@@ -46,7 +47,7 @@
     Dans les \[C]bras d'un baga\[B&]giste
     Un peu vo\[F/A]lage
     \[B&]Ancien tueur à \[F/A]gages
-    Com\[B&]ment peut-on tom\[Gm]ber plus \[A7]mal
+    Com\[B&]ment peut-on tom\[Gm]{ber plus} \[A7]mal
   \end{chorus}
 
   \begin{repeatedchords}
@@ -68,11 +69,11 @@
       No\[F]ël, \[C]voilé de mys\[Dm]tère
       Sous mon \[C]regard éblou\[B&]i
       Par la nai\[F/A]ssance
-      \[Gm]D'une étoile dans \[C]{le désert}
+      \[B&]D'une étoile dans \[C]{le désert}
     \end{chorus}
 
     \begin{chorus}
-      \[F]Tombé \[C]comme un mété\[Dm]ore
+      \[F]Tombée \[C]comme un mété\[Dm]ore
       Dans les \[C]poches de Baltha\[B&]zar
       Gaspard ou Mel\[F/A]chior
       Les \[B&]trois fameux rois \[F/A]mages
@@ -80,13 +81,30 @@
     \end{chorus}
   \end{repeatedchords}
 
-  \begin{verse*}
-    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-    \[D7sus4]Tombé à la fleur de l'âge, dans l'oubli
-  \end{verse*}
+  \begin{bridge}
+    \[A&]Tombés d'en haut
+    \[E&]Comme les petites gouttes \[Fm]d'eau
+    Que j'en\[E&]tends tomber
+    De\[D&]hors, par la \[A&]f'nêtre
+    Quand \[D&]{je m'endors} le \[E&]cœur en fête
+  \end{bridge}
+
+  \begin{bridge}
+    \[A&]Poseur de \[E&]girouettes\[Fm]
+    Du haut \[E&]{du clocher}
+    \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
+    Par \[D&]{où le} vent fredonne ma chanson
+  \end{bridge}
+
+  \begin{bridge}
+    \[Am7*]Tombé sur un jour de chan\[Am*]ce \[Am7* Am**]
+    \[Am7*]Tombé à la fleur de l'â\[Am*]ge, \[Am7*]{dans l'oub}\[Am**]li
+    \echo{Solo !}
+  \end{bridge}
 
   \musicnote{Solo sur les accords du couplet 1}
 
+  \begin{repeatedchords}
     \begin{chorus}
       C'est \[F]fou, \[C]c'qu'on peut voir tom\[Dm]ber
       Quand on \[C]traîne sur le pa\[B&]vé
@@ -96,43 +114,42 @@
 
     \begin{chorus}
       On \[F]voit \[C]tomber des bal\[Dm]cons
-      Des mé\[C]gots, des pots d'fleurs
-      \[B&]Des chanteurs de \[F/A]charme
+      Des mé\[C]gots, des pots d'fleurs, \[B&]des
+      Chanteurs de \[F/A]charme
       Des \[B&]jeunes filles en \[F/A]larmes
       Et \[B&]des alpinistes \[Gm]ama\[A7]teurs
     \end{chorus}
 
-  \begin{chorus}
-    \[A&]Tombé d'en haut
-    \[E&]Comme les petites gouttes \[Fm]d'eau
-    Que j'en\[E&]tends tomber
-    De\[D&]hors, par la \[A&]f'nêtre
-    Quand \[D&]{je m'endors} le \[E&]cœur en fête
-  \end{chorus}
+    \begin{bridge}
+      \[A&]Tombés d'en haut
+      \[E&]Comme les petites gouttes \[Fm]d'eau
+      Que j'en\[E&]tends tomber
+      De\[D&]hors, par la \[A&]f'nêtre
+      Quand \[D&]{je m'endors} le \[E&]cœur en fête
+    \end{bridge}
 
-  \begin{chorus}
-    \[A&]Poseur de \[E&]girouettes\[Fm]
-    Du haut \[E&]{du clocher}
-    \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
-    Par \[D&]{où le} vent fredonne ma chanson
-  \end{chorus}
+    \begin{bridge}
+      \[A&]Poseur de \[E&]girouettes\[Fm]
+      Du haut \[E&]{du clocher}
+      \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
+      Par \[D&]{où le} vent fredonne ma chanson
+    \end{bridge}
 
-  \begin{verse*}
-    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
-     \[D7sus4]Tombé par inadvertance, amoureux
-  \end{verse*}
+    \begin{bridge}
+      \[Am7*]Tombé sur un jour de chan\[Am*]ce \[Am7* Am**]
+      \[Am7*]Tombé à la fleur de l'â\[Am*]ge, \[Am7*]{dans l'oub}\[Am**]li
+    \end{bridge}
 
-  \begin{repeatedchords}
     \begin{verse}
-      Tombé à \[Dm]terre
+      Tomber à \[Dm]terre
       Pour la fille qu'on \[Am]aime
       Se relever in\[B&]demne \[Am]
       \[Gm]{Et retomber} \[C]amoureux
     \end{verse}
 
     \begin{verse*}
-      \[C#dim]Tombé sur \[Dm]toi
-      Tombé en pâ\[Am]moison
+      \[C#dim]Tomber sur \[Dm]toi
+      Tomber en pâ\[Am]moison
       Avaler la \[B&]ciguë \[Am]
       \[Gm]Goûter le poi\[C]son qui tue
     \end{verse*}

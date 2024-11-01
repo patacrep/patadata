@@ -4,26 +4,25 @@
   [by={Graeme Allwright},cover={emmene-moi},album={Emmène-moi},%
   original={Pete Seeger - Waist Deep in the Big Muddy}]
 
-
   \cover
+  \capo{3}
   \gtab{Am}{X02210}
   \gtab{G}{3:022100}
   \gtab{F}{1:022100}
   \gtab{E}{022100}
 
-
   \begin{verse}
     En \[Am]mille-neuf-\[G]cents-qua\[F]rante-\[E]deux, alors que j'\[Am]étais \[E]à l'ar\[Am]mée
-    \[Am]On était en ma\[G]nœuvre dans le \[F]Louisi\[E]ana, \[Am]une nuit au mois de \[E]Mai
-    \[Am]Le Capi\[G]taine nous \[F]montre un \[E]fleuve et c'est comme \[F]ça que tout a commen\[E]cé
+    On était en ma\[G]nœuvre dans le \[F]Louisi\[E]ana, un'\[Am]nuit au mois de \[E]mai
+    Le \[Am]Capi\[G]taine nous \[F]montre un \[E]fleuve et c'est comme \[F]{ça que tout} a commen\[E]cé
   \end{verse}
 
   \begin{chorus}
-    On avait\[Am] d'la \[G]flotte \[F]jusqu'aux \[E]genoux, et le \[Am]vieux con a \[E]dit d'avan\[Am]cer
+    On avait\[Am] d'la \[G]flotte \[F]jusqu'aux \[E]g'noux, et le \[Am]vieux con \[E]dit d'avan\[Am]cer
   \end{chorus}
 
   \begin{verse}
-    Le Sergent dit : {\og}Mon Capitaine, êtes-vous sûr que c'est le chemin ?
+    Le Sergent dit : {\og}Mon Capitaine, êtes-vous sûr qu'c'est le chemin ?
     --- Sergent, j'ai traversé souvent et je connais bien le terrain !
     Allons soldats, un peu de courage, on n'est pas là pour s'amuser{\fg}
   \end{verse}
@@ -42,6 +41,10 @@
     On avait d'la flotte jusqu'au cou et le vieux con dit d'avancer
   \end{chorus}
 
+  \begin{verse*}
+    \musicnote{\Bridge{} : \nolyrics \[Am G F E] \rep{2}}
+  \end{verse*}
+
   \begin{verse}
     Dans la nuit soudain, un cri jaillit suivi d'un sinistre glou-glou
     Et la casquette du capitaine flottait à côté d'nous
@@ -49,11 +52,11 @@
   \end{verse}
 
   \begin{chorus}
-    On s'en est sorti juste à temps, le capitaine est mort maintenant
+    On s'en est sorti juste à temps, le capitaine est mort maint'nant
   \end{chorus}
 
   \begin{verse}
-    Le lendemain on a trouvé son corps dans les sables mouvants
+    Le lendemain on a trouvé son corps enfoncé dans les sables mouvants
     Il s'était trompé de 500 mètres sur le chemin qui mène au camp
     Un affluent se jetait dans le fleuve où il croyait la terre tout près
   \end{verse}
@@ -62,17 +65,21 @@
     On a eu d'la chance de s'en tirer quand ce vieux con a dit d'avancer
   \end{chorus}
 
+  \begin{verse*}
+    \musicnote{\Bridge{} : \nolyrics \[Am G F E] \rep{2}}
+  \end{verse*}
+
   \begin{verse}
     La morale de cette triste histoire, je vous la laisse deviner
-    Mais vous avez peu être mieux à faire, vous n'vous sentez pas concernés
-    Mais chaque fois que j'ouvre mon journal, je repense à cette traversée
+    Mais vous avez peut-être mieux à faire, vous n'vous sentez pas concernés
+    Mais chaque fois que j'ouvre mon journal, je pense à cette traversée
   \end{verse}
 
   \begin{chorus}
-    On avait d'la flotte jusqu'aux g'noux et le vieux con a dit d'avancer
-    Y'en avait, jusqu'à la ceinture et le vieux con a dit d'avancer
-    On avait d'la flotte jusqu'au cou et le vieux con a dit d'avancer
-    Y'en avait jusqu'à \dots
+    On avait d'la flotte jusqu'aux g'noux et le vieux con dit d'avancer
+    Y'en avait, jusqu'à la ceinture et le vieux con dit d'avancer
+    On avait d'la flotte jusqu'au cou et le vieux con dit d'avancer
+    Y'en avait jusqu'à{\dots} \echo{sifflé}
   \end{chorus}
 
 \endsong

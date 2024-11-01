@@ -1,0 +1,104 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les jardins sauvages}
+  [by={Hubert-Félix Thiéfaine},album={Scandale mélancolique},cover={scandale-melancolique}]
+
+  \cover
+  \gtab{A#}{6:(133211)}
+  \gtab{D#m}{6:(113321)}
+  \gtab{B#}{7:(133211)}
+  \gtab{G#}{4:(133211)}
+  \gtab*{C#*}{9:(133211)}
+  \gtab{C#}{4:(113331)}
+  \gtab*{C#sus4}{4:(113341)}
+
+  \begin{verse}
+    \[A#] J'aime rôder vers les fleurs perdues
+    Dans les jardins sau\[D#m]vages
+    Aux parfums d'ardoises et de rues
+    Des villes avant l'o\[A#]rage
+    La rosée de leurs yeux trop mauves
+    Reflète une lum\[D#m]ière
+    Qui conduit parfois les vieux fauves
+    Et les anges en en\[B#]fer
+  \end{verse}
+
+  \begin{verse*}
+    J'aime rôder vers les fleurs perdues
+    Dans les jardins sau\[G#]vages
+    Et m'égarer dans les ciguës
+    Et dans les saxi\[B#]frages
+    Sentir la chair d'une figue verte
+    Qui s'offre lente\[C#*]ment
+    Sur le rose d'une corolle ouverte
+    À mon souffle trembl\[A#]an-an-an-\[B#]ant
+  \end{verse*}
+
+  \begin{chorus}
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{}
+    \[A#]Mmm-mm-mm-\[B#]mm
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{} \[(C#sus4) C#]
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      \[A#] J'aime rôder vers les fleurs perdues
+      Dans les jardins sau\[D#m]vages
+      Aux nuances des gris bleus des grues
+      Des banlieues de pas\[A#]sage
+      Le velours de leurs lèvres humides
+      À l'ombre de leurs \[D#m]voiles
+      M'entraîne et m'attire vers le vide
+      Où murmurent les é\[B#]toiles
+    \end{verse}
+
+    \begin{verse*}
+      J'aime rôder vers les fleurs perdues
+      Dans les jardins sau\[G#]vages
+      Aux parfums d'ardoises et de rues
+      Des villes avant l'o\[B#]rage
+      Suivre le jeu d'une étamine
+      Sur un œillet vio\[C#*]let
+      Qui s'entrouvre et qui s'illumine
+      D'une larme de \[A#]lai-ai-ai-\[B#]ait
+    \end{verse*}
+  \end{repeatedchords}
+
+  \begin{chorus}
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{}
+    \[A#]Mmm-mm-mm-\[B#]mm
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{}
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{instrumental : \nolyrics \[A\# D\#m A\# D\#m]}
+  \end{verse*}
+
+  \begin{verse}
+    \[B#] J'aime rôder vers les fleurs perdues
+    Dans les jardins sau\[G#]vages
+    Aux parfums d'ardoises et de rues
+    Des villes avant l'o\[B#]rage
+    Suivre le jeu d'une étamine
+    Sur un œillet vio\[C#*]let
+    Qui s'entrouvre et qui s'illumine
+    D'une larme de \[A#]lai-ai-ai-\[B#]ait
+  \end{verse}
+
+  \begin{chorus}
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{}
+    \[A#]Ooh-oh-oh-\[B#]oh
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aiii\[A#]iii-ai-ai-\[B#]aime\dots{}
+  \end{chorus}
+
+  \begin{chorus}
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{}
+    \[A#]Ooh-oh-oh-\[B#]oh
+    J'ai-\[G#]aime\dots{} J'ai-\[C#]aime\dots{} \[C#]
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote{\Outro{}: \nolyrics{\[A\#]}}
+  \end{verse*}
+
+\endsong
