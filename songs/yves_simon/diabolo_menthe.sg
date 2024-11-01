@@ -11,6 +11,12 @@
   \gtab{F}{1:022100}
   \gtab{G}{320003}
 
+  \utab{Dm}{2210}
+  \utab{Am}{2000}
+  \utab{C}{0003}
+  \utab{F}{3010}
+  \utab{G}{0232}
+
   \begin{verse}
     \[Dm]Dans tes classeurs de \[Am]lycée
     \[C]Y'a tes rêves et tes se\[F]crets

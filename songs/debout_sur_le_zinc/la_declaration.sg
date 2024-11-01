@@ -14,6 +14,17 @@
   \gtab*{G*}{3:022100}
   \gtab*{B7*}{2:X02020}
 
+
+  \utab{Em}{0402}
+  \utab{Am}{2000}
+  \utab{G}{0232}
+  \utab*{B7}{2322}
+  \utab*{Em*}{0402}
+  \utab*{Am*}{2000}
+  \utab*{G*}{0232}
+  \utab*{B7*}{2322}
+
+
   \lilypond{La_declaration}
 
   \begin{verse}
