@@ -1,0 +1,95 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Space Oddity}
+  [by={David Bowie},cover={david_bowie},album={David Bowie}]
+
+  \cover
+  \gtab{Fmaj7}{XX3210}
+  \gtab{Em}{022000}
+  \gtab{C}{X32010}
+  \gtab{Am}{X02210}
+  \gtab{Am7}{X02013}
+  \gtab{D7}{200212}
+  \gtab{E}{022100}
+  \gtab{E7}{020130}
+  \gtab{F}{1:022100}
+  \gtab{Fm}{1:022000}
+  \gtab{B&}{1:X02220}
+  \gtab{G}{320003}
+  
+  \begin{verse*}
+    \lilypond{space_oddity_strum_intro_chorus}
+    \musicnote {\Intro : \nolyrics \[Fmaj7 Em] \rep{4}}
+  \end{verse*}
+
+  \begin{verse*}
+      \lilypond{space_oddity_strum_verse}
+  	    \[C] Ground control to Major \[Em]Tom
+  	    \[C] Ground control to Major \[Em]Tom
+	    \[Am] Take your \[Am7]protein pills and \[D7]put your helmet on
+	  \begin{repeatedchords}
+	    \echo{ten…} \[C] Ground \echo{nine…} control to Major \echo{eight…} \[Em]Tom \echo{seven…}
+	    \echo{six…} \[C] Commencing \echo{five…} countdown engines \echo{four…} \[Em]on \echo{three…}
+	    \echo{two…} \[Am] Check \echo{one…} ig\[Am7]nition and may \[D7]God's \echo{lift~off!} love be with you
+    	\end{repeatedchords}
+  \end{verse*}
+
+  \begin{verse}
+	    \[C]This is ground control to Major \[E]Tom
+	    You've \[E7]really made the \[F]grade
+	    And the \[Fm]papers want to \[C]know whose shirt you \[F]wear
+	    Now it's \[Fm]time to leave the \[C]capsule if you \[F]dare
+  \end{verse}
+  
+  \begin{verse}
+  	  \begin{repeatedchords}
+  	    \[C]This is Major Tom to ground \[E]control
+	    I'm \[E7]stepping through the \[F]door
+	    And I'm \[Fm]floating in a \[C]most peculiar \[F]way
+	    And the \[Fm]stars look very \[C]different to\[F]day
+  	  \end{repeatedchords}
+  \end{verse}
+
+  \begin{chorus}
+      For \[Fmaj7]here am I \[Em]sitting in a tin can
+	    \[Fmaj7]Far above the \[Em]world
+	    \[B&]Planet Earth is \[Am]blue and there's \[G]nothing I can \[F]do
+  \end{chorus}
+  
+  \begin{verse*}
+    \lilypond{space_oddity_strum_bridge}
+    	\musicnote {\nolyrics Instrumental: \[C F G A A] \rep{2}}
+    	\musicnote {\nolyrics \[Fmaj7 Em A C D7 E]}
+  \end{verse*}
+  
+  \begin{verse}
+    \begin{repeatedchords}
+      \[C]Though I'm past one hundred thousand \[E]miles
+      I'm \[E7]feeling very \[F]still
+      And I \[Fm]think my spaceship \[C]knows which way to \[F]go
+      Tell my \[Fm]wife I love her \[C]very much she \[F]knows
+  	  \end{repeatedchords}
+  \end{verse}
+  
+  \begin{bridge}
+      \[G]Ground control to \[E7]Major Tom,
+      Your \[Am]circuit's dead, there's \[Am7]something wrong
+      Can you \[D7]hear me Major Tom?
+      Can you \[C]hear me Major Tom?
+      Can you \[G]hear me Major Tom?
+      Can you...
+  \end{bridge}
+  
+  \begin{chorus}
+  	  \begin{repeatedchords}
+  	    For \[Fmaj7]here am I \[Em]floating 'round my tin can
+	    \[Fmaj7]Far above the \[Em]moon
+	    \[B&]Planet Earth is \[Am]blue and there's \[G]nothing I can \[F]do
+  	  \end{repeatedchords}
+  \end{chorus}
+  
+  \begin{verse}
+    \musicnote {\nolyrics Instrumental: \[C F G A A] \rep{2}}
+    \musicnote {\nolyrics \[Fmaj7 Em A C D7 E]}
+  \end{verse}
+\endsong
