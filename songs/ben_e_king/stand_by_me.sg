@@ -4,14 +4,14 @@
   [by={Ben E. King},cover={ben-e-king-best-of},album={Best of}]
 
   \cover
-  \gtab{C}{X32010}
-  \gtab{Am}{X02210}
-  \gtab{F}{1:022100}
-  \gtab{G}{320003}
+  \gtab{A}{X02220}
+  \gtab{F#m}{2:022000}
+  \gtab{D}{XX0232}
+  \gtab{E}{022100}
 
   \begin{verse}
-    When the \[C]night has come \[Am] and the land is dark
-    And the \[F]moon is the \[G]only light we \[C]see
+    When the \[A]night has come \[F#m] and the land is dark
+    And the \[D]moon is the \[E]only light we see \[A]
   \end{verse}
 
   \begin{verse*}
